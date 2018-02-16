@@ -1,0 +1,802 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "More IoT stuff", 
+            "Score": 0.9017473459243774, 
+            "BeginOffset": 0, 
+            "EndOffset": 14
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9978121519088745, 
+            "BeginOffset": 16, 
+            "EndOffset": 27
+        }, 
+        {
+            "Text": "Yarn", 
+            "Score": 0.9981786012649536, 
+            "BeginOffset": 31, 
+            "EndOffset": 35
+        }, 
+        {
+            "Text": "the chatbot competition", 
+            "Score": 0.8001671433448792, 
+            "BeginOffset": 41, 
+            "EndOffset": 64
+        }, 
+        {
+            "Text": "Other interesting things", 
+            "Score": 0.9142177700996399, 
+            "BeginOffset": 74, 
+            "EndOffset": 98
+        }, 
+        {
+            "Text": "VMWare", 
+            "Score": 0.9445236921310425, 
+            "BeginOffset": 104, 
+            "EndOffset": 110
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9200893044471741, 
+            "BeginOffset": 114, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "next week", 
+            "Score": 0.9971436858177185, 
+            "BeginOffset": 133, 
+            "EndOffset": 142
+        }, 
+        {
+            "Text": "IOT FOLLOW UP", 
+            "Score": 0.7759131789207458, 
+            "BeginOffset": 147, 
+            "EndOffset": 160
+        }, 
+        {
+            "Text": "the IoT attacks", 
+            "Score": 0.9917048811912537, 
+            "BeginOffset": 179, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "the source code", 
+            "Score": 0.9635086059570312, 
+            "BeginOffset": 221, 
+            "EndOffset": 236
+        }, 
+        {
+            "Text": "the attack", 
+            "Score": 0.9979075193405151, 
+            "BeginOffset": 241, 
+            "EndOffset": 251
+        }, 
+        {
+            "Text": "Krebs", 
+            "Score": 0.9955847859382629, 
+            "BeginOffset": 260, 
+            "EndOffset": 265
+        }, 
+        {
+            "Text": "Security", 
+            "Score": 0.9996940493583679, 
+            "BeginOffset": 269, 
+            "EndOffset": 277
+        }, 
+        {
+            "Text": "open source", 
+            "Score": 0.9969741106033325, 
+            "BeginOffset": 299, 
+            "EndOffset": 310
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9990713596343994, 
+            "BeginOffset": 354, 
+            "EndOffset": 362
+        }, 
+        {
+            "Text": "the results", 
+            "Score": 0.9988052845001221, 
+            "BeginOffset": 396, 
+            "EndOffset": 407
+        }, 
+        {
+            "Text": "this article", 
+            "Score": 0.9802344441413879, 
+            "BeginOffset": 444, 
+            "EndOffset": 456
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.7523918747901917, 
+            "BeginOffset": 460, 
+            "EndOffset": 470
+        }, 
+        {
+            "Text": "attacks", 
+            "Score": 0.9941068887710571, 
+            "BeginOffset": 524, 
+            "EndOffset": 531
+        }, 
+        {
+            "Text": "heavy", 
+            "Score": 0.5506886839866638, 
+            "BeginOffset": 535, 
+            "EndOffset": 540
+        }, 
+        {
+            "Text": "Krebs or OVH", 
+            "Score": 0.9935086965560913, 
+            "BeginOffset": 572, 
+            "EndOffset": 584
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.996453583240509, 
+            "BeginOffset": 586, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "the apparent change", 
+            "Score": 0.9867911338806152, 
+            "BeginOffset": 674, 
+            "EndOffset": 693
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.9935674071311951, 
+            "BeginOffset": 701, 
+            "EndOffset": 712
+        }, 
+        {
+            "Text": "these new attacks", 
+            "Score": 0.9991902709007263, 
+            "BeginOffset": 744, 
+            "EndOffset": 761
+        }, 
+        {
+            "Text": "place", 
+            "Score": 0.9959840178489685, 
+            "BeginOffset": 767, 
+            "EndOffset": 772
+        }, 
+        {
+            "Text": "the form", 
+            "Score": 0.9994614720344543, 
+            "BeginOffset": 776, 
+            "EndOffset": 784
+        }, 
+        {
+            "Text": "L7", 
+            "Score": 0.9909675121307373, 
+            "BeginOffset": 788, 
+            "EndOffset": 790
+        }, 
+        {
+            "Text": "HTTP", 
+            "Score": 0.9594163298606873, 
+            "BeginOffset": 792, 
+            "EndOffset": 796
+        }, 
+        {
+            "Text": "attacks", 
+            "Score": 0.7589681148529053, 
+            "BeginOffset": 798, 
+            "EndOffset": 805
+        }, 
+        {
+            "Text": "the \"traditional\" L3/L4 attacks", 
+            "Score": 0.9462149143218994, 
+            "BeginOffset": 817, 
+            "EndOffset": 848
+        }, 
+        {
+            "Text": "The result", 
+            "Score": 0.9994724988937378, 
+            "BeginOffset": 850, 
+            "EndOffset": 860
+        }, 
+        {
+            "Text": "the targeted site", 
+            "Score": 0.9996909499168396, 
+            "BeginOffset": 899, 
+            "EndOffset": 916
+        }, 
+        {
+            "Text": "less data", 
+            "Score": 0.9741029143333435, 
+            "BeginOffset": 935, 
+            "EndOffset": 944
+        }, 
+        {
+            "Text": "more work", 
+            "Score": 0.9989669919013977, 
+            "BeginOffset": 957, 
+            "EndOffset": 966
+        }, 
+        {
+            "Text": "most mitigations", 
+            "Score": 0.9965659976005554, 
+            "BeginOffset": 997, 
+            "EndOffset": 1013
+        }, 
+        {
+            "Text": "L3/L4 type attacks", 
+            "Score": 0.9459937214851379, 
+            "BeginOffset": 1029, 
+            "EndOffset": 1047
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9993725419044495, 
+            "BeginOffset": 1066, 
+            "EndOffset": 1077
+        }, 
+        {
+            "Text": "a different metric", 
+            "Score": 0.9982135891914368, 
+            "BeginOffset": 1083, 
+            "EndOffset": 1101
+        }, 
+        {
+            "Text": "the scale", 
+            "Score": 0.9985594153404236, 
+            "BeginOffset": 1113, 
+            "EndOffset": 1122
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.9998458027839661, 
+            "BeginOffset": 1126, 
+            "EndOffset": 1137
+        }, 
+        {
+            "Text": "HTTP requests", 
+            "Score": 0.9923035502433777, 
+            "BeginOffset": 1139, 
+            "EndOffset": 1152
+        }, 
+        {
+            "Text": "everything else", 
+            "Score": 0.9974961280822754, 
+            "BeginOffset": 1197, 
+            "EndOffset": 1212
+        }, 
+        {
+            "Text": "the author", 
+            "Score": 0.9199838638305664, 
+            "BeginOffset": 1226, 
+            "EndOffset": 1236
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9993041753768921, 
+            "BeginOffset": 1240, 
+            "EndOffset": 1251
+        }, 
+        {
+            "Text": "a far better job", 
+            "Score": 0.9800685048103333, 
+            "BeginOffset": 1257, 
+            "EndOffset": 1273
+        }, 
+        {
+            "Text": "Related", 
+            "Score": 0.9982858300209045, 
+            "BeginOffset": 1337, 
+            "EndOffset": 1344
+        }, 
+        {
+            "Text": "these botnets", 
+            "Score": 0.8063220381736755, 
+            "BeginOffset": 1348, 
+            "EndOffset": 1361
+        }, 
+        {
+            "Text": "my assertions", 
+            "Score": 0.9986712336540222, 
+            "BeginOffset": 1379, 
+            "EndOffset": 1392
+        }, 
+        {
+            "Text": "the security", 
+            "Score": 0.9948482513427734, 
+            "BeginOffset": 1399, 
+            "EndOffset": 1411
+        }, 
+        {
+            "Text": "clear cases", 
+            "Score": 0.9754632115364075, 
+            "BeginOffset": 1459, 
+            "EndOffset": 1470
+        }, 
+        {
+            "Text": "10-year old SSH vulnerabilities", 
+            "Score": 0.9870482087135315, 
+            "BeginOffset": 1474, 
+            "EndOffset": 1505
+        }, 
+        {
+            "Text": "the meantime", 
+            "Score": 0.8961601257324219, 
+            "BeginOffset": 1533, 
+            "EndOffset": 1545
+        }, 
+        {
+            "Text": "companies", 
+            "Score": 0.9992700219154358, 
+            "BeginOffset": 1553, 
+            "EndOffset": 1562
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.98530513048172, 
+            "BeginOffset": 1568, 
+            "EndOffset": 1578
+        }, 
+        {
+            "Text": "their best", 
+            "Score": 0.934014618396759, 
+            "BeginOffset": 1589, 
+            "EndOffset": 1599
+        }, 
+        {
+            "Text": "these attacks", 
+            "Score": 0.9887166023254395, 
+            "BeginOffset": 1608, 
+            "EndOffset": 1621
+        }, 
+        {
+            "Text": "the results", 
+            "Score": 0.9805136322975159, 
+            "BeginOffset": 1638, 
+            "EndOffset": 1649
+        }, 
+        {
+            "Text": "a pretty good job", 
+            "Score": 0.9979257583618164, 
+            "BeginOffset": 1660, 
+            "EndOffset": 1677
+        }, 
+        {
+            "Text": "a long-term solution", 
+            "Score": 0.9782638549804688, 
+            "BeginOffset": 1706, 
+            "EndOffset": 1726
+        }, 
+        {
+            "Text": "the starting point", 
+            "Score": 0.9973645806312561, 
+            "BeginOffset": 1740, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.9998998641967773, 
+            "BeginOffset": 1762, 
+            "EndOffset": 1773
+        }, 
+        {
+            "Text": "the target", 
+            "Score": 0.968924880027771, 
+            "BeginOffset": 1785, 
+            "EndOffset": 1795
+        }, 
+        {
+            "Text": "YARN", 
+            "Score": 0.9961276650428772, 
+            "BeginOffset": 1800, 
+            "EndOffset": 1804
+        }, 
+        {
+            "Text": "any frontend development work", 
+            "Score": 0.9989343285560608, 
+            "BeginOffset": 1822, 
+            "EndOffset": 1851
+        }, 
+        {
+            "Text": "the joy", 
+            "Score": 0.9886281490325928, 
+            "BeginOffset": 1891, 
+            "EndOffset": 1898
+        }, 
+        {
+            "Text": "package management", 
+            "Score": 0.9987143874168396, 
+            "BeginOffset": 1907, 
+            "EndOffset": 1925
+        }, 
+        {
+            "Text": "Javascript", 
+            "Score": 0.9720336198806763, 
+            "BeginOffset": 1930, 
+            "EndOffset": 1940
+        }, 
+        {
+            "Text": "a team", 
+            "Score": 0.9269247651100159, 
+            "BeginOffset": 1972, 
+            "EndOffset": 1978
+        }, 
+        {
+            "Text": "the same project", 
+            "Score": 0.9987754821777344, 
+            "BeginOffset": 1982, 
+            "EndOffset": 1998
+        }, 
+        {
+            "Text": "npm", 
+            "Score": 0.9994195699691772, 
+            "BeginOffset": 2000, 
+            "EndOffset": 2003
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9878535270690918, 
+            "BeginOffset": 2036, 
+            "EndOffset": 2041
+        }, 
+        {
+            "Text": "downloading", 
+            "Score": 0.9953170418739319, 
+            "BeginOffset": 2045, 
+            "EndOffset": 2056
+        }, 
+        {
+            "Text": "different versions", 
+            "Score": 0.9195016026496887, 
+            "BeginOffset": 2088, 
+            "EndOffset": 2106
+        }, 
+        {
+            "Text": "dependencies", 
+            "Score": 0.9975259900093079, 
+            "BeginOffset": 2110, 
+            "EndOffset": 2122
+        }, 
+        {
+            "Text": "your team", 
+            "Score": 0.9997220039367676, 
+            "BeginOffset": 2130, 
+            "EndOffset": 2139
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.999509334564209, 
+            "BeginOffset": 2141, 
+            "EndOffset": 2149
+        }, 
+        {
+            "Text": "the help", 
+            "Score": 0.9788141250610352, 
+            "BeginOffset": 2156, 
+            "EndOffset": 2164
+        }, 
+        {
+            "Text": "this issue", 
+            "Score": 0.9976214170455933, 
+            "BeginOffset": 2193, 
+            "EndOffset": 2203
+        }, 
+        {
+            "Text": "Yarn", 
+            "Score": 0.9987607002258301, 
+            "BeginOffset": 2217, 
+            "EndOffset": 2221
+        }, 
+        {
+            "Text": "The first important thing", 
+            "Score": 0.9957484006881714, 
+            "BeginOffset": 2224, 
+            "EndOffset": 2249
+        }, 
+        {
+            "Text": "npm", 
+            "Score": 0.9753117561340332, 
+            "BeginOffset": 2290, 
+            "EndOffset": 2293
+        }, 
+        {
+            "Text": "the client", 
+            "Score": 0.9470288157463074, 
+            "BeginOffset": 2318, 
+            "EndOffset": 2328
+        }, 
+        {
+            "Text": "the same repository", 
+            "Score": 0.9867792129516602, 
+            "BeginOffset": 2338, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "the code", 
+            "Score": 0.995266318321228, 
+            "BeginOffset": 2366, 
+            "EndOffset": 2374
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.996781051158905, 
+            "BeginOffset": 2387, 
+            "EndOffset": 2392
+        }, 
+        {
+            "Text": "a different interface", 
+            "Score": 0.9940768480300903, 
+            "BeginOffset": 2403, 
+            "EndOffset": 2424
+        }, 
+        {
+            "Text": "the same things", 
+            "Score": 0.9070070385932922, 
+            "BeginOffset": 2429, 
+            "EndOffset": 2444
+        }, 
+        {
+            "Text": "A smart choice", 
+            "Score": 0.9407981038093567, 
+            "BeginOffset": 2475, 
+            "EndOffset": 2489
+        }, 
+        {
+            "Text": "the same code", 
+            "Score": 0.8987454771995544, 
+            "BeginOffset": 2520, 
+            "EndOffset": 2533
+        }, 
+        {
+            "Text": "two places", 
+            "Score": 0.9939965605735779, 
+            "BeginOffset": 2558, 
+            "EndOffset": 2568
+        }, 
+        {
+            "Text": "Yarn", 
+            "Score": 0.8664594888687134, 
+            "BeginOffset": 2595, 
+            "EndOffset": 2599
+        }, 
+        {
+            "Text": "The main differences", 
+            "Score": 0.8734941482543945, 
+            "BeginOffset": 2628, 
+            "EndOffset": 2648
+        }, 
+        {
+            "Text": "Yarn", 
+            "Score": 0.9981665015220642, 
+            "BeginOffset": 2657, 
+            "EndOffset": 2661
+        }, 
+        {
+            "Text": "the regular npm client", 
+            "Score": 0.9972977042198181, 
+            "BeginOffset": 2666, 
+            "EndOffset": 2688
+        }, 
+        {
+            "Text": "the things", 
+            "Score": 0.9949637055397034, 
+            "BeginOffset": 2693, 
+            "EndOffset": 2703
+        }, 
+        {
+            "Text": "the first paragraph", 
+            "Score": 0.9976094365119934, 
+            "BeginOffset": 2719, 
+            "EndOffset": 2738
+        }, 
+        {
+            "Text": "more focus", 
+            "Score": 0.9941156506538391, 
+            "BeginOffset": 2740, 
+            "EndOffset": 2750
+        }, 
+        {
+            "Text": "efficiency and consistency", 
+            "Score": 0.9974443912506104, 
+            "BeginOffset": 2754, 
+            "EndOffset": 2780
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.989628791809082, 
+            "BeginOffset": 2805, 
+            "EndOffset": 2813
+        }, 
+        {
+            "Text": "other choices", 
+            "Score": 0.9888957142829895, 
+            "BeginOffset": 2817, 
+            "EndOffset": 2830
+        }, 
+        {
+            "Text": "security reasons", 
+            "Score": 0.998403012752533, 
+            "BeginOffset": 2862, 
+            "EndOffset": 2878
+        }, 
+        {
+            "Text": "an npm package", 
+            "Score": 0.9887999892234802, 
+            "BeginOffset": 2890, 
+            "EndOffset": 2904
+        }, 
+        {
+            "Text": "Yarn", 
+            "Score": 0.9920490980148315, 
+            "BeginOffset": 2910, 
+            "EndOffset": 2914
+        }, 
+        {
+            "Text": "the commands", 
+            "Score": 0.9982090592384338, 
+            "BeginOffset": 2946, 
+            "EndOffset": 2958
+        }, 
+        {
+            "Text": "a security risk", 
+            "Score": 0.9985826015472412, 
+            "BeginOffset": 3020, 
+            "EndOffset": 3035
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9977754950523376, 
+            "BeginOffset": 3040, 
+            "EndOffset": 3048
+        }, 
+        {
+            "Text": "Similar choices", 
+            "Score": 0.9527629017829895, 
+            "BeginOffset": 3082, 
+            "EndOffset": 3097
+        }, 
+        {
+            "Text": "the board", 
+            "Score": 0.9991456866264343, 
+            "BeginOffset": 3120, 
+            "EndOffset": 3129
+        }, 
+        {
+            "Text": "your preferences", 
+            "Score": 0.9147897362709045, 
+            "BeginOffset": 3153, 
+            "EndOffset": 3169
+        }, 
+        {
+            "Text": "Yarn", 
+            "Score": 0.9916966557502747, 
+            "BeginOffset": 3214, 
+            "EndOffset": 3218
+        }, 
+        {
+            "Text": "the right choice", 
+            "Score": 0.8931083083152771, 
+            "BeginOffset": 3225, 
+            "EndOffset": 3241
+        }, 
+        {
+            "Text": "the best interface", 
+            "Score": 0.9834581017494202, 
+            "BeginOffset": 3309, 
+            "EndOffset": 3327
+        }, 
+        {
+            "Text": "npm", 
+            "Score": 0.9952126145362854, 
+            "BeginOffset": 3332, 
+            "EndOffset": 3335
+        }, 
+        {
+            "Text": "a second interface", 
+            "Score": 0.9802365899085999, 
+            "BeginOffset": 3360, 
+            "EndOffset": 3378
+        }, 
+        {
+            "Text": "The source", 
+            "Score": 0.9989925622940063, 
+            "BeginOffset": 3380, 
+            "EndOffset": 3390
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9978375434875488, 
+            "BeginOffset": 3397, 
+            "EndOffset": 3403
+        }, 
+        {
+            "Text": "CHATBOT WINNERS", 
+            "Score": 0.999457597732544, 
+            "BeginOffset": 3470, 
+            "EndOffset": 3485
+        }, 
+        {
+            "Text": "AND LOSERS", 
+            "Score": 0.9616692662239075, 
+            "BeginOffset": 3487, 
+            "EndOffset": 3497
+        }, 
+        {
+            "Text": "the results", 
+            "Score": 0.9274330735206604, 
+            "BeginOffset": 3505, 
+            "EndOffset": 3516
+        }, 
+        {
+            "Text": "the serverless chatbot competition", 
+            "Score": 0.9049240946769714, 
+            "BeginOffset": 3521, 
+            "EndOffset": 3555
+        }, 
+        {
+            "Text": "the judges", 
+            "Score": 0.9707778096199036, 
+            "BeginOffset": 3593, 
+            "EndOffset": 3603
+        }, 
+        {
+            "Text": "a mistake", 
+            "Score": 0.9992839097976685, 
+            "BeginOffset": 3609, 
+            "EndOffset": 3618
+        }, 
+        {
+            "Text": "Igor", 
+            "Score": 0.9982205629348755, 
+            "BeginOffset": 3638, 
+            "EndOffset": 3642
+        }, 
+        {
+            "Text": "a prize", 
+            "Score": 0.9949514865875244, 
+            "BeginOffset": 3643, 
+            "EndOffset": 3650
+        }, 
+        {
+            "Text": "some interesting ones", 
+            "Score": 0.844553530216217, 
+            "BeginOffset": 3687, 
+            "EndOffset": 3708
+        }, 
+        {
+            "Text": "the winners", 
+            "Score": 0.9499075412750244, 
+            "BeginOffset": 3715, 
+            "EndOffset": 3726
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9981274604797363, 
+            "BeginOffset": 3746, 
+            "EndOffset": 3752
+        }, 
+        {
+            "Text": "the winners", 
+            "Score": 0.7102696895599365, 
+            "BeginOffset": 3761, 
+            "EndOffset": 3772
+        }, 
+        {
+            "Text": "a friend", 
+            "Score": 0.9989549517631531, 
+            "BeginOffset": 3788, 
+            "EndOffset": 3796
+        }, 
+        {
+            "Text": "mine", 
+            "Score": 0.9998063445091248, 
+            "BeginOffset": 3800, 
+            "EndOffset": 3804
+        }, 
+        {
+            "Text": "CLIve", 
+            "Score": 0.9997540712356567, 
+            "BeginOffset": 3830, 
+            "EndOffset": 3835
+        }
+    ]
+}

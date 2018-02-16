@@ -1,0 +1,1096 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "1.7", 
+            "Score": 0.8657137155532837, 
+            "BeginOffset": 3, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9860126376152039, 
+            "BeginOffset": 21, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "ARM chips", 
+            "Score": 0.9864200353622437, 
+            "BeginOffset": 42, 
+            "EndOffset": 51
+        }, 
+        {
+            "Text": "VR gear", 
+            "Score": 0.9558120965957642, 
+            "BeginOffset": 66, 
+            "EndOffset": 73
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.5788757801055908, 
+            "BeginOffset": 79, 
+            "EndOffset": 88
+        }, 
+        {
+            "Text": "sources Powershell", 
+            "Score": 0.8096861839294434, 
+            "BeginOffset": 94, 
+            "EndOffset": 112
+        }, 
+        {
+            "Text": "release", 
+            "Score": 0.9951061010360718, 
+            "BeginOffset": 117, 
+            "EndOffset": 124
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9882552027702332, 
+            "BeginOffset": 128, 
+            "EndOffset": 133
+        }, 
+        {
+            "Text": "the Mac", 
+            "Score": 0.9787598252296448, 
+            "BeginOffset": 138, 
+            "EndOffset": 145
+        }, 
+        {
+            "Text": "GO 1.7", 
+            "Score": 0.7429633736610413, 
+            "BeginOffset": 150, 
+            "EndOffset": 156
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9975695610046387, 
+            "BeginOffset": 159, 
+            "EndOffset": 168
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9945204854011536, 
+            "BeginOffset": 173, 
+            "EndOffset": 184
+        }, 
+        {
+            "Text": "Go 1.7", 
+            "Score": 0.9763873815536499, 
+            "BeginOffset": 188, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "the organizers", 
+            "Score": 0.9994906187057495, 
+            "BeginOffset": 218, 
+            "EndOffset": 232
+        }, 
+        {
+            "Text": "the Golang Melbourne meetup[1]", 
+            "Score": 0.9183553457260132, 
+            "BeginOffset": 236, 
+            "EndOffset": 266
+        }, 
+        {
+            "Text": "more attention", 
+            "Score": 0.997469425201416, 
+            "BeginOffset": 306, 
+            "EndOffset": 320
+        }, 
+        {
+            "Text": "these days", 
+            "Score": 0.9984668493270874, 
+            "BeginOffset": 324, 
+            "EndOffset": 334
+        }, 
+        {
+            "Text": "my favorite language", 
+            "Score": 0.9492957592010498, 
+            "BeginOffset": 380, 
+            "EndOffset": 400
+        }, 
+        {
+            "Text": "any updates", 
+            "Score": 0.9366930723190308, 
+            "BeginOffset": 414, 
+            "EndOffset": 425
+        }, 
+        {
+            "Text": "a short talk", 
+            "Score": 0.9984775185585022, 
+            "BeginOffset": 451, 
+            "EndOffset": 463
+        }, 
+        {
+            "Text": "the 1.7 features", 
+            "Score": 0.978103756904602, 
+            "BeginOffset": 470, 
+            "EndOffset": 486
+        }, 
+        {
+            "Text": "the last meetup", 
+            "Score": 0.9993817806243896, 
+            "BeginOffset": 490, 
+            "EndOffset": 505
+        }, 
+        {
+            "Text": "the slides", 
+            "Score": 0.9807161688804626, 
+            "BeginOffset": 514, 
+            "EndOffset": 524
+        }, 
+        {
+            "Text": "the release notes", 
+            "Score": 0.8720736503601074, 
+            "BeginOffset": 560, 
+            "EndOffset": 577
+        }, 
+        {
+            "Text": "a short summary", 
+            "Score": 0.998880922794342, 
+            "BeginOffset": 630, 
+            "EndOffset": 645
+        }, 
+        {
+            "Text": "the highlights", 
+            "Score": 0.9922136664390564, 
+            "BeginOffset": 649, 
+            "EndOffset": 663
+        }, 
+        {
+            "Text": "The feature", 
+            "Score": 0.9847496151924133, 
+            "BeginOffset": 673, 
+            "EndOffset": 684
+        }, 
+        {
+            "Text": "the most", 
+            "Score": 0.9248045682907104, 
+            "BeginOffset": 705, 
+            "EndOffset": 713
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9208036065101624, 
+            "BeginOffset": 729, 
+            "EndOffset": 740
+        }, 
+        {
+            "Text": "tests", 
+            "Score": 0.844372034072876, 
+            "BeginOffset": 756, 
+            "EndOffset": 761
+        }, 
+        {
+            "Text": "more granular control", 
+            "Score": 0.9893090128898621, 
+            "BeginOffset": 787, 
+            "EndOffset": 808
+        }, 
+        {
+            "Text": "your tests", 
+            "Score": 0.9974600672721863, 
+            "BeginOffset": 814, 
+            "EndOffset": 824
+        }, 
+        {
+            "Text": "a loop", 
+            "Score": 0.7326357364654541, 
+            "BeginOffset": 849, 
+            "EndOffset": 855
+        }, 
+        {
+            "Text": "various entries", 
+            "Score": 0.9968804121017456, 
+            "BeginOffset": 861, 
+            "EndOffset": 876
+        }, 
+        {
+            "Text": "parts", 
+            "Score": 0.9999938011169434, 
+            "BeginOffset": 919, 
+            "EndOffset": 924
+        }, 
+        {
+            "Text": "the loop", 
+            "Score": 0.8249542117118835, 
+            "BeginOffset": 928, 
+            "EndOffset": 936
+        }, 
+        {
+            "Text": "A simple example", 
+            "Score": 0.9950486421585083, 
+            "BeginOffset": 952, 
+            "EndOffset": 968
+        }, 
+        {
+            "Text": "Igor", 
+            "Score": 0.9923103451728821, 
+            "BeginOffset": 985, 
+            "EndOffset": 989
+        }, 
+        {
+            "Text": "func TestNaughtyStrings", 
+            "Score": 0.9886252284049988, 
+            "BeginOffset": 1005, 
+            "EndOffset": 1028
+        }, 
+        {
+            "Text": "t *testing", 
+            "Score": 0.9275280833244324, 
+            "BeginOffset": 1029, 
+            "EndOffset": 1039
+        }, 
+        {
+            "Text": "clarity\n        request", 
+            "Score": 0.8441579937934875, 
+            "BeginOffset": 1067, 
+            "EndOffset": 1090
+        }, 
+        {
+            "Text": "slack", 
+            "Score": 0.9973778128623962, 
+            "BeginOffset": 1094, 
+            "EndOffset": 1099
+        }, 
+        {
+            "Text": "Request", 
+            "Score": 0.9141172170639038, 
+            "BeginOffset": 1100, 
+            "EndOffset": 1107
+        }, 
+        {
+            "Text": "Text", 
+            "Score": 0.6108090877532959, 
+            "BeginOffset": 1108, 
+            "EndOffset": 1112
+        }, 
+        {
+            "Text": "\"string", 
+            "Score": 0.9085736870765686, 
+            "BeginOffset": 1114, 
+            "EndOffset": 1121
+        }, 
+        {
+            "Text": "plugin", 
+            "Score": 0.7603941559791565, 
+            "BeginOffset": 1139, 
+            "EndOffset": 1145
+        }, 
+        {
+            "Text": "= range", 
+            "Score": 0.8525218367576599, 
+            "BeginOffset": 1147, 
+            "EndOffset": 1154
+        }, 
+        {
+            "Text": "GetPlugins", 
+            "Score": 0.794195830821991, 
+            "BeginOffset": 1163, 
+            "EndOffset": 1173
+        }, 
+        {
+            "Text": "request", 
+            "Score": 0.7984325885772705, 
+            "BeginOffset": 1174, 
+            "EndOffset": 1181
+        }, 
+        {
+            "Text": "config", 
+            "Score": 0.760295569896698, 
+            "BeginOffset": 1183, 
+            "EndOffset": 1189
+        }, 
+        {
+            "Text": "Run", 
+            "Score": 0.36210086941719055, 
+            "BeginOffset": 1207, 
+            "EndOffset": 1210
+        }, 
+        {
+            "Text": "\"Plugin", 
+            "Score": 0.8343312740325928, 
+            "BeginOffset": 1211, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "+plugin", 
+            "Score": 0.7130066156387329, 
+            "BeginOffset": 1220, 
+            "EndOffset": 1227
+        }, 
+        {
+            "Text": "func", 
+            "Score": 0.9944456219673157, 
+            "BeginOffset": 1236, 
+            "EndOffset": 1240
+        }, 
+        {
+            "Text": "t *testing", 
+            "Score": 0.88084876537323, 
+            "BeginOffset": 1241, 
+            "EndOffset": 1251
+        }, 
+        {
+            "Text": "The feature", 
+            "Score": 0.8570711612701416, 
+            "BeginOffset": 1258, 
+            "EndOffset": 1269
+        }, 
+        {
+            "Text": "the most attention", 
+            "Score": 0.9959430694580078, 
+            "BeginOffset": 1280, 
+            "EndOffset": 1298
+        }, 
+        {
+            "Text": "the inclusion", 
+            "Score": 0.9943354725837708, 
+            "BeginOffset": 1310, 
+            "EndOffset": 1323
+        }, 
+        {
+            "Text": "the Context package", 
+            "Score": 0.9996473789215088, 
+            "BeginOffset": 1327, 
+            "EndOffset": 1346
+        }, 
+        {
+            "Text": "deadlines", 
+            "Score": 0.9970820546150208, 
+            "BeginOffset": 1372, 
+            "EndOffset": 1381
+        }, 
+        {
+            "Text": "cancellation requests", 
+            "Score": 0.9932610988616943, 
+            "BeginOffset": 1383, 
+            "EndOffset": 1404
+        }, 
+        {
+            "Text": "even scoped values", 
+            "Score": 0.8251489400863647, 
+            "BeginOffset": 1410, 
+            "EndOffset": 1428
+        }, 
+        {
+            "Text": "API boundaries", 
+            "Score": 0.9847167134284973, 
+            "BeginOffset": 1436, 
+            "EndOffset": 1450
+        }, 
+        {
+            "Text": "a separate package", 
+            "Score": 0.9904210567474365, 
+            "BeginOffset": 1466, 
+            "EndOffset": 1484
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9996278285980225, 
+            "BeginOffset": 1489, 
+            "EndOffset": 1496
+        }, 
+        {
+            "Text": "the main library", 
+            "Score": 0.9974088668823242, 
+            "BeginOffset": 1524, 
+            "EndOffset": 1540
+        }, 
+        {
+            "Text": "a good introduction", 
+            "Score": 0.999036431312561, 
+            "BeginOffset": 1590, 
+            "EndOffset": 1609
+        }, 
+        {
+            "Text": "the golang blog", 
+            "Score": 0.9996219873428345, 
+            "BeginOffset": 1613, 
+            "EndOffset": 1628
+        }, 
+        {
+            "Text": "The last ones", 
+            "Score": 0.9985243678092957, 
+            "BeginOffset": 1631, 
+            "EndOffset": 1644
+        }, 
+        {
+            "Text": "the improvements", 
+            "Score": 0.9923626780509949, 
+            "BeginOffset": 1662, 
+            "EndOffset": 1678
+        }, 
+        {
+            "Text": "both speed and size", 
+            "Score": 0.9686378240585327, 
+            "BeginOffset": 1692, 
+            "EndOffset": 1711
+        }, 
+        {
+            "Text": "improvements", 
+            "Score": 0.995813250541687, 
+            "BeginOffset": 1723, 
+            "EndOffset": 1735
+        }, 
+        {
+            "Text": "a big part", 
+            "Score": 0.995690643787384, 
+            "BeginOffset": 1758, 
+            "EndOffset": 1768
+        }, 
+        {
+            "Text": "a switched backend", 
+            "Score": 0.9860724210739136, 
+            "BeginOffset": 1780, 
+            "EndOffset": 1798
+        }, 
+        {
+            "Text": "The size improvements", 
+            "Score": 0.9587147235870361, 
+            "BeginOffset": 1800, 
+            "EndOffset": 1821
+        }, 
+        {
+            "Text": "targets", 
+            "Score": 0.9668329954147339, 
+            "BeginOffset": 1875, 
+            "EndOffset": 1882
+        }, 
+        {
+            "Text": "size", 
+            "Score": 0.7314969897270203, 
+            "BeginOffset": 1889, 
+            "EndOffset": 1893
+        }, 
+        {
+            "Text": "an issue", 
+            "Score": 0.991786539554596, 
+            "BeginOffset": 1905, 
+            "EndOffset": 1913
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.874729335308075, 
+            "BeginOffset": 1914, 
+            "EndOffset": 1916
+        }, 
+        {
+            "Text": "an interesting article", 
+            "Score": 0.9836617112159729, 
+            "BeginOffset": 1927, 
+            "EndOffset": 1949
+        }, 
+        {
+            "Text": "the Golang site", 
+            "Score": 0.9982454180717468, 
+            "BeginOffset": 1953, 
+            "EndOffset": 1968
+        }, 
+        {
+            "Text": "a far better job", 
+            "Score": 0.9955944418907166, 
+            "BeginOffset": 2008, 
+            "EndOffset": 2024
+        }, 
+        {
+            "Text": "INTEL NEWS", 
+            "Score": 0.9998771548271179, 
+            "BeginOffset": 2067, 
+            "EndOffset": 2077
+        }, 
+        {
+            "Text": "A lot", 
+            "Score": 0.9615908861160278, 
+            "BeginOffset": 2080, 
+            "EndOffset": 2085
+        }, 
+        {
+            "Text": "news", 
+            "Score": 0.8138805627822876, 
+            "BeginOffset": 2089, 
+            "EndOffset": 2093
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9532091617584229, 
+            "BeginOffset": 2104, 
+            "EndOffset": 2109
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9975234270095825, 
+            "BeginOffset": 2110, 
+            "EndOffset": 2119
+        }, 
+        {
+            "Text": "the biggest one", 
+            "Score": 0.9831055402755737, 
+            "BeginOffset": 2126, 
+            "EndOffset": 2141
+        }, 
+        {
+            "Text": "ARM chips", 
+            "Score": 0.902542769908905, 
+            "BeginOffset": 2196, 
+            "EndOffset": 2205
+        }, 
+        {
+            "Text": "third-parties", 
+            "Score": 0.9680119752883911, 
+            "BeginOffset": 2210, 
+            "EndOffset": 2223
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9941309094429016, 
+            "BeginOffset": 2233, 
+            "EndOffset": 2238
+        }, 
+        {
+            "Text": "attempts", 
+            "Score": 0.9988663792610168, 
+            "BeginOffset": 2241, 
+            "EndOffset": 2249
+        }, 
+        {
+            "Text": "some mobile processors", 
+            "Score": 0.9889763593673706, 
+            "BeginOffset": 2255, 
+            "EndOffset": 2277
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.9961720108985901, 
+            "BeginOffset": 2278, 
+            "EndOffset": 2280
+        }, 
+        {
+            "Text": "the mobile", 
+            "Score": 0.9935580492019653, 
+            "BeginOffset": 2311, 
+            "EndOffset": 2321
+        }, 
+        {
+            "Text": "phone", 
+            "Score": 0.9985590577125549, 
+            "BeginOffset": 2323, 
+            "EndOffset": 2328
+        }, 
+        {
+            "Text": "market", 
+            "Score": 0.9499804973602295, 
+            "BeginOffset": 2330, 
+            "EndOffset": 2336
+        }, 
+        {
+            "Text": "a small market", 
+            "Score": 0.9995192885398865, 
+            "BeginOffset": 2358, 
+            "EndOffset": 2372
+        }, 
+        {
+            "Text": "steps", 
+            "Score": 0.8778921961784363, 
+            "BeginOffset": 2406, 
+            "EndOffset": 2411
+        }, 
+        {
+            "Text": "some money", 
+            "Score": 0.9946208596229553, 
+            "BeginOffset": 2428, 
+            "EndOffset": 2438
+        }, 
+        {
+            "Text": "the past Intel", 
+            "Score": 0.9841921329498291, 
+            "BeginOffset": 2457, 
+            "EndOffset": 2471
+        }, 
+        {
+            "Text": "just creating chips", 
+            "Score": 0.9780620336532593, 
+            "BeginOffset": 2504, 
+            "EndOffset": 2523
+        }, 
+        {
+            "Text": "IP", 
+            "Score": 0.9998623132705688, 
+            "BeginOffset": 2568, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "their biggest competitor", 
+            "Score": 0.8832141160964966, 
+            "BeginOffset": 2576, 
+            "EndOffset": 2600
+        }, 
+        {
+            "Text": "a small thing", 
+            "Score": 0.9991932511329651, 
+            "BeginOffset": 2607, 
+            "EndOffset": 2620
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9999095797538757, 
+            "BeginOffset": 2629, 
+            "EndOffset": 2634
+        }, 
+        {
+            "Text": "the biggest and most advanced manufacturer", 
+            "Score": 0.9878818392753601, 
+            "BeginOffset": 2638, 
+            "EndOffset": 2680
+        }, 
+        {
+            "Text": "chips", 
+            "Score": 0.9165520668029785, 
+            "BeginOffset": 2684, 
+            "EndOffset": 2689
+        }, 
+        {
+            "Text": "their technologies", 
+            "Score": 0.9969610571861267, 
+            "BeginOffset": 2721, 
+            "EndOffset": 2739
+        }, 
+        {
+            "Text": "some interesting customers", 
+            "Score": 0.879218339920044, 
+            "BeginOffset": 2772, 
+            "EndOffset": 2798
+        }, 
+        {
+            "Text": "LG", 
+            "Score": 0.9999592304229736, 
+            "BeginOffset": 2800, 
+            "EndOffset": 2802
+        }, 
+        {
+            "Text": "no doubt others", 
+            "Score": 0.9983387589454651, 
+            "BeginOffset": 2830, 
+            "EndOffset": 2845
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.849879264831543, 
+            "BeginOffset": 2874, 
+            "EndOffset": 2879
+        }, 
+        {
+            "Text": "10 nanometer", 
+            "Score": 0.9763583540916443, 
+            "BeginOffset": 2882, 
+            "EndOffset": 2894
+        }, 
+        {
+            "Text": "the forthcoming 7 nanometer", 
+            "Score": 0.9490399360656738, 
+            "BeginOffset": 2909, 
+            "EndOffset": 2936
+        }, 
+        {
+            "Text": "design", 
+            "Score": 0.7474854588508606, 
+            "BeginOffset": 2938, 
+            "EndOffset": 2944
+        }, 
+        {
+            "Text": "announcements", 
+            "Score": 0.9603211283683777, 
+            "BeginOffset": 2958, 
+            "EndOffset": 2971
+        }, 
+        {
+            "Text": "various types", 
+            "Score": 0.9146922826766968, 
+            "BeginOffset": 2978, 
+            "EndOffset": 2991
+        }, 
+        {
+            "Text": "chips", 
+            "Score": 0.8169532418251038, 
+            "BeginOffset": 2995, 
+            "EndOffset": 3000
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9821822047233582, 
+            "BeginOffset": 3002, 
+            "EndOffset": 3007
+        }, 
+        {
+            "Text": "their version", 
+            "Score": 0.9955893754959106, 
+            "BeginOffset": 3024, 
+            "EndOffset": 3037
+        }, 
+        {
+            "Text": "VR gear", 
+            "Score": 0.9832742214202881, 
+            "BeginOffset": 3041, 
+            "EndOffset": 3048
+        }, 
+        {
+            "Text": "project Alloy", 
+            "Score": 0.9998684525489807, 
+            "BeginOffset": 3057, 
+            "EndOffset": 3070
+        }, 
+        {
+            "Text": "two things", 
+            "Score": 0.8093411326408386, 
+            "BeginOffset": 3082, 
+            "EndOffset": 3092
+        }, 
+        {
+            "Text": "the large amount", 
+            "Score": 0.9698526859283447, 
+            "BeginOffset": 3154, 
+            "EndOffset": 3170
+        }, 
+        {
+            "Text": "data", 
+            "Score": 0.8935137987136841, 
+            "BeginOffset": 3174, 
+            "EndOffset": 3178
+        }, 
+        {
+            "Text": "the goggles", 
+            "Score": 0.9963750839233398, 
+            "BeginOffset": 3206, 
+            "EndOffset": 3217
+        }, 
+        {
+            "Text": "every other device", 
+            "Score": 0.9977245330810547, 
+            "BeginOffset": 3218, 
+            "EndOffset": 3236
+        }, 
+        {
+            "Text": "cables", 
+            "Score": 0.9977471828460693, 
+            "BeginOffset": 3242, 
+            "EndOffset": 3248
+        }, 
+        {
+            "Text": "the impact", 
+            "Score": 0.9981028437614441, 
+            "BeginOffset": 3297, 
+            "EndOffset": 3307
+        }, 
+        {
+            "Text": "a lower resolution", 
+            "Score": 0.997938334941864, 
+            "BeginOffset": 3350, 
+            "EndOffset": 3368
+        }, 
+        {
+            "Text": "competing devices", 
+            "Score": 0.998718798160553, 
+            "BeginOffset": 3374, 
+            "EndOffset": 3391
+        }, 
+        {
+            "Text": "the Oculus Rift or HTC Vive", 
+            "Score": 0.9730145931243896, 
+            "BeginOffset": 3397, 
+            "EndOffset": 3424
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.996192216873169, 
+            "BeginOffset": 3492, 
+            "EndOffset": 3497
+        }, 
+        {
+            "Text": "the hardware", 
+            "Score": 0.9990111589431763, 
+            "BeginOffset": 3535, 
+            "EndOffset": 3547
+        }, 
+        {
+            "Text": "open source", 
+            "Score": 0.9997588396072388, 
+            "BeginOffset": 3551, 
+            "EndOffset": 3562
+        }, 
+        {
+            "Text": "the second half", 
+            "Score": 0.9979211091995239, 
+            "BeginOffset": 3566, 
+            "EndOffset": 3581
+        }, 
+        {
+            "Text": "next year", 
+            "Score": 0.9765822291374207, 
+            "BeginOffset": 3585, 
+            "EndOffset": 3594
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9912266135215759, 
+            "BeginOffset": 3612, 
+            "EndOffset": 3617
+        }, 
+        {
+            "Text": "that point", 
+            "Score": 0.8822055459022522, 
+            "BeginOffset": 3641, 
+            "EndOffset": 3651
+        }, 
+        {
+            "Text": "a good look", 
+            "Score": 0.9554817080497742, 
+            "BeginOffset": 3673, 
+            "EndOffset": 3684
+        }, 
+        {
+            "Text": "the specs", 
+            "Score": 0.9996518492698669, 
+            "BeginOffset": 3688, 
+            "EndOffset": 3697
+        }, 
+        {
+            "Text": "POWERSHELL GOES OPEN SOURCE\n\n\nMicrosoft", 
+            "Score": 0.9978814125061035, 
+            "BeginOffset": 3702, 
+            "EndOffset": 3741
+        }, 
+        {
+            "Text": "its recent trend", 
+            "Score": 0.9844986796379089, 
+            "BeginOffset": 3756, 
+            "EndOffset": 3772
+        }, 
+        {
+            "Text": "source", 
+            "Score": 0.9809178709983826, 
+            "BeginOffset": 3781, 
+            "EndOffset": 3787
+        }, 
+        {
+            "Text": "their code", 
+            "Score": 0.9805842638015747, 
+            "BeginOffset": 3788, 
+            "EndOffset": 3798
+        }, 
+        {
+            "Text": "other platforms", 
+            "Score": 0.8079777956008911, 
+            "BeginOffset": 3827, 
+            "EndOffset": 3842
+        }, 
+        {
+            "Text": "This time", 
+            "Score": 0.982952892780304, 
+            "BeginOffset": 3844, 
+            "EndOffset": 3853
+        }, 
+        {
+            "Text": "Powershell", 
+            "Score": 0.9989447593688965, 
+            "BeginOffset": 3866, 
+            "EndOffset": 3876
+        }, 
+        {
+            "Text": "the Windows answer", 
+            "Score": 0.9907165169715881, 
+            "BeginOffset": 3878, 
+            "EndOffset": 3896
+        }, 
+        {
+            "Text": "nix shells", 
+            "Score": 0.839231014251709, 
+            "BeginOffset": 3901, 
+            "EndOffset": 3911
+        }, 
+        {
+            "Text": "bash or zsh", 
+            "Score": 0.82929927110672, 
+            "BeginOffset": 3920, 
+            "EndOffset": 3931
+        }, 
+        {
+            "Text": "my new job", 
+            "Score": 0.9727458953857422, 
+            "BeginOffset": 4000, 
+            "EndOffset": 4010
+        }, 
+        {
+            "Text": "times", 
+            "Score": 0.9995478987693787, 
+            "BeginOffset": 4014, 
+            "EndOffset": 4019
+        }, 
+        {
+            "Text": "Windows servers", 
+            "Score": 0.9799033999443054, 
+            "BeginOffset": 4029, 
+            "EndOffset": 4044
+        }, 
+        {
+            "Text": "a big fan", 
+            "Score": 0.9918670058250427, 
+            "BeginOffset": 4054, 
+            "EndOffset": 4063
+        }, 
+        {
+            "Text": "the Windows ecosystem", 
+            "Score": 0.8475094437599182, 
+            "BeginOffset": 4178, 
+            "EndOffset": 4199
+        }, 
+        {
+            "Text": "a regular shell", 
+            "Score": 0.9916457533836365, 
+            "BeginOffset": 4227, 
+            "EndOffset": 4242
+        }, 
+        {
+            "Text": "code", 
+            "Score": 0.9989936947822571, 
+            "BeginOffset": 4262, 
+            "EndOffset": 4266
+        }, 
+        {
+            "Text": "open source", 
+            "Score": 0.9971629977226257, 
+            "BeginOffset": 4280, 
+            "EndOffset": 4291
+        }, 
+        {
+            "Text": "a good thing", 
+            "Score": 0.9967815279960632, 
+            "BeginOffset": 4333, 
+            "EndOffset": 4345
+        }, 
+        {
+            "Text": "some things", 
+            "Score": 0.9989470839500427, 
+            "BeginOffset": 4377, 
+            "EndOffset": 4388
+        }, 
+        {
+            "Text": "the tools", 
+            "Score": 0.9957501888275146, 
+            "BeginOffset": 4425, 
+            "EndOffset": 4434
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9473101496696472, 
+            "BeginOffset": 4446, 
+            "EndOffset": 4448
+        }, 
+        {
+            "Text": "The first Tuesday", 
+            "Score": 0.9988263249397278, 
+            "BeginOffset": 4450, 
+            "EndOffset": 4467
+        }, 
+        {
+            "Text": "every month", 
+            "Score": 0.8268724083900452, 
+            "BeginOffset": 4471, 
+            "EndOffset": 4482
+        }, 
+        {
+            "Text": "Melbourne", 
+            "Score": 0.9820072650909424, 
+            "BeginOffset": 4507, 
+            "EndOffset": 4516
+        }, 
+        {
+            "Text": "the free beer", 
+            "Score": 0.999218225479126, 
+            "BeginOffset": 4532, 
+            "EndOffset": 4545
+        }, 
+        {
+            "Text": "pizza", 
+            "Score": 0.9997605681419373, 
+            "BeginOffset": 4550, 
+            "EndOffset": 4555
+        }, 
+        {
+            "Text": "a talk", 
+            "Score": 0.9114579558372498, 
+            "BeginOffset": 4571, 
+            "EndOffset": 4577
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.8321529626846313, 
+            "BeginOffset": 4587, 
+            "EndOffset": 4590
+        }, 
+        {
+            "Text": "a 10MB application", 
+            "Score": 0.9381651878356934, 
+            "BeginOffset": 4605, 
+            "EndOffset": 4623
+        }, 
+        {
+            "Text": "a server", 
+            "Score": 0.9987487196922302, 
+            "BeginOffset": 4641, 
+            "EndOffset": 4649
+        }, 
+        {
+            "Text": "a 350GB disk", 
+            "Score": 0.991405725479126, 
+            "BeginOffset": 4655, 
+            "EndOffset": 4667
+        }, 
+        {
+            "Text": "a 20% decrease", 
+            "Score": 0.9989277124404907, 
+            "BeginOffset": 4669, 
+            "EndOffset": 4683
+        }, 
+        {
+            "Text": "an embedded system", 
+            "Score": 0.9781293869018555, 
+            "BeginOffset": 4757, 
+            "EndOffset": 4775
+        }, 
+        {
+            "Text": "the difference", 
+            "Score": 0.996471107006073, 
+            "BeginOffset": 4796, 
+            "EndOffset": 4810
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9986321926116943, 
+            "BeginOffset": 4849, 
+            "EndOffset": 4852
+        }, 
+        {
+            "Text": "these mobile processors", 
+            "Score": 0.9976884126663208, 
+            "BeginOffset": 4859, 
+            "EndOffset": 4882
+        }, 
+        {
+            "Text": "larger devices", 
+            "Score": 0.8754323720932007, 
+            "BeginOffset": 4911, 
+            "EndOffset": 4925
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9993473291397095, 
+            "BeginOffset": 4934, 
+            "EndOffset": 4939
+        }, 
+        {
+            "Text": "MacBook", 
+            "Score": 0.972954273223877, 
+            "BeginOffset": 4942, 
+            "EndOffset": 4949
+        }
+    ]
+}

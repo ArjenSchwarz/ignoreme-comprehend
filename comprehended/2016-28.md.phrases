@@ -1,0 +1,838 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "LambCI", 
+            "Score": 0.9889017343521118, 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "a CI tool", 
+            "Score": 0.9928531646728516, 
+            "BeginOffset": 10, 
+            "EndOffset": 19
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9905734658241272, 
+            "BeginOffset": 31, 
+            "EndOffset": 37
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9768102169036865, 
+            "BeginOffset": 43, 
+            "EndOffset": 51
+        }, 
+        {
+            "Text": "OpenCellular", 
+            "Score": 0.9526475071907043, 
+            "BeginOffset": 62, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "LAMBCI\n\n\nRegular readers", 
+            "Score": 0.9822860956192017, 
+            "BeginOffset": 79, 
+            "EndOffset": 103
+        }, 
+        {
+            "Text": "both AWS Lambda and CI/CD tools", 
+            "Score": 0.9298269152641296, 
+            "BeginOffset": 144, 
+            "EndOffset": 175
+        }, 
+        {
+            "Text": "a surprise", 
+            "Score": 0.997058093547821, 
+            "BeginOffset": 201, 
+            "EndOffset": 211
+        }, 
+        {
+            "Text": "attention", 
+            "Score": 0.9980654120445251, 
+            "BeginOffset": 223, 
+            "EndOffset": 232
+        }, 
+        {
+            "Text": "the two", 
+            "Score": 0.9881418347358704, 
+            "BeginOffset": 255, 
+            "EndOffset": 262
+        }, 
+        {
+            "Text": "LambCI", 
+            "Score": 0.9897560477256775, 
+            "BeginOffset": 264, 
+            "EndOffset": 270
+        }, 
+        {
+            "Text": "a serverless", 
+            "Score": 0.982589602470398, 
+            "BeginOffset": 274, 
+            "EndOffset": 286
+        }, 
+        {
+            "Text": "system", 
+            "Score": 0.9758849740028381, 
+            "BeginOffset": 293, 
+            "EndOffset": 299
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.949511706829071, 
+            "BeginOffset": 320, 
+            "EndOffset": 331
+        }, 
+        {
+            "Text": "continuous integration", 
+            "Score": 0.9974606037139893, 
+            "BeginOffset": 339, 
+            "EndOffset": 361
+        }, 
+        {
+            "Text": "the need", 
+            "Score": 0.9949151873588562, 
+            "BeginOffset": 370, 
+            "EndOffset": 378
+        }, 
+        {
+            "Text": "your own servers", 
+            "Score": 0.9973663687705994, 
+            "BeginOffset": 389, 
+            "EndOffset": 405
+        }, 
+        {
+            "Text": "a SaaS product", 
+            "Score": 0.998228907585144, 
+            "BeginOffset": 413, 
+            "EndOffset": 427
+        }, 
+        {
+            "Text": "an open source application", 
+            "Score": 0.9962857961654663, 
+            "BeginOffset": 435, 
+            "EndOffset": 461
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9332948923110962, 
+            "BeginOffset": 476, 
+            "EndOffset": 482
+        }, 
+        {
+            "Text": "a CloudFormation template", 
+            "Score": 0.9972707033157349, 
+            "BeginOffset": 502, 
+            "EndOffset": 527
+        }, 
+        {
+            "Text": "the hood", 
+            "Score": 0.9978326559066772, 
+            "BeginOffset": 576, 
+            "EndOffset": 584
+        }, 
+        {
+            "Text": "several different AWS tools", 
+            "Score": 0.9914842247962952, 
+            "BeginOffset": 593, 
+            "EndOffset": 620
+        }, 
+        {
+            "Text": "SNS", 
+            "Score": 0.8371873497962952, 
+            "BeginOffset": 622, 
+            "EndOffset": 625
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.7895267605781555, 
+            "BeginOffset": 627, 
+            "EndOffset": 633
+        }, 
+        {
+            "Text": "DynamoDB", 
+            "Score": 0.9826000332832336, 
+            "BeginOffset": 635, 
+            "EndOffset": 643
+        }, 
+        {
+            "Text": "S3", 
+            "Score": 0.9856297373771667, 
+            "BeginOffset": 649, 
+            "EndOffset": 651
+        }, 
+        {
+            "Text": "that CloudFormation template", 
+            "Score": 0.9627640247344971, 
+            "BeginOffset": 672, 
+            "EndOffset": 700
+        }, 
+        {
+            "Text": "a spin", 
+            "Score": 0.9618554711341858, 
+            "BeginOffset": 731, 
+            "EndOffset": 737
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7761003971099854, 
+            "BeginOffset": 742, 
+            "EndOffset": 744
+        }, 
+        {
+            "Text": "a very compelling product", 
+            "Score": 0.9777548313140869, 
+            "BeginOffset": 764, 
+            "EndOffset": 789
+        }, 
+        {
+            "Text": "smaller teams", 
+            "Score": 0.9601534605026245, 
+            "BeginOffset": 794, 
+            "EndOffset": 807
+        }, 
+        {
+            "Text": "single person shops", 
+            "Score": 0.9728498458862305, 
+            "BeginOffset": 812, 
+            "EndOffset": 831
+        }, 
+        {
+            "Text": "the meantime", 
+            "Score": 0.929385781288147, 
+            "BeginOffset": 941, 
+            "EndOffset": 953
+        }, 
+        {
+            "Text": "the above linked article", 
+            "Score": 0.9350088238716125, 
+            "BeginOffset": 980, 
+            "EndOffset": 1004
+        }, 
+        {
+            "Text": "a spin", 
+            "Score": 0.9992625117301941, 
+            "BeginOffset": 1023, 
+            "EndOffset": 1029
+        }, 
+        {
+            "Text": "the fact", 
+            "Score": 0.9998127818107605, 
+            "BeginOffset": 1087, 
+            "EndOffset": 1095
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.8851925134658813, 
+            "BeginOffset": 1111, 
+            "EndOffset": 1118
+        }, 
+        {
+            "Text": "my favourite CI tool[2]", 
+            "Score": 0.8516395092010498, 
+            "BeginOffset": 1122, 
+            "EndOffset": 1145
+        }, 
+        {
+            "Text": "first glance", 
+            "Score": 0.8814830183982849, 
+            "BeginOffset": 1154, 
+            "EndOffset": 1166
+        }, 
+        {
+            "Text": "a shot", 
+            "Score": 0.9987384676933289, 
+            "BeginOffset": 1176, 
+            "EndOffset": 1182
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9295899868011475, 
+            "BeginOffset": 1247, 
+            "EndOffset": 1254
+        }, 
+        {
+            "Text": "that field", 
+            "Score": 0.9704595804214478, 
+            "BeginOffset": 1278, 
+            "EndOffset": 1288
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9743737578392029, 
+            "BeginOffset": 1330, 
+            "EndOffset": 1336
+        }, 
+        {
+            "Text": "concurrency and cheaper", 
+            "Score": 0.8455206751823425, 
+            "BeginOffset": 1342, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "Not cheaper", 
+            "Score": 0.9982205629348755, 
+            "BeginOffset": 1368, 
+            "EndOffset": 1379
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.7347667813301086, 
+            "BeginOffset": 1392, 
+            "EndOffset": 1399
+        }, 
+        {
+            "Text": "free tier", 
+            "Score": 0.990666925907135, 
+            "BeginOffset": 1402, 
+            "EndOffset": 1411
+        }, 
+        {
+            "Text": "more limitations", 
+            "Score": 0.993148684501648, 
+            "BeginOffset": 1426, 
+            "EndOffset": 1442
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9987130165100098, 
+            "BeginOffset": 1458, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "a paid option", 
+            "Score": 0.9902945756912231, 
+            "BeginOffset": 1474, 
+            "EndOffset": 1487
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.7372721433639526, 
+            "BeginOffset": 1488, 
+            "EndOffset": 1490
+        }, 
+        {
+            "Text": "how many tasks", 
+            "Score": 0.8165946006774902, 
+            "BeginOffset": 1516, 
+            "EndOffset": 1530
+        }, 
+        {
+            "Text": "LambCI", 
+            "Score": 0.8835846185684204, 
+            "BeginOffset": 1566, 
+            "EndOffset": 1572
+        }, 
+        {
+            "Text": "a major limit", 
+            "Score": 0.9702541828155518, 
+            "BeginOffset": 1592, 
+            "EndOffset": 1605
+        }, 
+        {
+            "Text": "mention", 
+            "Score": 0.9950549602508545, 
+            "BeginOffset": 1626, 
+            "EndOffset": 1633
+        }, 
+        {
+            "Text": "a potential SaaS version", 
+            "Score": 0.9762424826622009, 
+            "BeginOffset": 1637, 
+            "EndOffset": 1661
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9996011853218079, 
+            "BeginOffset": 1666, 
+            "EndOffset": 1672
+        }, 
+        {
+            "Text": "the resources", 
+            "Score": 0.9669433832168579, 
+            "BeginOffset": 1752, 
+            "EndOffset": 1765
+        }, 
+        {
+            "Text": "the free tier", 
+            "Score": 0.9931514263153076, 
+            "BeginOffset": 1793, 
+            "EndOffset": 1806
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9881218671798706, 
+            "BeginOffset": 1811, 
+            "EndOffset": 1817
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.8818208575248718, 
+            "BeginOffset": 1845, 
+            "EndOffset": 1850
+        }, 
+        {
+            "Text": "use cases", 
+            "Score": 0.9937794208526611, 
+            "BeginOffset": 1854, 
+            "EndOffset": 1863
+        }, 
+        {
+            "Text": "open source", 
+            "Score": 0.996962308883667, 
+            "BeginOffset": 1883, 
+            "EndOffset": 1894
+        }, 
+        {
+            "Text": "the current version", 
+            "Score": 0.9989402890205383, 
+            "BeginOffset": 1963, 
+            "EndOffset": 1982
+        }, 
+        {
+            "Text": "a local checkout", 
+            "Score": 0.8760652542114258, 
+            "BeginOffset": 2008, 
+            "EndOffset": 2024
+        }, 
+        {
+            "Text": "your own needs", 
+            "Score": 0.9921092987060547, 
+            "BeginOffset": 2057, 
+            "EndOffset": 2071
+        }, 
+        {
+            "Text": "downsides", 
+            "Score": 0.9960944056510925, 
+            "BeginOffset": 2084, 
+            "EndOffset": 2093
+        }, 
+        {
+            "Text": "the 5 minute runtime limit", 
+            "Score": 0.9241026639938354, 
+            "BeginOffset": 2108, 
+            "EndOffset": 2134
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9267541766166687, 
+            "BeginOffset": 2151, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "the current lack", 
+            "Score": 0.9970471262931824, 
+            "BeginOffset": 2162, 
+            "EndOffset": 2178
+        }, 
+        {
+            "Text": "integrations", 
+            "Score": 0.9987577795982361, 
+            "BeginOffset": 2182, 
+            "EndOffset": 2194
+        }, 
+        {
+            "Text": "anything other", 
+            "Score": 0.9996421933174133, 
+            "BeginOffset": 2200, 
+            "EndOffset": 2214
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9994605183601379, 
+            "BeginOffset": 2220, 
+            "EndOffset": 2226
+        }, 
+        {
+            "Text": "One solution", 
+            "Score": 0.993728756904602, 
+            "BeginOffset": 2228, 
+            "EndOffset": 2240
+        }, 
+        {
+            "Text": "the time limit", 
+            "Score": 0.9929969906806946, 
+            "BeginOffset": 2245, 
+            "EndOffset": 2259
+        }, 
+        {
+            "Text": "LambCI", 
+            "Score": 0.9868303537368774, 
+            "BeginOffset": 2267, 
+            "EndOffset": 2273
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9947483539581299, 
+            "BeginOffset": 2278, 
+            "EndOffset": 2289
+        }, 
+        {
+            "Text": "tasks", 
+            "Score": 0.9981116056442261, 
+            "BeginOffset": 2298, 
+            "EndOffset": 2303
+        }, 
+        {
+            "Text": "AWS ECS", 
+            "Score": 0.9940293431282043, 
+            "BeginOffset": 2307, 
+            "EndOffset": 2314
+        }, 
+        {
+            "Text": "your task", 
+            "Score": 0.9805077910423279, 
+            "BeginOffset": 2318, 
+            "EndOffset": 2327
+        }, 
+        {
+            "Text": "Docker containers", 
+            "Score": 0.9950036406517029, 
+            "BeginOffset": 2340, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "a solution", 
+            "Score": 0.9764690399169922, 
+            "BeginOffset": 2435, 
+            "EndOffset": 2445
+        }, 
+        {
+            "Text": "the times", 
+            "Score": 0.9989210963249207, 
+            "BeginOffset": 2450, 
+            "EndOffset": 2459
+        }, 
+        {
+            "Text": "serverless", 
+            "Score": 0.997033953666687, 
+            "BeginOffset": 2483, 
+            "EndOffset": 2493
+        }, 
+        {
+            "Text": "more limitations", 
+            "Score": 0.8811853528022766, 
+            "BeginOffset": 2505, 
+            "EndOffset": 2521
+        }, 
+        {
+            "Text": "OPENCELLULAR\n\n\nFacebook", 
+            "Score": 0.9996095895767212, 
+            "BeginOffset": 2595, 
+            "EndOffset": 2618
+        }, 
+        {
+            "Text": "their OpenCellular platform", 
+            "Score": 0.997201681137085, 
+            "BeginOffset": 2629, 
+            "EndOffset": 2656
+        }, 
+        {
+            "Text": "This open source platform", 
+            "Score": 0.9981020092964172, 
+            "BeginOffset": 2658, 
+            "EndOffset": 2683
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9906392097473145, 
+            "BeginOffset": 2729, 
+            "EndOffset": 2735
+        }, 
+        {
+            "Text": "areas", 
+            "Score": 0.9452735185623169, 
+            "BeginOffset": 2748, 
+            "EndOffset": 2753
+        }, 
+        {
+            "Text": "an Internet connection", 
+            "Score": 0.9975498914718628, 
+            "BeginOffset": 2762, 
+            "EndOffset": 2784
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9973852038383484, 
+            "BeginOffset": 2792, 
+            "EndOffset": 2798
+        }, 
+        {
+            "Text": "big Facebook", 
+            "Score": 0.9922696352005005, 
+            "BeginOffset": 2816, 
+            "EndOffset": 2828
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.8528201580047607, 
+            "BeginOffset": 2852, 
+            "EndOffset": 2857
+        }, 
+        {
+            "Text": "more users", 
+            "Score": 0.9947061538696289, 
+            "BeginOffset": 2865, 
+            "EndOffset": 2875
+        }, 
+        {
+            "Text": "some altruistic reasoning", 
+            "Score": 0.9980179667472839, 
+            "BeginOffset": 2908, 
+            "EndOffset": 2933
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.987729012966156, 
+            "BeginOffset": 2974, 
+            "EndOffset": 2982
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9956923723220825, 
+            "BeginOffset": 3023, 
+            "EndOffset": 3031
+        }, 
+        {
+            "Text": "good consequences", 
+            "Score": 0.9952170848846436, 
+            "BeginOffset": 3035, 
+            "EndOffset": 3052
+        }, 
+        {
+            "Text": "educational fields", 
+            "Score": 0.9986941814422607, 
+            "BeginOffset": 3068, 
+            "EndOffset": 3086
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9216967225074768, 
+            "BeginOffset": 3095, 
+            "EndOffset": 3101
+        }, 
+        {
+            "Text": "all the world", 
+            "Score": 0.9982407093048096, 
+            "BeginOffset": 3105, 
+            "EndOffset": 3118
+        }, 
+        {
+            "Text": "information", 
+            "Score": 0.9615756273269653, 
+            "BeginOffset": 3121, 
+            "EndOffset": 3132
+        }, 
+        {
+            "Text": "a priceless commodity", 
+            "Score": 0.9831340909004211, 
+            "BeginOffset": 3136, 
+            "EndOffset": 3157
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9976033568382263, 
+            "BeginOffset": 3174, 
+            "EndOffset": 3180
+        }, 
+        {
+            "Text": "greater heights", 
+            "Score": 0.9964856505393982, 
+            "BeginOffset": 3187, 
+            "EndOffset": 3202
+        }, 
+        {
+            "Text": "The biggest problem", 
+            "Score": 0.9951601028442383, 
+            "BeginOffset": 3204, 
+            "EndOffset": 3223
+        }, 
+        {
+            "Text": "a connection", 
+            "Score": 0.9991016387939453, 
+            "BeginOffset": 3251, 
+            "EndOffset": 3263
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.6512724161148071, 
+            "BeginOffset": 3277, 
+            "EndOffset": 3283
+        }, 
+        {
+            "Text": "the hardware", 
+            "Score": 0.9469635486602783, 
+            "BeginOffset": 3307, 
+            "EndOffset": 3319
+        }, 
+        {
+            "Text": "Projects", 
+            "Score": 0.998003363609314, 
+            "BeginOffset": 3330, 
+            "EndOffset": 3338
+        }, 
+        {
+            "Text": "One Laptop Per Child", 
+            "Score": 0.9909507036209106, 
+            "BeginOffset": 3344, 
+            "EndOffset": 3364
+        }, 
+        {
+            "Text": "every time someone", 
+            "Score": 0.9968856573104858, 
+            "BeginOffset": 3442, 
+            "EndOffset": 3460
+        }, 
+        {
+            "Text": "internet access", 
+            "Score": 0.8803764581680298, 
+            "BeginOffset": 3486, 
+            "EndOffset": 3501
+        }, 
+        {
+            "Text": "remote areas", 
+            "Score": 0.9984851479530334, 
+            "BeginOffset": 3505, 
+            "EndOffset": 3517
+        }, 
+        {
+            "Text": "comments", 
+            "Score": 0.989162266254425, 
+            "BeginOffset": 3528, 
+            "EndOffset": 3536
+        }, 
+        {
+            "Text": "those people", 
+            "Score": 0.9828811883926392, 
+            "BeginOffset": 3574, 
+            "EndOffset": 3586
+        }, 
+        {
+            "Text": "water", 
+            "Score": 0.9943022131919861, 
+            "BeginOffset": 3593, 
+            "EndOffset": 3598
+        }, 
+        {
+            "Text": "other essential health benefits", 
+            "Score": 0.8049421906471252, 
+            "BeginOffset": 3602, 
+            "EndOffset": 3633
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.9996229410171509, 
+            "BeginOffset": 3669, 
+            "EndOffset": 3673
+        }, 
+        {
+            "Text": "a very Silicon Valley way", 
+            "Score": 0.9954582452774048, 
+            "BeginOffset": 3723, 
+            "EndOffset": 3748
+        }, 
+        {
+            "Text": "the world", 
+            "Score": 0.9131313562393188, 
+            "BeginOffset": 3762, 
+            "EndOffset": 3771
+        }, 
+        {
+            "Text": "much the same way", 
+            "Score": 0.9991737604141235, 
+            "BeginOffset": 3787, 
+            "EndOffset": 3804
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9975146055221558, 
+            "BeginOffset": 3813, 
+            "EndOffset": 3819
+        }, 
+        {
+            "Text": "project Loon", 
+            "Score": 0.9501686096191406, 
+            "BeginOffset": 3822, 
+            "EndOffset": 3834
+        }, 
+        {
+            "Text": "this project", 
+            "Score": 0.870464563369751, 
+            "BeginOffset": 3846, 
+            "EndOffset": 3858
+        }, 
+        {
+            "Text": "some people", 
+            "Score": 0.8440770506858826, 
+            "BeginOffset": 3888, 
+            "EndOffset": 3899
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9991862773895264, 
+            "BeginOffset": 3902, 
+            "EndOffset": 3904
+        }, 
+        {
+            "Text": "the process", 
+            "Score": 0.9353294968605042, 
+            "BeginOffset": 3923, 
+            "EndOffset": 3934
+        }, 
+        {
+            "Text": "a new house", 
+            "Score": 0.9065434336662292, 
+            "BeginOffset": 3948, 
+            "EndOffset": 3959
+        }, 
+        {
+            "Text": "limited time", 
+            "Score": 0.998615026473999, 
+            "BeginOffset": 3971, 
+            "EndOffset": 3983
+        }, 
+        {
+            "Text": "experimentation", 
+            "Score": 0.9998135566711426, 
+            "BeginOffset": 3988, 
+            "EndOffset": 4003
+        }, 
+        {
+            "Text": "the next few weeks", 
+            "Score": 0.8662144541740417, 
+            "BeginOffset": 4009, 
+            "EndOffset": 4027
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9959362149238586, 
+            "BeginOffset": 4030, 
+            "EndOffset": 4033
+        }, 
+        {
+            "Text": "far too many articles", 
+            "Score": 0.7850005626678467, 
+            "BeginOffset": 4059, 
+            "EndOffset": 4080
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.8236200213432312, 
+            "BeginOffset": 4095, 
+            "EndOffset": 4098
+        }, 
+        {
+            "Text": "Not exactly a cheap option", 
+            "Score": 0.9952394366264343, 
+            "BeginOffset": 4099, 
+            "EndOffset": 4125
+        }, 
+        {
+            "Text": "$350/month", 
+            "Score": 0.6760439872741699, 
+            "BeginOffset": 4141, 
+            "EndOffset": 4151
+        }
+    ]
+}

@@ -1,0 +1,748 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "AWS switches", 
+            "Score": 0.5593159794807434, 
+            "BeginOffset": 0, 
+            "EndOffset": 12
+        }, 
+        {
+            "Text": "their new C5 instances", 
+            "Score": 0.930541455745697, 
+            "BeginOffset": 28, 
+            "EndOffset": 50
+        }, 
+        {
+            "Text": "PrivateLinks", 
+            "Score": 0.9623987674713135, 
+            "BeginOffset": 66, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.987154483795166, 
+            "BeginOffset": 85, 
+            "EndOffset": 88
+        }, 
+        {
+            "Text": "DNSSEC", 
+            "Score": 0.9922714233398438, 
+            "BeginOffset": 94, 
+            "EndOffset": 100
+        }, 
+        {
+            "Text": "their DNS", 
+            "Score": 0.9919512867927551, 
+            "BeginOffset": 104, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9532780051231384, 
+            "BeginOffset": 118, 
+            "EndOffset": 121
+        }, 
+        {
+            "Text": "NEW HYPERVISOR", 
+            "Score": 0.8047160506248474, 
+            "BeginOffset": 124, 
+            "EndOffset": 138
+        }, 
+        {
+            "Text": "Almost a year", 
+            "Score": 0.9753209352493286, 
+            "BeginOffset": 141, 
+            "EndOffset": 154
+        }, 
+        {
+            "Text": "their initial Coming Soon announcement", 
+            "Score": 0.9613175988197327, 
+            "BeginOffset": 161, 
+            "EndOffset": 199
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9976346492767334, 
+            "BeginOffset": 201, 
+            "EndOffset": 204
+        }, 
+        {
+            "Text": "the new C5 Instances", 
+            "Score": 0.9918673634529114, 
+            "BeginOffset": 226, 
+            "EndOffset": 246
+        }, 
+        {
+            "Text": "These instances", 
+            "Score": 0.9993687272071838, 
+            "BeginOffset": 248, 
+            "EndOffset": 263
+        }, 
+        {
+            "Text": "custom versions", 
+            "Score": 0.9948832392692566, 
+            "BeginOffset": 274, 
+            "EndOffset": 289
+        }, 
+        {
+            "Text": "the latest Intel Xeon processors", 
+            "Score": 0.98905348777771, 
+            "BeginOffset": 293, 
+            "EndOffset": 325
+        }, 
+        {
+            "Text": "all that sort", 
+            "Score": 0.8653993010520935, 
+            "BeginOffset": 360, 
+            "EndOffset": 373
+        }, 
+        {
+            "Text": "thing", 
+            "Score": 0.7188787460327148, 
+            "BeginOffset": 377, 
+            "EndOffset": 382
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.9012131690979004, 
+            "BeginOffset": 383, 
+            "EndOffset": 385
+        }, 
+        {
+            "Text": "good news", 
+            "Score": 0.9727129936218262, 
+            "BeginOffset": 395, 
+            "EndOffset": 404
+        }, 
+        {
+            "Text": "these instances", 
+            "Score": 0.9994233250617981, 
+            "BeginOffset": 428, 
+            "EndOffset": 443
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9944940805435181, 
+            "BeginOffset": 454, 
+            "EndOffset": 464
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.8926630020141602, 
+            "BeginOffset": 487, 
+            "EndOffset": 495
+        }, 
+        {
+            "Text": "supply constrained regions", 
+            "Score": 0.9569617509841919, 
+            "BeginOffset": 499, 
+            "EndOffset": 525
+        }, 
+        {
+            "Text": "new instance types", 
+            "Score": 0.9937795996665955, 
+            "BeginOffset": 532, 
+            "EndOffset": 550
+        }, 
+        {
+            "Text": "all the time", 
+            "Score": 0.9954116940498352, 
+            "BeginOffset": 564, 
+            "EndOffset": 576
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.9688259959220886, 
+            "BeginOffset": 603, 
+            "EndOffset": 611
+        }, 
+        {
+            "Text": "the really interesting part", 
+            "Score": 0.9655250310897827, 
+            "BeginOffset": 629, 
+            "EndOffset": 656
+        }, 
+        {
+            "Text": "the new hypervisor", 
+            "Score": 0.9973210096359253, 
+            "BeginOffset": 660, 
+            "EndOffset": 678
+        }, 
+        {
+            "Text": "all future instance types", 
+            "Score": 0.9613012671470642, 
+            "BeginOffset": 711, 
+            "EndOffset": 736
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.7478187680244446, 
+            "BeginOffset": 736, 
+            "EndOffset": 739
+        }, 
+        {
+            "Text": "existing types", 
+            "Score": 0.8950563073158264, 
+            "BeginOffset": 745, 
+            "EndOffset": 759
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7945367097854614, 
+            "BeginOffset": 760, 
+            "EndOffset": 763
+        }, 
+        {
+            "Text": "the Xen hypervisor", 
+            "Score": 0.9966723918914795, 
+            "BeginOffset": 769, 
+            "EndOffset": 787
+        }, 
+        {
+            "Text": "the new one", 
+            "Score": 0.9986206293106079, 
+            "BeginOffset": 793, 
+            "EndOffset": 804
+        }, 
+        {
+            "Text": "KVM", 
+            "Score": 0.9945745468139648, 
+            "BeginOffset": 817, 
+            "EndOffset": 820
+        }, 
+        {
+            "Text": "The switch", 
+            "Score": 0.9778749346733093, 
+            "BeginOffset": 822, 
+            "EndOffset": 832
+        }, 
+        {
+            "Text": "a new custom-built hypervisor", 
+            "Score": 0.9453796744346619, 
+            "BeginOffset": 836, 
+            "EndOffset": 865
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9992783069610596, 
+            "BeginOffset": 897, 
+            "EndOffset": 902
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9853774309158325, 
+            "BeginOffset": 906, 
+            "EndOffset": 910
+        }, 
+        {
+            "Text": "improved performance and utilization", 
+            "Score": 0.6372831463813782, 
+            "BeginOffset": 941, 
+            "EndOffset": 977
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9989656209945679, 
+            "BeginOffset": 979, 
+            "EndOffset": 982
+        }, 
+        {
+            "Text": "multiple sessions", 
+            "Score": 0.9954991340637207, 
+            "BeginOffset": 992, 
+            "EndOffset": 1009
+        }, 
+        {
+            "Text": "Invent", 
+            "Score": 0.9977089166641235, 
+            "BeginOffset": 1016, 
+            "EndOffset": 1022
+        }, 
+        {
+            "Text": "the technical details", 
+            "Score": 0.9236739277839661, 
+            "BeginOffset": 1029, 
+            "EndOffset": 1050
+        }, 
+        {
+            "Text": "this new proprietary hypervisor", 
+            "Score": 0.9990290999412537, 
+            "BeginOffset": 1054, 
+            "EndOffset": 1085
+        }, 
+        {
+            "Text": "those videos", 
+            "Score": 0.9814020991325378, 
+            "BeginOffset": 1123, 
+            "EndOffset": 1135
+        }, 
+        {
+            "Text": "AWS PRIVATELINK", 
+            "Score": 0.9417651295661926, 
+            "BeginOffset": 1167, 
+            "EndOffset": 1182
+        }, 
+        {
+            "Text": "a mix", 
+            "Score": 0.9427173733711243, 
+            "BeginOffset": 1197, 
+            "EndOffset": 1202
+        }, 
+        {
+            "Text": "in-VPC", 
+            "Score": 0.9355533719062805, 
+            "BeginOffset": 1211, 
+            "EndOffset": 1217
+        }, 
+        {
+            "Text": "non-VPC services", 
+            "Score": 0.8604495525360107, 
+            "BeginOffset": 1222, 
+            "EndOffset": 1238
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9973343014717102, 
+            "BeginOffset": 1242, 
+            "EndOffset": 1245
+        }, 
+        {
+            "Text": "the non-VPC services", 
+            "Score": 0.9957326650619507, 
+            "BeginOffset": 1283, 
+            "EndOffset": 1303
+        }, 
+        {
+            "Text": "the public Internet", 
+            "Score": 0.9978957772254944, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1328
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9891857504844666, 
+            "BeginOffset": 1346, 
+            "EndOffset": 1354
+        }, 
+        {
+            "Text": "years", 
+            "Score": 0.9996234774589539, 
+            "BeginOffset": 1358, 
+            "EndOffset": 1363
+        }, 
+        {
+            "Text": "S3", 
+            "Score": 0.9855759143829346, 
+            "BeginOffset": 1372, 
+            "EndOffset": 1374
+        }, 
+        {
+            "Text": "VPC Endpoints", 
+            "Score": 0.9976953268051147, 
+            "BeginOffset": 1380, 
+            "EndOffset": 1393
+        }, 
+        {
+            "Text": "earlier this year", 
+            "Score": 0.9590034484863281, 
+            "BeginOffset": 1399, 
+            "EndOffset": 1416
+        }, 
+        {
+            "Text": "DynamoDB", 
+            "Score": 0.9989656805992126, 
+            "BeginOffset": 1421, 
+            "EndOffset": 1429
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9899469614028931, 
+            "BeginOffset": 1447, 
+            "EndOffset": 1452
+        }, 
+        {
+            "Text": "other services", 
+            "Score": 0.9998437762260437, 
+            "BeginOffset": 1456, 
+            "EndOffset": 1470
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.998805582523346, 
+            "BeginOffset": 1491, 
+            "EndOffset": 1494
+        }, 
+        {
+            "Text": "PrivateLink", 
+            "Score": 0.9997609257698059, 
+            "BeginOffset": 1532, 
+            "EndOffset": 1543
+        }, 
+        {
+            "Text": "The difference", 
+            "Score": 0.9902466535568237, 
+            "BeginOffset": 1546, 
+            "EndOffset": 1560
+        }, 
+        {
+            "Text": "PrivateLinks", 
+            "Score": 0.9986591339111328, 
+            "BeginOffset": 1569, 
+            "EndOffset": 1581
+        }, 
+        {
+            "Text": "old-style", 
+            "Score": 0.7366625070571899, 
+            "BeginOffset": 1587, 
+            "EndOffset": 1596
+        }, 
+        {
+            "Text": "Endpoints", 
+            "Score": 0.5108162760734558, 
+            "BeginOffset": 1598, 
+            "EndOffset": 1607
+        }, 
+        {
+            "Text": "Endpoints", 
+            "Score": 0.9717022776603699, 
+            "BeginOffset": 1660, 
+            "EndOffset": 1669
+        }, 
+        {
+            "Text": "PrivateLinks", 
+            "Score": 0.9992794394493103, 
+            "BeginOffset": 1675, 
+            "EndOffset": 1687
+        }, 
+        {
+            "Text": "Interfaces", 
+            "Score": 0.987052857875824, 
+            "BeginOffset": 1699, 
+            "EndOffset": 1709
+        }, 
+        {
+            "Text": "the existing method", 
+            "Score": 0.9851197600364685, 
+            "BeginOffset": 1716, 
+            "EndOffset": 1735
+        }, 
+        {
+            "Text": "Gateways", 
+            "Score": 0.9995418190956116, 
+            "BeginOffset": 1747, 
+            "EndOffset": 1755
+        }, 
+        {
+            "Text": "The main difference", 
+            "Score": 0.9945714473724365, 
+            "BeginOffset": 1757, 
+            "EndOffset": 1776
+        }, 
+        {
+            "Text": "An Endpoint Gateway", 
+            "Score": 0.9980297088623047, 
+            "BeginOffset": 1807, 
+            "EndOffset": 1826
+        }, 
+        {
+            "Text": "other VPC Gateways", 
+            "Score": 0.9930705428123474, 
+            "BeginOffset": 1841, 
+            "EndOffset": 1859
+        }, 
+        {
+            "Text": "a virtual bridge", 
+            "Score": 0.998206615447998, 
+            "BeginOffset": 1866, 
+            "EndOffset": 1882
+        }, 
+        {
+            "Text": "2 things", 
+            "Score": 0.997046947479248, 
+            "BeginOffset": 1891, 
+            "EndOffset": 1899
+        }, 
+        {
+            "Text": "your routing", 
+            "Score": 0.9982129335403442, 
+            "BeginOffset": 1919, 
+            "EndOffset": 1931
+        }, 
+        {
+            "Text": "Endpoint Interfaces", 
+            "Score": 0.6761234402656555, 
+            "BeginOffset": 1951, 
+            "EndOffset": 1970
+        }, 
+        {
+            "Text": "the other hand", 
+            "Score": 0.9538851380348206, 
+            "BeginOffset": 1974, 
+            "EndOffset": 1988
+        }, 
+        {
+            "Text": "an ENI", 
+            "Score": 0.9990494251251221, 
+            "BeginOffset": 2001, 
+            "EndOffset": 2007
+        }, 
+        {
+            "Text": "your VPC", 
+            "Score": 0.9988085031509399, 
+            "BeginOffset": 2011, 
+            "EndOffset": 2019
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9908990263938904, 
+            "BeginOffset": 2032, 
+            "EndOffset": 2037
+        }, 
+        {
+            "Text": "Elasticsearch", 
+            "Score": 0.9890188574790955, 
+            "BeginOffset": 2060, 
+            "EndOffset": 2073
+        }, 
+        {
+            "Text": "These ENIs", 
+            "Score": 0.9970452785491943, 
+            "BeginOffset": 2075, 
+            "EndOffset": 2085
+        }, 
+        {
+            "Text": "an IP address", 
+            "Score": 0.9800558090209961, 
+            "BeginOffset": 2096, 
+            "EndOffset": 2109
+        }, 
+        {
+            "Text": "several CNAMEs", 
+            "Score": 0.9917368292808533, 
+            "BeginOffset": 2114, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "the underlying service", 
+            "Score": 0.991093635559082, 
+            "BeginOffset": 2151, 
+            "EndOffset": 2173
+        }, 
+        {
+            "Text": "ENIs", 
+            "Score": 0.9984942078590393, 
+            "BeginOffset": 2188, 
+            "EndOffset": 2192
+        }, 
+        {
+            "Text": "access control works", 
+            "Score": 0.8244628310203552, 
+            "BeginOffset": 2205, 
+            "EndOffset": 2225
+        }, 
+        {
+            "Text": "security groups", 
+            "Score": 0.8002250790596008, 
+            "BeginOffset": 2234, 
+            "EndOffset": 2249
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9971694350242615, 
+            "BeginOffset": 2255, 
+            "EndOffset": 2265
+        }, 
+        {
+            "Text": "the services", 
+            "Score": 0.9976693987846375, 
+            "BeginOffset": 2266, 
+            "EndOffset": 2278
+        }, 
+        {
+            "Text": "private API calls", 
+            "Score": 0.9288355112075806, 
+            "BeginOffset": 2340, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "your VPC", 
+            "Score": 0.9740537405014038, 
+            "BeginOffset": 2371, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "a good step", 
+            "Score": 0.9941142797470093, 
+            "BeginOffset": 2395, 
+            "EndOffset": 2406
+        }, 
+        {
+            "Text": "private API Gateways", 
+            "Score": 0.9920596480369568, 
+            "BeginOffset": 2456, 
+            "EndOffset": 2476
+        }, 
+        {
+            "Text": "GCP DNSSEC\n\n\nGoogle", 
+            "Score": 0.9825701713562012, 
+            "BeginOffset": 2481, 
+            "EndOffset": 2500
+        }, 
+        {
+            "Text": "the first major cloud provider", 
+            "Score": 0.9957807064056396, 
+            "BeginOffset": 2513, 
+            "EndOffset": 2543
+        }, 
+        {
+            "Text": "DNSSEC", 
+            "Score": 0.9973419308662415, 
+            "BeginOffset": 2555, 
+            "EndOffset": 2561
+        }, 
+        {
+            "Text": "the domains", 
+            "Score": 0.9663693308830261, 
+            "BeginOffset": 2566, 
+            "EndOffset": 2577
+        }, 
+        {
+            "Text": "Domain Name System Security Extensions", 
+            "Score": 0.9867798089981079, 
+            "BeginOffset": 2590, 
+            "EndOffset": 2628
+        }, 
+        {
+            "Text": "a set", 
+            "Score": 0.9855988025665283, 
+            "BeginOffset": 2633, 
+            "EndOffset": 2638
+        }, 
+        {
+            "Text": "specifications", 
+            "Score": 0.9987040162086487, 
+            "BeginOffset": 2642, 
+            "EndOffset": 2656
+        }, 
+        {
+            "Text": "the validity", 
+            "Score": 0.9982131123542786, 
+            "BeginOffset": 2670, 
+            "EndOffset": 2682
+        }, 
+        {
+            "Text": "your domain", 
+            "Score": 0.9989085793495178, 
+            "BeginOffset": 2686, 
+            "EndOffset": 2697
+        }, 
+        {
+            "Text": "DNS servers", 
+            "Score": 0.9799404144287109, 
+            "BeginOffset": 2726, 
+            "EndOffset": 2737
+        }, 
+        {
+            "Text": "the DNS information", 
+            "Score": 0.9989438056945801, 
+            "BeginOffset": 2766, 
+            "EndOffset": 2785
+        }, 
+        {
+            "Text": "each layer", 
+            "Score": 0.9849438071250916, 
+            "BeginOffset": 2822, 
+            "EndOffset": 2832
+        }, 
+        {
+            "Text": "the chances", 
+            "Score": 0.9944818019866943, 
+            "BeginOffset": 2851, 
+            "EndOffset": 2862
+        }, 
+        {
+            "Text": "man-in-the-middle and other attacks", 
+            "Score": 0.9580610990524292, 
+            "BeginOffset": 2866, 
+            "EndOffset": 2901
+        }, 
+        {
+            "Text": "a very useful security feature", 
+            "Score": 0.9787605404853821, 
+            "BeginOffset": 2909, 
+            "EndOffset": 2939
+        }, 
+        {
+            "Text": "the good people", 
+            "Score": 0.8504900932312012, 
+            "BeginOffset": 2958, 
+            "EndOffset": 2973
+        }, 
+        {
+            "Text": "CloudFlare", 
+            "Score": 0.9490824937820435, 
+            "BeginOffset": 2977, 
+            "EndOffset": 2987
+        }, 
+        {
+            "Text": "a far better explanation", 
+            "Score": 0.9956504702568054, 
+            "BeginOffset": 2993, 
+            "EndOffset": 3017
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9999207854270935, 
+            "BeginOffset": 3070, 
+            "EndOffset": 3073
+        }, 
+        {
+            "Text": "all the tech-specs", 
+            "Score": 0.7480838894844055, 
+            "BeginOffset": 3078, 
+            "EndOffset": 3096
+        }, 
+        {
+            "Text": "the link", 
+            "Score": 0.9385553002357483, 
+            "BeginOffset": 3109, 
+            "EndOffset": 3117
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9675975441932678, 
+            "BeginOffset": 3120, 
+            "EndOffset": 3123
+        }, 
+        {
+            "Text": "the near future", 
+            "Score": 0.8631147742271423, 
+            "BeginOffset": 3127, 
+            "EndOffset": 3142
+        }, 
+        {
+            "Text": "some new types", 
+            "Score": 0.9859805107116699, 
+            "BeginOffset": 3162, 
+            "EndOffset": 3176
+        }, 
+        {
+            "Text": "Xen", 
+            "Score": 0.9989845752716064, 
+            "BeginOffset": 3183, 
+            "EndOffset": 3186
+        }, 
+        {
+            "Text": "long term", 
+            "Score": 0.9990364909172058, 
+            "BeginOffset": 3192, 
+            "EndOffset": 3201
+        }, 
+        {
+            "Text": "the new hypervisor", 
+            "Score": 0.8788421750068665, 
+            "BeginOffset": 3222, 
+            "EndOffset": 3240
+        }
+    ]
+}

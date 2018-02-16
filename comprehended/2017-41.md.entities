@@ -1,0 +1,263 @@
+{
+    "Entities": [
+        {
+            "Text": "Oracle", 
+            "Score": 0.933057427406311, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 38, 
+            "EndOffset": 44
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9670299887657166, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 84, 
+            "EndOffset": 90
+        }, 
+        {
+            "Text": "ORACLE", 
+            "Score": 0.6815406084060669, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 95, 
+            "EndOffset": 101
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.8733314275741577, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 128, 
+            "EndOffset": 134
+        }, 
+        {
+            "Text": "OpenJDK", 
+            "Score": 0.48409849405288696, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 226, 
+            "EndOffset": 233
+        }, 
+        {
+            "Text": "Java 9", 
+            "Score": 0.5455282926559448, 
+            "Type": "TITLE", 
+            "BeginOffset": 248, 
+            "EndOffset": 254
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.8691962957382202, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 542, 
+            "EndOffset": 547
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9415492415428162, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 554, 
+            "EndOffset": 560
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.4624842703342438, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 617, 
+            "EndOffset": 627
+        }, 
+        {
+            "Text": "secondly", 
+            "Score": 0.5180392265319824, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 675, 
+            "EndOffset": 683
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.6871799826622009, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 768, 
+            "EndOffset": 775
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.8656075596809387, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 940, 
+            "EndOffset": 946
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999979734420776, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1005, 
+            "EndOffset": 1012
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.999752938747406, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1047, 
+            "EndOffset": 1054
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9995682835578918, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1191, 
+            "EndOffset": 1197
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999978542327881, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1252, 
+            "EndOffset": 1259
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9999597072601318, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1317, 
+            "EndOffset": 1323
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999083280563354, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1460, 
+            "EndOffset": 1466
+        }, 
+        {
+            "Text": "Pixel", 
+            "Score": 0.9999092817306519, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1495, 
+            "EndOffset": 1500
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999948740005493, 
+            "Type": "TITLE", 
+            "BeginOffset": 1593, 
+            "EndOffset": 1600
+        }, 
+        {
+            "Text": "Pixel Buds", 
+            "Score": 0.9718780517578125, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1683, 
+            "EndOffset": 1693
+        }, 
+        {
+            "Text": "AirPods", 
+            "Score": 0.999980092048645, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1733, 
+            "EndOffset": 1740
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999961853027344, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1802, 
+            "EndOffset": 1808
+        }, 
+        {
+            "Text": "Pixelbook", 
+            "Score": 0.9988787770271301, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2059, 
+            "EndOffset": 2068
+        }, 
+        {
+            "Text": "Chromebook", 
+            "Score": 0.585803747177124, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2080, 
+            "EndOffset": 2090
+        }, 
+        {
+            "Text": "iPad Pro", 
+            "Score": 0.9999671578407288, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2131, 
+            "EndOffset": 2139
+        }, 
+        {
+            "Text": "5", 
+            "Score": 0.999586284160614, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2140, 
+            "EndOffset": 2141
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9978978633880615, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2180, 
+            "EndOffset": 2185
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9999983310699463, 
+            "Type": "TITLE", 
+            "BeginOffset": 2282, 
+            "EndOffset": 2293
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999823570251465, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2313, 
+            "EndOffset": 2319
+        }, 
+        {
+            "Text": "Clips", 
+            "Score": 0.9999642372131348, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2320, 
+            "EndOffset": 2325
+        }, 
+        {
+            "Text": "two", 
+            "Score": 0.9999920129776001, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2811, 
+            "EndOffset": 2814
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2892, 
+            "EndOffset": 2898
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9975993037223816, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3022, 
+            "EndOffset": 3025
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.898679792881012, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3067, 
+            "EndOffset": 3072
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999953508377075, 
+            "Type": "TITLE", 
+            "BeginOffset": 3097, 
+            "EndOffset": 3104
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.999860405921936, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3125, 
+            "EndOffset": 3130
+        }
+    ]
+}

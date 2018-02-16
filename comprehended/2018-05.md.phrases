@@ -1,0 +1,622 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "older things", 
+            "Score": 0.840335488319397, 
+            "BeginOffset": 23, 
+            "EndOffset": 35
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9975619912147522, 
+            "BeginOffset": 36, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "more Meltdown and Spectre", 
+            "Score": 0.8764931559562683, 
+            "BeginOffset": 52, 
+            "EndOffset": 77
+        }, 
+        {
+            "Text": "Amazon Go", 
+            "Score": 0.9779160022735596, 
+            "BeginOffset": 79, 
+            "EndOffset": 88
+        }, 
+        {
+            "Text": "smart speakers", 
+            "Score": 0.991631269454956, 
+            "BeginOffset": 94, 
+            "EndOffset": 108
+        }, 
+        {
+            "Text": "Today", 
+            "Score": 0.9935510158538818, 
+            "BeginOffset": 111, 
+            "EndOffset": 116
+        }, 
+        {
+            "Text": "update", 
+            "Score": 0.989825963973999, 
+            "BeginOffset": 119, 
+            "EndOffset": 125
+        }, 
+        {
+            "Text": "a day", 
+            "Score": 0.9438835382461548, 
+            "BeginOffset": 129, 
+            "EndOffset": 134
+        }, 
+        {
+            "Text": "my video", 
+            "Score": 0.9869704842567444, 
+            "BeginOffset": 182, 
+            "EndOffset": 190
+        }, 
+        {
+            "Text": "Sunday", 
+            "Score": 0.9959207773208618, 
+            "BeginOffset": 194, 
+            "EndOffset": 200
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9847760796546936, 
+            "BeginOffset": 258, 
+            "EndOffset": 263
+        }, 
+        {
+            "Text": "MELTDOWN AND SPECTRE", 
+            "Score": 0.7745973467826843, 
+            "BeginOffset": 268, 
+            "EndOffset": 288
+        }, 
+        {
+            "Text": "This subject", 
+            "Score": 0.9922550320625305, 
+            "BeginOffset": 299, 
+            "EndOffset": 311
+        }, 
+        {
+            "Text": "some things", 
+            "Score": 0.9549972414970398, 
+            "BeginOffset": 389, 
+            "EndOffset": 400
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.94954514503479, 
+            "BeginOffset": 423, 
+            "EndOffset": 428
+        }, 
+        {
+            "Text": "a great job", 
+            "Score": 0.9990582466125488, 
+            "BeginOffset": 450, 
+            "EndOffset": 461
+        }, 
+        {
+            "Text": "their initial set", 
+            "Score": 0.9993289709091187, 
+            "BeginOffset": 465, 
+            "EndOffset": 482
+        }, 
+        {
+            "Text": "patches", 
+            "Score": 0.9994109869003296, 
+            "BeginOffset": 486, 
+            "EndOffset": 493
+        }, 
+        {
+            "Text": "their customers", 
+            "Score": 0.9993985295295715, 
+            "BeginOffset": 507, 
+            "EndOffset": 522
+        }, 
+        {
+            "Text": "cloud providers", 
+            "Score": 0.996376633644104, 
+            "BeginOffset": 534, 
+            "EndOffset": 549
+        }, 
+        {
+            "Text": "the patches", 
+            "Score": 0.9969666600227356, 
+            "BeginOffset": 569, 
+            "EndOffset": 580
+        }, 
+        {
+            "Text": "the patches", 
+            "Score": 0.9976804852485657, 
+            "BeginOffset": 593, 
+            "EndOffset": 604
+        }, 
+        {
+            "Text": "some computers", 
+            "Score": 0.9956051707267761, 
+            "BeginOffset": 612, 
+            "EndOffset": 626
+        }, 
+        {
+            "Text": "rebooting", 
+            "Score": 0.7738505601882935, 
+            "BeginOffset": 647, 
+            "EndOffset": 656
+        }, 
+        {
+            "Text": "some people", 
+            "Score": 0.9988909959793091, 
+            "BeginOffset": 689, 
+            "EndOffset": 700
+        }, 
+        {
+            "Text": "their opinion", 
+            "Score": 0.9901666045188904, 
+            "BeginOffset": 725, 
+            "EndOffset": 738
+        }, 
+        {
+            "Text": "the other hand", 
+            "Score": 0.9985953569412231, 
+            "BeginOffset": 744, 
+            "EndOffset": 758
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9984700083732605, 
+            "BeginOffset": 760, 
+            "EndOffset": 765
+        }, 
+        {
+            "Text": "new chips", 
+            "Score": 0.9972785115242004, 
+            "BeginOffset": 801, 
+            "EndOffset": 810
+        }, 
+        {
+            "Text": "later this year", 
+            "Score": 0.8467445373535156, 
+            "BeginOffset": 821, 
+            "EndOffset": 836
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9906400442123413, 
+            "BeginOffset": 967, 
+            "EndOffset": 972
+        }, 
+        {
+            "Text": "design changes", 
+            "Score": 0.9997784495353699, 
+            "BeginOffset": 976, 
+            "EndOffset": 990
+        }, 
+        {
+            "Text": "these new chips", 
+            "Score": 0.9832240343093872, 
+            "BeginOffset": 994, 
+            "EndOffset": 1009
+        }, 
+        {
+            "Text": "a late stage", 
+            "Score": 0.9947659969329834, 
+            "BeginOffset": 1027, 
+            "EndOffset": 1039
+        }, 
+        {
+            "Text": "the bugs", 
+            "Score": 0.9626258611679077, 
+            "BeginOffset": 1089, 
+            "EndOffset": 1097
+        }, 
+        {
+            "Text": "this fix", 
+            "Score": 0.9993187785148621, 
+            "BeginOffset": 1122, 
+            "EndOffset": 1130
+        }, 
+        {
+            "Text": "their promise", 
+            "Score": 0.9953470826148987, 
+            "BeginOffset": 1200, 
+            "EndOffset": 1213
+        }, 
+        {
+            "Text": "AMAZON", 
+            "Score": 0.990315854549408, 
+            "BeginOffset": 1228, 
+            "EndOffset": 1234
+        }, 
+        {
+            "Text": "The first Amazon Go store", 
+            "Score": 0.9031151533126831, 
+            "BeginOffset": 1240, 
+            "EndOffset": 1265
+        }, 
+        {
+            "Text": "the public", 
+            "Score": 0.9946480989456177, 
+            "BeginOffset": 1280, 
+            "EndOffset": 1290
+        }, 
+        {
+            "Text": "The premise", 
+            "Score": 0.982669472694397, 
+            "BeginOffset": 1328, 
+            "EndOffset": 1339
+        }, 
+        {
+            "Text": "Amazon Go", 
+            "Score": 0.9997511506080627, 
+            "BeginOffset": 1343, 
+            "EndOffset": 1352
+        }, 
+        {
+            "Text": "any cashiers", 
+            "Score": 0.9870046973228455, 
+            "BeginOffset": 1368, 
+            "EndOffset": 1380
+        }, 
+        {
+            "Text": "the cameras", 
+            "Score": 0.9903603792190552, 
+            "BeginOffset": 1422, 
+            "EndOffset": 1433
+        }, 
+        {
+            "Text": "ReCode", 
+            "Score": 0.9977354407310486, 
+            "BeginOffset": 1448, 
+            "EndOffset": 1454
+        }, 
+        {
+            "Text": "a photo tour", 
+            "Score": 0.9661614894866943, 
+            "BeginOffset": 1464, 
+            "EndOffset": 1476
+        }, 
+        {
+            "Text": "the store", 
+            "Score": 0.9981817603111267, 
+            "BeginOffset": 1480, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "a technology perspective", 
+            "Score": 0.9297300577163696, 
+            "BeginOffset": 1500, 
+            "EndOffset": 1524
+        }, 
+        {
+            "Text": "the many cameras", 
+            "Score": 0.9958534240722656, 
+            "BeginOffset": 1551, 
+            "EndOffset": 1567
+        }, 
+        {
+            "Text": "the machine", 
+            "Score": 0.9592013359069824, 
+            "BeginOffset": 1582, 
+            "EndOffset": 1593
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9992678761482239, 
+            "BeginOffset": 1656, 
+            "EndOffset": 1662
+        }, 
+        {
+            "Text": "person", 
+            "Score": 0.9992915391921997, 
+            "BeginOffset": 1672, 
+            "EndOffset": 1678
+        }, 
+        {
+            "Text": "any time", 
+            "Score": 0.9892897605895996, 
+            "BeginOffset": 1679, 
+            "EndOffset": 1687
+        }, 
+        {
+            "Text": "an idea", 
+            "Score": 0.9970109462738037, 
+            "BeginOffset": 1717, 
+            "EndOffset": 1724
+        }, 
+        {
+            "Text": "the Amazon Go", 
+            "Score": 0.9986287951469421, 
+            "BeginOffset": 1768, 
+            "EndOffset": 1781
+        }, 
+        {
+            "Text": "the Future article", 
+            "Score": 0.9980653524398804, 
+            "BeginOffset": 1786, 
+            "EndOffset": 1804
+        }, 
+        {
+            "Text": "Stratechery", 
+            "Score": 0.9956112504005432, 
+            "BeginOffset": 1808, 
+            "EndOffset": 1819
+        }, 
+        {
+            "Text": "APPLE HOMEPOD\n\n\nApple", 
+            "Score": 0.9775744676589966, 
+            "BeginOffset": 1824, 
+            "EndOffset": 1845
+        }, 
+        {
+            "Text": "the HomePod", 
+            "Score": 0.9963915348052979, 
+            "BeginOffset": 1856, 
+            "EndOffset": 1867
+        }, 
+        {
+            "Text": "imminent arrival", 
+            "Score": 0.9954195618629456, 
+            "BeginOffset": 1870, 
+            "EndOffset": 1886
+        }, 
+        {
+            "Text": "pre-order", 
+            "Score": 0.9954890608787537, 
+            "BeginOffset": 1915, 
+            "EndOffset": 1924
+        }, 
+        {
+            "Text": "the lucky countries", 
+            "Score": 0.997252345085144, 
+            "BeginOffset": 1968, 
+            "EndOffset": 1987
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9983593821525574, 
+            "BeginOffset": 1987, 
+            "EndOffset": 1990
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9961534142494202, 
+            "BeginOffset": 2004, 
+            "EndOffset": 2009
+        }, 
+        {
+            "Text": "only a couple", 
+            "Score": 0.9711650013923645, 
+            "BeginOffset": 2029, 
+            "EndOffset": 2042
+        }, 
+        {
+            "Text": "reviews", 
+            "Score": 0.5895182490348816, 
+            "BeginOffset": 2046, 
+            "EndOffset": 2053
+        }, 
+        {
+            "Text": "about 1 hour", 
+            "Score": 0.860571563243866, 
+            "BeginOffset": 2085, 
+            "EndOffset": 2097
+        }, 
+        {
+            "Text": "supervised access", 
+            "Score": 0.9693883061408997, 
+            "BeginOffset": 2101, 
+            "EndOffset": 2118
+        }, 
+        {
+            "Text": "the device", 
+            "Score": 0.9934518933296204, 
+            "BeginOffset": 2122, 
+            "EndOffset": 2132
+        }, 
+        {
+            "Text": "the sound", 
+            "Score": 0.9844955205917358, 
+            "BeginOffset": 2222, 
+            "EndOffset": 2231
+        }, 
+        {
+            "Text": "music", 
+            "Score": 0.9940126538276672, 
+            "BeginOffset": 2277, 
+            "EndOffset": 2282
+        }, 
+        {
+            "Text": "a selling point", 
+            "Score": 0.8976043462753296, 
+            "BeginOffset": 2296, 
+            "EndOffset": 2311
+        }, 
+        {
+            "Text": "The part", 
+            "Score": 0.9295881986618042, 
+            "BeginOffset": 2313, 
+            "EndOffset": 2321
+        }, 
+        {
+            "Text": "the Siri integration", 
+            "Score": 0.9957432746887207, 
+            "BeginOffset": 2346, 
+            "EndOffset": 2366
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9921010136604309, 
+            "BeginOffset": 2409, 
+            "EndOffset": 2414
+        }, 
+        {
+            "Text": "the competition", 
+            "Score": 0.9949671626091003, 
+            "BeginOffset": 2433, 
+            "EndOffset": 2448
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9978992342948914, 
+            "BeginOffset": 2467, 
+            "EndOffset": 2473
+        }, 
+        {
+            "Text": "the Echo", 
+            "Score": 0.9867759943008423, 
+            "BeginOffset": 2484, 
+            "EndOffset": 2492
+        }, 
+        {
+            "Text": "sale", 
+            "Score": 0.9734390377998352, 
+            "BeginOffset": 2507, 
+            "EndOffset": 2511
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9662343263626099, 
+            "BeginOffset": 2520, 
+            "EndOffset": 2529
+        }, 
+        {
+            "Text": "the 3 countries", 
+            "Score": 0.9971405267715454, 
+            "BeginOffset": 2574, 
+            "EndOffset": 2589
+        }, 
+        {
+            "Text": "the Google Home", 
+            "Score": 0.9635973572731018, 
+            "BeginOffset": 2625, 
+            "EndOffset": 2640
+        }, 
+        {
+            "Text": "my toes", 
+            "Score": 0.9042916893959045, 
+            "BeginOffset": 2680, 
+            "EndOffset": 2687
+        }, 
+        {
+            "Text": "this world", 
+            "Score": 0.9966409802436829, 
+            "BeginOffset": 2693, 
+            "EndOffset": 2703
+        }, 
+        {
+            "Text": "a speaker", 
+            "Score": 0.9997658729553223, 
+            "BeginOffset": 2710, 
+            "EndOffset": 2719
+        }, 
+        {
+            "Text": "my every move", 
+            "Score": 0.9997167587280273, 
+            "BeginOffset": 2738, 
+            "EndOffset": 2751
+        }, 
+        {
+            "Text": "some company", 
+            "Score": 0.9218637347221375, 
+            "BeginOffset": 2772, 
+            "EndOffset": 2784
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9995041489601135, 
+            "BeginOffset": 2843, 
+            "EndOffset": 2848
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9522176384925842, 
+            "BeginOffset": 2885, 
+            "EndOffset": 2891
+        }, 
+        {
+            "Text": "the 9th", 
+            "Score": 0.9716513752937317, 
+            "BeginOffset": 2923, 
+            "EndOffset": 2930
+        }, 
+        {
+            "Text": "shipping", 
+            "Score": 0.9999376535415649, 
+            "BeginOffset": 2939, 
+            "EndOffset": 2947
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.9581126570701599, 
+            "BeginOffset": 2958, 
+            "EndOffset": 2969
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.9963072538375854, 
+            "BeginOffset": 2970, 
+            "EndOffset": 2972
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9989336133003235, 
+            "BeginOffset": 3028, 
+            "EndOffset": 3030
+        }, 
+        {
+            "Text": "The US", 
+            "Score": 0.998762845993042, 
+            "BeginOffset": 3032, 
+            "EndOffset": 3038
+        }, 
+        {
+            "Text": "UK", 
+            "Score": 0.6480810642242432, 
+            "BeginOffset": 3040, 
+            "EndOffset": 3042
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9834463000297546, 
+            "BeginOffset": 3048, 
+            "EndOffset": 3057
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9934555888175964, 
+            "BeginOffset": 3060, 
+            "EndOffset": 3063
+        }, 
+        {
+            "Text": "fun", 
+            "Score": 0.8488585352897644, 
+            "BeginOffset": 3073, 
+            "EndOffset": 3076
+        }, 
+        {
+            "Text": "that estimate", 
+            "Score": 0.7997212409973145, 
+            "BeginOffset": 3080, 
+            "EndOffset": 3093
+        }, 
+        {
+            "Text": "50km", 
+            "Score": 0.9987530708312988, 
+            "BeginOffset": 3107, 
+            "EndOffset": 3111
+        }, 
+        {
+            "Text": "Australia Post", 
+            "Score": 0.9604536294937134, 
+            "BeginOffset": 3129, 
+            "EndOffset": 3143
+        }, 
+        {
+            "Text": "speed", 
+            "Score": 0.9888948202133179, 
+            "BeginOffset": 3146, 
+            "EndOffset": 3151
+        }
+    ]
+}

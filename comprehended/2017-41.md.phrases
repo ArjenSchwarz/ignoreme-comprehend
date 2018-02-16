@@ -1,0 +1,616 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "An application development", 
+            "Score": 0.9529702067375183, 
+            "BeginOffset": 0, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "Oracle and new Pixels", 
+            "Score": 0.9074516296386719, 
+            "BeginOffset": 38, 
+            "EndOffset": 59
+        }, 
+        {
+            "Text": "other hardware", 
+            "Score": 0.9978717565536499, 
+            "BeginOffset": 64, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9923049807548523, 
+            "BeginOffset": 84, 
+            "EndOffset": 90
+        }, 
+        {
+            "Text": "ORACLE’S APPLICATION DEV STACK\n\n\nOracle", 
+            "Score": 0.9438941478729248, 
+            "BeginOffset": 95, 
+            "EndOffset": 134
+        }, 
+        {
+            "Text": "an event", 
+            "Score": 0.9996508359909058, 
+            "BeginOffset": 140, 
+            "EndOffset": 148
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9995542168617249, 
+            "BeginOffset": 173, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.999436616897583, 
+            "BeginOffset": 185, 
+            "EndOffset": 191
+        }, 
+        {
+            "Text": "OpenJDK", 
+            "Score": 0.9706661105155945, 
+            "BeginOffset": 226, 
+            "EndOffset": 233
+        }, 
+        {
+            "Text": "their new Java 9[1]", 
+            "Score": 0.9134120941162109, 
+            "BeginOffset": 238, 
+            "EndOffset": 257
+        }, 
+        {
+            "Text": "an open source Serverless solution", 
+            "Score": 0.9511869549751282, 
+            "BeginOffset": 259, 
+            "EndOffset": 293
+        }, 
+        {
+            "Text": "The most interesting one", 
+            "Score": 0.9874657988548279, 
+            "BeginOffset": 305, 
+            "EndOffset": 329
+        }, 
+        {
+            "Text": "their new application development stack", 
+            "Score": 0.9780673980712891, 
+            "BeginOffset": 347, 
+            "EndOffset": 386
+        }, 
+        {
+            "Text": "This new stack", 
+            "Score": 0.9987718462944031, 
+            "BeginOffset": 389, 
+            "EndOffset": 403
+        }, 
+        {
+            "Text": "container", 
+            "Score": 0.9082101583480835, 
+            "BeginOffset": 407, 
+            "EndOffset": 416
+        }, 
+        {
+            "Text": "CI/CD", 
+            "Score": 0.7945735454559326, 
+            "BeginOffset": 436, 
+            "EndOffset": 441
+        }, 
+        {
+            "Text": "a container registry", 
+            "Score": 0.9808996319770813, 
+            "BeginOffset": 443, 
+            "EndOffset": 463
+        }, 
+        {
+            "Text": "a managed Kubernetes cluster", 
+            "Score": 0.9776298403739929, 
+            "BeginOffset": 469, 
+            "EndOffset": 497
+        }, 
+        {
+            "Text": "a couple aspects", 
+            "Score": 0.9926360249519348, 
+            "BeginOffset": 524, 
+            "EndOffset": 540
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.7781164646148682, 
+            "BeginOffset": 554, 
+            "EndOffset": 560
+        }, 
+        {
+            "Text": "’s cloud", 
+            "Score": 0.9987135529518127, 
+            "BeginOffset": 560, 
+            "EndOffset": 568
+        }, 
+        {
+            "Text": "other cloud providers", 
+            "Score": 0.9987449049949646, 
+            "BeginOffset": 580, 
+            "EndOffset": 601
+        }, 
+        {
+            "Text": "a managed Kubernetes solution", 
+            "Score": 0.9962697625160217, 
+            "BeginOffset": 607, 
+            "EndOffset": 636
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9654055237770081, 
+            "BeginOffset": 665, 
+            "EndOffset": 668
+        }, 
+        {
+            "Text": "the central CI/CD part", 
+            "Score": 0.9882970452308655, 
+            "BeginOffset": 693, 
+            "EndOffset": 715
+        }, 
+        {
+            "Text": "the stack", 
+            "Score": 0.9982667565345764, 
+            "BeginOffset": 719, 
+            "EndOffset": 728
+        }, 
+        {
+            "Text": "the direction", 
+            "Score": 0.9986092448234558, 
+            "BeginOffset": 739, 
+            "EndOffset": 752
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9916737675666809, 
+            "BeginOffset": 768, 
+            "EndOffset": 775
+        }, 
+        {
+            "Text": "its acquisition", 
+            "Score": 0.9972967505455017, 
+            "BeginOffset": 782, 
+            "EndOffset": 797
+        }, 
+        {
+            "Text": "the event", 
+            "Score": 0.9323066473007202, 
+            "BeginOffset": 873, 
+            "EndOffset": 882
+        }, 
+        {
+            "Text": "their branding", 
+            "Score": 0.9945936799049377, 
+            "BeginOffset": 883, 
+            "EndOffset": 897
+        }, 
+        {
+            "Text": "an Oracle product", 
+            "Score": 0.9104904532432556, 
+            "BeginOffset": 937, 
+            "EndOffset": 954
+        }, 
+        {
+            "Text": "The new development stack", 
+            "Score": 0.9998248815536499, 
+            "BeginOffset": 956, 
+            "EndOffset": 981
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.989659309387207, 
+            "BeginOffset": 1005, 
+            "EndOffset": 1012
+        }, 
+        {
+            "Text": "an existing Wercker account", 
+            "Score": 0.9346418380737305, 
+            "BeginOffset": 1035, 
+            "EndOffset": 1062
+        }, 
+        {
+            "Text": "the beta[3]", 
+            "Score": 0.9574029445648193, 
+            "BeginOffset": 1096, 
+            "EndOffset": 1107
+        }, 
+        {
+            "Text": "an outlet", 
+            "Score": 0.9786726236343384, 
+            "BeginOffset": 1153, 
+            "EndOffset": 1162
+        }, 
+        {
+            "Text": "non-Oracle developers", 
+            "Score": 0.9600422978401184, 
+            "BeginOffset": 1187, 
+            "EndOffset": 1208
+        }, 
+        {
+            "Text": "unconvinced Wercker", 
+            "Score": 0.938416600227356, 
+            "BeginOffset": 1240, 
+            "EndOffset": 1259
+        }, 
+        {
+            "Text": "a separate project", 
+            "Score": 0.8933200836181641, 
+            "BeginOffset": 1281, 
+            "EndOffset": 1299
+        }, 
+        {
+            "Text": "the long run", 
+            "Score": 0.9990524649620056, 
+            "BeginOffset": 1303, 
+            "EndOffset": 1315
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9977352619171143, 
+            "BeginOffset": 1317, 
+            "EndOffset": 1323
+        }, 
+        {
+            "Text": "the right things", 
+            "Score": 0.9971467852592468, 
+            "BeginOffset": 1343, 
+            "EndOffset": 1359
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.998969554901123, 
+            "BeginOffset": 1379, 
+            "EndOffset": 1384
+        }, 
+        {
+            "Text": "more action", 
+            "Score": 0.9439586997032166, 
+            "BeginOffset": 1385, 
+            "EndOffset": 1396
+        }, 
+        {
+            "Text": "PIXELS AND CLIPS\n\n\nGoogle", 
+            "Score": 0.975483775138855, 
+            "BeginOffset": 1441, 
+            "EndOffset": 1466
+        }, 
+        {
+            "Text": "their new line", 
+            "Score": 0.9893186092376709, 
+            "BeginOffset": 1477, 
+            "EndOffset": 1491
+        }, 
+        {
+            "Text": "Pixel hardware", 
+            "Score": 0.999883234500885, 
+            "BeginOffset": 1495, 
+            "EndOffset": 1509
+        }, 
+        {
+            "Text": "The biggest thing", 
+            "Score": 0.9991640448570251, 
+            "BeginOffset": 1511, 
+            "EndOffset": 1528
+        }, 
+        {
+            "Text": "the new phone", 
+            "Score": 0.9194250106811523, 
+            "BeginOffset": 1540, 
+            "EndOffset": 1553
+        }, 
+        {
+            "Text": "the best Android phone", 
+            "Score": 0.9624449014663696, 
+            "BeginOffset": 1584, 
+            "EndOffset": 1606
+        }, 
+        {
+            "Text": "the market", 
+            "Score": 0.9953942894935608, 
+            "BeginOffset": 1610, 
+            "EndOffset": 1620
+        }, 
+        {
+            "Text": "the other products", 
+            "Score": 0.9974961280822754, 
+            "BeginOffset": 1641, 
+            "EndOffset": 1659
+        }, 
+        {
+            "Text": "The Pixel Buds", 
+            "Score": 0.9973373413085938, 
+            "BeginOffset": 1679, 
+            "EndOffset": 1693
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.999430775642395, 
+            "BeginOffset": 1707, 
+            "EndOffset": 1712
+        }, 
+        {
+            "Text": "lessons", 
+            "Score": 0.9997878074645996, 
+            "BeginOffset": 1716, 
+            "EndOffset": 1723
+        }, 
+        {
+            "Text": "the AirPods", 
+            "Score": 0.9997691512107849, 
+            "BeginOffset": 1729, 
+            "EndOffset": 1740
+        }, 
+        {
+            "Text": "a focus", 
+            "Score": 0.8260133862495422, 
+            "BeginOffset": 1791, 
+            "EndOffset": 1798
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9405342936515808, 
+            "BeginOffset": 1802, 
+            "EndOffset": 1808
+        }, 
+        {
+            "Text": "’s strength", 
+            "Score": 0.9982290267944336, 
+            "BeginOffset": 1808, 
+            "EndOffset": 1819
+        }, 
+        {
+            "Text": "a better AI", 
+            "Score": 0.9993042349815369, 
+            "BeginOffset": 1826, 
+            "EndOffset": 1837
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9981985688209534, 
+            "BeginOffset": 1846, 
+            "EndOffset": 1857
+        }, 
+        {
+            "Text": "translation", 
+            "Score": 0.9986426830291748, 
+            "BeginOffset": 1872, 
+            "EndOffset": 1883
+        }, 
+        {
+            "Text": "the fly", 
+            "Score": 0.9990246891975403, 
+            "BeginOffset": 1887, 
+            "EndOffset": 1894
+        }, 
+        {
+            "Text": "a cord", 
+            "Score": 0.9927324652671814, 
+            "BeginOffset": 1968, 
+            "EndOffset": 1974
+        }, 
+        {
+            "Text": "the buds", 
+            "Score": 0.949910581111908, 
+            "BeginOffset": 1983, 
+            "EndOffset": 1991
+        }, 
+        {
+            "Text": "a positive or negative thing", 
+            "Score": 0.9894577860832214, 
+            "BeginOffset": 2025, 
+            "EndOffset": 2053
+        }, 
+        {
+            "Text": "4]", 
+            "Score": 0.995385468006134, 
+            "BeginOffset": 2054, 
+            "EndOffset": 2056
+        }, 
+        {
+            "Text": "Pixelbook", 
+            "Score": 0.4956550598144531, 
+            "BeginOffset": 2059, 
+            "EndOffset": 2068
+        }, 
+        {
+            "Text": "the new Chromebook/tablet hybrid", 
+            "Score": 0.9772533178329468, 
+            "BeginOffset": 2072, 
+            "EndOffset": 2104
+        }, 
+        {
+            "Text": "an iPad Pro[5]", 
+            "Score": 0.9609696269035339, 
+            "BeginOffset": 2128, 
+            "EndOffset": 2142
+        }, 
+        {
+            "Text": "a detachable keyboard", 
+            "Score": 0.941851019859314, 
+            "BeginOffset": 2151, 
+            "EndOffset": 2172
+        }, 
+        {
+            "Text": "an Intel chipset", 
+            "Score": 0.9986955523490906, 
+            "BeginOffset": 2177, 
+            "EndOffset": 2193
+        }, 
+        {
+            "Text": "an optional pen", 
+            "Score": 0.9985796809196472, 
+            "BeginOffset": 2209, 
+            "EndOffset": 2224
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.8977422118186951, 
+            "BeginOffset": 2282, 
+            "EndOffset": 2293
+        }, 
+        {
+            "Text": "Google Clips", 
+            "Score": 0.9959288239479065, 
+            "BeginOffset": 2313, 
+            "EndOffset": 2325
+        }, 
+        {
+            "Text": "a security camera", 
+            "Score": 0.9973313212394714, 
+            "BeginOffset": 2344, 
+            "EndOffset": 2361
+        }, 
+        {
+            "Text": "short videos", 
+            "Score": 0.984417200088501, 
+            "BeginOffset": 2403, 
+            "EndOffset": 2415
+        }, 
+        {
+            "Text": "clips", 
+            "Score": 0.9992730021476746, 
+            "BeginOffset": 2417, 
+            "EndOffset": 2422
+        }, 
+        {
+            "Text": "family moments", 
+            "Score": 0.9938169121742249, 
+            "BeginOffset": 2439, 
+            "EndOffset": 2453
+        }, 
+        {
+            "Text": "the usual caveat", 
+            "Score": 0.996127188205719, 
+            "BeginOffset": 2479, 
+            "EndOffset": 2495
+        }, 
+        {
+            "Text": "privacy", 
+            "Score": 0.9961445331573486, 
+            "BeginOffset": 2499, 
+            "EndOffset": 2506
+        }, 
+        {
+            "Text": "moments", 
+            "Score": 0.9934155941009521, 
+            "BeginOffset": 2556, 
+            "EndOffset": 2563
+        }, 
+        {
+            "Text": "The machine", 
+            "Score": 0.9633452296257019, 
+            "BeginOffset": 2594, 
+            "EndOffset": 2605
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.9983958601951599, 
+            "BeginOffset": 2615, 
+            "EndOffset": 2619
+        }, 
+        {
+            "Text": "the camera", 
+            "Score": 0.9162608981132507, 
+            "BeginOffset": 2650, 
+            "EndOffset": 2660
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.7999064922332764, 
+            "BeginOffset": 2680, 
+            "EndOffset": 2686
+        }, 
+        {
+            "Text": "clips", 
+            "Score": 0.975162923336029, 
+            "BeginOffset": 2736, 
+            "EndOffset": 2741
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.998870313167572, 
+            "BeginOffset": 2748, 
+            "EndOffset": 2751
+        }, 
+        {
+            "Text": "no more differences", 
+            "Score": 0.8427020907402039, 
+            "BeginOffset": 2779, 
+            "EndOffset": 2798
+        }, 
+        {
+            "Text": "the two", 
+            "Score": 0.979289710521698, 
+            "BeginOffset": 2807, 
+            "EndOffset": 2814
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9998619556427002, 
+            "BeginOffset": 2851, 
+            "EndOffset": 2854
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9952916502952576, 
+            "BeginOffset": 2892, 
+            "EndOffset": 2898
+        }, 
+        {
+            "Text": "’s cloud", 
+            "Score": 0.9991394281387329, 
+            "BeginOffset": 2898, 
+            "EndOffset": 2906
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9980370402336121, 
+            "BeginOffset": 2909, 
+            "EndOffset": 2912
+        }, 
+        {
+            "Text": "[4", 
+            "Score": 0.9983271360397339, 
+            "BeginOffset": 2962, 
+            "EndOffset": 2964
+        }, 
+        {
+            "Text": "a wire", 
+            "Score": 0.7958572506904602, 
+            "BeginOffset": 2995, 
+            "EndOffset": 3001
+        }, 
+        {
+            "Text": "[5] Apologies", 
+            "Score": 0.8305095434188843, 
+            "BeginOffset": 3036, 
+            "EndOffset": 3049
+        }, 
+        {
+            "Text": "the constant Apple references", 
+            "Score": 0.8242022395133972, 
+            "BeginOffset": 3054, 
+            "EndOffset": 3083
+        }, 
+        {
+            "Text": "an Android user", 
+            "Score": 0.9900479912757874, 
+            "BeginOffset": 3094, 
+            "EndOffset": 3109
+        }, 
+        {
+            "Text": "the Apple products", 
+            "Score": 0.9784929752349854, 
+            "BeginOffset": 3121, 
+            "EndOffset": 3139
+        }, 
+        {
+            "Text": "the other way", 
+            "Score": 0.9981976747512817, 
+            "BeginOffset": 3157, 
+            "EndOffset": 3170
+        }
+    ]
+}

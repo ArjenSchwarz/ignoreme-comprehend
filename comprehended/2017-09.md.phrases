@@ -1,0 +1,706 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9638621807098389, 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "a security bug reminiscent", 
+            "Score": 0.9344730973243713, 
+            "BeginOffset": 15, 
+            "EndOffset": 41
+        }, 
+        {
+            "Text": "Heartbleed", 
+            "Score": 0.8614246249198914, 
+            "BeginOffset": 45, 
+            "EndOffset": 55
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.9893961548805237, 
+            "BeginOffset": 57, 
+            "EndOffset": 67
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.9769538640975952, 
+            "BeginOffset": 75, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "7 Earth-sized planets", 
+            "Score": 0.9754605889320374, 
+            "BeginOffset": 84, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "a single star", 
+            "Score": 0.99488365650177, 
+            "BeginOffset": 119, 
+            "EndOffset": 132
+        }, 
+        {
+            "Text": "CLOUDFLARE SECURITY BUG\n\n\nCloudflare", 
+            "Score": 0.9850364923477173, 
+            "BeginOffset": 137, 
+            "EndOffset": 173
+        }, 
+        {
+            "Text": "a post-mortem", 
+            "Score": 0.9981090426445007, 
+            "BeginOffset": 180, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "a serious bug", 
+            "Score": 0.9994781613349915, 
+            "BeginOffset": 197, 
+            "EndOffset": 210
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9917383790016174, 
+            "BeginOffset": 267, 
+            "EndOffset": 277
+        }, 
+        {
+            "Text": "services", 
+            "Score": 0.9834975004196167, 
+            "BeginOffset": 280, 
+            "EndOffset": 288
+        }, 
+        {
+            "Text": "an email", 
+            "Score": 0.9487610459327698, 
+            "BeginOffset": 309, 
+            "EndOffset": 317
+        }, 
+        {
+            "Text": "the issue", 
+            "Score": 0.8731960654258728, 
+            "BeginOffset": 338, 
+            "EndOffset": 347
+        }, 
+        {
+            "Text": "September 2016", 
+            "Score": 0.8382853269577026, 
+            "BeginOffset": 363, 
+            "EndOffset": 377
+        }, 
+        {
+            "Text": "a certain combination", 
+            "Score": 0.9996095895767212, 
+            "BeginOffset": 384, 
+            "EndOffset": 405
+        }, 
+        {
+            "Text": "features", 
+            "Score": 0.9957094788551331, 
+            "BeginOffset": 409, 
+            "EndOffset": 417
+        }, 
+        {
+            "Text": "Cloudflare offers", 
+            "Score": 0.9415792226791382, 
+            "BeginOffset": 423, 
+            "EndOffset": 440
+        }, 
+        {
+            "Text": "memory fragments", 
+            "Score": 0.9821104407310486, 
+            "BeginOffset": 464, 
+            "EndOffset": 480
+        }, 
+        {
+            "Text": "other websites", 
+            "Score": 0.9973836541175842, 
+            "BeginOffset": 508, 
+            "EndOffset": 522
+        }, 
+        {
+            "Text": "search engines", 
+            "Score": 0.993030846118927, 
+            "BeginOffset": 539, 
+            "EndOffset": 553
+        }, 
+        {
+            "Text": "These fragments", 
+            "Score": 0.9989886283874512, 
+            "BeginOffset": 555, 
+            "EndOffset": 570
+        }, 
+        {
+            "Text": "passwords", 
+            "Score": 0.959058940410614, 
+            "BeginOffset": 585, 
+            "EndOffset": 594
+        }, 
+        {
+            "Text": "other sensitive data", 
+            "Score": 0.9928395748138428, 
+            "BeginOffset": 599, 
+            "EndOffset": 619
+        }, 
+        {
+            "Text": "the impact", 
+            "Score": 0.9957838654518127, 
+            "BeginOffset": 648, 
+            "EndOffset": 658
+        }, 
+        {
+            "Text": "the bug", 
+            "Score": 0.9985122084617615, 
+            "BeginOffset": 662, 
+            "EndOffset": 669
+        }, 
+        {
+            "Text": "any details", 
+            "Score": 0.9974703192710876, 
+            "BeginOffset": 693, 
+            "EndOffset": 704
+        }, 
+        {
+            "Text": "a good thing", 
+            "Score": 0.9963741898536682, 
+            "BeginOffset": 744, 
+            "EndOffset": 756
+        }, 
+        {
+            "Text": "your password", 
+            "Score": 0.9993345141410828, 
+            "BeginOffset": 792, 
+            "EndOffset": 805
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9971661567687988, 
+            "BeginOffset": 810, 
+            "EndOffset": 818
+        }, 
+        {
+            "Text": "services", 
+            "Score": 0.8375598192214966, 
+            "BeginOffset": 822, 
+            "EndOffset": 830
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.7311401963233948, 
+            "BeginOffset": 830, 
+            "EndOffset": 833
+        }, 
+        {
+            "Text": "any developer", 
+            "Score": 0.970759391784668, 
+            "BeginOffset": 839, 
+            "EndOffset": 852
+        }, 
+        {
+            "Text": "errors", 
+            "Score": 0.9953374266624451, 
+            "BeginOffset": 860, 
+            "EndOffset": 866
+        }, 
+        {
+            "Text": "a case", 
+            "Score": 0.9903182983398438, 
+            "BeginOffset": 966, 
+            "EndOffset": 972
+        }, 
+        {
+            "Text": "big consequences", 
+            "Score": 0.9927510023117065, 
+            "BeginOffset": 992, 
+            "EndOffset": 1008
+        }, 
+        {
+            "Text": "the other hand Cloudflare", 
+            "Score": 0.9977909326553345, 
+            "BeginOffset": 1013, 
+            "EndOffset": 1038
+        }, 
+        {
+            "Text": "a Google security researcher", 
+            "Score": 0.9705175161361694, 
+            "BeginOffset": 1116, 
+            "EndOffset": 1144
+        }, 
+        {
+            "Text": "[2] Cloudflare", 
+            "Score": 0.7565436363220215, 
+            "BeginOffset": 1144, 
+            "EndOffset": 1158
+        }, 
+        {
+            "Text": "an initial mitigation", 
+            "Score": 0.9855954647064209, 
+            "BeginOffset": 1180, 
+            "EndOffset": 1201
+        }, 
+        {
+            "Text": "the hour", 
+            "Score": 0.9998984336853027, 
+            "BeginOffset": 1209, 
+            "EndOffset": 1217
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.8992672562599182, 
+            "BeginOffset": 1240, 
+            "EndOffset": 1245
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9993574619293213, 
+            "BeginOffset": 1249, 
+            "EndOffset": 1253
+        }, 
+        {
+            "Text": "various parties", 
+            "Score": 0.9995688199996948, 
+            "BeginOffset": 1259, 
+            "EndOffset": 1274
+        }, 
+        {
+            "Text": "a complete fix", 
+            "Score": 0.9992101192474365, 
+            "BeginOffset": 1283, 
+            "EndOffset": 1297
+        }, 
+        {
+            "Text": "place", 
+            "Score": 0.9990161657333374, 
+            "BeginOffset": 1301, 
+            "EndOffset": 1306
+        }, 
+        {
+            "Text": "any search engine caches", 
+            "Score": 0.9902279376983643, 
+            "BeginOffset": 1320, 
+            "EndOffset": 1344
+        }, 
+        {
+            "Text": "this data", 
+            "Score": 0.9930950999259949, 
+            "BeginOffset": 1348, 
+            "EndOffset": 1357
+        }, 
+        {
+            "Text": "more detail", 
+            "Score": 0.9941601753234863, 
+            "BeginOffset": 1406, 
+            "EndOffset": 1417
+        }, 
+        {
+            "Text": "their post mortem", 
+            "Score": 0.9980818033218384, 
+            "BeginOffset": 1421, 
+            "EndOffset": 1438
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9995193481445312, 
+            "BeginOffset": 1446, 
+            "EndOffset": 1456
+        }, 
+        {
+            "Text": "a good job", 
+            "Score": 0.8250446319580078, 
+            "BeginOffset": 1476, 
+            "EndOffset": 1486
+        }, 
+        {
+            "Text": "the end", 
+            "Score": 0.9942797422409058, 
+            "BeginOffset": 1498, 
+            "EndOffset": 1505
+        }, 
+        {
+            "Text": "a nasty bug", 
+            "Score": 0.9988877177238464, 
+            "BeginOffset": 1507, 
+            "EndOffset": 1518
+        }, 
+        {
+            "Text": "severe consequences", 
+            "Score": 0.9988604784011841, 
+            "BeginOffset": 1524, 
+            "EndOffset": 1543
+        }, 
+        {
+            "Text": "TENSORFLOW GOES 1.0\n\n\nTensorFlow", 
+            "Score": 0.9177383780479431, 
+            "BeginOffset": 1586, 
+            "EndOffset": 1618
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.975334107875824, 
+            "BeginOffset": 1620, 
+            "EndOffset": 1626
+        }, 
+        {
+            "Text": "open source machine", 
+            "Score": 0.9943652749061584, 
+            "BeginOffset": 1629, 
+            "EndOffset": 1648
+        }, 
+        {
+            "Text": "tool", 
+            "Score": 0.7918089032173157, 
+            "BeginOffset": 1658, 
+            "EndOffset": 1662
+        }, 
+        {
+            "Text": "version 1.0", 
+            "Score": 0.9675313234329224, 
+            "BeginOffset": 1676, 
+            "EndOffset": 1687
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9989956617355347, 
+            "BeginOffset": 1703, 
+            "EndOffset": 1711
+        }, 
+        {
+            "Text": "improvements", 
+            "Score": 0.9987866878509521, 
+            "BeginOffset": 1715, 
+            "EndOffset": 1727
+        }, 
+        {
+            "Text": "two new APIs", 
+            "Score": 0.9903329610824585, 
+            "BeginOffset": 1739, 
+            "EndOffset": 1751
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.6933026313781738, 
+            "BeginOffset": 1752, 
+            "EndOffset": 1754
+        }, 
+        {
+            "Text": "Java and Go", 
+            "Score": 0.9302347302436829, 
+            "BeginOffset": 1759, 
+            "EndOffset": 1770
+        }, 
+        {
+            "Text": "the Python API", 
+            "Score": 0.9980583190917969, 
+            "BeginOffset": 1775, 
+            "EndOffset": 1789
+        }, 
+        {
+            "Text": "the installation", 
+            "Score": 0.9991251230239868, 
+            "BeginOffset": 1845, 
+            "EndOffset": 1861
+        }, 
+        {
+            "Text": "Docker images", 
+            "Score": 0.9609318971633911, 
+            "BeginOffset": 1874, 
+            "EndOffset": 1887
+        }, 
+        {
+            "Text": "pip install tensorflow", 
+            "Score": 0.8236881494522095, 
+            "BeginOffset": 1909, 
+            "EndOffset": 1931
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.6647894382476807, 
+            "BeginOffset": 1934, 
+            "EndOffset": 1944
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9705883264541626, 
+            "BeginOffset": 1956, 
+            "EndOffset": 1962
+        }, 
+        {
+            "Text": "a video", 
+            "Score": 0.9327371716499329, 
+            "BeginOffset": 1990, 
+            "EndOffset": 1997
+        }, 
+        {
+            "Text": "the announcement", 
+            "Score": 0.9649964570999146, 
+            "BeginOffset": 2001, 
+            "EndOffset": 2017
+        }, 
+        {
+            "Text": "a good feeling", 
+            "Score": 0.9998165965080261, 
+            "BeginOffset": 2061, 
+            "EndOffset": 2075
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9840804934501648, 
+            "BeginOffset": 2082, 
+            "EndOffset": 2092
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.9959131479263306, 
+            "BeginOffset": 2096, 
+            "EndOffset": 2106
+        }, 
+        {
+            "Text": "the project", 
+            "Score": 0.9920904636383057, 
+            "BeginOffset": 2150, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "some point", 
+            "Score": 0.9990427494049072, 
+            "BeginOffset": 2165, 
+            "EndOffset": 2175
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9971603751182556, 
+            "BeginOffset": 2183, 
+            "EndOffset": 2189
+        }, 
+        {
+            "Text": "An announcement", 
+            "Score": 0.8233764171600342, 
+            "BeginOffset": 2202, 
+            "EndOffset": 2217
+        }, 
+        {
+            "Text": "a bunch", 
+            "Score": 0.8279079794883728, 
+            "BeginOffset": 2249, 
+            "EndOffset": 2256
+        }, 
+        {
+            "Text": "statistics", 
+            "Score": 0.9985555410385132, 
+            "BeginOffset": 2260, 
+            "EndOffset": 2270
+        }, 
+        {
+            "Text": "videos", 
+            "Score": 0.999196469783783, 
+            "BeginOffset": 2315, 
+            "EndOffset": 2321
+        }, 
+        {
+            "Text": "the TensorFlow Developer Summit online", 
+            "Score": 0.9986717700958252, 
+            "BeginOffset": 2327, 
+            "EndOffset": 2365
+        }, 
+        {
+            "Text": "7 PLANETS\n\n\nA star", 
+            "Score": 0.9370394349098206, 
+            "BeginOffset": 2447, 
+            "EndOffset": 2465
+        }, 
+        {
+            "Text": "7 Earth-sized planets", 
+            "Score": 0.9037470817565918, 
+            "BeginOffset": 2490, 
+            "EndOffset": 2511
+        }, 
+        {
+            "Text": "Earth", 
+            "Score": 0.9971643686294556, 
+            "BeginOffset": 2555, 
+            "EndOffset": 2560
+        }, 
+        {
+            "Text": "39 light years", 
+            "Score": 0.6512491106987, 
+            "BeginOffset": 2569, 
+            "EndOffset": 2583
+        }, 
+        {
+            "Text": "good research material", 
+            "Score": 0.9919564127922058, 
+            "BeginOffset": 2606, 
+            "EndOffset": 2628
+        }, 
+        {
+            "Text": "These planets", 
+            "Score": 0.9837695360183716, 
+            "BeginOffset": 2660, 
+            "EndOffset": 2673
+        }, 
+        {
+            "Text": "nearly 40 years", 
+            "Score": 0.9989932775497437, 
+            "BeginOffset": 2718, 
+            "EndOffset": 2733
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.9769694805145264, 
+            "BeginOffset": 2746, 
+            "EndOffset": 2759
+        }, 
+        {
+            "Text": "technology", 
+            "Score": 0.9775040745735168, 
+            "BeginOffset": 2768, 
+            "EndOffset": 2778
+        }, 
+        {
+            "Text": "their atmospheres", 
+            "Score": 0.9719001650810242, 
+            "BeginOffset": 2812, 
+            "EndOffset": 2829
+        }, 
+        {
+            "Text": "4]", 
+            "Score": 0.9979198575019836, 
+            "BeginOffset": 2840, 
+            "EndOffset": 2842
+        }, 
+        {
+            "Text": "the planets", 
+            "Score": 0.9656011462211609, 
+            "BeginOffset": 2862, 
+            "EndOffset": 2873
+        }, 
+        {
+            "Text": "visible light", 
+            "Score": 0.9985631704330444, 
+            "BeginOffset": 2877, 
+            "EndOffset": 2890
+        }, 
+        {
+            "Text": "any depictions", 
+            "Score": 0.9917676448822021, 
+            "BeginOffset": 2909, 
+            "EndOffset": 2923
+        }, 
+        {
+            "Text": "artist renderings", 
+            "Score": 0.9961214661598206, 
+            "BeginOffset": 2936, 
+            "EndOffset": 2953
+        }, 
+        {
+            "Text": "a shame", 
+            "Score": 0.9768999218940735, 
+            "BeginOffset": 2964, 
+            "EndOffset": 2971
+        }, 
+        {
+            "Text": "these planets", 
+            "Score": 0.7853429317474365, 
+            "BeginOffset": 3016, 
+            "EndOffset": 3029
+        }, 
+        {
+            "Text": "the possibility", 
+            "Score": 0.9733573794364929, 
+            "BeginOffset": 3037, 
+            "EndOffset": 3052
+        }, 
+        {
+            "Text": "water", 
+            "Score": 0.998655378818512, 
+            "BeginOffset": 3056, 
+            "EndOffset": 3061
+        }, 
+        {
+            "Text": "their surface", 
+            "Score": 0.9990704655647278, 
+            "BeginOffset": 3065, 
+            "EndOffset": 3078
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9996062517166138, 
+            "BeginOffset": 3094, 
+            "EndOffset": 3100
+        }, 
+        {
+            "Text": "opportunities", 
+            "Score": 0.9990346431732178, 
+            "BeginOffset": 3104, 
+            "EndOffset": 3117
+        }, 
+        {
+            "Text": "research", 
+            "Score": 0.9981212615966797, 
+            "BeginOffset": 3122, 
+            "EndOffset": 3130
+        }, 
+        {
+            "Text": "the universe", 
+            "Score": 0.99436354637146, 
+            "BeginOffset": 3171, 
+            "EndOffset": 3183
+        }, 
+        {
+            "Text": "even our little corner", 
+            "Score": 0.8686880469322205, 
+            "BeginOffset": 3188, 
+            "EndOffset": 3210
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9906639456748962, 
+            "BeginOffset": 3219, 
+            "EndOffset": 3222
+        }, 
+        {
+            "Text": "that fun", 
+            "Score": 0.8478304743766785, 
+            "BeginOffset": 3229, 
+            "EndOffset": 3237
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.997266411781311, 
+            "BeginOffset": 3240, 
+            "EndOffset": 3243
+        }, 
+        {
+            "Text": "a great job", 
+            "Score": 0.8337026238441467, 
+            "BeginOffset": 3252, 
+            "EndOffset": 3263
+        }, 
+        {
+            "Text": "[3] Experimental", 
+            "Score": 0.9993013143539429, 
+            "BeginOffset": 3286, 
+            "EndOffset": 3302
+        }, 
+        {
+            "Text": "[4", 
+            "Score": 0.6906464099884033, 
+            "BeginOffset": 3318, 
+            "EndOffset": 3320
+        }, 
+        {
+            "Text": "a very generic", 
+            "Score": 0.7657146453857422, 
+            "BeginOffset": 3340, 
+            "EndOffset": 3354
+        }, 
+        {
+            "Text": "humanity", 
+            "Score": 0.9176152944564819, 
+            "BeginOffset": 3376, 
+            "EndOffset": 3384
+        }
+    ]
+}

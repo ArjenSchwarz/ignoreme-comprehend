@@ -1,0 +1,814 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A quiet week", 
+            "Score": 0.9939236640930176, 
+            "BeginOffset": 0, 
+            "EndOffset": 12
+        }, 
+        {
+            "Text": "tech news", 
+            "Score": 0.9961193203926086, 
+            "BeginOffset": 17, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "various pieces", 
+            "Score": 0.9987075328826904, 
+            "BeginOffset": 43, 
+            "EndOffset": 57
+        }, 
+        {
+            "Text": "Android related bad news", 
+            "Score": 0.9006054401397705, 
+            "BeginOffset": 61, 
+            "EndOffset": 85
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9976526498794556, 
+            "BeginOffset": 112, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "tax issues", 
+            "Score": 0.9893298149108887, 
+            "BeginOffset": 120, 
+            "EndOffset": 130
+        }, 
+        {
+            "Text": "ANDROID WOES", 
+            "Score": 0.8320478796958923, 
+            "BeginOffset": 135, 
+            "EndOffset": 147
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9898369908332825, 
+            "BeginOffset": 156, 
+            "EndOffset": 165
+        }, 
+        {
+            "Text": "release", 
+            "Score": 0.9745537042617798, 
+            "BeginOffset": 168, 
+            "EndOffset": 175
+        }, 
+        {
+            "Text": "Nougat", 
+            "Score": 0.9960761666297913, 
+            "BeginOffset": 179, 
+            "EndOffset": 185
+        }, 
+        {
+            "Text": "some new things", 
+            "Score": 0.9977990984916687, 
+            "BeginOffset": 187, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "light", 
+            "Score": 0.8078774809837341, 
+            "BeginOffset": 211, 
+            "EndOffset": 216
+        }, 
+        {
+            "Text": "my disappointment", 
+            "Score": 0.9970937371253967, 
+            "BeginOffset": 240, 
+            "EndOffset": 257
+        }, 
+        {
+            "Text": "various parties", 
+            "Score": 0.999631941318512, 
+            "BeginOffset": 261, 
+            "EndOffset": 276
+        }, 
+        {
+            "Text": "their support", 
+            "Score": 0.9909818768501282, 
+            "BeginOffset": 287, 
+            "EndOffset": 300
+        }, 
+        {
+            "Text": "Nougat", 
+            "Score": 0.9974284768104553, 
+            "BeginOffset": 304, 
+            "EndOffset": 310
+        }, 
+        {
+            "Text": "newer phones", 
+            "Score": 0.9974403977394104, 
+            "BeginOffset": 315, 
+            "EndOffset": 327
+        }, 
+        {
+            "Text": "this article", 
+            "Score": 0.9941923022270203, 
+            "BeginOffset": 333, 
+            "EndOffset": 345
+        }, 
+        {
+            "Text": "Ars Technica", 
+            "Score": 0.9938344955444336, 
+            "BeginOffset": 351, 
+            "EndOffset": 363
+        }, 
+        {
+            "Text": "another party", 
+            "Score": 0.9971566200256348, 
+            "BeginOffset": 375, 
+            "EndOffset": 388
+        }, 
+        {
+            "Text": "chip maker Qualcomm", 
+            "Score": 0.8664390444755554, 
+            "BeginOffset": 390, 
+            "EndOffset": 409
+        }, 
+        {
+            "Text": "Qualcomm", 
+            "Score": 0.9986684322357178, 
+            "BeginOffset": 426, 
+            "EndOffset": 434
+        }, 
+        {
+            "Text": "the necessary support", 
+            "Score": 0.9994612336158752, 
+            "BeginOffset": 452, 
+            "EndOffset": 473
+        }, 
+        {
+            "Text": "their older chips", 
+            "Score": 0.9994203448295593, 
+            "BeginOffset": 486, 
+            "EndOffset": 503
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.9966269135475159, 
+            "BeginOffset": 549, 
+            "EndOffset": 555
+        }, 
+        {
+            "Text": "the end", 
+            "Score": 0.9010617136955261, 
+            "BeginOffset": 576, 
+            "EndOffset": 583
+        }, 
+        {
+            "Text": "2015", 
+            "Score": 0.9996906518936157, 
+            "BeginOffset": 587, 
+            "EndOffset": 591
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9996467232704163, 
+            "BeginOffset": 606, 
+            "EndOffset": 617
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9977245926856995, 
+            "BeginOffset": 626, 
+            "EndOffset": 631
+        }, 
+        {
+            "Text": "a vicious circle", 
+            "Score": 0.9996371269226074, 
+            "BeginOffset": 635, 
+            "EndOffset": 651
+        }, 
+        {
+            "Text": "the device manufacturers", 
+            "Score": 0.9803846478462219, 
+            "BeginOffset": 653, 
+            "EndOffset": 677
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.9814656376838684, 
+            "BeginOffset": 699, 
+            "EndOffset": 705
+        }, 
+        {
+            "Text": "more than 2 years", 
+            "Score": 0.9878381490707397, 
+            "BeginOffset": 706, 
+            "EndOffset": 723
+        }, 
+        {
+            "Text": "Qualcomm", 
+            "Score": 0.9852891564369202, 
+            "BeginOffset": 732, 
+            "EndOffset": 740
+        }, 
+        {
+            "Text": "the device manufacturers", 
+            "Score": 0.8940100073814392, 
+            "BeginOffset": 776, 
+            "EndOffset": 800
+        }, 
+        {
+            "Text": "the phones", 
+            "Score": 0.9933444857597351, 
+            "BeginOffset": 816, 
+            "EndOffset": 826
+        }, 
+        {
+            "Text": "a situation", 
+            "Score": 0.9964331388473511, 
+            "BeginOffset": 837, 
+            "EndOffset": 848
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.998210072517395, 
+            "BeginOffset": 905, 
+            "EndOffset": 916
+        }, 
+        {
+            "Text": "all the details", 
+            "Score": 0.9890775680541992, 
+            "BeginOffset": 921, 
+            "EndOffset": 936
+        }, 
+        {
+            "Text": "The big thing", 
+            "Score": 0.9992339015007019, 
+            "BeginOffset": 939, 
+            "EndOffset": 952
+        }, 
+        {
+            "Text": "Android news", 
+            "Score": 0.9932724237442017, 
+            "BeginOffset": 956, 
+            "EndOffset": 968
+        }, 
+        {
+            "Text": "batteries", 
+            "Score": 0.9062972664833069, 
+            "BeginOffset": 983, 
+            "EndOffset": 992
+        }, 
+        {
+            "Text": "Samsung", 
+            "Score": 0.9988122582435608, 
+            "BeginOffset": 998, 
+            "EndOffset": 1005
+        }, 
+        {
+            "Text": "new Note 7", 
+            "Score": 0.9482767581939697, 
+            "BeginOffset": 1008, 
+            "EndOffset": 1018
+        }, 
+        {
+            "Text": "a really good phone", 
+            "Score": 0.9682797789573669, 
+            "BeginOffset": 1062, 
+            "EndOffset": 1081
+        }, 
+        {
+            "Text": "a shame", 
+            "Score": 0.9581814408302307, 
+            "BeginOffset": 1091, 
+            "EndOffset": 1098
+        }, 
+        {
+            "Text": "the people", 
+            "Score": 0.9944612383842468, 
+            "BeginOffset": 1103, 
+            "EndOffset": 1113
+        }, 
+        {
+            "Text": "replacements", 
+            "Score": 0.9845203757286072, 
+            "BeginOffset": 1169, 
+            "EndOffset": 1181
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.783191978931427, 
+            "BeginOffset": 1254, 
+            "EndOffset": 1256
+        }, 
+        {
+            "Text": "Samsung", 
+            "Score": 0.9990347623825073, 
+            "BeginOffset": 1271, 
+            "EndOffset": 1278
+        }, 
+        {
+            "Text": "reputation", 
+            "Score": 0.9992673397064209, 
+            "BeginOffset": 1281, 
+            "EndOffset": 1291
+        }, 
+        {
+            "Text": "a huge corporation", 
+            "Score": 0.9899923801422119, 
+            "BeginOffset": 1331, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9663892984390259, 
+            "BeginOffset": 1355, 
+            "EndOffset": 1358
+        }, 
+        {
+            "Text": "the people", 
+            "Score": 0.9114675521850586, 
+            "BeginOffset": 1380, 
+            "EndOffset": 1390
+        }, 
+        {
+            "Text": "this phone", 
+            "Score": 0.9996746778488159, 
+            "BeginOffset": 1402, 
+            "EndOffset": 1412
+        }, 
+        {
+            "Text": "this[3]", 
+            "Score": 0.9261396527290344, 
+            "BeginOffset": 1439, 
+            "EndOffset": 1446
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.9639801383018494, 
+            "BeginOffset": 1461, 
+            "EndOffset": 1467
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9913592338562012, 
+            "BeginOffset": 1469, 
+            "EndOffset": 1475
+        }, 
+        {
+            "Text": "their project Ara", 
+            "Score": 0.9987139105796814, 
+            "BeginOffset": 1501, 
+            "EndOffset": 1518
+        }, 
+        {
+            "Text": "their plan", 
+            "Score": 0.9961187839508057, 
+            "BeginOffset": 1529, 
+            "EndOffset": 1539
+        }, 
+        {
+            "Text": "a modular phone", 
+            "Score": 0.9988965392112732, 
+            "BeginOffset": 1548, 
+            "EndOffset": 1563
+        }, 
+        {
+            "Text": "bits and pieces", 
+            "Score": 0.987881064414978, 
+            "BeginOffset": 1600, 
+            "EndOffset": 1615
+        }, 
+        {
+            "Text": "a fully customized phone", 
+            "Score": 0.9945259094238281, 
+            "BeginOffset": 1624, 
+            "EndOffset": 1648
+        }, 
+        {
+            "Text": "the idea", 
+            "Score": 0.9987116456031799, 
+            "BeginOffset": 1704, 
+            "EndOffset": 1712
+        }, 
+        {
+            "Text": "a big market", 
+            "Score": 0.9300400018692017, 
+            "BeginOffset": 1797, 
+            "EndOffset": 1809
+        }, 
+        {
+            "Text": "some people", 
+            "Score": 0.997604489326477, 
+            "BeginOffset": 1845, 
+            "EndOffset": 1856
+        }, 
+        {
+            "Text": "the vast majority", 
+            "Score": 0.9944840669631958, 
+            "BeginOffset": 1862, 
+            "EndOffset": 1879
+        }, 
+        {
+            "Text": "the market", 
+            "Score": 0.9845455288887024, 
+            "BeginOffset": 1883, 
+            "EndOffset": 1893
+        }, 
+        {
+            "Text": "a more integrated design", 
+            "Score": 0.9987900257110596, 
+            "BeginOffset": 1913, 
+            "EndOffset": 1937
+        }, 
+        {
+            "Text": "Similar", 
+            "Score": 0.9895386695861816, 
+            "BeginOffset": 1939, 
+            "EndOffset": 1946
+        }, 
+        {
+            "Text": "a big market", 
+            "Score": 0.982607364654541, 
+            "BeginOffset": 1966, 
+            "EndOffset": 1978
+        }, 
+        {
+            "Text": "modular laptops", 
+            "Score": 0.997621476650238, 
+            "BeginOffset": 1983, 
+            "EndOffset": 1998
+        }, 
+        {
+            "Text": "APPLE TAXES", 
+            "Score": 0.9942508339881897, 
+            "BeginOffset": 2003, 
+            "EndOffset": 2014
+        }, 
+        {
+            "Text": "negative things", 
+            "Score": 0.7321867942810059, 
+            "BeginOffset": 2048, 
+            "EndOffset": 2063
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.7428644895553589, 
+            "BeginOffset": 2064, 
+            "EndOffset": 2073
+        }, 
+        {
+            "Text": "the same", 
+            "Score": 0.9981937408447266, 
+            "BeginOffset": 2075, 
+            "EndOffset": 2083
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.999340832233429, 
+            "BeginOffset": 2093, 
+            "EndOffset": 2098
+        }, 
+        {
+            "Text": "their taxes", 
+            "Score": 0.9881424903869629, 
+            "BeginOffset": 2115, 
+            "EndOffset": 2126
+        }, 
+        {
+            "Text": "a business analyst", 
+            "Score": 0.9918904304504395, 
+            "BeginOffset": 2143, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "taxes", 
+            "Score": 0.9201785922050476, 
+            "BeginOffset": 2181, 
+            "EndOffset": 2186
+        }, 
+        {
+            "Text": "no intention", 
+            "Score": 0.9992625713348389, 
+            "BeginOffset": 2195, 
+            "EndOffset": 2207
+        }, 
+        {
+            "Text": "The short version", 
+            "Score": 0.90684574842453, 
+            "BeginOffset": 2235, 
+            "EndOffset": 2252
+        }, 
+        {
+            "Text": "the EU", 
+            "Score": 0.9997410178184509, 
+            "BeginOffset": 2261, 
+            "EndOffset": 2267
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9982308745384216, 
+            "BeginOffset": 2282, 
+            "EndOffset": 2287
+        }, 
+        {
+            "Text": "more taxes", 
+            "Score": 0.998542845249176, 
+            "BeginOffset": 2299, 
+            "EndOffset": 2309
+        }, 
+        {
+            "Text": "Ireland", 
+            "Score": 0.9992983937263489, 
+            "BeginOffset": 2313, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9617713689804077, 
+            "BeginOffset": 2341, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "seemingly Ireland", 
+            "Score": 0.9564498662948608, 
+            "BeginOffset": 2352, 
+            "EndOffset": 2369
+        }, 
+        {
+            "Text": "government[4]", 
+            "Score": 0.8069235682487488, 
+            "BeginOffset": 2372, 
+            "EndOffset": 2385
+        }, 
+        {
+            "Text": "Which side", 
+            "Score": 0.8921172618865967, 
+            "BeginOffset": 2397, 
+            "EndOffset": 2407
+        }, 
+        {
+            "Text": "these case", 
+            "Score": 0.9153551459312439, 
+            "BeginOffset": 2437, 
+            "EndOffset": 2447
+        }, 
+        {
+            "Text": "years", 
+            "Score": 0.9952375888824463, 
+            "BeginOffset": 2494, 
+            "EndOffset": 2499
+        }, 
+        {
+            "Text": "legal proceedings", 
+            "Score": 0.9909237623214722, 
+            "BeginOffset": 2503, 
+            "EndOffset": 2520
+        }, 
+        {
+            "Text": "The amount", 
+            "Score": 0.9992508292198181, 
+            "BeginOffset": 2523, 
+            "EndOffset": 2533
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9994275569915771, 
+            "BeginOffset": 2534, 
+            "EndOffset": 2539
+        }, 
+        {
+            "Text": "all that large[5]", 
+            "Score": 0.8279818296432495, 
+            "BeginOffset": 2566, 
+            "EndOffset": 2583
+        }, 
+        {
+            "Text": "a huge company", 
+            "Score": 0.9748775362968445, 
+            "BeginOffset": 2645, 
+            "EndOffset": 2659
+        }, 
+        {
+            "Text": "no reason", 
+            "Score": 0.9987578988075256, 
+            "BeginOffset": 2671, 
+            "EndOffset": 2680
+        }, 
+        {
+            "Text": "taxes", 
+            "Score": 0.9761432409286499, 
+            "BeginOffset": 2729, 
+            "EndOffset": 2734
+        }, 
+        {
+            "Text": "the letter", 
+            "Score": 0.9664907455444336, 
+            "BeginOffset": 2772, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "the law", 
+            "Score": 0.991412878036499, 
+            "BeginOffset": 2786, 
+            "EndOffset": 2793
+        }, 
+        {
+            "Text": "the truth", 
+            "Score": 0.999894917011261, 
+            "BeginOffset": 2795, 
+            "EndOffset": 2804
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9998241662979126, 
+            "BeginOffset": 2821, 
+            "EndOffset": 2826
+        }, 
+        {
+            "Text": "income", 
+            "Score": 0.9959756135940552, 
+            "BeginOffset": 2830, 
+            "EndOffset": 2836
+        }, 
+        {
+            "Text": "taxes", 
+            "Score": 0.9981971979141235, 
+            "BeginOffset": 2853, 
+            "EndOffset": 2858
+        }, 
+        {
+            "Text": "standard practice", 
+            "Score": 0.83806312084198, 
+            "BeginOffset": 2875, 
+            "EndOffset": 2892
+        }, 
+        {
+            "Text": "good accounting", 
+            "Score": 0.9992254972457886, 
+            "BeginOffset": 2896, 
+            "EndOffset": 2911
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9958351850509644, 
+            "BeginOffset": 2946, 
+            "EndOffset": 2949
+        }, 
+        {
+            "Text": "anyone else", 
+            "Score": 0.7001103758811951, 
+            "BeginOffset": 2953, 
+            "EndOffset": 2964
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.7383753061294556, 
+            "BeginOffset": 2974, 
+            "EndOffset": 2977
+        }, 
+        {
+            "Text": "Every major corporation", 
+            "Score": 0.9872124195098877, 
+            "BeginOffset": 2978, 
+            "EndOffset": 3001
+        }, 
+        {
+            "Text": "one way", 
+            "Score": 0.9743941426277161, 
+            "BeginOffset": 3022, 
+            "EndOffset": 3029
+        }, 
+        {
+            "Text": "the other", 
+            "Score": 0.9763544201850891, 
+            "BeginOffset": 3033, 
+            "EndOffset": 3042
+        }, 
+        {
+            "Text": "huge amounts", 
+            "Score": 0.9833049178123474, 
+            "BeginOffset": 3057, 
+            "EndOffset": 3069
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9070107340812683, 
+            "BeginOffset": 3073, 
+            "EndOffset": 3078
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9656974077224731, 
+            "BeginOffset": 3081, 
+            "EndOffset": 3084
+        }, 
+        {
+            "Text": "the iPhone", 
+            "Score": 0.86464923620224, 
+            "BeginOffset": 3090, 
+            "EndOffset": 3100
+        }, 
+        {
+            "Text": "some kind", 
+            "Score": 0.6502504348754883, 
+            "BeginOffset": 3113, 
+            "EndOffset": 3122
+        }, 
+        {
+            "Text": "\"gate", 
+            "Score": 0.9777042865753174, 
+            "BeginOffset": 3126, 
+            "EndOffset": 3131
+        }, 
+        {
+            "Text": "its release", 
+            "Score": 0.9395141005516052, 
+            "BeginOffset": 3151, 
+            "EndOffset": 3162
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9575207233428955, 
+            "BeginOffset": 3230, 
+            "EndOffset": 3235
+        }, 
+        {
+            "Text": "Samsung", 
+            "Score": 0.9923173189163208, 
+            "BeginOffset": 3271, 
+            "EndOffset": 3278
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.8557750582695007, 
+            "BeginOffset": 3291, 
+            "EndOffset": 3297
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9968379735946655, 
+            "BeginOffset": 3326, 
+            "EndOffset": 3329
+        }, 
+        {
+            "Text": "Ireland", 
+            "Score": 0.8882227540016174, 
+            "BeginOffset": 3339, 
+            "EndOffset": 3346
+        }, 
+        {
+            "Text": "government", 
+            "Score": 0.7176485061645508, 
+            "BeginOffset": 3349, 
+            "EndOffset": 3359
+        }, 
+        {
+            "Text": "the extra taxes", 
+            "Score": 0.9992550611495972, 
+            "BeginOffset": 3379, 
+            "EndOffset": 3394
+        }, 
+        {
+            "Text": "case Apple", 
+            "Score": 0.9914130568504333, 
+            "BeginOffset": 3481, 
+            "EndOffset": 3491
+        }, 
+        {
+            "Text": "other companies", 
+            "Score": 0.9943236708641052, 
+            "BeginOffset": 3496, 
+            "EndOffset": 3511
+        }, 
+        {
+            "Text": "the country", 
+            "Score": 0.9170236587524414, 
+            "BeginOffset": 3528, 
+            "EndOffset": 3539
+        }, 
+        {
+            "Text": "an easy situation", 
+            "Score": 0.9969059228897095, 
+            "BeginOffset": 3560, 
+            "EndOffset": 3577
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.9923418164253235, 
+            "BeginOffset": 3589, 
+            "EndOffset": 3592
+        }, 
+        {
+            "Text": "a company", 
+            "Score": 0.9979835748672485, 
+            "BeginOffset": 3597, 
+            "EndOffset": 3606
+        }, 
+        {
+            "Text": "a mountain", 
+            "Score": 0.7484042048454285, 
+            "BeginOffset": 3616, 
+            "EndOffset": 3626
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9957178831100464, 
+            "BeginOffset": 3630, 
+            "EndOffset": 3635
+        }
+    ]
+}

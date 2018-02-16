@@ -1,0 +1,676 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "this site", 
+            "Score": 0.9030628800392151, 
+            "BeginOffset": 16, 
+            "EndOffset": 25
+        }, 
+        {
+            "Text": "2017", 
+            "Score": 0.9991210699081421, 
+            "BeginOffset": 29, 
+            "EndOffset": 33
+        }, 
+        {
+            "Text": "an idea", 
+            "Score": 0.9991531372070312, 
+            "BeginOffset": 45, 
+            "EndOffset": 52
+        }, 
+        {
+            "Text": "2018", 
+            "Score": 0.9619973301887512, 
+            "BeginOffset": 74, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "LOOKING BACK AT 2017", 
+            "Score": 0.8029069900512695, 
+            "BeginOffset": 83, 
+            "EndOffset": 103
+        }, 
+        {
+            "Text": "Last year", 
+            "Score": 0.9892134666442871, 
+            "BeginOffset": 106, 
+            "EndOffset": 115
+        }, 
+        {
+            "Text": "the first weekly note", 
+            "Score": 0.988076388835907, 
+            "BeginOffset": 123, 
+            "EndOffset": 144
+        }, 
+        {
+            "Text": "the year", 
+            "Score": 0.961524486541748, 
+            "BeginOffset": 161, 
+            "EndOffset": 169
+        }, 
+        {
+            "Text": "the same", 
+            "Score": 0.9508475065231323, 
+            "BeginOffset": 190, 
+            "EndOffset": 198
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.995405375957489, 
+            "BeginOffset": 199, 
+            "EndOffset": 208
+        }, 
+        {
+            "Text": "the first", 
+            "Score": 0.9735296368598938, 
+            "BeginOffset": 218, 
+            "EndOffset": 227
+        }, 
+        {
+            "Text": "January", 
+            "Score": 0.9629567265510559, 
+            "BeginOffset": 231, 
+            "EndOffset": 238
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9915752410888672, 
+            "BeginOffset": 263, 
+            "EndOffset": 268
+        }, 
+        {
+            "Text": "Christmas[1]", 
+            "Score": 0.7567329406738281, 
+            "BeginOffset": 298, 
+            "EndOffset": 310
+        }, 
+        {
+            "Text": "a recap", 
+            "Score": 0.998661994934082, 
+            "BeginOffset": 334, 
+            "EndOffset": 341
+        }, 
+        {
+            "Text": "my writing", 
+            "Score": 0.999035120010376, 
+            "BeginOffset": 345, 
+            "EndOffset": 355
+        }, 
+        {
+            "Text": "a total", 
+            "Score": 0.9950387477874756, 
+            "BeginOffset": 366, 
+            "EndOffset": 373
+        }, 
+        {
+            "Text": "49 articles", 
+            "Score": 0.9977058172225952, 
+            "BeginOffset": 377, 
+            "EndOffset": 388
+        }, 
+        {
+            "Text": "41", 
+            "Score": 0.9900644421577454, 
+            "BeginOffset": 390, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "weekly notes", 
+            "Score": 0.9736428260803223, 
+            "BeginOffset": 407, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.9804121255874634, 
+            "BeginOffset": 424, 
+            "EndOffset": 432
+        }, 
+        {
+            "Text": "a mixture", 
+            "Score": 0.9982194304466248, 
+            "BeginOffset": 433, 
+            "EndOffset": 442
+        }, 
+        {
+            "Text": "regular articles", 
+            "Score": 0.9969241619110107, 
+            "BeginOffset": 446, 
+            "EndOffset": 462
+        }, 
+        {
+            "Text": "presentations", 
+            "Score": 0.9828886985778809, 
+            "BeginOffset": 464, 
+            "EndOffset": 477
+        }, 
+        {
+            "Text": "regular articles", 
+            "Score": 0.9782989025115967, 
+            "BeginOffset": 505, 
+            "EndOffset": 521
+        }, 
+        {
+            "Text": "links", 
+            "Score": 0.5448497533798218, 
+            "BeginOffset": 528, 
+            "EndOffset": 533
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.99225914478302, 
+            "BeginOffset": 537, 
+            "EndOffset": 543
+        }, 
+        {
+            "Text": "the end", 
+            "Score": 0.8910644054412842, 
+            "BeginOffset": 577, 
+            "EndOffset": 584
+        }, 
+        {
+            "Text": "August", 
+            "Score": 0.9495359063148499, 
+            "BeginOffset": 588, 
+            "EndOffset": 594
+        }, 
+        {
+            "Text": "the size", 
+            "Score": 0.9995899796485901, 
+            "BeginOffset": 612, 
+            "EndOffset": 620
+        }, 
+        {
+            "Text": "the weekly notes", 
+            "Score": 0.9930378198623657, 
+            "BeginOffset": 624, 
+            "EndOffset": 640
+        }, 
+        {
+            "Text": "about 600 characters", 
+            "Score": 0.9948281049728394, 
+            "BeginOffset": 644, 
+            "EndOffset": 664
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9967369437217712, 
+            "BeginOffset": 684, 
+            "EndOffset": 692
+        }, 
+        {
+            "Text": "reasons", 
+            "Score": 0.9977242946624756, 
+            "BeginOffset": 696, 
+            "EndOffset": 703
+        }, 
+        {
+            "Text": "a writing exercise", 
+            "Score": 0.9825456738471985, 
+            "BeginOffset": 760, 
+            "EndOffset": 778
+        }, 
+        {
+            "Text": "the record", 
+            "Score": 0.9984989762306213, 
+            "BeginOffset": 840, 
+            "EndOffset": 850
+        }, 
+        {
+            "Text": "both the September Apple event", 
+            "Score": 0.8792656660079956, 
+            "BeginOffset": 875, 
+            "EndOffset": 905
+        }, 
+        {
+            "Text": "Invent", 
+            "Score": 0.926903486251831, 
+            "BeginOffset": 917, 
+            "EndOffset": 923
+        }, 
+        {
+            "Text": "every presentation", 
+            "Score": 0.9984514117240906, 
+            "BeginOffset": 944, 
+            "EndOffset": 962
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9993888139724731, 
+            "BeginOffset": 970, 
+            "EndOffset": 979
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.999518871307373, 
+            "BeginOffset": 983, 
+            "EndOffset": 991
+        }, 
+        {
+            "Text": "the first half", 
+            "Score": 0.9945868849754333, 
+            "BeginOffset": 999, 
+            "EndOffset": 1013
+        }, 
+        {
+            "Text": "the year", 
+            "Score": 0.9601176381111145, 
+            "BeginOffset": 1017, 
+            "EndOffset": 1025
+        }, 
+        {
+            "Text": "the Golang Melbourne meetup", 
+            "Score": 0.9186968207359314, 
+            "BeginOffset": 1095, 
+            "EndOffset": 1122
+        }, 
+        {
+            "Text": "better this year", 
+            "Score": 0.9067612886428833, 
+            "BeginOffset": 1232, 
+            "EndOffset": 1248
+        }, 
+        {
+            "Text": "the traffic", 
+            "Score": 0.8955479264259338, 
+            "BeginOffset": 1276, 
+            "EndOffset": 1287
+        }, 
+        {
+            "Text": "Google Analytics[2]", 
+            "Score": 0.8484892845153809, 
+            "BeginOffset": 1295, 
+            "EndOffset": 1314
+        }, 
+        {
+            "Text": "about a 50-60% increase", 
+            "Score": 0.9163597822189331, 
+            "BeginOffset": 1326, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "traffic year", 
+            "Score": 0.8903610110282898, 
+            "BeginOffset": 1353, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "year", 
+            "Score": 0.9748386740684509, 
+            "BeginOffset": 1371, 
+            "EndOffset": 1375
+        }, 
+        {
+            "Text": "the metric", 
+            "Score": 0.9910314679145813, 
+            "BeginOffset": 1389, 
+            "EndOffset": 1399
+        }, 
+        {
+            "Text": "high traffic", 
+            "Score": 0.9369672536849976, 
+            "BeginOffset": 1433, 
+            "EndOffset": 1445
+        }, 
+        {
+            "Text": "Email and RSS subscriptions", 
+            "Score": 0.9335736036300659, 
+            "BeginOffset": 1454, 
+            "EndOffset": 1481
+        }, 
+        {
+            "Text": "a repeat", 
+            "Score": 0.9690963625907898, 
+            "BeginOffset": 1549, 
+            "EndOffset": 1557
+        }, 
+        {
+            "Text": "a big spike", 
+            "Score": 0.9987820982933044, 
+            "BeginOffset": 1561, 
+            "EndOffset": 1572
+        }, 
+        {
+            "Text": "any high profile articles", 
+            "Score": 0.9987837672233582, 
+            "BeginOffset": 1638, 
+            "EndOffset": 1663
+        }, 
+        {
+            "Text": "the most popular articles", 
+            "Score": 0.9911665320396423, 
+            "BeginOffset": 1687, 
+            "EndOffset": 1712
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9993851780891418, 
+            "BeginOffset": 1713, 
+            "EndOffset": 1722
+        }, 
+        {
+            "Text": "most popular", 
+            "Score": 0.9970222115516663, 
+            "BeginOffset": 1739, 
+            "EndOffset": 1751
+        }, 
+        {
+            "Text": "The First Babysteps", 
+            "Score": 0.7938787341117859, 
+            "BeginOffset": 1762, 
+            "EndOffset": 1781
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9949325919151306, 
+            "BeginOffset": 1787, 
+            "EndOffset": 1801
+        }, 
+        {
+            "Text": "the Size", 
+            "Score": 0.9173979163169861, 
+            "BeginOffset": 1817, 
+            "EndOffset": 1825
+        }, 
+        {
+            "Text": "an EBS Root Volume", 
+            "Score": 0.9707244038581848, 
+            "BeginOffset": 1829, 
+            "EndOffset": 1847
+        }, 
+        {
+            "Text": "2016", 
+            "Score": 0.7905679941177368, 
+            "BeginOffset": 1861, 
+            "EndOffset": 1865
+        }, 
+        {
+            "Text": "articles", 
+            "Score": 0.8679893612861633, 
+            "BeginOffset": 1868, 
+            "EndOffset": 1876
+        }, 
+        {
+            "Text": "the top 5", 
+            "Score": 0.9973489046096802, 
+            "BeginOffset": 1889, 
+            "EndOffset": 1898
+        }, 
+        {
+            "Text": "Bitbucket Pipelines", 
+            "Score": 0.9800221920013428, 
+            "BeginOffset": 1900, 
+            "EndOffset": 1919
+        }, 
+        {
+            "Text": "a First Look", 
+            "Score": 0.9968456625938416, 
+            "BeginOffset": 1921, 
+            "EndOffset": 1933
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9667457342147827, 
+            "BeginOffset": 1949, 
+            "EndOffset": 1955
+        }, 
+        {
+            "Text": "a Gateway", 
+            "Score": 0.7907599806785583, 
+            "BeginOffset": 1960, 
+            "EndOffset": 1969
+        }, 
+        {
+            "Text": "the CLI", 
+            "Score": 0.9922121167182922, 
+            "BeginOffset": 1978, 
+            "EndOffset": 1985
+        }, 
+        {
+            "Text": "some newer writing", 
+            "Score": 0.9983745813369751, 
+            "BeginOffset": 2004, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "newer", 
+            "Score": 0.9144724607467651, 
+            "BeginOffset": 2036, 
+            "EndOffset": 2041
+        }, 
+        {
+            "Text": "FORWARD", 
+            "Score": 0.9630113244056702, 
+            "BeginOffset": 2087, 
+            "EndOffset": 2094
+        }, 
+        {
+            "Text": "my plans", 
+            "Score": 0.9402241110801697, 
+            "BeginOffset": 2131, 
+            "EndOffset": 2139
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.9992863535881042, 
+            "BeginOffset": 2144, 
+            "EndOffset": 2152
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9975699782371521, 
+            "BeginOffset": 2157, 
+            "EndOffset": 2166
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9990409016609192, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2190
+        }, 
+        {
+            "Text": "an average", 
+            "Score": 0.9432080984115601, 
+            "BeginOffset": 2216, 
+            "EndOffset": 2226
+        }, 
+        {
+            "Text": "just below 1", 
+            "Score": 0.9981014728546143, 
+            "BeginOffset": 2230, 
+            "EndOffset": 2242
+        }, 
+        {
+            "Text": "week", 
+            "Score": 0.9222338199615479, 
+            "BeginOffset": 2247, 
+            "EndOffset": 2251
+        }, 
+        {
+            "Text": "about 3", 
+            "Score": 0.9822797179222107, 
+            "BeginOffset": 2255, 
+            "EndOffset": 2262
+        }, 
+        {
+            "Text": "week", 
+            "Score": 0.9831392765045166, 
+            "BeginOffset": 2267, 
+            "EndOffset": 2271
+        }, 
+        {
+            "Text": "most weeks", 
+            "Score": 0.9947888255119324, 
+            "BeginOffset": 2296, 
+            "EndOffset": 2306
+        }, 
+        {
+            "Text": "a weekly note", 
+            "Score": 0.9926565885543823, 
+            "BeginOffset": 2307, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9678425788879395, 
+            "BeginOffset": 2320, 
+            "EndOffset": 2323
+        }, 
+        {
+            "Text": "addition", 
+            "Score": 0.9457283020019531, 
+            "BeginOffset": 2332, 
+            "EndOffset": 2340
+        }, 
+        {
+            "Text": "a regular article", 
+            "Score": 0.8691858053207397, 
+            "BeginOffset": 2341, 
+            "EndOffset": 2358
+        }, 
+        {
+            "Text": "later this week", 
+            "Score": 0.920839786529541, 
+            "BeginOffset": 2411, 
+            "EndOffset": 2426
+        }, 
+        {
+            "Text": "the schedule", 
+            "Score": 0.9869354367256165, 
+            "BeginOffset": 2456, 
+            "EndOffset": 2468
+        }, 
+        {
+            "Text": "the week", 
+            "Score": 0.8817164897918701, 
+            "BeginOffset": 2499, 
+            "EndOffset": 2507
+        }, 
+        {
+            "Text": "Monday", 
+            "Score": 0.9828989505767822, 
+            "BeginOffset": 2511, 
+            "EndOffset": 2517
+        }, 
+        {
+            "Text": "Wednesday", 
+            "Score": 0.9987841248512268, 
+            "BeginOffset": 2519, 
+            "EndOffset": 2528
+        }, 
+        {
+            "Text": "Friday", 
+            "Score": 0.9978554844856262, 
+            "BeginOffset": 2534, 
+            "EndOffset": 2540
+        }, 
+        {
+            "Text": "The volume", 
+            "Score": 0.993079423904419, 
+            "BeginOffset": 2543, 
+            "EndOffset": 2553
+        }, 
+        {
+            "Text": "posts", 
+            "Score": 0.9803581237792969, 
+            "BeginOffset": 2557, 
+            "EndOffset": 2562
+        }, 
+        {
+            "Text": "a third option", 
+            "Score": 0.9740617871284485, 
+            "BeginOffset": 2615, 
+            "EndOffset": 2629
+        }, 
+        {
+            "Text": "date", 
+            "Score": 0.9983440041542053, 
+            "BeginOffset": 2644, 
+            "EndOffset": 2648
+        }, 
+        {
+            "Text": "a Twitter account", 
+            "Score": 0.9888895750045776, 
+            "BeginOffset": 2659, 
+            "EndOffset": 2676
+        }, 
+        {
+            "Text": "interesting content", 
+            "Score": 0.9993066787719727, 
+            "BeginOffset": 2728, 
+            "EndOffset": 2747
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9987574219703674, 
+            "BeginOffset": 2748, 
+            "EndOffset": 2757
+        }, 
+        {
+            "Text": "all a happy 2018", 
+            "Score": 0.9626961350440979, 
+            "BeginOffset": 2784, 
+            "EndOffset": 2800
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.7420353293418884, 
+            "BeginOffset": 2803, 
+            "EndOffset": 2806
+        }, 
+        {
+            "Text": "mind", 
+            "Score": 0.9636638760566711, 
+            "BeginOffset": 2815, 
+            "EndOffset": 2819
+        }, 
+        {
+            "Text": "the first", 
+            "Score": 0.995349645614624, 
+            "BeginOffset": 2843, 
+            "EndOffset": 2852
+        }, 
+        {
+            "Text": "January", 
+            "Score": 0.9999697804450989, 
+            "BeginOffset": 2856, 
+            "EndOffset": 2863
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9963318109512329, 
+            "BeginOffset": 2866, 
+            "EndOffset": 2869
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.8283737301826477, 
+            "BeginOffset": 2885, 
+            "EndOffset": 2890
+        }, 
+        {
+            "Text": "a decent iPad version", 
+            "Score": 0.9942535758018494, 
+            "BeginOffset": 2907, 
+            "EndOffset": 2928
+        }, 
+        {
+            "Text": "the iPhone X", 
+            "Score": 0.9971430897712708, 
+            "BeginOffset": 2949, 
+            "EndOffset": 2961
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9971128702163696, 
+            "BeginOffset": 2964, 
+            "EndOffset": 2967
+        }, 
+        {
+            "Text": "nothing interesting", 
+            "Score": 0.9414025545120239, 
+            "BeginOffset": 2999, 
+            "EndOffset": 3018
+        }
+    ]
+}

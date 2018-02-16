@@ -1,0 +1,221 @@
+{
+    "Entities": [
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.4898676872253418, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "Heartbleed", 
+            "Score": 0.6438782215118408, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 45, 
+            "EndOffset": 55
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.8976333141326904, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 57, 
+            "EndOffset": 67
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.8344227075576782, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 75, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "7 Earth-sized planets", 
+            "Score": 0.8981167078018188, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 84, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "single star", 
+            "Score": 0.8405177593231201, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 121, 
+            "EndOffset": 132
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.8042249083518982, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 163, 
+            "EndOffset": 173
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.8840731978416443, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 267, 
+            "EndOffset": 277
+        }, 
+        {
+            "Text": "September 2016", 
+            "Score": 0.9967920184135437, 
+            "Type": "DATE", 
+            "BeginOffset": 363, 
+            "EndOffset": 377
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9208440184593201, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 423, 
+            "EndOffset": 433
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9999805688858032, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1028, 
+            "EndOffset": 1038
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999983310699463, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1118, 
+            "EndOffset": 1124
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.8369623422622681, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1148, 
+            "EndOffset": 1158
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9999985694885254, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1446, 
+            "EndOffset": 1456
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.8068697452545166, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1602, 
+            "EndOffset": 1605
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 1.0, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1608, 
+            "EndOffset": 1618
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8112402558326721, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1620, 
+            "EndOffset": 1626
+        }, 
+        {
+            "Text": "version 1.0", 
+            "Score": 0.9186527729034424, 
+            "Type": "OTHER", 
+            "BeginOffset": 1676, 
+            "EndOffset": 1687
+        }, 
+        {
+            "Text": "two", 
+            "Score": 0.9999878406524658, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1739, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "Java", 
+            "Score": 0.9999512434005737, 
+            "Type": "TITLE", 
+            "BeginOffset": 1759, 
+            "EndOffset": 1763
+        }, 
+        {
+            "Text": "Python", 
+            "Score": 0.9999277591705322, 
+            "Type": "TITLE", 
+            "BeginOffset": 1779, 
+            "EndOffset": 1785
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 1.0, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1934, 
+            "EndOffset": 1944
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.46768951416015625, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1956, 
+            "EndOffset": 1962
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.9999973773956299, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2096, 
+            "EndOffset": 2106
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999343156814575, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2183, 
+            "EndOffset": 2189
+        }, 
+        {
+            "Text": "TensorFlow Developer Summit", 
+            "Score": 0.9999240636825562, 
+            "Type": "EVENT", 
+            "BeginOffset": 2331, 
+            "EndOffset": 2358
+        }, 
+        {
+            "Text": "7 PLANETS", 
+            "Score": 0.9999974966049194, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2447, 
+            "EndOffset": 2456
+        }, 
+        {
+            "Text": "7 Earth-sized planets", 
+            "Score": 0.9330881237983704, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2490, 
+            "EndOffset": 2511
+        }, 
+        {
+            "Text": "Earth", 
+            "Score": 0.9999986886978149, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2555, 
+            "EndOffset": 2560
+        }, 
+        {
+            "Text": "39 light years", 
+            "Score": 0.9980101585388184, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2569, 
+            "EndOffset": 2583
+        }, 
+        {
+            "Text": "nearly 40 years old", 
+            "Score": 0.9999727606773376, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2718, 
+            "EndOffset": 2737
+        }
+    ]
+}

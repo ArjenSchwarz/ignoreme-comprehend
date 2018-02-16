@@ -1,0 +1,694 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Windows", 
+            "Score": 0.9979392886161804, 
+            "BeginOffset": 0, 
+            "EndOffset": 7
+        }, 
+        {
+            "Text": "useful CLI tools", 
+            "Score": 0.9732352495193481, 
+            "BeginOffset": 19, 
+            "EndOffset": 35
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.984785795211792, 
+            "BeginOffset": 42, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "the batteries", 
+            "Score": 0.9969972968101501, 
+            "BeginOffset": 63, 
+            "EndOffset": 76
+        }, 
+        {
+            "Text": "their iPhones", 
+            "Score": 0.998138427734375, 
+            "BeginOffset": 80, 
+            "EndOffset": 93
+        }, 
+        {
+            "Text": "WINDOWS CLI", 
+            "Score": 0.7723168730735779, 
+            "BeginOffset": 98, 
+            "EndOffset": 109
+        }, 
+        {
+            "Text": "the biggest issues", 
+            "Score": 0.9985691905021667, 
+            "BeginOffset": 125, 
+            "EndOffset": 143
+        }, 
+        {
+            "Text": "Windows [1]", 
+            "Score": 0.8959590196609497, 
+            "BeginOffset": 149, 
+            "EndOffset": 160
+        }, 
+        {
+            "Text": "the tools", 
+            "Score": 0.999513566493988, 
+            "BeginOffset": 193, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "a *nix environment", 
+            "Score": 0.9734822511672974, 
+            "BeginOffset": 229, 
+            "EndOffset": 247
+        }, 
+        {
+            "Text": "an easy way", 
+            "Score": 0.9926377534866333, 
+            "BeginOffset": 265, 
+            "EndOffset": 276
+        }, 
+        {
+            "Text": "a server", 
+            "Score": 0.9229239821434021, 
+            "BeginOffset": 289, 
+            "EndOffset": 297
+        }, 
+        {
+            "Text": "some other tasks", 
+            "Score": 0.9944589138031006, 
+            "BeginOffset": 304, 
+            "EndOffset": 320
+        }, 
+        {
+            "Text": "different platforms", 
+            "Score": 0.9936572313308716, 
+            "BeginOffset": 340, 
+            "EndOffset": 359
+        }, 
+        {
+            "Text": "those things", 
+            "Score": 0.9959246516227722, 
+            "BeginOffset": 396, 
+            "EndOffset": 408
+        }, 
+        {
+            "Text": "a graphical tool", 
+            "Score": 0.9994188547134399, 
+            "BeginOffset": 428, 
+            "EndOffset": 444
+        }, 
+        {
+            "Text": "turn", 
+            "Score": 0.9659591317176819, 
+            "BeginOffset": 462, 
+            "EndOffset": 466
+        }, 
+        {
+            "Text": "script", 
+            "Score": 0.7451843619346619, 
+            "BeginOffset": 502, 
+            "EndOffset": 508
+        }, 
+        {
+            "Text": "the Windows Subsystem", 
+            "Score": 0.8671749830245972, 
+            "BeginOffset": 562, 
+            "EndOffset": 583
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9683690071105957, 
+            "BeginOffset": 588, 
+            "EndOffset": 593
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9942726492881775, 
+            "BeginOffset": 626, 
+            "EndOffset": 632
+        }, 
+        {
+            "Text": "a terminal", 
+            "Score": 0.8967477083206177, 
+            "BeginOffset": 655, 
+            "EndOffset": 665
+        }, 
+        {
+            "Text": "some more functionality", 
+            "Score": 0.8932133316993713, 
+            "BeginOffset": 667, 
+            "EndOffset": 690
+        }, 
+        {
+            "Text": "the regular Windows CLI", 
+            "Score": 0.9957963228225708, 
+            "BeginOffset": 715, 
+            "EndOffset": 738
+        }, 
+        {
+            "Text": "the most useful", 
+            "Score": 0.8792664408683777, 
+            "BeginOffset": 750, 
+            "EndOffset": 765
+        }, 
+        {
+            "Text": "PuTTY", 
+            "Score": 0.9960217475891113, 
+            "BeginOffset": 818, 
+            "EndOffset": 823
+        }, 
+        {
+            "Text": "its job", 
+            "Score": 0.9960278868675232, 
+            "BeginOffset": 849, 
+            "EndOffset": 856
+        }, 
+        {
+            "Text": "SSH", 
+            "Score": 0.7323737740516663, 
+            "BeginOffset": 885, 
+            "EndOffset": 888
+        }, 
+        {
+            "Text": "a machine", 
+            "Score": 0.9989904761314392, 
+            "BeginOffset": 894, 
+            "EndOffset": 903
+        }, 
+        {
+            "Text": "a terrible experience", 
+            "Score": 0.9986624121665955, 
+            "BeginOffset": 909, 
+            "EndOffset": 930
+        }, 
+        {
+            "Text": "SSH", 
+            "Score": 0.9976281523704529, 
+            "BeginOffset": 949, 
+            "EndOffset": 952
+        }, 
+        {
+            "Text": "a pretty", 
+            "Score": 0.8742639422416687, 
+            "BeginOffset": 1002, 
+            "EndOffset": 1010
+        }, 
+        {
+            "Text": "the client", 
+            "Score": 0.9640589952468872, 
+            "BeginOffset": 1014, 
+            "EndOffset": 1024
+        }, 
+        {
+            "Text": "the server", 
+            "Score": 0.9260072112083435, 
+            "BeginOffset": 1034, 
+            "EndOffset": 1044
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9976516366004944, 
+            "BeginOffset": 1087, 
+            "EndOffset": 1095
+        }, 
+        {
+            "Text": "SSH", 
+            "Score": 0.9979261755943298, 
+            "BeginOffset": 1099, 
+            "EndOffset": 1102
+        }, 
+        {
+            "Text": "a Windows machines", 
+            "Score": 0.8916533589363098, 
+            "BeginOffset": 1108, 
+            "EndOffset": 1126
+        }, 
+        {
+            "Text": "OpenSSH", 
+            "Score": 0.9988595247268677, 
+            "BeginOffset": 1129, 
+            "EndOffset": 1136
+        }, 
+        {
+            "Text": "the only tool", 
+            "Score": 0.9893496036529541, 
+            "BeginOffset": 1144, 
+            "EndOffset": 1157
+        }, 
+        {
+            "Text": "similar ports", 
+            "Score": 0.9130781292915344, 
+            "BeginOffset": 1168, 
+            "EndOffset": 1181
+        }, 
+        {
+            "Text": "tar and curl", 
+            "Score": 0.9735173583030701, 
+            "BeginOffset": 1185, 
+            "EndOffset": 1197
+        }, 
+        {
+            "Text": "the works", 
+            "Score": 0.9944021701812744, 
+            "BeginOffset": 1205, 
+            "EndOffset": 1214
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.986957311630249, 
+            "BeginOffset": 1226, 
+            "EndOffset": 1233
+        }, 
+        {
+            "Text": "UNIX sockets", 
+            "Score": 0.9313048720359802, 
+            "BeginOffset": 1238, 
+            "EndOffset": 1250
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9903279542922974, 
+            "BeginOffset": 1293, 
+            "EndOffset": 1300
+        }, 
+        {
+            "Text": "my personal ranking", 
+            "Score": 0.9970927834510803, 
+            "BeginOffset": 1304, 
+            "EndOffset": 1323
+        }, 
+        {
+            "Text": "operating systems", 
+            "Score": 0.9995088577270508, 
+            "BeginOffset": 1327, 
+            "EndOffset": 1344
+        }, 
+        {
+            "Text": "improvements", 
+            "Score": 0.9860146641731262, 
+            "BeginOffset": 1369, 
+            "EndOffset": 1381
+        }, 
+        {
+            "Text": "this regard", 
+            "Score": 0.9974067211151123, 
+            "BeginOffset": 1396, 
+            "EndOffset": 1407
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.9994243383407593, 
+            "BeginOffset": 1412, 
+            "EndOffset": 1417
+        }, 
+        {
+            "Text": "BATTERY ISSUE", 
+            "Score": 0.9124479293823242, 
+            "BeginOffset": 1420, 
+            "EndOffset": 1433
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9664716124534607, 
+            "BeginOffset": 1460, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "choices", 
+            "Score": 0.9184332489967346, 
+            "BeginOffset": 1527, 
+            "EndOffset": 1534
+        }, 
+        {
+            "Text": "their users", 
+            "Score": 0.9931801557540894, 
+            "BeginOffset": 1539, 
+            "EndOffset": 1550
+        }, 
+        {
+            "Text": "the issue", 
+            "Score": 0.9992806911468506, 
+            "BeginOffset": 1562, 
+            "EndOffset": 1571
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.997987687587738, 
+            "BeginOffset": 1580, 
+            "EndOffset": 1585
+        }, 
+        {
+            "Text": "batteries", 
+            "Score": 0.8970265984535217, 
+            "BeginOffset": 1596, 
+            "EndOffset": 1605
+        }, 
+        {
+            "Text": "iPhones", 
+            "Score": 0.9901322722434998, 
+            "BeginOffset": 1609, 
+            "EndOffset": 1616
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.6582484245300293, 
+            "BeginOffset": 1617, 
+            "EndOffset": 1619
+        }, 
+        {
+            "Text": "a certain age", 
+            "Score": 0.9807989001274109, 
+            "BeginOffset": 1636, 
+            "EndOffset": 1649
+        }, 
+        {
+            "Text": "the peaks", 
+            "Score": 0.7892208099365234, 
+            "BeginOffset": 1689, 
+            "EndOffset": 1698
+        }, 
+        {
+            "Text": "benchmarks", 
+            "Score": 0.9947461485862732, 
+            "BeginOffset": 1736, 
+            "EndOffset": 1746
+        }, 
+        {
+            "Text": "the reason", 
+            "Score": 0.9960899353027344, 
+            "BeginOffset": 1757, 
+            "EndOffset": 1767
+        }, 
+        {
+            "Text": "the battery", 
+            "Score": 0.9806938171386719, 
+            "BeginOffset": 1791, 
+            "EndOffset": 1802
+        }, 
+        {
+            "Text": "crashes", 
+            "Score": 0.9994138479232788, 
+            "BeginOffset": 1816, 
+            "EndOffset": 1823
+        }, 
+        {
+            "Text": "A couple things", 
+            "Score": 0.9589975476264954, 
+            "BeginOffset": 1826, 
+            "EndOffset": 1841
+        }, 
+        {
+            "Text": "batteries", 
+            "Score": 0.9941909313201904, 
+            "BeginOffset": 1857, 
+            "EndOffset": 1866
+        }, 
+        {
+            "Text": "my iPhones", 
+            "Score": 0.9953119158744812, 
+            "BeginOffset": 1879, 
+            "EndOffset": 1889
+        }, 
+        {
+            "Text": "my phone", 
+            "Score": 0.9936849474906921, 
+            "BeginOffset": 1928, 
+            "EndOffset": 1936
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.9878745675086975, 
+            "BeginOffset": 1937, 
+            "EndOffset": 1939
+        }, 
+        {
+            "Text": "firsthand", 
+            "Score": 0.9759140014648438, 
+            "BeginOffset": 1950, 
+            "EndOffset": 1959
+        }, 
+        {
+            "Text": "issues", 
+            "Score": 0.9669801592826843, 
+            "BeginOffset": 1965, 
+            "EndOffset": 1971
+        }, 
+        {
+            "Text": "addition", 
+            "Score": 0.93508380651474, 
+            "BeginOffset": 1982, 
+            "EndOffset": 1990
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9980987310409546, 
+            "BeginOffset": 2013, 
+            "EndOffset": 2018
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9996334314346313, 
+            "BeginOffset": 2040, 
+            "EndOffset": 2045
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9986579418182373, 
+            "BeginOffset": 2056, 
+            "EndOffset": 2062
+        }, 
+        {
+            "Text": "their phones", 
+            "Score": 0.987122654914856, 
+            "BeginOffset": 2067, 
+            "EndOffset": 2079
+        }, 
+        {
+            "Text": "a full day", 
+            "Score": 0.9988951086997986, 
+            "BeginOffset": 2084, 
+            "EndOffset": 2094
+        }, 
+        {
+            "Text": "the state", 
+            "Score": 0.992283821105957, 
+            "BeginOffset": 2110, 
+            "EndOffset": 2119
+        }, 
+        {
+            "Text": "the battery", 
+            "Score": 0.9939748048782349, 
+            "BeginOffset": 2123, 
+            "EndOffset": 2134
+        }, 
+        {
+            "Text": "their usual attempts", 
+            "Score": 0.9995467066764832, 
+            "BeginOffset": 2160, 
+            "EndOffset": 2180
+        }, 
+        {
+            "Text": "secrecy", 
+            "Score": 0.9994465708732605, 
+            "BeginOffset": 2184, 
+            "EndOffset": 2191
+        }, 
+        {
+            "Text": "secret", 
+            "Score": 0.9994468092918396, 
+            "BeginOffset": 2217, 
+            "EndOffset": 2223
+        }, 
+        {
+            "Text": "many people", 
+            "Score": 0.9073666334152222, 
+            "BeginOffset": 2232, 
+            "EndOffset": 2243
+        }, 
+        {
+            "Text": "minds", 
+            "Score": 0.8655696511268616, 
+            "BeginOffset": 2246, 
+            "EndOffset": 2251
+        }, 
+        {
+            "Text": "the idea", 
+            "Score": 0.9946315884590149, 
+            "BeginOffset": 2261, 
+            "EndOffset": 2269
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.9989913702011108, 
+            "BeginOffset": 2300, 
+            "EndOffset": 2306
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9945487380027771, 
+            "BeginOffset": 2327, 
+            "EndOffset": 2330
+        }, 
+        {
+            "Text": "the idea", 
+            "Score": 0.9985566735267639, 
+            "BeginOffset": 2372, 
+            "EndOffset": 2380
+        }, 
+        {
+            "Text": "the reason", 
+            "Score": 0.9991993308067322, 
+            "BeginOffset": 2389, 
+            "EndOffset": 2399
+        }, 
+        {
+            "Text": "the owner", 
+            "Score": 0.9966309070587158, 
+            "BeginOffset": 2437, 
+            "EndOffset": 2446
+        }, 
+        {
+            "Text": "the phone", 
+            "Score": 0.9943206906318665, 
+            "BeginOffset": 2450, 
+            "EndOffset": 2459
+        }, 
+        {
+            "Text": "a battery issue", 
+            "Score": 0.9412537217140198, 
+            "BeginOffset": 2479, 
+            "EndOffset": 2494
+        }, 
+        {
+            "Text": "the phone", 
+            "Score": 0.9903737902641296, 
+            "BeginOffset": 2499, 
+            "EndOffset": 2508
+        }, 
+        {
+            "Text": "warranty", 
+            "Score": 0.9994663000106812, 
+            "BeginOffset": 2524, 
+            "EndOffset": 2532
+        }, 
+        {
+            "Text": "a preferably free replacement", 
+            "Score": 0.9958815574645996, 
+            "BeginOffset": 2558, 
+            "EndOffset": 2587
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.9956584572792053, 
+            "BeginOffset": 2587, 
+            "EndOffset": 2590
+        }, 
+        {
+            "Text": "the very least", 
+            "Score": 0.8936927914619446, 
+            "BeginOffset": 2599, 
+            "EndOffset": 2613
+        }, 
+        {
+            "Text": "the owner", 
+            "Score": 0.981460690498352, 
+            "BeginOffset": 2636, 
+            "EndOffset": 2645
+        }, 
+        {
+            "Text": "a relatively cheap fix", 
+            "Score": 0.9996198415756226, 
+            "BeginOffset": 2667, 
+            "EndOffset": 2689
+        }, 
+        {
+            "Text": "a new phone", 
+            "Score": 0.9982295632362366, 
+            "BeginOffset": 2708, 
+            "EndOffset": 2719
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9992209076881409, 
+            "BeginOffset": 2722, 
+            "EndOffset": 2725
+        }, 
+        {
+            "Text": "my opinion", 
+            "Score": 0.9995942711830139, 
+            "BeginOffset": 2729, 
+            "EndOffset": 2739
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.805724024772644, 
+            "BeginOffset": 2751, 
+            "EndOffset": 2754
+        }, 
+        {
+            "Text": "only iPhones", 
+            "Score": 0.8517751097679138, 
+            "BeginOffset": 2770, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "iPads", 
+            "Score": 0.7743580937385559, 
+            "BeginOffset": 2786, 
+            "EndOffset": 2791
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9952284693717957, 
+            "BeginOffset": 2828, 
+            "EndOffset": 2831
+        }, 
+        {
+            "Text": "the 2 year", 
+            "Score": 0.815182626247406, 
+            "BeginOffset": 2844, 
+            "EndOffset": 2854
+        }, 
+        {
+            "Text": "consumer warranty", 
+            "Score": 0.7450071573257446, 
+            "BeginOffset": 2858, 
+            "EndOffset": 2875
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.994271993637085, 
+            "BeginOffset": 2881, 
+            "EndOffset": 2890
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9857662916183472, 
+            "BeginOffset": 2897, 
+            "EndOffset": 2900
+        }, 
+        {
+            "Text": "a new phone", 
+            "Score": 0.8340054154396057, 
+            "BeginOffset": 2934, 
+            "EndOffset": 2945
+        }, 
+        {
+            "Text": "the same", 
+            "Score": 0.9997357726097107, 
+            "BeginOffset": 2951, 
+            "EndOffset": 2959
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.9899359941482544, 
+            "BeginOffset": 3002, 
+            "EndOffset": 3005
+        }, 
+        {
+            "Text": "the phone", 
+            "Score": 0.7799010276794434, 
+            "BeginOffset": 3024, 
+            "EndOffset": 3033
+        }
+    ]
+}

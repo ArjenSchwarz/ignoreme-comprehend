@@ -1,0 +1,60 @@
+{
+    "Entities": [
+        {
+            "Text": "one this week", 
+            "Score": 0.7671089768409729, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 13, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.4228069484233856, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 81, 
+            "EndOffset": 87
+        }, 
+        {
+            "Text": "one side", 
+            "Score": 0.726292610168457, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 112, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.5271071195602417, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 121, 
+            "EndOffset": 127
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.5942304730415344, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 331, 
+            "EndOffset": 337
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.8197240829467773, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 368, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.64627605676651, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 579, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.7140126824378967, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 594, 
+            "EndOffset": 600
+        }
+    ]
+}

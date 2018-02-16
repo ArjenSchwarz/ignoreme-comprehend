@@ -1,0 +1,970 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A little", 
+            "Score": 0.9261655211448669, 
+            "BeginOffset": 0, 
+            "EndOffset": 8
+        }, 
+        {
+            "Text": "my holiday", 
+            "Score": 0.7755793333053589, 
+            "BeginOffset": 35, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.998274028301239, 
+            "BeginOffset": 47, 
+            "EndOffset": 56
+        }, 
+        {
+            "Text": "update", 
+            "Score": 0.9975325465202332, 
+            "BeginOffset": 59, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "my initial impressions", 
+            "Score": 0.9989032745361328, 
+            "BeginOffset": 77, 
+            "EndOffset": 99
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.998346745967865, 
+            "BeginOffset": 103, 
+            "EndOffset": 110
+        }, 
+        {
+            "Text": "' first major update", 
+            "Score": 0.9789772033691406, 
+            "BeginOffset": 110, 
+            "EndOffset": 130
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9993793368339539, 
+            "BeginOffset": 135, 
+            "EndOffset": 143
+        }, 
+        {
+            "Text": "other small things", 
+            "Score": 0.9982080459594727, 
+            "BeginOffset": 147, 
+            "EndOffset": 165
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.8607991337776184, 
+            "BeginOffset": 193, 
+            "EndOffset": 196
+        }, 
+        {
+            "Text": "2 weeks", 
+            "Score": 0.9944286346435547, 
+            "BeginOffset": 223, 
+            "EndOffset": 230
+        }, 
+        {
+            "Text": "Jenkins 2.0", 
+            "Score": 0.9096335768699646, 
+            "BeginOffset": 240, 
+            "EndOffset": 251
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9874535799026489, 
+            "BeginOffset": 266, 
+            "EndOffset": 273
+        }, 
+        {
+            "Text": "a continuous integration system", 
+            "Score": 0.9982885122299194, 
+            "BeginOffset": 277, 
+            "EndOffset": 308
+        }, 
+        {
+            "Text": "this major release", 
+            "Score": 0.9994809627532959, 
+            "BeginOffset": 314, 
+            "EndOffset": 332
+        }, 
+        {
+            "Text": "some big changes", 
+            "Score": 0.8963502049446106, 
+            "BeginOffset": 346, 
+            "EndOffset": 362
+        }, 
+        {
+            "Text": "your eye", 
+            "Score": 0.8486953973770142, 
+            "BeginOffset": 433, 
+            "EndOffset": 441
+        }, 
+        {
+            "Text": "a possible solution", 
+            "Score": 0.9917799830436707, 
+            "BeginOffset": 445, 
+            "EndOffset": 464
+        }, 
+        {
+            "Text": "The blog post", 
+            "Score": 0.9873880743980408, 
+            "BeginOffset": 467, 
+            "EndOffset": 480
+        }, 
+        {
+            "Text": "3 major cornerstones", 
+            "Score": 0.9949989914894104, 
+            "BeginOffset": 490, 
+            "EndOffset": 510
+        }, 
+        {
+            "Text": "this release", 
+            "Score": 0.9983633756637573, 
+            "BeginOffset": 515, 
+            "EndOffset": 527
+        }, 
+        {
+            "Text": "The least important", 
+            "Score": 0.836173415184021, 
+            "BeginOffset": 529, 
+            "EndOffset": 548
+        }, 
+        {
+            "Text": "change", 
+            "Score": 0.8574750423431396, 
+            "BeginOffset": 571, 
+            "EndOffset": 577
+        }, 
+        {
+            "Text": "improvements", 
+            "Score": 0.9858633279800415, 
+            "BeginOffset": 581, 
+            "EndOffset": 593
+        }, 
+        {
+            "Text": "the initial experience", 
+            "Score": 0.9985770583152771, 
+            "BeginOffset": 597, 
+            "EndOffset": 619
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9988429546356201, 
+            "BeginOffset": 621, 
+            "EndOffset": 628
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9994727373123169, 
+            "BeginOffset": 664, 
+            "EndOffset": 669
+        }, 
+        {
+            "Text": "configuration", 
+            "Score": 0.8291247487068176, 
+            "BeginOffset": 673, 
+            "EndOffset": 686
+        }, 
+        {
+            "Text": "plugins", 
+            "Score": 0.9898966550827026, 
+            "BeginOffset": 701, 
+            "EndOffset": 708
+        }, 
+        {
+            "Text": "your projects", 
+            "Score": 0.9986575841903687, 
+            "BeginOffset": 744, 
+            "EndOffset": 757
+        }, 
+        {
+            "Text": "scripts", 
+            "Score": 0.8676806092262268, 
+            "BeginOffset": 812, 
+            "EndOffset": 819
+        }, 
+        {
+            "Text": "Chef/Puppet/Ansible recipes", 
+            "Score": 0.9035336375236511, 
+            "BeginOffset": 823, 
+            "EndOffset": 850
+        }, 
+        {
+            "Text": "an instance", 
+            "Score": 0.9990587830543518, 
+            "BeginOffset": 862, 
+            "EndOffset": 873
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.9713970422744751, 
+            "BeginOffset": 888, 
+            "EndOffset": 897
+        }, 
+        {
+            "Text": "the idea", 
+            "Score": 0.9999081492424011, 
+            "BeginOffset": 899, 
+            "EndOffset": 907
+        }, 
+        {
+            "Text": "more things", 
+            "Score": 0.998277485370636, 
+            "BeginOffset": 960, 
+            "EndOffset": 971
+        }, 
+        {
+            "Text": "the box", 
+            "Score": 0.9965158700942993, 
+            "BeginOffset": 989, 
+            "EndOffset": 996
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.8337903618812561, 
+            "BeginOffset": 1068, 
+            "EndOffset": 1070
+        }, 
+        {
+            "Text": "The second change", 
+            "Score": 0.9987359642982483, 
+            "BeginOffset": 1073, 
+            "EndOffset": 1090
+        }, 
+        {
+            "Text": "some much-needed UI improvements", 
+            "Score": 0.9790171384811401, 
+            "BeginOffset": 1094, 
+            "EndOffset": 1126
+        }, 
+        {
+            "Text": "the biggest improvement", 
+            "Score": 0.9908042550086975, 
+            "BeginOffset": 1132, 
+            "EndOffset": 1155
+        }, 
+        {
+            "Text": "a change", 
+            "Score": 0.9992642402648926, 
+            "BeginOffset": 1159, 
+            "EndOffset": 1167
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.9948705434799194, 
+            "BeginOffset": 1171, 
+            "EndOffset": 1178
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9973856806755066, 
+            "BeginOffset": 1179, 
+            "EndOffset": 1186
+        }, 
+        {
+            "Text": "full pipelines", 
+            "Score": 0.9947821497917175, 
+            "BeginOffset": 1223, 
+            "EndOffset": 1237
+        }, 
+        {
+            "Text": "a deployment aspect", 
+            "Score": 0.998784601688385, 
+            "BeginOffset": 1257, 
+            "EndOffset": 1276
+        }, 
+        {
+            "Text": "a continuous deployment setup", 
+            "Score": 0.995905876159668, 
+            "BeginOffset": 1281, 
+            "EndOffset": 1310
+        }, 
+        {
+            "Text": "the past deployments", 
+            "Score": 0.9987346529960632, 
+            "BeginOffset": 1315, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.996115505695343, 
+            "BeginOffset": 1341, 
+            "EndOffset": 1348
+        }, 
+        {
+            "Text": "ways", 
+            "Score": 0.9961393475532532, 
+            "BeginOffset": 1386, 
+            "EndOffset": 1390
+        }, 
+        {
+            "Text": "result", 
+            "Score": 0.8498748540878296, 
+            "BeginOffset": 1459, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "a system", 
+            "Score": 0.9645378589630127, 
+            "BeginOffset": 1469, 
+            "EndOffset": 1477
+        }, 
+        {
+            "Text": "Samson", 
+            "Score": 0.9990339875221252, 
+            "BeginOffset": 1483, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "the new pipelines", 
+            "Score": 0.9913171529769897, 
+            "BeginOffset": 1496, 
+            "EndOffset": 1513
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.8696173429489136, 
+            "BeginOffset": 1550, 
+            "EndOffset": 1552
+        }, 
+        {
+            "Text": "Other CI/CD systems", 
+            "Score": 0.9530403017997742, 
+            "BeginOffset": 1554, 
+            "EndOffset": 1573
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9990338683128357, 
+            "BeginOffset": 1580, 
+            "EndOffset": 1587
+        }, 
+        {
+            "Text": "a SASS", 
+            "Score": 0.9442208409309387, 
+            "BeginOffset": 1613, 
+            "EndOffset": 1619
+        }, 
+        {
+            "Text": "pipelines", 
+            "Score": 0.8474567532539368, 
+            "BeginOffset": 1670, 
+            "EndOffset": 1679
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9987867474555969, 
+            "BeginOffset": 1684, 
+            "EndOffset": 1691
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9982753992080688, 
+            "BeginOffset": 1714, 
+            "EndOffset": 1721
+        }, 
+        {
+            "Text": "their own implementation", 
+            "Score": 0.999221682548523, 
+            "BeginOffset": 1727, 
+            "EndOffset": 1751
+        }, 
+        {
+            "Text": "details", 
+            "Score": 0.9985548257827759, 
+            "BeginOffset": 1773, 
+            "EndOffset": 1780
+        }, 
+        {
+            "Text": "the pipelines", 
+            "Score": 0.9925875067710876, 
+            "BeginOffset": 1788, 
+            "EndOffset": 1801
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.990319013595581, 
+            "BeginOffset": 1810, 
+            "EndOffset": 1817
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9944560527801514, 
+            "BeginOffset": 1847, 
+            "EndOffset": 1853
+        }, 
+        {
+            "Text": "the documentation", 
+            "Score": 0.9977757930755615, 
+            "BeginOffset": 1857, 
+            "EndOffset": 1874
+        }, 
+        {
+            "Text": "A couple", 
+            "Score": 0.9978920817375183, 
+            "BeginOffset": 1889, 
+            "EndOffset": 1897
+        }, 
+        {
+            "Text": "important changes", 
+            "Score": 0.8237062692642212, 
+            "BeginOffset": 1901, 
+            "EndOffset": 1918
+        }, 
+        {
+            "Text": "the new pipelines", 
+            "Score": 0.9970384836196899, 
+            "BeginOffset": 1950, 
+            "EndOffset": 1967
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9928857684135437, 
+            "BeginOffset": 2015, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "your GitHub or Bitbucket teams", 
+            "Score": 0.9625375270843506, 
+            "BeginOffset": 2031, 
+            "EndOffset": 2061
+        }, 
+        {
+            "Text": "repositories", 
+            "Score": 0.9483857154846191, 
+            "BeginOffset": 2066, 
+            "EndOffset": 2078
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.997613251209259, 
+            "BeginOffset": 2114, 
+            "EndOffset": 2119
+        }, 
+        {
+            "Text": "the hassle", 
+            "Score": 0.9852786660194397, 
+            "BeginOffset": 2123, 
+            "EndOffset": 2133
+        }, 
+        {
+            "Text": "the projects", 
+            "Score": 0.999208390712738, 
+            "BeginOffset": 2149, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9958821535110474, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2190
+        }, 
+        {
+            "Text": "time and frustration", 
+            "Score": 0.999726414680481, 
+            "BeginOffset": 2194, 
+            "EndOffset": 2214
+        }, 
+        {
+            "Text": "theory", 
+            "Score": 0.9878522753715515, 
+            "BeginOffset": 2219, 
+            "EndOffset": 2225
+        }, 
+        {
+            "Text": "separate projects", 
+            "Score": 0.9055054783821106, 
+            "BeginOffset": 2325, 
+            "EndOffset": 2342
+        }, 
+        {
+            "Text": "different branches", 
+            "Score": 0.9971932172775269, 
+            "BeginOffset": 2347, 
+            "EndOffset": 2365
+        }, 
+        {
+            "Text": "a single repository", 
+            "Score": 0.9992741346359253, 
+            "BeginOffset": 2369, 
+            "EndOffset": 2388
+        }, 
+        {
+            "Text": "The last change", 
+            "Score": 0.9979140162467957, 
+            "BeginOffset": 2391, 
+            "EndOffset": 2406
+        }, 
+        {
+            "Text": "the documentation", 
+            "Score": 0.994724452495575, 
+            "BeginOffset": 2425, 
+            "EndOffset": 2442
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9873146414756775, 
+            "BeginOffset": 2454, 
+            "EndOffset": 2461
+        }, 
+        {
+            "Text": "Pull Requests", 
+            "Score": 0.9329555034637451, 
+            "BeginOffset": 2475, 
+            "EndOffset": 2488
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9918984770774841, 
+            "BeginOffset": 2526, 
+            "EndOffset": 2533
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.9976667761802673, 
+            "BeginOffset": 2624, 
+            "EndOffset": 2635
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.7886791825294495, 
+            "BeginOffset": 2653, 
+            "EndOffset": 2660
+        }, 
+        {
+            "Text": "a new CI/CD system", 
+            "Score": 0.996232807636261, 
+            "BeginOffset": 2680, 
+            "EndOffset": 2698
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.9977700710296631, 
+            "BeginOffset": 2705, 
+            "EndOffset": 2714
+        }, 
+        {
+            "Text": "a try", 
+            "Score": 0.9969373941421509, 
+            "BeginOffset": 2715, 
+            "EndOffset": 2720
+        }, 
+        {
+            "Text": "SMALL STUFF", 
+            "Score": 0.9974610805511475, 
+            "BeginOffset": 2754, 
+            "EndOffset": 2765
+        }, 
+        {
+            "Text": "A couple", 
+            "Score": 0.9798809289932251, 
+            "BeginOffset": 2768, 
+            "EndOffset": 2776
+        }, 
+        {
+            "Text": "small things", 
+            "Score": 0.9300549030303955, 
+            "BeginOffset": 2780, 
+            "EndOffset": 2792
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9273121356964111, 
+            "BeginOffset": 2819, 
+            "EndOffset": 2824
+        }, 
+        {
+            "Text": "attention", 
+            "Score": 0.8404833078384399, 
+            "BeginOffset": 2828, 
+            "EndOffset": 2837
+        }, 
+        {
+            "Text": "the founder", 
+            "Score": 0.999399721622467, 
+            "BeginOffset": 2864, 
+            "EndOffset": 2875
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.9968666434288025, 
+            "BeginOffset": 2879, 
+            "EndOffset": 2886
+        }, 
+        {
+            "Text": "Craig Wright", 
+            "Score": 0.9988555908203125, 
+            "BeginOffset": 2888, 
+            "EndOffset": 2900
+        }, 
+        {
+            "Text": "proof", 
+            "Score": 0.9993481040000916, 
+            "BeginOffset": 2908, 
+            "EndOffset": 2913
+        }, 
+        {
+            "Text": "his blog", 
+            "Score": 0.9835816025733948, 
+            "BeginOffset": 2917, 
+            "EndOffset": 2925
+        }, 
+        {
+            "Text": "an apology", 
+            "Score": 0.9982070922851562, 
+            "BeginOffset": 2958, 
+            "EndOffset": 2968
+        }, 
+        {
+            "Text": "some convincing proof", 
+            "Score": 0.8987142443656921, 
+            "BeginOffset": 3035, 
+            "EndOffset": 3056
+        }, 
+        {
+            "Text": "the end", 
+            "Score": 0.973372757434845, 
+            "BeginOffset": 3108, 
+            "EndOffset": 3115
+        }, 
+        {
+            "Text": "the week", 
+            "Score": 0.9795238375663757, 
+            "BeginOffset": 3119, 
+            "EndOffset": 3127
+        }, 
+        {
+            "Text": "the whole thing", 
+            "Score": 0.9991644620895386, 
+            "BeginOffset": 3128, 
+            "EndOffset": 3143
+        }, 
+        {
+            "Text": "the press", 
+            "Score": 0.9906872510910034, 
+            "BeginOffset": 3174, 
+            "EndOffset": 3183
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.9938305616378784, 
+            "BeginOffset": 3225, 
+            "EndOffset": 3232
+        }, 
+        {
+            "Text": "the hunt", 
+            "Score": 0.9913508892059326, 
+            "BeginOffset": 3252, 
+            "EndOffset": 3260
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9748570919036865, 
+            "BeginOffset": 3314, 
+            "EndOffset": 3322
+        }, 
+        {
+            "Text": "their encryption methods", 
+            "Score": 0.9991844296455383, 
+            "BeginOffset": 3332, 
+            "EndOffset": 3356
+        }, 
+        {
+            "Text": "the Brazilian government", 
+            "Score": 0.8831323385238647, 
+            "BeginOffset": 3389, 
+            "EndOffset": 3413
+        }, 
+        {
+            "Text": "one judge", 
+            "Score": 0.9762599468231201, 
+            "BeginOffset": 3427, 
+            "EndOffset": 3436
+        }, 
+        {
+            "Text": "This judge", 
+            "Score": 0.9901905059814453, 
+            "BeginOffset": 3466, 
+            "EndOffset": 3476
+        }, 
+        {
+            "Text": "ISPs", 
+            "Score": 0.9977960586547852, 
+            "BeginOffset": 3491, 
+            "EndOffset": 3495
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9991171956062317, 
+            "BeginOffset": 3507, 
+            "EndOffset": 3513
+        }, 
+        {
+            "Text": "the app", 
+            "Score": 0.9890567064285278, 
+            "BeginOffset": 3517, 
+            "EndOffset": 3524
+        }, 
+        {
+            "Text": "3 days", 
+            "Score": 0.9799504280090332, 
+            "BeginOffset": 3529, 
+            "EndOffset": 3535
+        }, 
+        {
+            "Text": "about 100 million users", 
+            "Score": 0.9975311756134033, 
+            "BeginOffset": 3551, 
+            "EndOffset": 3574
+        }, 
+        {
+            "Text": "that time", 
+            "Score": 0.9277079105377197, 
+            "BeginOffset": 3583, 
+            "EndOffset": 3592
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9922003746032715, 
+            "BeginOffset": 3593, 
+            "EndOffset": 3598
+        }, 
+        {
+            "Text": "Brazilians", 
+            "Score": 0.7924677133560181, 
+            "BeginOffset": 3602, 
+            "EndOffset": 3612
+        }, 
+        {
+            "Text": "alternatives", 
+            "Score": 0.9291053414344788, 
+            "BeginOffset": 3627, 
+            "EndOffset": 3639
+        }, 
+        {
+            "Text": "Telegram", 
+            "Score": 0.9952552318572998, 
+            "BeginOffset": 3645, 
+            "EndOffset": 3653
+        }, 
+        {
+            "Text": "The order", 
+            "Score": 0.9962843656539917, 
+            "BeginOffset": 3655, 
+            "EndOffset": 3664
+        }, 
+        {
+            "Text": "the last time", 
+            "Score": 0.8109179139137268, 
+            "BeginOffset": 3727, 
+            "EndOffset": 3740
+        }, 
+        {
+            "Text": "some government", 
+            "Score": 0.9991472959518433, 
+            "BeginOffset": 3741, 
+            "EndOffset": 3756
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9996863603591919, 
+            "BeginOffset": 3763, 
+            "EndOffset": 3769
+        }, 
+        {
+            "Text": "encrypted data", 
+            "Score": 0.9978500008583069, 
+            "BeginOffset": 3773, 
+            "EndOffset": 3787
+        }, 
+        {
+            "Text": "an app", 
+            "Score": 0.99916672706604, 
+            "BeginOffset": 3821, 
+            "EndOffset": 3827
+        }, 
+        {
+            "Text": "the hardware vendor", 
+            "Score": 0.999630331993103, 
+            "BeginOffset": 3831, 
+            "EndOffset": 3850
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9985643029212952, 
+            "BeginOffset": 3865, 
+            "EndOffset": 3870
+        }, 
+        {
+            "Text": "all apps", 
+            "Score": 0.997002363204956, 
+            "BeginOffset": 3889, 
+            "EndOffset": 3897
+        }, 
+        {
+            "Text": "the App Store", 
+            "Score": 0.986255407333374, 
+            "BeginOffset": 3901, 
+            "EndOffset": 3914
+        }, 
+        {
+            "Text": "IPv6", 
+            "Score": 0.9788041710853577, 
+            "BeginOffset": 3931, 
+            "EndOffset": 3935
+        }, 
+        {
+            "Text": "IPv4 addresses", 
+            "Score": 0.9789871573448181, 
+            "BeginOffset": 3940, 
+            "EndOffset": 3954
+        }, 
+        {
+            "Text": "places", 
+            "Score": 0.9508753418922424, 
+            "BeginOffset": 4008, 
+            "EndOffset": 4014
+        }, 
+        {
+            "Text": "IPv6", 
+            "Score": 0.9906864166259766, 
+            "BeginOffset": 4030, 
+            "EndOffset": 4034
+        }, 
+        {
+            "Text": "more and more important", 
+            "Score": 0.986326277256012, 
+            "BeginOffset": 4047, 
+            "EndOffset": 4070
+        }, 
+        {
+            "Text": "a small move", 
+            "Score": 0.7374686002731323, 
+            "BeginOffset": 4090, 
+            "EndOffset": 4102
+        }, 
+        {
+            "Text": "that regard", 
+            "Score": 0.986123263835907, 
+            "BeginOffset": 4106, 
+            "EndOffset": 4117
+        }, 
+        {
+            "Text": "this support", 
+            "Score": 0.9993057250976562, 
+            "BeginOffset": 4133, 
+            "EndOffset": 4145
+        }, 
+        {
+            "Text": "the standard iOS frameworks", 
+            "Score": 0.8744755983352661, 
+            "BeginOffset": 4168, 
+            "EndOffset": 4195
+        }, 
+        {
+            "Text": "the importance", 
+            "Score": 0.9985960721969604, 
+            "BeginOffset": 4213, 
+            "EndOffset": 4227
+        }, 
+        {
+            "Text": "mobile devices", 
+            "Score": 0.9954509735107422, 
+            "BeginOffset": 4231, 
+            "EndOffset": 4245
+        }, 
+        {
+            "Text": "the switch", 
+            "Score": 0.9900678396224976, 
+            "BeginOffset": 4272, 
+            "EndOffset": 4282
+        }, 
+        {
+            "Text": "frictionless", 
+            "Score": 0.999608039855957, 
+            "BeginOffset": 4298, 
+            "EndOffset": 4310
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9991209506988525, 
+            "BeginOffset": 4325, 
+            "EndOffset": 4327
+        }, 
+        {
+            "Text": "other things", 
+            "Score": 0.7216708660125732, 
+            "BeginOffset": 4349, 
+            "EndOffset": 4361
+        }, 
+        {
+            "Text": "the past couple", 
+            "Score": 0.9824880361557007, 
+            "BeginOffset": 4362, 
+            "EndOffset": 4377
+        }, 
+        {
+            "Text": "weeks", 
+            "Score": 0.9966627359390259, 
+            "BeginOffset": 4381, 
+            "EndOffset": 4386
+        }, 
+        {
+            "Text": "no intention", 
+            "Score": 0.9989647269248962, 
+            "BeginOffset": 4399, 
+            "EndOffset": 4411
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9982686042785645, 
+            "BeginOffset": 4422, 
+            "EndOffset": 4428
+        }, 
+        {
+            "Text": "holiday", 
+            "Score": 0.9992093443870544, 
+            "BeginOffset": 4442, 
+            "EndOffset": 4449
+        }, 
+        {
+            "Text": "[2", 
+            "Score": 0.9974969029426575, 
+            "BeginOffset": 4459, 
+            "EndOffset": 4461
+        }, 
+        {
+            "Text": "a separate continuous deployment server", 
+            "Score": 0.9245248436927795, 
+            "BeginOffset": 4480, 
+            "EndOffset": 4519
+        }, 
+        {
+            "Text": "other benefits", 
+            "Score": 0.7923604846000671, 
+            "BeginOffset": 4529, 
+            "EndOffset": 4543
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9833816885948181, 
+            "BeginOffset": 4566, 
+            "EndOffset": 4573
+        }, 
+        {
+            "Text": "your CD needs", 
+            "Score": 0.9985832571983337, 
+            "BeginOffset": 4578, 
+            "EndOffset": 4591
+        }, 
+        {
+            "Text": "the best solution", 
+            "Score": 0.8379544019699097, 
+            "BeginOffset": 4612, 
+            "EndOffset": 4629
+        }
+    ]
+}

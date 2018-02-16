@@ -1,0 +1,200 @@
+{
+    "Entities": [
+        {
+            "Text": "Google Pay", 
+            "Score": 0.9353062510490417, 
+            "Type": "TITLE", 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.813231885433197, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 14, 
+            "EndOffset": 20
+        }, 
+        {
+            "Text": "X-Ray SDK", 
+            "Score": 0.7145417332649231, 
+            "Type": "TITLE", 
+            "BeginOffset": 64, 
+            "EndOffset": 73
+        }, 
+        {
+            "Text": "Ruby", 
+            "Score": 0.38119855523109436, 
+            "Type": "TITLE", 
+            "BeginOffset": 78, 
+            "EndOffset": 82
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.968154788017273, 
+            "Type": "TITLE", 
+            "BeginOffset": 87, 
+            "EndOffset": 97
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.8672435879707336, 
+            "Type": "TITLE", 
+            "BeginOffset": 114, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.5360664129257202, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 125, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "GOOGLE", 
+            "Score": 0.3358316123485565, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 133, 
+            "EndOffset": 139
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8054589033126831, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 146, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "Android Pay", 
+            "Score": 0.7098001837730408, 
+            "Type": "TITLE", 
+            "BeginOffset": 166, 
+            "EndOffset": 177
+        }, 
+        {
+            "Text": "Google Pay", 
+            "Score": 0.9675278067588806, 
+            "Type": "TITLE", 
+            "BeginOffset": 220, 
+            "EndOffset": 230
+        }, 
+        {
+            "Text": "Apple Pay", 
+            "Score": 0.735729455947876, 
+            "Type": "TITLE", 
+            "BeginOffset": 283, 
+            "EndOffset": 292
+        }, 
+        {
+            "Text": "Apple Pay", 
+            "Score": 0.8491777181625366, 
+            "Type": "TITLE", 
+            "BeginOffset": 458, 
+            "EndOffset": 467
+        }, 
+        {
+            "Text": "US", 
+            "Score": 0.8645592927932739, 
+            "Type": "LOCATION", 
+            "BeginOffset": 486, 
+            "EndOffset": 488
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.965622067451477, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 526, 
+            "EndOffset": 532
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7404007911682129, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1109, 
+            "EndOffset": 1112
+        }, 
+        {
+            "Text": "X-RAY FOR RUBY", 
+            "Score": 0.8988461494445801, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1113, 
+            "EndOffset": 1127
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999942779541016, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1158, 
+            "EndOffset": 1161
+        }, 
+        {
+            "Text": "X-Ray SDK", 
+            "Score": 0.9806649088859558, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1162, 
+            "EndOffset": 1171
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9999814629554749, 
+            "Type": "TITLE", 
+            "BeginOffset": 1436, 
+            "EndOffset": 1439
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 1.0, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1747, 
+            "EndOffset": 1750
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999688863754272, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1990, 
+            "EndOffset": 1996
+        }, 
+        {
+            "Text": "Alex Ellis", 
+            "Score": 0.9996752142906189, 
+            "Type": "PERSON", 
+            "BeginOffset": 2005, 
+            "EndOffset": 2015
+        }, 
+        {
+            "Text": "Docker Edge", 
+            "Score": 0.9999858736991882, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2158, 
+            "EndOffset": 2169
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999979734420776, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2265, 
+            "EndOffset": 2270
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9998829364776611, 
+            "Type": "TITLE", 
+            "BeginOffset": 2275, 
+            "EndOffset": 2282
+        }, 
+        {
+            "Text": "Ruby", 
+            "Score": 0.9999847412109375, 
+            "Type": "PERSON", 
+            "BeginOffset": 2395, 
+            "EndOffset": 2399
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9995588660240173, 
+            "Type": "TITLE", 
+            "BeginOffset": 2454, 
+            "EndOffset": 2461
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "Entities": [
+        {
+            "Text": "Apple", 
+            "Score": 0.6005533337593079, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 5
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.7079635262489319, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 44, 
+            "EndOffset": 50
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.28591254353523254, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 59, 
+            "EndOffset": 67
+        }, 
+        {
+            "Text": "a day later", 
+            "Score": 0.8231332302093506, 
+            "Type": "DATE", 
+            "BeginOffset": 188, 
+            "EndOffset": 199
+        }, 
+        {
+            "Text": "last night", 
+            "Score": 0.9562570452690125, 
+            "Type": "DATE", 
+            "BeginOffset": 311, 
+            "EndOffset": 321
+        }, 
+        {
+            "Text": "past few years", 
+            "Score": 0.8313441276550293, 
+            "Type": "DATE", 
+            "BeginOffset": 448, 
+            "EndOffset": 462
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.6326058506965637, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 464, 
+            "EndOffset": 469
+        }, 
+        {
+            "Text": "March", 
+            "Score": 0.9958029389381409, 
+            "Type": "DATE", 
+            "BeginOffset": 518, 
+            "EndOffset": 523
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.999722421169281, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 700, 
+            "EndOffset": 706
+        }, 
+        {
+            "Text": "later this year", 
+            "Score": 0.7479234933853149, 
+            "Type": "DATE", 
+            "BeginOffset": 952, 
+            "EndOffset": 967
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9997215867042542, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 978, 
+            "EndOffset": 982
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999134540557861, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1012, 
+            "EndOffset": 1017
+        }, 
+        {
+            "Text": "third", 
+            "Score": 0.9999581575393677, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1048, 
+            "EndOffset": 1053
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9998238682746887, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1054, 
+            "EndOffset": 1058
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9999743700027466, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1071, 
+            "EndOffset": 1075
+        }, 
+        {
+            "Text": "MacBooks", 
+            "Score": 0.999983549118042, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1167, 
+            "EndOffset": 1175
+        }, 
+        {
+            "Text": "iMacs", 
+            "Score": 0.9471543431282043, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1180, 
+            "EndOffset": 1185
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9998317956924438, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1375, 
+            "EndOffset": 1379
+        }, 
+        {
+            "Text": "$70", 
+            "Score": 0.9989511966705322, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1391, 
+            "EndOffset": 1394
+        }, 
+        {
+            "Text": "iPad Pro", 
+            "Score": 0.999863862991333, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1477, 
+            "EndOffset": 1485
+        }, 
+        {
+            "Text": "iPad Air", 
+            "Score": 0.9999664425849915, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1526, 
+            "EndOffset": 1534
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.804194450378418, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1551, 
+            "EndOffset": 1556
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999794960021973, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1582, 
+            "EndOffset": 1587
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.9999988079071045, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1606, 
+            "EndOffset": 1614
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2431, 
+            "EndOffset": 2436
+        }, 
+        {
+            "Text": "Siri", 
+            "Score": 0.9999988079071045, 
+            "Type": "TITLE", 
+            "BeginOffset": 2533, 
+            "EndOffset": 2537
+        }, 
+        {
+            "Text": "TestFlight", 
+            "Score": 0.9977321624755859, 
+            "Type": "TITLE", 
+            "BeginOffset": 2542, 
+            "EndOffset": 2552
+        }, 
+        {
+            "Text": "Both", 
+            "Score": 0.9971277117729187, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2554, 
+            "EndOffset": 2558
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.999778687953949, 
+            "Type": "TITLE", 
+            "BeginOffset": 2612, 
+            "EndOffset": 2615
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.9999997615814209, 
+            "Type": "TITLE", 
+            "BeginOffset": 2674, 
+            "EndOffset": 2682
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999960660934448, 
+            "Type": "TITLE", 
+            "BeginOffset": 2788, 
+            "EndOffset": 2791
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.999358594417572, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2807, 
+            "EndOffset": 2812
+        }, 
+        {
+            "Text": "Macstories", 
+            "Score": 0.9999978542327881, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3048, 
+            "EndOffset": 3058
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999979734420776, 
+            "Type": "TITLE", 
+            "BeginOffset": 3060, 
+            "EndOffset": 3063
+        }, 
+        {
+            "Text": "SYMANTEC", 
+            "Score": 0.9999992847442627, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3126, 
+            "EndOffset": 3134
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.5893344879150391, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3227, 
+            "EndOffset": 3233
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999771118164062, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3247, 
+            "EndOffset": 3250
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.9999561309814453, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3278, 
+            "EndOffset": 3286
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999991655349731, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3327, 
+            "EndOffset": 3333
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.9998427629470825, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3335, 
+            "EndOffset": 3343
+        }, 
+        {
+            "Text": "over 30.000 certificates", 
+            "Score": 0.9845118522644043, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3366, 
+            "EndOffset": 3390
+        }, 
+        {
+            "Text": "both parties", 
+            "Score": 0.9999900460243225, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3462, 
+            "EndOffset": 3474
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9999991655349731, 
+            "Type": "TITLE", 
+            "BeginOffset": 3610, 
+            "EndOffset": 3616
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.9998822212219238, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3647, 
+            "EndOffset": 3655
+        }, 
+        {
+            "Text": "about 30%", 
+            "Score": 0.9999592304229736, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3700, 
+            "EndOffset": 3709
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999909400939941, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4004, 
+            "EndOffset": 4007
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999747276306152, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4044, 
+            "EndOffset": 4047
+        }, 
+        {
+            "Text": "Stack Overflow", 
+            "Score": 0.9547364711761475, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4129, 
+            "EndOffset": 4143
+        }, 
+        {
+            "Text": "English", 
+            "Score": 0.9999995231628418, 
+            "Type": "OTHER", 
+            "BeginOffset": 4260, 
+            "EndOffset": 4267
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.999984622001648, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4635, 
+            "EndOffset": 4640
+        }
+    ]
+}

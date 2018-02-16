@@ -1,0 +1,221 @@
+{
+    "Entities": [
+        {
+            "Text": "Apple", 
+            "Score": 0.8052406907081604, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 154, 
+            "EndOffset": 159
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9746189713478088, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 177, 
+            "EndOffset": 183
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9910906553268433, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 234, 
+            "EndOffset": 240
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9982150793075562, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 245, 
+            "EndOffset": 253
+        }, 
+        {
+            "Text": "WHATSAPP", 
+            "Score": 0.963063657283783, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 379, 
+            "EndOffset": 387
+        }, 
+        {
+            "Text": "past week", 
+            "Score": 0.8749426007270813, 
+            "Type": "DATE", 
+            "BeginOffset": 410, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9802773594856262, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 542, 
+            "EndOffset": 550
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9648181200027466, 
+            "Type": "TITLE", 
+            "BeginOffset": 588, 
+            "EndOffset": 591
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.8946340084075928, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 602, 
+            "EndOffset": 610
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9435964226722717, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 648, 
+            "EndOffset": 656
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9518997669219971, 
+            "Type": "TITLE", 
+            "BeginOffset": 864, 
+            "EndOffset": 867
+        }, 
+        {
+            "Text": "1 dollar", 
+            "Score": 0.9990180134773254, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 923, 
+            "EndOffset": 931
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999041557312012, 
+            "Type": "TITLE", 
+            "BeginOffset": 959, 
+            "EndOffset": 966
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9998856782913208, 
+            "Type": "TITLE", 
+            "BeginOffset": 977, 
+            "EndOffset": 980
+        }, 
+        {
+            "Text": "The Netherlands", 
+            "Score": 0.9999927878379822, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1057, 
+            "EndOffset": 1072
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.7603699564933777, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1074, 
+            "EndOffset": 1082
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9999978542327881, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1433, 
+            "EndOffset": 1441
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999517202377319, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1609, 
+            "EndOffset": 1617
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999939203262329, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1711, 
+            "EndOffset": 1719
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9999730587005615, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1755, 
+            "EndOffset": 1763
+        }, 
+        {
+            "Text": "22 billion", 
+            "Score": 0.9994359016418457, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1938, 
+            "EndOffset": 1948
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2332, 
+            "EndOffset": 2340
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9998711347579956, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2416, 
+            "EndOffset": 2424
+        }, 
+        {
+            "Text": "Asia", 
+            "Score": 0.9999715089797974, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2468, 
+            "EndOffset": 2472
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9999964237213135, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2637, 
+            "EndOffset": 2645
+        }, 
+        {
+            "Text": "Hong Kong", 
+            "Score": 0.999776303768158, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2691, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9999996423721313, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2756, 
+            "EndOffset": 2764
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999988079071045, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2910, 
+            "EndOffset": 2918
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9999903440475464, 
+            "Type": "DATE", 
+            "BeginOffset": 3079, 
+            "EndOffset": 3088
+        }, 
+        {
+            "Text": "Twitter", 
+            "Score": 0.9999986886978149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3125, 
+            "EndOffset": 3132
+        }, 
+        {
+            "Text": "Ben Thompson", 
+            "Score": 0.999108076095581, 
+            "Type": "PERSON", 
+            "BeginOffset": 3531, 
+            "EndOffset": 3543
+        }
+    ]
+}

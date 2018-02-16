@@ -1,0 +1,326 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.8098783493041992, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.6318215131759644, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 41, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "version 1.12", 
+            "Score": 0.8358358144760132, 
+            "Type": "OTHER", 
+            "BeginOffset": 57, 
+            "EndOffset": 69
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9695382714271545, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 75, 
+            "EndOffset": 81
+        }, 
+        {
+            "Text": "past couple of weeks", 
+            "Score": 0.9200637340545654, 
+            "Type": "DATE", 
+            "BeginOffset": 200, 
+            "EndOffset": 220
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9829095602035522, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 433, 
+            "EndOffset": 439
+        }, 
+        {
+            "Text": "DeepMind", 
+            "Score": 0.429747611284256, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 581, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.7807039618492126, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 638, 
+            "EndOffset": 645
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9787530899047852, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 666, 
+            "EndOffset": 672
+        }, 
+        {
+            "Text": "15%", 
+            "Score": 0.9877484440803528, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 740, 
+            "EndOffset": 743
+        }, 
+        {
+            "Text": "40%", 
+            "Score": 0.9528635740280151, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 747, 
+            "EndOffset": 750
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.9996176958084106, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1049, 
+            "EndOffset": 1056
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.9999760389328003, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1113, 
+            "EndOffset": 1120
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9996792078018188, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1242, 
+            "EndOffset": 1247
+        }, 
+        {
+            "Text": "Google Assistant", 
+            "Score": 0.9997762441635132, 
+            "Type": "TITLE", 
+            "BeginOffset": 1274, 
+            "EndOffset": 1290
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9981417655944824, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1348, 
+            "EndOffset": 1351
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999994039535522, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1554, 
+            "EndOffset": 1557
+        }, 
+        {
+            "Text": "Chalice", 
+            "Score": 0.9999803304672241, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1618, 
+            "EndOffset": 1625
+        }, 
+        {
+            "Text": "first one", 
+            "Score": 0.9998518228530884, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1633, 
+            "EndOffset": 1642
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9999990463256836, 
+            "Type": "TITLE", 
+            "BeginOffset": 1717, 
+            "EndOffset": 1723
+        }, 
+        {
+            "Text": "Flask", 
+            "Score": 0.9999406337738037, 
+            "Type": "TITLE", 
+            "BeginOffset": 1777, 
+            "EndOffset": 1782
+        }, 
+        {
+            "Text": "Python", 
+            "Score": 0.99994957447052, 
+            "Type": "TITLE", 
+            "BeginOffset": 1786, 
+            "EndOffset": 1792
+        }, 
+        {
+            "Text": "2 different frameworks", 
+            "Score": 0.9999969005584717, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1956, 
+            "EndOffset": 1978
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999970197677612, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2137, 
+            "EndOffset": 2140
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9999624490737915, 
+            "Type": "TITLE", 
+            "BeginOffset": 2218, 
+            "EndOffset": 2224
+        }, 
+        {
+            "Text": "API Gateway", 
+            "Score": 0.6960850358009338, 
+            "Type": "TITLE", 
+            "BeginOffset": 2244, 
+            "EndOffset": 2255
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999877214431763, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2342, 
+            "EndOffset": 2345
+        }, 
+        {
+            "Text": "Chalice", 
+            "Score": 0.9999253749847412, 
+            "Type": "TITLE", 
+            "BeginOffset": 2363, 
+            "EndOffset": 2370
+        }, 
+        {
+            "Text": "Flask", 
+            "Score": 0.9999915361404419, 
+            "Type": "TITLE", 
+            "BeginOffset": 2408, 
+            "EndOffset": 2413
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999996423721313, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2608, 
+            "EndOffset": 2611
+        }, 
+        {
+            "Text": "1.12", 
+            "Score": 0.9997333288192749, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2693, 
+            "EndOffset": 2697
+        }, 
+        {
+            "Text": "1.12", 
+            "Score": 0.8740561604499817, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2716, 
+            "EndOffset": 2720
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.999914288520813, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2736, 
+            "EndOffset": 2739
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999872446060181, 
+            "Type": "TITLE", 
+            "BeginOffset": 2744, 
+            "EndOffset": 2751
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.9999700784683228, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3187, 
+            "EndOffset": 3190
+        }, 
+        {
+            "Text": "NodeJS", 
+            "Score": 0.9999778270721436, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3509, 
+            "EndOffset": 3515
+        }, 
+        {
+            "Text": "JavaScript", 
+            "Score": 0.9995620846748352, 
+            "Type": "TITLE", 
+            "BeginOffset": 3520, 
+            "EndOffset": 3530
+        }, 
+        {
+            "Text": "Ruby", 
+            "Score": 0.9999908208847046, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3552, 
+            "EndOffset": 3556
+        }, 
+        {
+            "Text": "PHP", 
+            "Score": 0.9994813799858093, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3561, 
+            "EndOffset": 3564
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999687671661377, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3608, 
+            "EndOffset": 3614
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9998900890350342, 
+            "Type": "PERSON", 
+            "BeginOffset": 3744, 
+            "EndOffset": 3751
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9962551593780518, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3765, 
+            "EndOffset": 3772
+        }, 
+        {
+            "Text": "1.12", 
+            "Score": 0.9939582943916321, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3935, 
+            "EndOffset": 3939
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999986886978149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4089, 
+            "EndOffset": 4096
+        }, 
+        {
+            "Text": "1.12", 
+            "Score": 0.9999943971633911, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4107, 
+            "EndOffset": 4111
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9998331069946289, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4294, 
+            "EndOffset": 4300
+        }
+    ]
+}

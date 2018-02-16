@@ -1,0 +1,454 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A late and short note", 
+            "Score": 0.9803789854049683, 
+            "BeginOffset": 0, 
+            "EndOffset": 21
+        }, 
+        {
+            "Text": "cloud services", 
+            "Score": 0.9951754212379456, 
+            "BeginOffset": 33, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "holiday", 
+            "Score": 0.993622899055481, 
+            "BeginOffset": 59, 
+            "EndOffset": 66
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9910091161727905, 
+            "BeginOffset": 83, 
+            "EndOffset": 88
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.97483229637146, 
+            "BeginOffset": 104, 
+            "EndOffset": 112
+        }, 
+        {
+            "Text": "these notes", 
+            "Score": 0.9924448728561401, 
+            "BeginOffset": 122, 
+            "EndOffset": 133
+        }, 
+        {
+            "Text": "early Christmas morning", 
+            "Score": 0.9117304086685181, 
+            "BeginOffset": 143, 
+            "EndOffset": 166
+        }, 
+        {
+            "Text": "some time", 
+            "Score": 0.9974750280380249, 
+            "BeginOffset": 185, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "anyone else", 
+            "Score": 0.9239985346794128, 
+            "BeginOffset": 202, 
+            "EndOffset": 213
+        }, 
+        {
+            "Text": "their tents", 
+            "Score": 0.9972347617149353, 
+            "BeginOffset": 236, 
+            "EndOffset": 247
+        }, 
+        {
+            "Text": "B2 CLOUD STORAGE\n\n\nBackBlaze", 
+            "Score": 0.9384732246398926, 
+            "BeginOffset": 252, 
+            "EndOffset": 280
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9956314563751221, 
+            "BeginOffset": 281, 
+            "EndOffset": 290
+        }, 
+        {
+            "Text": "their new B2 Cloud Storage service", 
+            "Score": 0.9735340476036072, 
+            "BeginOffset": 298, 
+            "EndOffset": 332
+        }, 
+        {
+            "Text": "public beta", 
+            "Score": 0.8947579860687256, 
+            "BeginOffset": 341, 
+            "EndOffset": 352
+        }, 
+        {
+            "Text": "free 10 GB", 
+            "Score": 0.984672486782074, 
+            "BeginOffset": 372, 
+            "EndOffset": 382
+        }, 
+        {
+            "Text": "storage", 
+            "Score": 0.9994958639144897, 
+            "BeginOffset": 386, 
+            "EndOffset": 393
+        }, 
+        {
+            "Text": "this period", 
+            "Score": 0.9995866417884827, 
+            "BeginOffset": 397, 
+            "EndOffset": 408
+        }, 
+        {
+            "Text": "a credit card", 
+            "Score": 0.9971776604652405, 
+            "BeginOffset": 430, 
+            "EndOffset": 443
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9992712736129761, 
+            "BeginOffset": 469, 
+            "EndOffset": 478
+        }, 
+        {
+            "Text": "no risk", 
+            "Score": 0.9884903430938721, 
+            "BeginOffset": 492, 
+            "EndOffset": 499
+        }, 
+        {
+            "Text": "a competitor", 
+            "Score": 0.9433353543281555, 
+            "BeginOffset": 537, 
+            "EndOffset": 549
+        }, 
+        {
+            "Text": "services", 
+            "Score": 0.9552761912345886, 
+            "BeginOffset": 553, 
+            "EndOffset": 561
+        }, 
+        {
+            "Text": "S3", 
+            "Score": 0.9758667349815369, 
+            "BeginOffset": 567, 
+            "EndOffset": 569
+        }, 
+        {
+            "Text": "an interesting storage alternative", 
+            "Score": 0.9974618554115295, 
+            "BeginOffset": 582, 
+            "EndOffset": 616
+        }, 
+        {
+            "Text": "reasons", 
+            "Score": 0.9553903937339783, 
+            "BeginOffset": 655, 
+            "EndOffset": 662
+        }, 
+        {
+            "Text": "the first paragraph", 
+            "Score": 0.9970800876617432, 
+            "BeginOffset": 676, 
+            "EndOffset": 695
+        }, 
+        {
+            "Text": "Backblaze", 
+            "Score": 0.6199999451637268, 
+            "BeginOffset": 735, 
+            "EndOffset": 744
+        }, 
+        {
+            "Text": "my online backup service", 
+            "Score": 0.9820308089256287, 
+            "BeginOffset": 748, 
+            "EndOffset": 772
+        }, 
+        {
+            "Text": "choice", 
+            "Score": 0.9995620250701904, 
+            "BeginOffset": 776, 
+            "EndOffset": 782
+        }, 
+        {
+            "Text": "my confidence", 
+            "Score": 0.9934512376785278, 
+            "BeginOffset": 805, 
+            "EndOffset": 818
+        }, 
+        {
+            "Text": "both the quality", 
+            "Score": 0.9367680549621582, 
+            "BeginOffset": 822, 
+            "EndOffset": 838
+        }, 
+        {
+            "Text": "their service\n\n\n\nAWS UPDATES", 
+            "Score": 0.9261141419410706, 
+            "BeginOffset": 842, 
+            "EndOffset": 870
+        }, 
+        {
+            "Text": "an effort", 
+            "Score": 0.9993109107017517, 
+            "BeginOffset": 876, 
+            "EndOffset": 885
+        }, 
+        {
+            "Text": "even more updates", 
+            "Score": 0.9836751818656921, 
+            "BeginOffset": 897, 
+            "EndOffset": 914
+        }, 
+        {
+            "Text": "2015", 
+            "Score": 0.9981309771537781, 
+            "BeginOffset": 918, 
+            "EndOffset": 922
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9897031188011169, 
+            "BeginOffset": 924, 
+            "EndOffset": 927
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9995571970939636, 
+            "BeginOffset": 938, 
+            "EndOffset": 946
+        }, 
+        {
+            "Text": "interesting new things", 
+            "Score": 0.9932630658149719, 
+            "BeginOffset": 950, 
+            "EndOffset": 972
+        }, 
+        {
+            "Text": "their new t2", 
+            "Score": 0.9662773013114929, 
+            "BeginOffset": 995, 
+            "EndOffset": 1007
+        }, 
+        {
+            "Text": "nano instance type", 
+            "Score": 0.9471126794815063, 
+            "BeginOffset": 1008, 
+            "EndOffset": 1026
+        }, 
+        {
+            "Text": "the pricing", 
+            "Score": 0.9353944659233093, 
+            "BeginOffset": 1031, 
+            "EndOffset": 1042
+        }, 
+        {
+            "Text": "less than 5 dollars", 
+            "Score": 0.9588939547538757, 
+            "BeginOffset": 1066, 
+            "EndOffset": 1085
+        }, 
+        {
+            "Text": "month", 
+            "Score": 0.9988332986831665, 
+            "BeginOffset": 1090, 
+            "EndOffset": 1095
+        }, 
+        {
+            "Text": "U.S. East", 
+            "Score": 0.9897551536560059, 
+            "BeginOffset": 1100, 
+            "EndOffset": 1109
+        }, 
+        {
+            "Text": "a very nicely priced low powered machine", 
+            "Score": 0.818166196346283, 
+            "BeginOffset": 1135, 
+            "EndOffset": 1175
+        }, 
+        {
+            "Text": "cronjobs", 
+            "Score": 0.9647411704063416, 
+            "BeginOffset": 1212, 
+            "EndOffset": 1220
+        }, 
+        {
+            "Text": "chat integrations", 
+            "Score": 0.6516552567481995, 
+            "BeginOffset": 1229, 
+            "EndOffset": 1246
+        }, 
+        {
+            "Text": "Hubot", 
+            "Score": 0.803228497505188, 
+            "BeginOffset": 1252, 
+            "EndOffset": 1257
+        }, 
+        {
+            "Text": "two other interesting changes", 
+            "Score": 0.9840803742408752, 
+            "BeginOffset": 1270, 
+            "EndOffset": 1299
+        }, 
+        {
+            "Text": "The first", 
+            "Score": 0.9993690252304077, 
+            "BeginOffset": 1317, 
+            "EndOffset": 1326
+        }, 
+        {
+            "Text": "a managed service", 
+            "Score": 0.9956763982772827, 
+            "BeginOffset": 1348, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "NAT gateways", 
+            "Score": 0.9990087747573853, 
+            "BeginOffset": 1370, 
+            "EndOffset": 1382
+        }, 
+        {
+            "Text": "private VPCs", 
+            "Score": 0.9963953495025635, 
+            "BeginOffset": 1388, 
+            "EndOffset": 1400
+        }, 
+        {
+            "Text": "one or more NAT gateways", 
+            "Score": 0.9496036171913147, 
+            "BeginOffset": 1417, 
+            "EndOffset": 1441
+        }, 
+        {
+            "Text": "your servers", 
+            "Score": 0.9992578029632568, 
+            "BeginOffset": 1454, 
+            "EndOffset": 1466
+        }, 
+        {
+            "Text": "the Internet", 
+            "Score": 0.99887615442276, 
+            "BeginOffset": 1470, 
+            "EndOffset": 1482
+        }, 
+        {
+            "Text": "infrastructure", 
+            "Score": 0.9987685084342957, 
+            "BeginOffset": 1494, 
+            "EndOffset": 1508
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9985367655754089, 
+            "BeginOffset": 1537, 
+            "EndOffset": 1542
+        }, 
+        {
+            "Text": "a hassle", 
+            "Score": 0.9989532828330994, 
+            "BeginOffset": 1546, 
+            "EndOffset": 1554
+        }, 
+        {
+            "Text": "case", 
+            "Score": 0.9902802109718323, 
+            "BeginOffset": 1577, 
+            "EndOffset": 1581
+        }, 
+        {
+            "Text": "a load balanced setup", 
+            "Score": 0.6850389242172241, 
+            "BeginOffset": 1582, 
+            "EndOffset": 1603
+        }, 
+        {
+            "Text": "the service", 
+            "Score": 0.9176136255264282, 
+            "BeginOffset": 1626, 
+            "EndOffset": 1637
+        }, 
+        {
+            "Text": "many servers", 
+            "Score": 0.9984800219535828, 
+            "BeginOffset": 1684, 
+            "EndOffset": 1696
+        }, 
+        {
+            "Text": "a micro", 
+            "Score": 0.998513400554657, 
+            "BeginOffset": 1729, 
+            "EndOffset": 1736
+        }, 
+        {
+            "Text": "even a nano", 
+            "Score": 0.8310073614120483, 
+            "BeginOffset": 1745, 
+            "EndOffset": 1756
+        }, 
+        {
+            "Text": "instance", 
+            "Score": 0.9293317198753357, 
+            "BeginOffset": 1758, 
+            "EndOffset": 1766
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.9906153678894043, 
+            "BeginOffset": 1790, 
+            "EndOffset": 1798
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9926008582115173, 
+            "BeginOffset": 1865, 
+            "EndOffset": 1875
+        }, 
+        {
+            "Text": "gzipped contents", 
+            "Score": 0.9191939234733582, 
+            "BeginOffset": 1897, 
+            "EndOffset": 1913
+        }, 
+        {
+            "Text": "your distribution", 
+            "Score": 0.9990904927253723, 
+            "BeginOffset": 1947, 
+            "EndOffset": 1964
+        }, 
+        {
+            "Text": "that point everything", 
+            "Score": 0.8432178497314453, 
+            "BeginOffset": 1973, 
+            "EndOffset": 1994
+        }, 
+        {
+            "Text": "some nice speed", 
+            "Score": 0.9704052805900574, 
+            "BeginOffset": 2054, 
+            "EndOffset": 2069
+        }, 
+        {
+            "Text": "data advantages", 
+            "Score": 0.9893293380737305, 
+            "BeginOffset": 2074, 
+            "EndOffset": 2089
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9974470138549805, 
+            "BeginOffset": 2147, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "your Cloudfront invoice", 
+            "Score": 0.8704754710197449, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2208
+        }
+    ]
+}

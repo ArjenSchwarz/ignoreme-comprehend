@@ -1,0 +1,688 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Kubecon", 
+            "Score": 0.7492005825042725, 
+            "BeginOffset": 0, 
+            "EndOffset": 7
+        }, 
+        {
+            "Text": "the annual Kubernetes conference", 
+            "Score": 0.9964531660079956, 
+            "BeginOffset": 9, 
+            "EndOffset": 41
+        }, 
+        {
+            "Text": "some interesting new and improved tools", 
+            "Score": 0.9654661417007446, 
+            "BeginOffset": 55, 
+            "EndOffset": 94
+        }, 
+        {
+            "Text": "that period", 
+            "Score": 0.9704722166061401, 
+            "BeginOffset": 133, 
+            "EndOffset": 144
+        }, 
+        {
+            "Text": "CLOUDFLARE WARP\n\n\nCloudflare Warp", 
+            "Score": 0.9945822358131409, 
+            "BeginOffset": 149, 
+            "EndOffset": 182
+        }, 
+        {
+            "Text": "beta", 
+            "Score": 0.985963761806488, 
+            "BeginOffset": 224, 
+            "EndOffset": 228
+        }, 
+        {
+            "Text": "a tool", 
+            "Score": 0.949518084526062, 
+            "BeginOffset": 233, 
+            "EndOffset": 239
+        }, 
+        {
+            "Text": "your locally running web applications", 
+            "Score": 0.9875776767730713, 
+            "BeginOffset": 250, 
+            "EndOffset": 287
+        }, 
+        {
+            "Text": "the Internet", 
+            "Score": 0.9981921315193176, 
+            "BeginOffset": 291, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "your local development environment", 
+            "Score": 0.9993664622306824, 
+            "BeginOffset": 337, 
+            "EndOffset": 371
+        }, 
+        {
+            "Text": "the world", 
+            "Score": 0.9906373023986816, 
+            "BeginOffset": 418, 
+            "EndOffset": 427
+        }, 
+        {
+            "Text": "your local network connection", 
+            "Score": 0.9752682447433472, 
+            "BeginOffset": 450, 
+            "EndOffset": 479
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.996246337890625, 
+            "BeginOffset": 510, 
+            "EndOffset": 515
+        }, 
+        {
+            "Text": "development work", 
+            "Score": 0.9630652070045471, 
+            "BeginOffset": 519, 
+            "EndOffset": 535
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9264490008354187, 
+            "BeginOffset": 598, 
+            "EndOffset": 608
+        }, 
+        {
+            "Text": "a step", 
+            "Score": 0.9936539530754089, 
+            "BeginOffset": 614, 
+            "EndOffset": 620
+        }, 
+        {
+            "Text": "an Ingress controller", 
+            "Score": 0.9858755469322205, 
+            "BeginOffset": 641, 
+            "EndOffset": 662
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9953586459159851, 
+            "BeginOffset": 667, 
+            "EndOffset": 677
+        }, 
+        {
+            "Text": "Warp", 
+            "Score": 0.9780502915382385, 
+            "BeginOffset": 688, 
+            "EndOffset": 692
+        }, 
+        {
+            "Text": "a simple and easy way", 
+            "Score": 0.9924989938735962, 
+            "BeginOffset": 714, 
+            "EndOffset": 735
+        }, 
+        {
+            "Text": "your Kubernetes services", 
+            "Score": 0.9752211570739746, 
+            "BeginOffset": 767, 
+            "EndOffset": 791
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9995194673538208, 
+            "BeginOffset": 821, 
+            "EndOffset": 829
+        }, 
+        {
+            "Text": "a great solution", 
+            "Score": 0.9872169494628906, 
+            "BeginOffset": 872, 
+            "EndOffset": 888
+        }, 
+        {
+            "Text": "the very least", 
+            "Score": 0.9785676598548889, 
+            "BeginOffset": 892, 
+            "EndOffset": 906
+        }, 
+        {
+            "Text": "development[1]", 
+            "Score": 0.8944276571273804, 
+            "BeginOffset": 923, 
+            "EndOffset": 937
+        }, 
+        {
+            "Text": "documentation", 
+            "Score": 0.9958396553993225, 
+            "BeginOffset": 951, 
+            "EndOffset": 964
+        }, 
+        {
+            "Text": "the major cloud providers", 
+            "Score": 0.9971355199813843, 
+            "BeginOffset": 983, 
+            "EndOffset": 1008
+        }, 
+        {
+            "Text": "a full ready-to-use integration", 
+            "Score": 0.9868364334106445, 
+            "BeginOffset": 1023, 
+            "EndOffset": 1054
+        }, 
+        {
+            "Text": "StackPointCloud", 
+            "Score": 0.9953442811965942, 
+            "BeginOffset": 1060, 
+            "EndOffset": 1075
+        }, 
+        {
+            "Text": "VIRTUAL KUBELET", 
+            "Score": 0.9857661724090576, 
+            "BeginOffset": 1080, 
+            "EndOffset": 1095
+        }, 
+        {
+            "Text": "OPEN SERVICE BROKER", 
+            "Score": 0.9805888533592224, 
+            "BeginOffset": 1097, 
+            "EndOffset": 1116
+        }, 
+        {
+            "Text": "KASHTI\n\n\nAzure", 
+            "Score": 0.9998717308044434, 
+            "BeginOffset": 1118, 
+            "EndOffset": 1132
+        }, 
+        {
+            "Text": "several new tools", 
+            "Score": 0.9971190690994263, 
+            "BeginOffset": 1144, 
+            "EndOffset": 1161
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9998635053634644, 
+            "BeginOffset": 1166, 
+            "EndOffset": 1176
+        }, 
+        {
+            "Text": "ACI", 
+            "Score": 0.9970645904541016, 
+            "BeginOffset": 1183, 
+            "EndOffset": 1186
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9182034730911255, 
+            "BeginOffset": 1188, 
+            "EndOffset": 1193
+        }, 
+        {
+            "Text": "the first major cloud provider", 
+            "Score": 0.9943140149116516, 
+            "BeginOffset": 1198, 
+            "EndOffset": 1228
+        }, 
+        {
+            "Text": "serverless containers", 
+            "Score": 0.9858712553977966, 
+            "BeginOffset": 1240, 
+            "EndOffset": 1261
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9890832304954529, 
+            "BeginOffset": 1278, 
+            "EndOffset": 1287
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9977589845657349, 
+            "BeginOffset": 1289, 
+            "EndOffset": 1292
+        }, 
+        {
+            "Text": "this list", 
+            "Score": 0.9991050362586975, 
+            "BeginOffset": 1308, 
+            "EndOffset": 1317
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9943922162055969, 
+            "BeginOffset": 1323, 
+            "EndOffset": 1328
+        }, 
+        {
+            "Text": "a head start", 
+            "Score": 0.9842008352279663, 
+            "BeginOffset": 1339, 
+            "EndOffset": 1351
+        }, 
+        {
+            "Text": "the tooling", 
+            "Score": 0.9344011545181274, 
+            "BeginOffset": 1357, 
+            "EndOffset": 1368
+        }, 
+        {
+            "Text": "their new Virtual Kubelet", 
+            "Score": 0.9646471738815308, 
+            "BeginOffset": 1389, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "This open source tool", 
+            "Score": 0.9973660111427307, 
+            "BeginOffset": 1416, 
+            "EndOffset": 1437
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9980664253234863, 
+            "BeginOffset": 1441, 
+            "EndOffset": 1446
+        }, 
+        {
+            "Text": "serverless containers", 
+            "Score": 0.9936398267745972, 
+            "BeginOffset": 1460, 
+            "EndOffset": 1481
+        }, 
+        {
+            "Text": "a Kubernetes cluster", 
+            "Score": 0.9971892237663269, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1507
+        }, 
+        {
+            "Text": "ACI", 
+            "Score": 0.9904623627662659, 
+            "BeginOffset": 1536, 
+            "EndOffset": 1539
+        }, 
+        {
+            "Text": "mind", 
+            "Score": 0.9973111152648926, 
+            "BeginOffset": 1543, 
+            "EndOffset": 1547
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9817083477973938, 
+            "BeginOffset": 1563, 
+            "EndOffset": 1570
+        }, 
+        {
+            "Text": "Hyper", 
+            "Score": 0.8595715761184692, 
+            "BeginOffset": 1575, 
+            "EndOffset": 1580
+        }, 
+        {
+            "Text": "sh", 
+            "Score": 0.5610641241073608, 
+            "BeginOffset": 1581, 
+            "EndOffset": 1583
+        }, 
+        {
+            "Text": "their own solution", 
+            "Score": 0.9067813158035278, 
+            "BeginOffset": 1616, 
+            "EndOffset": 1634
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.999330997467041, 
+            "BeginOffset": 1636, 
+            "EndOffset": 1639
+        }, 
+        {
+            "Text": "a basis", 
+            "Score": 0.9809116125106812, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1664
+        }, 
+        {
+            "Text": "their promised integration", 
+            "Score": 0.9928538203239441, 
+            "BeginOffset": 1669, 
+            "EndOffset": 1695
+        }, 
+        {
+            "Text": "Fargate", 
+            "Score": 0.999855637550354, 
+            "BeginOffset": 1699, 
+            "EndOffset": 1706
+        }, 
+        {
+            "Text": "EKS", 
+            "Score": 0.9953347444534302, 
+            "BeginOffset": 1712, 
+            "EndOffset": 1715
+        }, 
+        {
+            "Text": "a similar vein", 
+            "Score": 0.9972997903823853, 
+            "BeginOffset": 1721, 
+            "EndOffset": 1735
+        }, 
+        {
+            "Text": "the Open Service Broker", 
+            "Score": 0.99444580078125, 
+            "BeginOffset": 1737, 
+            "EndOffset": 1760
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9969671368598938, 
+            "BeginOffset": 1765, 
+            "EndOffset": 1770
+        }, 
+        {
+            "Text": "integration", 
+            "Score": 0.9923798441886902, 
+            "BeginOffset": 1782, 
+            "EndOffset": 1793
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.9951168894767761, 
+            "BeginOffset": 1799, 
+            "EndOffset": 1807
+        }, 
+        {
+            "Text": "the Azure infrastructure", 
+            "Score": 0.9993504285812378, 
+            "BeginOffset": 1811, 
+            "EndOffset": 1835
+        }, 
+        {
+            "Text": "a Kubernetes cluster", 
+            "Score": 0.9995288848876953, 
+            "BeginOffset": 1841, 
+            "EndOffset": 1861
+        }, 
+        {
+            "Text": "The example", 
+            "Score": 0.9977042078971863, 
+            "BeginOffset": 1863, 
+            "EndOffset": 1874
+        }, 
+        {
+            "Text": "the above documentation", 
+            "Score": 0.9842981696128845, 
+            "BeginOffset": 1878, 
+            "EndOffset": 1901
+        }, 
+        {
+            "Text": "the service broker", 
+            "Score": 0.9774534702301025, 
+            "BeginOffset": 1927, 
+            "EndOffset": 1945
+        }, 
+        {
+            "Text": "a helm chart", 
+            "Score": 0.9995042681694031, 
+            "BeginOffset": 1959, 
+            "EndOffset": 1971
+        }, 
+        {
+            "Text": "a database", 
+            "Score": 0.8267446756362915, 
+            "BeginOffset": 1980, 
+            "EndOffset": 1990
+        }, 
+        {
+            "Text": "only Kubernetes resources", 
+            "Score": 0.9626690745353699, 
+            "BeginOffset": 2002, 
+            "EndOffset": 2027
+        }, 
+        {
+            "Text": "Sounds", 
+            "Score": 0.9593390226364136, 
+            "BeginOffset": 2029, 
+            "EndOffset": 2035
+        }, 
+        {
+            "Text": "powerful stuff", 
+            "Score": 0.9925514459609985, 
+            "BeginOffset": 2041, 
+            "EndOffset": 2055
+        }, 
+        {
+            "Text": "The third tool", 
+            "Score": 0.8577046394348145, 
+            "BeginOffset": 2058, 
+            "EndOffset": 2072
+        }, 
+        {
+            "Text": "a missing piece", 
+            "Score": 0.9998452067375183, 
+            "BeginOffset": 2076, 
+            "EndOffset": 2091
+        }, 
+        {
+            "Text": "Draft, Helm, and Brigade", 
+            "Score": 0.9290533661842346, 
+            "BeginOffset": 2096, 
+            "EndOffset": 2120
+        }, 
+        {
+            "Text": "Kashti", 
+            "Score": 0.9999396800994873, 
+            "BeginOffset": 2122, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "a dashboard and visualization", 
+            "Score": 0.996762216091156, 
+            "BeginOffset": 2132, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "your Kubernetes pipelines", 
+            "Score": 0.9516218304634094, 
+            "BeginOffset": 2166, 
+            "EndOffset": 2191
+        }, 
+        {
+            "Text": "workflows", 
+            "Score": 0.9961580634117126, 
+            "BeginOffset": 2211, 
+            "EndOffset": 2220
+        }, 
+        {
+            "Text": "Brigade", 
+            "Score": 0.9912766814231873, 
+            "BeginOffset": 2226, 
+            "EndOffset": 2233
+        }, 
+        {
+            "Text": "a CI/CD pipeline", 
+            "Score": 0.9973365664482117, 
+            "BeginOffset": 2271, 
+            "EndOffset": 2287
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9935136437416077, 
+            "BeginOffset": 2295, 
+            "EndOffset": 2305
+        }, 
+        {
+            "Text": "the required output", 
+            "Score": 0.9766594171524048, 
+            "BeginOffset": 2335, 
+            "EndOffset": 2354
+        }, 
+        {
+            "Text": "METAPARTICLE\n\n\nAnother project", 
+            "Score": 0.9981215000152588, 
+            "BeginOffset": 2359, 
+            "EndOffset": 2389
+        }, 
+        {
+            "Text": "Metaparticle", 
+            "Score": 0.8391525745391846, 
+            "BeginOffset": 2404, 
+            "EndOffset": 2416
+        }, 
+        {
+            "Text": "Metaparticle", 
+            "Score": 0.9954801797866821, 
+            "BeginOffset": 2418, 
+            "EndOffset": 2430
+        }, 
+        {
+            "Text": "a standard library", 
+            "Score": 0.9136210083961487, 
+            "BeginOffset": 2444, 
+            "EndOffset": 2462
+        }, 
+        {
+            "Text": "some common problems", 
+            "Score": 0.9856703281402588, 
+            "BeginOffset": 2475, 
+            "EndOffset": 2495
+        }, 
+        {
+            "Text": "applications", 
+            "Score": 0.9949994087219238, 
+            "BeginOffset": 2500, 
+            "EndOffset": 2512
+        }, 
+        {
+            "Text": "a Kubernetes cluster", 
+            "Score": 0.9981213212013245, 
+            "BeginOffset": 2516, 
+            "EndOffset": 2536
+        }, 
+        {
+            "Text": "a work", 
+            "Score": 0.9953749775886536, 
+            "BeginOffset": 2543, 
+            "EndOffset": 2549
+        }, 
+        {
+            "Text": "progress", 
+            "Score": 0.9956051707267761, 
+            "BeginOffset": 2553, 
+            "EndOffset": 2561
+        }, 
+        {
+            "Text": "some solutions", 
+            "Score": 0.9982443451881409, 
+            "BeginOffset": 2582, 
+            "EndOffset": 2596
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9849990010261536, 
+            "BeginOffset": 2601, 
+            "EndOffset": 2607
+        }, 
+        {
+            "Text": "replication and sharding", 
+            "Score": 0.9978006482124329, 
+            "BeginOffset": 2613, 
+            "EndOffset": 2637
+        }, 
+        {
+            "Text": "more solutions", 
+            "Score": 0.91436368227005, 
+            "BeginOffset": 2669, 
+            "EndOffset": 2683
+        }, 
+        {
+            "Text": "Metaparticle", 
+            "Score": 0.9999910593032837, 
+            "BeginOffset": 2685, 
+            "EndOffset": 2697
+        }, 
+        {
+            "Text": "3 languages", 
+            "Score": 0.8697887063026428, 
+            "BeginOffset": 2722, 
+            "EndOffset": 2733
+        }, 
+        {
+            "Text": "JavaScript/Node, Java", 
+            "Score": 0.9301936030387878, 
+            "BeginOffset": 2761, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "Net", 
+            "Score": 0.9677667617797852, 
+            "BeginOffset": 2789, 
+            "EndOffset": 2792
+        }, 
+        {
+            "Text": "a worthwhile project", 
+            "Score": 0.9993775486946106, 
+            "BeginOffset": 2818, 
+            "EndOffset": 2838
+        }, 
+        {
+            "Text": "quite a bit", 
+            "Score": 0.9993902444839478, 
+            "BeginOffset": 2866, 
+            "EndOffset": 2877
+        }, 
+        {
+            "Text": "activity", 
+            "Score": 0.9461196064949036, 
+            "BeginOffset": 2881, 
+            "EndOffset": 2889
+        }, 
+        {
+            "Text": "these directions", 
+            "Score": 0.9973776340484619, 
+            "BeginOffset": 2901, 
+            "EndOffset": 2917
+        }, 
+        {
+            "Text": "common issues", 
+            "Score": 0.9974740743637085, 
+            "BeginOffset": 2927, 
+            "EndOffset": 2940
+        }, 
+        {
+            "Text": "your actual application", 
+            "Score": 0.9954044222831726, 
+            "BeginOffset": 2972, 
+            "EndOffset": 2995
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9850042462348938, 
+            "BeginOffset": 2995, 
+            "EndOffset": 2998
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.6142510175704956, 
+            "BeginOffset": 3001, 
+            "EndOffset": 3004
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.849016010761261, 
+            "BeginOffset": 3048, 
+            "EndOffset": 3051
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8455677628517151, 
+            "BeginOffset": 3059, 
+            "EndOffset": 3062
+        }, 
+        {
+            "Text": "the undifferentiated heavy lifting", 
+            "Score": 0.9954872131347656, 
+            "BeginOffset": 3093, 
+            "EndOffset": 3127
+        }
+    ]
+}

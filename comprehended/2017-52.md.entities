@@ -1,0 +1,179 @@
+{
+    "Entities": [
+        {
+            "Text": "Windows", 
+            "Score": 0.8745573163032532, 
+            "Type": "TITLE", 
+            "BeginOffset": 0, 
+            "EndOffset": 7
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.7966483235359192, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 42, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "iPhones", 
+            "Score": 0.9984062314033508, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 86, 
+            "EndOffset": 93
+        }, 
+        {
+            "Text": "WINDOWS", 
+            "Score": 0.417064905166626, 
+            "Type": "TITLE", 
+            "BeginOffset": 98, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.5308189392089844, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 118, 
+            "EndOffset": 121
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.8893070220947266, 
+            "Type": "TITLE", 
+            "BeginOffset": 149, 
+            "EndOffset": 156
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.580832302570343, 
+            "Type": "TITLE", 
+            "BeginOffset": 566, 
+            "EndOffset": 573
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9621555209159851, 
+            "Type": "TITLE", 
+            "BeginOffset": 588, 
+            "EndOffset": 593
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.5754279494285583, 
+            "Type": "TITLE", 
+            "BeginOffset": 727, 
+            "EndOffset": 734
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999915361404419, 
+            "Type": "TITLE", 
+            "BeginOffset": 1110, 
+            "EndOffset": 1117
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999082088470459, 
+            "Type": "TITLE", 
+            "BeginOffset": 1293, 
+            "EndOffset": 1300
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.9999628067016602, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1412, 
+            "EndOffset": 1417
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9998921155929565, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1460, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999959468841553, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1580, 
+            "EndOffset": 1585
+        }, 
+        {
+            "Text": "iPhones", 
+            "Score": 0.9998840093612671, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1609, 
+            "EndOffset": 1616
+        }, 
+        {
+            "Text": "2", 
+            "Score": 0.9753603339195251, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1617, 
+            "EndOffset": 1618
+        }, 
+        {
+            "Text": "once", 
+            "Score": 0.6771146655082703, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1620, 
+            "EndOffset": 1624
+        }, 
+        {
+            "Text": "iPhones", 
+            "Score": 0.9999250173568726, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1882, 
+            "EndOffset": 1889
+        }, 
+        {
+            "Text": "twice", 
+            "Score": 0.9999951124191284, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1890, 
+            "EndOffset": 1895
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999929666519165, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2013, 
+            "EndOffset": 2018
+        }, 
+        {
+            "Text": "iPhones", 
+            "Score": 0.9998138546943665, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2775, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "iPads", 
+            "Score": 0.9999991655349731, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2786, 
+            "EndOffset": 2791
+        }, 
+        {
+            "Text": "Both", 
+            "Score": 0.9999984502792358, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2832, 
+            "EndOffset": 2836
+        }, 
+        {
+            "Text": "2 year", 
+            "Score": 0.992545485496521, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2848, 
+            "EndOffset": 2854
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9912090301513672, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2881, 
+            "EndOffset": 2890
+        }
+    ]
+}

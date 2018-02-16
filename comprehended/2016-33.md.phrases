@@ -1,0 +1,922 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Apple", 
+            "Score": 0.9951032400131226, 
+            "BeginOffset": 0, 
+            "EndOffset": 5
+        }, 
+        {
+            "Text": "a bounty program", 
+            "Score": 0.9936926364898682, 
+            "BeginOffset": 16, 
+            "EndOffset": 32
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9883363842964172, 
+            "BeginOffset": 39, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "a bunch", 
+            "Score": 0.999825119972229, 
+            "BeginOffset": 53, 
+            "EndOffset": 60
+        }, 
+        {
+            "Text": "new and interesting features", 
+            "Score": 0.9906306862831116, 
+            "BeginOffset": 64, 
+            "EndOffset": 92
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.9460365176200867, 
+            "BeginOffset": 97, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "BOUNTY PROGRAM", 
+            "Score": 0.8010350465774536, 
+            "BeginOffset": 105, 
+            "EndOffset": 119
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.9933175444602966, 
+            "BeginOffset": 128, 
+            "EndOffset": 139
+        }, 
+        {
+            "Text": "barely", 
+            "Score": 0.9043978452682495, 
+            "BeginOffset": 143, 
+            "EndOffset": 149
+        }, 
+        {
+            "Text": "grudgingly", 
+            "Score": 0.517071008682251, 
+            "BeginOffset": 155, 
+            "EndOffset": 165
+        }, 
+        {
+            "Text": "vulnerability reports", 
+            "Score": 0.9106908440589905, 
+            "BeginOffset": 181, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9990862607955933, 
+            "BeginOffset": 204, 
+            "EndOffset": 209
+        }, 
+        {
+            "Text": "the latest Blackhat conference", 
+            "Score": 0.9986667633056641, 
+            "BeginOffset": 223, 
+            "EndOffset": 253
+        }, 
+        {
+            "Text": "a bounty program", 
+            "Score": 0.9968723058700562, 
+            "BeginOffset": 286, 
+            "EndOffset": 302
+        }, 
+        {
+            "Text": "this means", 
+            "Score": 0.7926015257835388, 
+            "BeginOffset": 309, 
+            "EndOffset": 319
+        }, 
+        {
+            "Text": "security researchers", 
+            "Score": 0.982382595539093, 
+            "BeginOffset": 333, 
+            "EndOffset": 353
+        }, 
+        {
+            "Text": "a vulnerability", 
+            "Score": 0.991583526134491, 
+            "BeginOffset": 366, 
+            "EndOffset": 381
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9989182353019714, 
+            "BeginOffset": 385, 
+            "EndOffset": 390
+        }, 
+        {
+            "Text": "software", 
+            "Score": 0.9972385168075562, 
+            "BeginOffset": 393, 
+            "EndOffset": 401
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9875757098197937, 
+            "BeginOffset": 427, 
+            "EndOffset": 432
+        }, 
+        {
+            "Text": "exchange", 
+            "Score": 0.99898761510849, 
+            "BeginOffset": 436, 
+            "EndOffset": 444
+        }, 
+        {
+            "Text": "a monetary compensation", 
+            "Score": 0.9985533952713013, 
+            "BeginOffset": 449, 
+            "EndOffset": 472
+        }, 
+        {
+            "Text": "almost every other major IT company", 
+            "Score": 0.9620499610900879, 
+            "BeginOffset": 480, 
+            "EndOffset": 515
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9985321760177612, 
+            "BeginOffset": 535, 
+            "EndOffset": 540
+        }, 
+        {
+            "Text": "only a small list", 
+            "Score": 0.9439079761505127, 
+            "BeginOffset": 584, 
+            "EndOffset": 601
+        }, 
+        {
+            "Text": "researchers", 
+            "Score": 0.9998782277107239, 
+            "BeginOffset": 605, 
+            "EndOffset": 616
+        }, 
+        {
+            "Text": "that list", 
+            "Score": 0.9243326187133789, 
+            "BeginOffset": 652, 
+            "EndOffset": 661
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9952117204666138, 
+            "BeginOffset": 685, 
+            "EndOffset": 695
+        }, 
+        {
+            "Text": "the areas", 
+            "Score": 0.9931002855300903, 
+            "BeginOffset": 708, 
+            "EndOffset": 717
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9690285921096802, 
+            "BeginOffset": 723, 
+            "EndOffset": 728
+        }, 
+        {
+            "Text": "iOS and iCloud", 
+            "Score": 0.9424377679824829, 
+            "BeginOffset": 773, 
+            "EndOffset": 787
+        }, 
+        {
+            "Text": "The amounts", 
+            "Score": 0.9947590231895447, 
+            "BeginOffset": 807, 
+            "EndOffset": 818
+        }, 
+        {
+            "Text": "range", 
+            "Score": 0.9342064261436462, 
+            "BeginOffset": 828, 
+            "EndOffset": 833
+        }, 
+        {
+            "Text": "$200.000", 
+            "Score": 0.8985722064971924, 
+            "BeginOffset": 840, 
+            "EndOffset": 848
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9734386801719666, 
+            "BeginOffset": 855, 
+            "EndOffset": 860
+        }, 
+        {
+            "Text": "the researcher", 
+            "Score": 0.9255013465881348, 
+            "BeginOffset": 876, 
+            "EndOffset": 890
+        }, 
+        {
+            "Text": "charity", 
+            "Score": 0.9441173672676086, 
+            "BeginOffset": 905, 
+            "EndOffset": 912
+        }, 
+        {
+            "Text": "that donation", 
+            "Score": 0.9882491230964661, 
+            "BeginOffset": 929, 
+            "EndOffset": 942
+        }, 
+        {
+            "Text": "these things", 
+            "Score": 0.9210577607154846, 
+            "BeginOffset": 960, 
+            "EndOffset": 972
+        }, 
+        {
+            "Text": "more money", 
+            "Score": 0.9774995446205139, 
+            "BeginOffset": 991, 
+            "EndOffset": 1001
+        }, 
+        {
+            "Text": "3rd parties", 
+            "Score": 0.9959742426872253, 
+            "BeginOffset": 1018, 
+            "EndOffset": 1029
+        }, 
+        {
+            "Text": "These companies", 
+            "Score": 0.9995990991592407, 
+            "BeginOffset": 1031, 
+            "EndOffset": 1046
+        }, 
+        {
+            "Text": "only two ways", 
+            "Score": 0.9568845629692078, 
+            "BeginOffset": 1119, 
+            "EndOffset": 1132
+        }, 
+        {
+            "Text": "vulnerabilities", 
+            "Score": 0.9816359281539917, 
+            "BeginOffset": 1140, 
+            "EndOffset": 1155
+        }, 
+        {
+            "Text": "patch or exploit", 
+            "Score": 0.8905346989631653, 
+            "BeginOffset": 1157, 
+            "EndOffset": 1173
+        }, 
+        {
+            "Text": "the business", 
+            "Score": 0.9881186485290527, 
+            "BeginOffset": 1194, 
+            "EndOffset": 1206
+        }, 
+        {
+            "Text": "APPLICATION LOAD BALANCER\n\n\nAWS", 
+            "Score": 0.9136397838592529, 
+            "BeginOffset": 1287, 
+            "EndOffset": 1318
+        }, 
+        {
+            "Text": "their New York summit", 
+            "Score": 0.9933470487594604, 
+            "BeginOffset": 1324, 
+            "EndOffset": 1345
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9971266388893127, 
+            "BeginOffset": 1346, 
+            "EndOffset": 1355
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9991901516914368, 
+            "BeginOffset": 1370, 
+            "EndOffset": 1378
+        }, 
+        {
+            "Text": "interesting new announcements", 
+            "Score": 0.9921440482139587, 
+            "BeginOffset": 1382, 
+            "EndOffset": 1411
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9929002523422241, 
+            "BeginOffset": 1469, 
+            "EndOffset": 1477
+        }, 
+        {
+            "Text": "their new Application Load Balancer", 
+            "Score": 0.9966292977333069, 
+            "BeginOffset": 1519, 
+            "EndOffset": 1554
+        }, 
+        {
+            "Text": "ALB", 
+            "Score": 0.7425002455711365, 
+            "BeginOffset": 1558, 
+            "EndOffset": 1561
+        }, 
+        {
+            "Text": "The ALB", 
+            "Score": 0.8894972205162048, 
+            "BeginOffset": 1564, 
+            "EndOffset": 1571
+        }, 
+        {
+            "Text": "some interesting improvements", 
+            "Score": 0.9962946772575378, 
+            "BeginOffset": 1576, 
+            "EndOffset": 1605
+        }, 
+        {
+            "Text": "the traditional ELB", 
+            "Score": 0.9988214373588562, 
+            "BeginOffset": 1611, 
+            "EndOffset": 1630
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.8399526476860046, 
+            "BeginOffset": 1639, 
+            "EndOffset": 1647
+        }, 
+        {
+            "Text": "the load", 
+            "Score": 0.8785004019737244, 
+            "BeginOffset": 1686, 
+            "EndOffset": 1694
+        }, 
+        {
+            "Text": "applications", 
+            "Score": 0.9994507431983948, 
+            "BeginOffset": 1699, 
+            "EndOffset": 1711
+        }, 
+        {
+            "Text": "simply servers", 
+            "Score": 0.970227837562561, 
+            "BeginOffset": 1717, 
+            "EndOffset": 1731
+        }, 
+        {
+            "Text": "more complex applications", 
+            "Score": 0.947519063949585, 
+            "BeginOffset": 1809, 
+            "EndOffset": 1834
+        }, 
+        {
+            "Text": "benefits", 
+            "Score": 0.9989616870880127, 
+            "BeginOffset": 1871, 
+            "EndOffset": 1879
+        }, 
+        {
+            "Text": "content-based routing", 
+            "Score": 0.9995527267456055, 
+            "BeginOffset": 1938, 
+            "EndOffset": 1959
+        }, 
+        {
+            "Text": "every call", 
+            "Score": 0.9515868425369263, 
+            "BeginOffset": 1993, 
+            "EndOffset": 2003
+        }, 
+        {
+            "Text": "the ALB", 
+            "Score": 0.8565260171890259, 
+            "BeginOffset": 2005, 
+            "EndOffset": 2012
+        }, 
+        {
+            "Text": "the HTTP", 
+            "Score": 0.966099202632904, 
+            "BeginOffset": 2022, 
+            "EndOffset": 2030
+        }, 
+        {
+            "Text": "headers", 
+            "Score": 0.707319438457489, 
+            "BeginOffset": 2034, 
+            "EndOffset": 2041
+        }, 
+        {
+            "Text": "different URLs", 
+            "Score": 0.9030102491378784, 
+            "BeginOffset": 2065, 
+            "EndOffset": 2079
+        }, 
+        {
+            "Text": "different servers", 
+            "Score": 0.994025468826294, 
+            "BeginOffset": 2083, 
+            "EndOffset": 2100
+        }, 
+        {
+            "Text": "different servers", 
+            "Score": 0.9974991083145142, 
+            "BeginOffset": 2131, 
+            "EndOffset": 2148
+        }, 
+        {
+            "Text": "different functionalities", 
+            "Score": 0.9982659220695496, 
+            "BeginOffset": 2156, 
+            "EndOffset": 2181
+        }, 
+        {
+            "Text": "your application", 
+            "Score": 0.9982600808143616, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2201
+        }, 
+        {
+            "Text": "the same load balancer", 
+            "Score": 0.8152074217796326, 
+            "BeginOffset": 2217, 
+            "EndOffset": 2239
+        }, 
+        {
+            "Text": "a limit", 
+            "Score": 0.9887860417366028, 
+            "BeginOffset": 2260, 
+            "EndOffset": 2267
+        }, 
+        {
+            "Text": "10 different routes", 
+            "Score": 0.9964790344238281, 
+            "BeginOffset": 2271, 
+            "EndOffset": 2290
+        }, 
+        {
+            "Text": "ALB", 
+            "Score": 0.9856700301170349, 
+            "BeginOffset": 2295, 
+            "EndOffset": 2298
+        }, 
+        {
+            "Text": "a good chance", 
+            "Score": 0.9935845136642456, 
+            "BeginOffset": 2312, 
+            "EndOffset": 2325
+        }, 
+        {
+            "Text": "some improvements", 
+            "Score": 0.9996158480644226, 
+            "BeginOffset": 2362, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "your architecture", 
+            "Score": 0.9984273910522461, 
+            "BeginOffset": 2383, 
+            "EndOffset": 2400
+        }, 
+        {
+            "Text": "The next big change", 
+            "Score": 0.9985504746437073, 
+            "BeginOffset": 2403, 
+            "EndOffset": 2422
+        }, 
+        {
+            "Text": "the ALB", 
+            "Score": 0.9983174204826355, 
+            "BeginOffset": 2431, 
+            "EndOffset": 2438
+        }, 
+        {
+            "Text": "full support", 
+            "Score": 0.997916579246521, 
+            "BeginOffset": 2450, 
+            "EndOffset": 2462
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9990921020507812, 
+            "BeginOffset": 2467, 
+            "EndOffset": 2477
+        }, 
+        {
+            "Text": "not only", 
+            "Score": 0.9979153275489807, 
+            "BeginOffset": 2500, 
+            "EndOffset": 2508
+        }, 
+        {
+            "Text": "multiple ports", 
+            "Score": 0.8096741437911987, 
+            "BeginOffset": 2549, 
+            "EndOffset": 2563
+        }, 
+        {
+            "Text": "your servers", 
+            "Score": 0.9995988607406616, 
+            "BeginOffset": 2567, 
+            "EndOffset": 2579
+        }, 
+        {
+            "Text": "health checks", 
+            "Score": 0.9955087304115295, 
+            "BeginOffset": 2611, 
+            "EndOffset": 2624
+        }, 
+        {
+            "Text": "container basis", 
+            "Score": 0.9958306550979614, 
+            "BeginOffset": 2634, 
+            "EndOffset": 2649
+        }, 
+        {
+            "Text": "just a single health check", 
+            "Score": 0.8589974641799927, 
+            "BeginOffset": 2683, 
+            "EndOffset": 2709
+        }, 
+        {
+            "Text": "server", 
+            "Score": 0.993129312992096, 
+            "BeginOffset": 2714, 
+            "EndOffset": 2720
+        }, 
+        {
+            "Text": "a side effect", 
+            "Score": 0.9965562224388123, 
+            "BeginOffset": 2725, 
+            "EndOffset": 2738
+        }, 
+        {
+            "Text": "metrics", 
+            "Score": 0.9924927353858948, 
+            "BeginOffset": 2781, 
+            "EndOffset": 2788
+        }, 
+        {
+            "Text": "each container", 
+            "Score": 0.9981086254119873, 
+            "BeginOffset": 2793, 
+            "EndOffset": 2807
+        }, 
+        {
+            "Text": "the metrics", 
+            "Score": 0.9934182167053223, 
+            "BeginOffset": 2812, 
+            "EndOffset": 2823
+        }, 
+        {
+            "Text": "Some details", 
+            "Score": 0.9875051975250244, 
+            "BeginOffset": 2839, 
+            "EndOffset": 2851
+        }, 
+        {
+            "Text": "this works", 
+            "Score": 0.9730395078659058, 
+            "BeginOffset": 2866, 
+            "EndOffset": 2876
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.8005936741828918, 
+            "BeginOffset": 2882, 
+            "EndOffset": 2885
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8994725942611694, 
+            "BeginOffset": 2902, 
+            "EndOffset": 2905
+        }, 
+        {
+            "Text": "a separate article", 
+            "Score": 0.9286470413208008, 
+            "BeginOffset": 2909, 
+            "EndOffset": 2927
+        }, 
+        {
+            "Text": "the ALB", 
+            "Score": 0.9977636933326721, 
+            "BeginOffset": 2938, 
+            "EndOffset": 2945
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9921528100967407, 
+            "BeginOffset": 2957, 
+            "EndOffset": 2964
+        }, 
+        {
+            "Text": "Websockets and HTTP/2", 
+            "Score": 0.9986045360565186, 
+            "BeginOffset": 2969, 
+            "EndOffset": 2990
+        }, 
+        {
+            "Text": "traditional ELBs", 
+            "Score": 0.9284365773200989, 
+            "BeginOffset": 3025, 
+            "EndOffset": 3041
+        }, 
+        {
+            "Text": "a major reason", 
+            "Score": 0.9978784322738647, 
+            "BeginOffset": 3063, 
+            "EndOffset": 3077
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9976148009300232, 
+            "BeginOffset": 3082, 
+            "EndOffset": 3088
+        }, 
+        {
+            "Text": "TRANSIT VPC", 
+            "Score": 0.992357075214386, 
+            "BeginOffset": 3103, 
+            "EndOffset": 3114
+        }, 
+        {
+            "Text": "Another interesting new addition", 
+            "Score": 0.9810633063316345, 
+            "BeginOffset": 3117, 
+            "EndOffset": 3149
+        }, 
+        {
+            "Text": "the AWS tool chain", 
+            "Score": 0.9252452850341797, 
+            "BeginOffset": 3153, 
+            "EndOffset": 3171
+        }, 
+        {
+            "Text": "the Transit VPC", 
+            "Score": 0.998825192451477, 
+            "BeginOffset": 3175, 
+            "EndOffset": 3190
+        }, 
+        {
+            "Text": "a special type", 
+            "Score": 0.995017945766449, 
+            "BeginOffset": 3200, 
+            "EndOffset": 3214
+        }, 
+        {
+            "Text": "VPC", 
+            "Score": 0.9996922612190247, 
+            "BeginOffset": 3218, 
+            "EndOffset": 3221
+        }, 
+        {
+            "Text": "other VPCs", 
+            "Score": 0.9971065521240234, 
+            "BeginOffset": 3249, 
+            "EndOffset": 3259
+        }, 
+        {
+            "Text": "other regions", 
+            "Score": 0.9632406830787659, 
+            "BeginOffset": 3294, 
+            "EndOffset": 3307
+        }, 
+        {
+            "Text": "even other accounts", 
+            "Score": 0.9963164925575256, 
+            "BeginOffset": 3311, 
+            "EndOffset": 3330
+        }, 
+        {
+            "Text": "this different and useful", 
+            "Score": 0.99701988697052, 
+            "BeginOffset": 3343, 
+            "EndOffset": 3368
+        }, 
+        {
+            "Text": "private networks", 
+            "Score": 0.9914702773094177, 
+            "BeginOffset": 3411, 
+            "EndOffset": 3427
+        }, 
+        {
+            "Text": "multiple regions", 
+            "Score": 0.999647855758667, 
+            "BeginOffset": 3438, 
+            "EndOffset": 3454
+        }, 
+        {
+            "Text": "accounts", 
+            "Score": 0.9998793601989746, 
+            "BeginOffset": 3455, 
+            "EndOffset": 3463
+        }, 
+        {
+            "Text": "a single connection", 
+            "Score": 0.7112505435943604, 
+            "BeginOffset": 3490, 
+            "EndOffset": 3509
+        }, 
+        {
+            "Text": "your office", 
+            "Score": 0.9958508610725403, 
+            "BeginOffset": 3513, 
+            "EndOffset": 3524
+        }, 
+        {
+            "Text": "a private connection", 
+            "Score": 0.9627847075462341, 
+            "BeginOffset": 3551, 
+            "EndOffset": 3571
+        }, 
+        {
+            "Text": "each VPC", 
+            "Score": 0.9948249459266663, 
+            "BeginOffset": 3575, 
+            "EndOffset": 3583
+        }, 
+        {
+            "Text": "each region", 
+            "Score": 0.9998354911804199, 
+            "BeginOffset": 3587, 
+            "EndOffset": 3598
+        }, 
+        {
+            "Text": "a single connection", 
+            "Score": 0.9979199171066284, 
+            "BeginOffset": 3633, 
+            "EndOffset": 3652
+        }, 
+        {
+            "Text": "access everything else", 
+            "Score": 0.927490770816803, 
+            "BeginOffset": 3675, 
+            "EndOffset": 3697
+        }, 
+        {
+            "Text": "your credentials", 
+            "Score": 0.7336567044258118, 
+            "BeginOffset": 3722, 
+            "EndOffset": 3738
+        }, 
+        {
+            "Text": "S3 IPV6 SUPPORT\n\n\nS3 buckets", 
+            "Score": 0.9338091611862183, 
+            "BeginOffset": 3744, 
+            "EndOffset": 3772
+        }, 
+        {
+            "Text": "the option", 
+            "Score": 0.7609160542488098, 
+            "BeginOffset": 3782, 
+            "EndOffset": 3792
+        }, 
+        {
+            "Text": "IPv6 addresses", 
+            "Score": 0.9377508163452148, 
+            "BeginOffset": 3804, 
+            "EndOffset": 3818
+        }, 
+        {
+            "Text": "a good step", 
+            "Score": 0.9810903668403625, 
+            "BeginOffset": 3828, 
+            "EndOffset": 3839
+        }, 
+        {
+            "Text": "mind", 
+            "Score": 0.9987745881080627, 
+            "BeginOffset": 3874, 
+            "EndOffset": 3878
+        }, 
+        {
+            "Text": "only S3", 
+            "Score": 0.8499537110328674, 
+            "BeginOffset": 3929, 
+            "EndOffset": 3936
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9723319411277771, 
+            "BeginOffset": 3966, 
+            "EndOffset": 3976
+        }, 
+        {
+            "Text": "your S3 assets", 
+            "Score": 0.9954093098640442, 
+            "BeginOffset": 3987, 
+            "EndOffset": 4001
+        }, 
+        {
+            "Text": "IPv4", 
+            "Score": 0.9902887344360352, 
+            "BeginOffset": 4028, 
+            "EndOffset": 4032
+        }, 
+        {
+            "Text": "other AWS services", 
+            "Score": 0.9663734436035156, 
+            "BeginOffset": 4064, 
+            "EndOffset": 4082
+        }, 
+        {
+            "Text": "the ELB/ALBs", 
+            "Score": 0.9953349232673645, 
+            "BeginOffset": 4091, 
+            "EndOffset": 4103
+        }, 
+        {
+            "Text": "features", 
+            "Score": 0.9787623882293701, 
+            "BeginOffset": 4170, 
+            "EndOffset": 4178
+        }, 
+        {
+            "Text": "website", 
+            "Score": 0.9951349496841431, 
+            "BeginOffset": 4184, 
+            "EndOffset": 4191
+        }, 
+        {
+            "Text": "BitTorrent access", 
+            "Score": 0.9998936653137207, 
+            "BeginOffset": 4201, 
+            "EndOffset": 4218
+        }, 
+        {
+            "Text": "the accelerated access", 
+            "Score": 0.7759273052215576, 
+            "BeginOffset": 4223, 
+            "EndOffset": 4245
+        }, 
+        {
+            "Text": "several months", 
+            "Score": 0.9829124212265015, 
+            "BeginOffset": 4266, 
+            "EndOffset": 4280
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9977956414222717, 
+            "BeginOffset": 4305, 
+            "EndOffset": 4311
+        }, 
+        {
+            "Text": "use cases", 
+            "Score": 0.9978890419006348, 
+            "BeginOffset": 4315, 
+            "EndOffset": 4324
+        }, 
+        {
+            "Text": "the most important thing", 
+            "Score": 0.9839313626289368, 
+            "BeginOffset": 4371, 
+            "EndOffset": 4395
+        }, 
+        {
+            "Text": "your bucket", 
+            "Score": 0.9960158467292786, 
+            "BeginOffset": 4426, 
+            "EndOffset": 4437
+        }, 
+        {
+            "Text": "IAM profiles", 
+            "Score": 0.9480127096176147, 
+            "BeginOffset": 4442, 
+            "EndOffset": 4454
+        }, 
+        {
+            "Text": "IPv6 addresses", 
+            "Score": 0.9960264563560486, 
+            "BeginOffset": 4460, 
+            "EndOffset": 4474
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9555416107177734, 
+            "BeginOffset": 4507, 
+            "EndOffset": 4513
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9995726943016052, 
+            "BeginOffset": 4514, 
+            "EndOffset": 4520
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.6443157196044922, 
+            "BeginOffset": 4552, 
+            "EndOffset": 4558
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9862257838249207, 
+            "BeginOffset": 4562, 
+            "EndOffset": 4568
+        }
+    ]
+}

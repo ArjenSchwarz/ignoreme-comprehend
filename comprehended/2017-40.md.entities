@@ -1,0 +1,298 @@
+{
+    "Entities": [
+        {
+            "Text": "Bitbucket Pipelines", 
+            "Score": 0.8095159530639648, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 23, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.850582480430603, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 60, 
+            "EndOffset": 70
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.8225551247596741, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 107, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "Echos", 
+            "Score": 0.47664591670036316, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 127, 
+            "EndOffset": 132
+        }, 
+        {
+            "Text": "Bitbucket Pipelines", 
+            "Score": 0.8972091674804688, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 206, 
+            "EndOffset": 225
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9943163990974426, 
+            "Type": "DATE", 
+            "BeginOffset": 297, 
+            "EndOffset": 306
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.4262920022010803, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 308, 
+            "EndOffset": 311
+        }, 
+        {
+            "Text": "single step", 
+            "Score": 0.740495502948761, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 402, 
+            "EndOffset": 413
+        }, 
+        {
+            "Text": "each step", 
+            "Score": 0.8761768937110901, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 506, 
+            "EndOffset": 515
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.3447885513305664, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 562, 
+            "EndOffset": 568
+        }, 
+        {
+            "Text": "one more feature request", 
+            "Score": 0.7322696447372437, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 724, 
+            "EndOffset": 748
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.872081995010376, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 948, 
+            "EndOffset": 957
+        }, 
+        {
+            "Text": "7th birthday", 
+            "Score": 0.99840247631073, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1034, 
+            "EndOffset": 1046
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9999276399612427, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1060, 
+            "EndOffset": 1070
+        }, 
+        {
+            "Text": "Two", 
+            "Score": 0.967192530632019, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1126, 
+            "EndOffset": 1129
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9993706345558167, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1202, 
+            "EndOffset": 1212
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9999755620956421, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1322, 
+            "EndOffset": 1332
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9999604225158691, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1713, 
+            "EndOffset": 1723
+        }, 
+        {
+            "Text": "Cloudflare Workers", 
+            "Score": 0.9999315142631531, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1842, 
+            "EndOffset": 1860
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9998993873596191, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1899, 
+            "EndOffset": 1902
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.6107664108276367, 
+            "Type": "TITLE", 
+            "BeginOffset": 1904, 
+            "EndOffset": 1910
+        }, 
+        {
+            "Text": "@Edge", 
+            "Score": 0.6083478331565857, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1910, 
+            "EndOffset": 1915
+        }, 
+        {
+            "Text": "JavaScript", 
+            "Score": 0.9999984502792358, 
+            "Type": "TITLE", 
+            "BeginOffset": 1941, 
+            "EndOffset": 1951
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9999799728393555, 
+            "Type": "TITLE", 
+            "BeginOffset": 1981, 
+            "EndOffset": 1991
+        }, 
+        {
+            "Text": "AMAZON", 
+            "Score": 0.9999933242797852, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2301, 
+            "EndOffset": 2307
+        }, 
+        {
+            "Text": "ECHO", 
+            "Score": 0.9986746311187744, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2308, 
+            "EndOffset": 2312
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999544620513916, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2315, 
+            "EndOffset": 2321
+        }, 
+        {
+            "Text": "Echo", 
+            "Score": 0.9997521042823792, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2360, 
+            "EndOffset": 2364
+        }, 
+        {
+            "Text": "Echo", 
+            "Score": 0.9999655485153198, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2420, 
+            "EndOffset": 2424
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9999022483825684, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2512, 
+            "EndOffset": 2517
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999701976776123, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2540, 
+            "EndOffset": 2546
+        }, 
+        {
+            "Text": "Home", 
+            "Score": 0.9999953508377075, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2547, 
+            "EndOffset": 2551
+        }, 
+        {
+            "Text": "Philips", 
+            "Score": 0.9999852180480957, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2768, 
+            "EndOffset": 2775
+        }, 
+        {
+            "Text": "Hue Hub", 
+            "Score": 0.9999496936798096, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2776, 
+            "EndOffset": 2783
+        }, 
+        {
+            "Text": "3", 
+            "Score": 0.9187052845954895, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2784, 
+            "EndOffset": 2785
+        }, 
+        {
+            "Text": "Echo", 
+            "Score": 0.9999809265136719, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2904, 
+            "EndOffset": 2908
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999984502792358, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3000, 
+            "EndOffset": 3006
+        }, 
+        {
+            "Text": "YouTube", 
+            "Score": 0.9999642372131348, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3014, 
+            "EndOffset": 3021
+        }, 
+        {
+            "Text": "Echo Show", 
+            "Score": 0.9892131686210632, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3031, 
+            "EndOffset": 3040
+        }, 
+        {
+            "Text": "third feature", 
+            "Score": 0.9639071822166443, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3066, 
+            "EndOffset": 3079
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.6139252185821533, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3102, 
+            "EndOffset": 3111
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9998295307159424, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3160, 
+            "EndOffset": 3170
+        }
+    ]
+}

@@ -1,0 +1,892 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Blue Ocean", 
+            "Score": 0.9979242086410522, 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9841314554214478, 
+            "BeginOffset": 25, 
+            "EndOffset": 31
+        }, 
+        {
+            "Text": "Unity8", 
+            "Score": 0.9711012840270996, 
+            "BeginOffset": 34, 
+            "EndOffset": 40
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9513101577758789, 
+            "BeginOffset": 56, 
+            "EndOffset": 62
+        }, 
+        {
+            "Text": "a report", 
+            "Score": 0.9984468221664429, 
+            "BeginOffset": 72, 
+            "EndOffset": 80
+        }, 
+        {
+            "Text": "Android security", 
+            "Score": 0.9960001111030579, 
+            "BeginOffset": 87, 
+            "EndOffset": 103
+        }, 
+        {
+            "Text": "Apple pre-announces new pro hardware", 
+            "Score": 0.8403927087783813, 
+            "BeginOffset": 109, 
+            "EndOffset": 145
+        }, 
+        {
+            "Text": "BLUE OCEAN RELEASED\n\n\nBlue Ocean", 
+            "Score": 0.8460742831230164, 
+            "BeginOffset": 150, 
+            "EndOffset": 182
+        }, 
+        {
+            "Text": "the new UI", 
+            "Score": 0.9973607063293457, 
+            "BeginOffset": 184, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9980943202972412, 
+            "BeginOffset": 199, 
+            "EndOffset": 206
+        }, 
+        {
+            "Text": "an interesting and unexpected[1] move", 
+            "Score": 0.9138975739479065, 
+            "BeginOffset": 230, 
+            "EndOffset": 267
+        }, 
+        {
+            "Text": "a separate UI", 
+            "Score": 0.998546838760376, 
+            "BeginOffset": 274, 
+            "EndOffset": 287
+        }, 
+        {
+            "Text": "a plugin", 
+            "Score": 0.9230066537857056, 
+            "BeginOffset": 308, 
+            "EndOffset": 316
+        }, 
+        {
+            "Text": "the traditional Jenkins plugin", 
+            "Score": 0.9551931023597717, 
+            "BeginOffset": 325, 
+            "EndOffset": 355
+        }, 
+        {
+            "Text": "the default", 
+            "Score": 0.9422791600227356, 
+            "BeginOffset": 420, 
+            "EndOffset": 431
+        }, 
+        {
+            "Text": "only interface", 
+            "Score": 0.8060061931610107, 
+            "BeginOffset": 436, 
+            "EndOffset": 450
+        }, 
+        {
+            "Text": "a clear improvement", 
+            "Score": 0.9986048340797424, 
+            "BeginOffset": 459, 
+            "EndOffset": 478
+        }, 
+        {
+            "Text": "the old interface", 
+            "Score": 0.998100757598877, 
+            "BeginOffset": 530, 
+            "EndOffset": 547
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.8306353688240051, 
+            "BeginOffset": 563, 
+            "EndOffset": 569
+        }, 
+        {
+            "Text": "the default", 
+            "Score": 0.9958382844924927, 
+            "BeginOffset": 636, 
+            "EndOffset": 647
+        }, 
+        {
+            "Text": "a plugin", 
+            "Score": 0.9702480435371399, 
+            "BeginOffset": 675, 
+            "EndOffset": 683
+        }, 
+        {
+            "Text": "a button", 
+            "Score": 0.7470114231109619, 
+            "BeginOffset": 699, 
+            "EndOffset": 707
+        }, 
+        {
+            "Text": "URL", 
+            "Score": 0.9337887167930603, 
+            "BeginOffset": 712, 
+            "EndOffset": 715
+        }, 
+        {
+            "Text": "the new interface", 
+            "Score": 0.9989762306213379, 
+            "BeginOffset": 734, 
+            "EndOffset": 751
+        }, 
+        {
+            "Text": "clients", 
+            "Score": 0.9609526991844177, 
+            "BeginOffset": 788, 
+            "EndOffset": 795
+        }, 
+        {
+            "Text": "the interface", 
+            "Score": 0.8993434309959412, 
+            "BeginOffset": 829, 
+            "EndOffset": 842
+        }, 
+        {
+            "Text": "their production systems", 
+            "Score": 0.9993749260902405, 
+            "BeginOffset": 846, 
+            "EndOffset": 870
+        }, 
+        {
+            "Text": "beta interfaces", 
+            "Score": 0.9980641603469849, 
+            "BeginOffset": 876, 
+            "EndOffset": 891
+        }, 
+        {
+            "Text": "the reason Jenkins", 
+            "Score": 0.8587949275970459, 
+            "BeginOffset": 909, 
+            "EndOffset": 927
+        }, 
+        {
+            "Text": "the default", 
+            "Score": 0.9895941615104675, 
+            "BeginOffset": 943, 
+            "EndOffset": 954
+        }, 
+        {
+            "Text": "the improved interface", 
+            "Score": 0.9806433320045471, 
+            "BeginOffset": 1013, 
+            "EndOffset": 1035
+        }, 
+        {
+            "Text": "UBUNTU UNITY", 
+            "Score": 0.7635680437088013, 
+            "BeginOffset": 1069, 
+            "EndOffset": 1081
+        }, 
+        {
+            "Text": "8 CANCELLED", 
+            "Score": 0.7027341723442078, 
+            "BeginOffset": 1081, 
+            "EndOffset": 1092
+        }, 
+        {
+            "Text": "Several years", 
+            "Score": 0.6204441785812378, 
+            "BeginOffset": 1095, 
+            "EndOffset": 1108
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9973590970039368, 
+            "BeginOffset": 1114, 
+            "EndOffset": 1120
+        }, 
+        {
+            "Text": "Gnome", 
+            "Score": 0.9989000558853149, 
+            "BeginOffset": 1141, 
+            "EndOffset": 1146
+        }, 
+        {
+            "Text": "their default desktop interface", 
+            "Score": 0.9749851822853088, 
+            "BeginOffset": 1150, 
+            "EndOffset": 1181
+        }, 
+        {
+            "Text": "their own system", 
+            "Score": 0.9965053796768188, 
+            "BeginOffset": 1185, 
+            "EndOffset": 1201
+        }, 
+        {
+            "Text": "the interface", 
+            "Score": 0.9822763204574585, 
+            "BeginOffset": 1220, 
+            "EndOffset": 1233
+        }, 
+        {
+            "Text": "different form factors", 
+            "Score": 0.9980900287628174, 
+            "BeginOffset": 1242, 
+            "EndOffset": 1264
+        }, 
+        {
+            "Text": "This system", 
+            "Score": 0.9994832277297974, 
+            "BeginOffset": 1266, 
+            "EndOffset": 1277
+        }, 
+        {
+            "Text": "Unity8", 
+            "Score": 0.9929307699203491, 
+            "BeginOffset": 1286, 
+            "EndOffset": 1292
+        }, 
+        {
+            "Text": "Gnome", 
+            "Score": 0.9154755473136902, 
+            "BeginOffset": 1347, 
+            "EndOffset": 1352
+        }, 
+        {
+            "Text": "a personal level", 
+            "Score": 0.9925130009651184, 
+            "BeginOffset": 1358, 
+            "EndOffset": 1374
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9980593323707581, 
+            "BeginOffset": 1390, 
+            "EndOffset": 1396
+        }, 
+        {
+            "Text": "desktop interface", 
+            "Score": 0.9918628334999084, 
+            "BeginOffset": 1399, 
+            "EndOffset": 1416
+        }, 
+        {
+            "Text": "the switch", 
+            "Score": 0.8419682383537292, 
+            "BeginOffset": 1430, 
+            "EndOffset": 1440
+        }, 
+        {
+            "Text": "limited experience", 
+            "Score": 0.915246307849884, 
+            "BeginOffset": 1451, 
+            "EndOffset": 1469
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9163628816604614, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1494
+        }, 
+        {
+            "Text": "a VM", 
+            "Score": 0.984038233757019, 
+            "BeginOffset": 1512, 
+            "EndOffset": 1516
+        }, 
+        {
+            "Text": "computer", 
+            "Score": 0.9991869330406189, 
+            "BeginOffset": 1541, 
+            "EndOffset": 1549
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9940969944000244, 
+            "BeginOffset": 1560, 
+            "EndOffset": 1565
+        }, 
+        {
+            "Text": "the people", 
+            "Score": 0.9995755553245544, 
+            "BeginOffset": 1569, 
+            "EndOffset": 1579
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9985479116439819, 
+            "BeginOffset": 1595, 
+            "EndOffset": 1600
+        }, 
+        {
+            "Text": "the desktop", 
+            "Score": 0.997167706489563, 
+            "BeginOffset": 1604, 
+            "EndOffset": 1615
+        }, 
+        {
+            "Text": "either a different distro", 
+            "Score": 0.9582786560058594, 
+            "BeginOffset": 1632, 
+            "EndOffset": 1657
+        }, 
+        {
+            "Text": "a different desktop environment", 
+            "Score": 0.997914731502533, 
+            "BeginOffset": 1666, 
+            "EndOffset": 1697
+        }, 
+        {
+            "Text": "Unity8", 
+            "Score": 0.9874213933944702, 
+            "BeginOffset": 1703, 
+            "EndOffset": 1709
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9953603148460388, 
+            "BeginOffset": 1711, 
+            "EndOffset": 1717
+        }, 
+        {
+            "Text": "the only OS", 
+            "Score": 0.9884185791015625, 
+            "BeginOffset": 1725, 
+            "EndOffset": 1736
+        }, 
+        {
+            "Text": "this approach", 
+            "Score": 0.9976180791854858, 
+            "BeginOffset": 1744, 
+            "EndOffset": 1757
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9998204112052917, 
+            "BeginOffset": 1759, 
+            "EndOffset": 1768
+        }, 
+        {
+            "Text": "the same thing", 
+            "Score": 0.9950824975967407, 
+            "BeginOffset": 1773, 
+            "EndOffset": 1787
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9997521042823792, 
+            "BeginOffset": 1793, 
+            "EndOffset": 1800
+        }, 
+        {
+            "Text": "a good try", 
+            "Score": 0.9939561486244202, 
+            "BeginOffset": 1820, 
+            "EndOffset": 1830
+        }, 
+        {
+            "Text": "very little demand", 
+            "Score": 0.9754930138587952, 
+            "BeginOffset": 1861, 
+            "EndOffset": 1879
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.9993715882301331, 
+            "BeginOffset": 1896, 
+            "EndOffset": 1902
+        }, 
+        {
+            "Text": "even tablets", 
+            "Score": 0.9899182915687561, 
+            "BeginOffset": 1915, 
+            "EndOffset": 1927
+        }, 
+        {
+            "Text": "ANDROID SECURITY\n\n\nGoogle", 
+            "Score": 0.7427651286125183, 
+            "BeginOffset": 1932, 
+            "EndOffset": 1957
+        }, 
+        {
+            "Text": "a brief summary", 
+            "Score": 0.9926338791847229, 
+            "BeginOffset": 1967, 
+            "EndOffset": 1982
+        }, 
+        {
+            "Text": "the effectiveness", 
+            "Score": 0.9989538192749023, 
+            "BeginOffset": 1986, 
+            "EndOffset": 2003
+        }, 
+        {
+            "Text": "their security improvements", 
+            "Score": 0.9994558691978455, 
+            "BeginOffset": 2007, 
+            "EndOffset": 2034
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9997572898864746, 
+            "BeginOffset": 2038, 
+            "EndOffset": 2045
+        }, 
+        {
+            "Text": "some good improvements", 
+            "Score": 0.9984763860702515, 
+            "BeginOffset": 2095, 
+            "EndOffset": 2117
+        }, 
+        {
+            "Text": "only 0.05%", 
+            "Score": 0.996279239654541, 
+            "BeginOffset": 2123, 
+            "EndOffset": 2133
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.9941731095314026, 
+            "BeginOffset": 2137, 
+            "EndOffset": 2143
+        }, 
+        {
+            "Text": "their apps", 
+            "Score": 0.9609190225601196, 
+            "BeginOffset": 2163, 
+            "EndOffset": 2173
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9805577993392944, 
+            "BeginOffset": 2179, 
+            "EndOffset": 2190
+        }, 
+        {
+            "Text": "a \"Potentially Harmful App", 
+            "Score": 0.9698055386543274, 
+            "BeginOffset": 2198, 
+            "EndOffset": 2224
+        }, 
+        {
+            "Text": "a third", 
+            "Score": 0.998344898223877, 
+            "BeginOffset": 2243, 
+            "EndOffset": 2250
+        }, 
+        {
+            "Text": "that number", 
+            "Score": 0.9642708897590637, 
+            "BeginOffset": 2254, 
+            "EndOffset": 2265
+        }, 
+        {
+            "Text": "2015", 
+            "Score": 0.9976685643196106, 
+            "BeginOffset": 2269, 
+            "EndOffset": 2273
+        }, 
+        {
+            "Text": "a massive number", 
+            "Score": 0.9988875985145569, 
+            "BeginOffset": 2313, 
+            "EndOffset": 2329
+        }, 
+        {
+            "Text": "infected phones", 
+            "Score": 0.998275876045227, 
+            "BeginOffset": 2333, 
+            "EndOffset": 2348
+        }, 
+        {
+            "Text": "a fairly low number", 
+            "Score": 0.8253795504570007, 
+            "BeginOffset": 2362, 
+            "EndOffset": 2381
+        }, 
+        {
+            "Text": "1 billion Android phones", 
+            "Score": 0.997373640537262, 
+            "BeginOffset": 2385, 
+            "EndOffset": 2409
+        }, 
+        {
+            "Text": "mind", 
+            "Score": 0.8864601850509644, 
+            "BeginOffset": 2419, 
+            "EndOffset": 2423
+        }, 
+        {
+            "Text": "China", 
+            "Score": 0.9961961507797241, 
+            "BeginOffset": 2429, 
+            "EndOffset": 2434
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9991771578788757, 
+            "BeginOffset": 2480, 
+            "EndOffset": 2491
+        }, 
+        {
+            "Text": "500.000 infected phones", 
+            "Score": 0.9835802912712097, 
+            "BeginOffset": 2513, 
+            "EndOffset": 2536
+        }, 
+        {
+            "Text": "clear improvement", 
+            "Score": 0.9935542345046997, 
+            "BeginOffset": 2619, 
+            "EndOffset": 2636
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9986070990562439, 
+            "BeginOffset": 2638, 
+            "EndOffset": 2644
+        }, 
+        {
+            "Text": "the Pixel and Nexus devices", 
+            "Score": 0.9726705551147461, 
+            "BeginOffset": 2665, 
+            "EndOffset": 2692
+        }, 
+        {
+            "Text": "frequent security updates", 
+            "Score": 0.9503890872001648, 
+            "BeginOffset": 2702, 
+            "EndOffset": 2727
+        }, 
+        {
+            "Text": "half", 
+            "Score": 0.9982554912567139, 
+            "BeginOffset": 2758, 
+            "EndOffset": 2762
+        }, 
+        {
+            "Text": "the Android devices", 
+            "Score": 0.890063464641571, 
+            "BeginOffset": 2766, 
+            "EndOffset": 2785
+        }, 
+        {
+            "Text": "_any_ update", 
+            "Score": 0.990754246711731, 
+            "BeginOffset": 2808, 
+            "EndOffset": 2820
+        }, 
+        {
+            "Text": "the year", 
+            "Score": 0.8428822159767151, 
+            "BeginOffset": 2828, 
+            "EndOffset": 2836
+        }, 
+        {
+            "Text": "the security flaws", 
+            "Score": 0.9788994193077087, 
+            "BeginOffset": 2885, 
+            "EndOffset": 2903
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9970788955688477, 
+            "BeginOffset": 2910, 
+            "EndOffset": 2919
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.9880045056343079, 
+            "BeginOffset": 2920, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "MAC PRO", 
+            "Score": 0.7958159446716309, 
+            "BeginOffset": 2960, 
+            "EndOffset": 2967
+        }, 
+        {
+            "Text": "Many people", 
+            "Score": 0.797639012336731, 
+            "BeginOffset": 2976, 
+            "EndOffset": 2987
+        }, 
+        {
+            "Text": "the idea", 
+            "Score": 0.8869094848632812, 
+            "BeginOffset": 3004, 
+            "EndOffset": 3012
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9982935190200806, 
+            "BeginOffset": 3018, 
+            "EndOffset": 3023
+        }, 
+        {
+            "Text": "an update", 
+            "Score": 0.9977359771728516, 
+            "BeginOffset": 3038, 
+            "EndOffset": 3047
+        }, 
+        {
+            "Text": "the severely outdated Mac Pro", 
+            "Score": 0.9983058571815491, 
+            "BeginOffset": 3051, 
+            "EndOffset": 3080
+        }, 
+        {
+            "Text": "the MacBook Pro", 
+            "Score": 0.916264533996582, 
+            "BeginOffset": 3129, 
+            "EndOffset": 3144
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9965928792953491, 
+            "BeginOffset": 3168, 
+            "EndOffset": 3173
+        }, 
+        {
+            "Text": "all the complaints", 
+            "Score": 0.9930039048194885, 
+            "BeginOffset": 3196, 
+            "EndOffset": 3214
+        }, 
+        {
+            "Text": "a mistake", 
+            "Score": 0.7544240355491638, 
+            "BeginOffset": 3249, 
+            "EndOffset": 3258
+        }, 
+        {
+            "Text": "a new Mac Pro", 
+            "Score": 0.8579823970794678, 
+            "BeginOffset": 3277, 
+            "EndOffset": 3290
+        }, 
+        {
+            "Text": "some time", 
+            "Score": 0.9964047074317932, 
+            "BeginOffset": 3307, 
+            "EndOffset": 3316
+        }, 
+        {
+            "Text": "2017", 
+            "Score": 0.9994361400604248, 
+            "BeginOffset": 3323, 
+            "EndOffset": 3327
+        }, 
+        {
+            "Text": "a \"thermal corner", 
+            "Score": 0.9923195838928223, 
+            "BeginOffset": 3389, 
+            "EndOffset": 3406
+        }, 
+        {
+            "Text": "the previous model", 
+            "Score": 0.9984652996063232, 
+            "BeginOffset": 3413, 
+            "EndOffset": 3431
+        }, 
+        {
+            "Text": "2013", 
+            "Score": 0.9991787075996399, 
+            "BeginOffset": 3465, 
+            "EndOffset": 3469
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9995230436325073, 
+            "BeginOffset": 3488, 
+            "EndOffset": 3495
+        }, 
+        {
+            "Text": "Plenty", 
+            "Score": 0.9733302593231201, 
+            "BeginOffset": 3511, 
+            "EndOffset": 3517
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9985040426254272, 
+            "BeginOffset": 3521, 
+            "EndOffset": 3527
+        }, 
+        {
+            "Text": "a similar mistake", 
+            "Score": 0.7918862104415894, 
+            "BeginOffset": 3593, 
+            "EndOffset": 3610
+        }, 
+        {
+            "Text": "the new MacBook Pro", 
+            "Score": 0.9991123676300049, 
+            "BeginOffset": 3625, 
+            "EndOffset": 3644
+        }, 
+        {
+            "Text": "the end result", 
+            "Score": 0.9461272358894348, 
+            "BeginOffset": 3733, 
+            "EndOffset": 3747
+        }, 
+        {
+            "Text": "another long wait", 
+            "Score": 0.9923803210258484, 
+            "BeginOffset": 3769, 
+            "EndOffset": 3786
+        }, 
+        {
+            "Text": "a different question", 
+            "Score": 0.9959254264831543, 
+            "BeginOffset": 3790, 
+            "EndOffset": 3810
+        }, 
+        {
+            "Text": "a more regular tower", 
+            "Score": 0.9971928000450134, 
+            "BeginOffset": 3848, 
+            "EndOffset": 3868
+        }, 
+        {
+            "Text": "their own monitor[3]", 
+            "Score": 0.9725933074951172, 
+            "BeginOffset": 3880, 
+            "EndOffset": 3900
+        }, 
+        {
+            "Text": "the needs", 
+            "Score": 0.8240827918052673, 
+            "BeginOffset": 3933, 
+            "EndOffset": 3942
+        }, 
+        {
+            "Text": "a Mac Pro", 
+            "Score": 0.9963151812553406, 
+            "BeginOffset": 3980, 
+            "EndOffset": 3989
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9976198077201843, 
+            "BeginOffset": 3991, 
+            "EndOffset": 3996
+        }, 
+        {
+            "Text": "the upcoming release", 
+            "Score": 0.9239235520362854, 
+            "BeginOffset": 4012, 
+            "EndOffset": 4032
+        }, 
+        {
+            "Text": "an iMac", 
+            "Score": 0.9957115650177002, 
+            "BeginOffset": 4036, 
+            "EndOffset": 4043
+        }, 
+        {
+            "Text": "Pro users", 
+            "Score": 0.9900819659233093, 
+            "BeginOffset": 4059, 
+            "EndOffset": 4068
+        }, 
+        {
+            "Text": "no idea", 
+            "Score": 0.9690378904342651, 
+            "BeginOffset": 4077, 
+            "EndOffset": 4084
+        }, 
+        {
+            "Text": "a Mac Pro", 
+            "Score": 0.9634272456169128, 
+            "BeginOffset": 4144, 
+            "EndOffset": 4153
+        }, 
+        {
+            "Text": "powerful a machine", 
+            "Score": 0.9940061569213867, 
+            "BeginOffset": 4171, 
+            "EndOffset": 4189
+        }, 
+        {
+            "Text": "the iMac", 
+            "Score": 0.881390392780304, 
+            "BeginOffset": 4234, 
+            "EndOffset": 4242
+        }, 
+        {
+            "Text": "a non-mobile graphics card", 
+            "Score": 0.9158515334129333, 
+            "BeginOffset": 4257, 
+            "EndOffset": 4283
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9927604794502258, 
+            "BeginOffset": 4305, 
+            "EndOffset": 4307
+        }, 
+        {
+            "Text": "attention", 
+            "Score": 0.9508253335952759, 
+            "BeginOffset": 4341, 
+            "EndOffset": 4350
+        }, 
+        {
+            "Text": "that part", 
+            "Score": 0.994152307510376, 
+            "BeginOffset": 4354, 
+            "EndOffset": 4363
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9996399879455566, 
+            "BeginOffset": 4366, 
+            "EndOffset": 4369
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9947575330734253, 
+            "BeginOffset": 4385, 
+            "EndOffset": 4390
+        }, 
+        {
+            "Text": "severe ones", 
+            "Score": 0.7658485174179077, 
+            "BeginOffset": 4394, 
+            "EndOffset": 4405
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9996073246002197, 
+            "BeginOffset": 4417, 
+            "EndOffset": 4420
+        }, 
+        {
+            "Text": "LG", 
+            "Score": 0.8345758318901062, 
+            "BeginOffset": 4458, 
+            "EndOffset": 4460
+        }, 
+        {
+            "Text": "monitor", 
+            "Score": 0.9756796360015869, 
+            "BeginOffset": 4463, 
+            "EndOffset": 4470
+        }, 
+        {
+            "Text": "wifi routers", 
+            "Score": 0.996671736240387, 
+            "BeginOffset": 4490, 
+            "EndOffset": 4502
+        }
+    ]
+}

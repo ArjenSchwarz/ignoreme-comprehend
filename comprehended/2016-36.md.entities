@@ -1,0 +1,228 @@
+{
+    "Entities": [
+        {
+            "Text": "Android", 
+            "Score": 0.9619312286376953, 
+            "Type": "TITLE", 
+            "BeginOffset": 61, 
+            "EndOffset": 68
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.7422911524772644, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 112, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "ANDROID WOES", 
+            "Score": 0.5551118850708008, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 135, 
+            "EndOffset": 147
+        }, 
+        {
+            "Text": "After last week", 
+            "Score": 0.8884842991828918, 
+            "Type": "DATE", 
+            "BeginOffset": 150, 
+            "EndOffset": 165
+        }, 
+        {
+            "Text": "Nougat", 
+            "Score": 0.31688448786735535, 
+            "Type": "TITLE", 
+            "BeginOffset": 179, 
+            "EndOffset": 185
+        }, 
+        {
+            "Text": "Nougat", 
+            "Score": 0.8005918860435486, 
+            "Type": "TITLE", 
+            "BeginOffset": 304, 
+            "EndOffset": 310
+        }, 
+        {
+            "Text": "Ars Technica", 
+            "Score": 0.9001742005348206, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 351, 
+            "EndOffset": 363
+        }, 
+        {
+            "Text": "Qualcomm", 
+            "Score": 0.9468004107475281, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 401, 
+            "EndOffset": 409
+        }, 
+        {
+            "Text": "Qualcomm", 
+            "Score": 0.9766641855239868, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 426, 
+            "EndOffset": 434
+        }, 
+        {
+            "Text": "end of 2015", 
+            "Score": 0.8489379286766052, 
+            "Type": "DATE", 
+            "BeginOffset": 580, 
+            "EndOffset": 591
+        }, 
+        {
+            "Text": "more than 2 years old", 
+            "Score": 0.9056016206741333, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 706, 
+            "EndOffset": 727
+        }, 
+        {
+            "Text": "Qualcomm", 
+            "Score": 0.9732528924942017, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 732, 
+            "EndOffset": 740
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9383620619773865, 
+            "Type": "TITLE", 
+            "BeginOffset": 956, 
+            "EndOffset": 963
+        }, 
+        {
+            "Text": "Samsung", 
+            "Score": 0.9999808073043823, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 998, 
+            "EndOffset": 1005
+        }, 
+        {
+            "Text": "Note 7", 
+            "Score": 0.9993484020233154, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1012, 
+            "EndOffset": 1018
+        }, 
+        {
+            "Text": "Samsung", 
+            "Score": 0.999990701675415, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1271, 
+            "EndOffset": 1278
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9996926784515381, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1469, 
+            "EndOffset": 1475
+        }, 
+        {
+            "Text": "Ara", 
+            "Score": 0.9999622106552124, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1515, 
+            "EndOffset": 1518
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999969005584717, 
+            "Type": "TITLE", 
+            "BeginOffset": 2031, 
+            "EndOffset": 2038
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9999926686286926, 
+            "Type": "DATE", 
+            "BeginOffset": 2064, 
+            "EndOffset": 2073
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999651908874512, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2093, 
+            "EndOffset": 2098
+        }, 
+        {
+            "Text": "EU", 
+            "Score": 0.999981164932251, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2265, 
+            "EndOffset": 2267
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999380111694336, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2282, 
+            "EndOffset": 2287
+        }, 
+        {
+            "Text": "Ireland", 
+            "Score": 0.9999951124191284, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2313, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999935626983643, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2341, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "Ireland", 
+            "Score": 0.9170589447021484, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2362, 
+            "EndOffset": 2369
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999946355819702, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2534, 
+            "EndOffset": 2539
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.999889612197876, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3094, 
+            "EndOffset": 3100
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999990463256836, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3230, 
+            "EndOffset": 3235
+        }, 
+        {
+            "Text": "Samsung", 
+            "Score": 0.9999938011169434, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3271, 
+            "EndOffset": 3278
+        }, 
+        {
+            "Text": "Ireland", 
+            "Score": 0.9998243451118469, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3339, 
+            "EndOffset": 3346
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999991655349731, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3486, 
+            "EndOffset": 3491
+        }
+    ]
+}

@@ -1,0 +1,844 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "a security centric note", 
+            "Score": 0.9877556562423706, 
+            "BeginOffset": 20, 
+            "EndOffset": 43
+        }, 
+        {
+            "Text": "a major security issue", 
+            "Score": 0.9965536594390869, 
+            "BeginOffset": 49, 
+            "EndOffset": 71
+        }, 
+        {
+            "Text": "core Linux functionality", 
+            "Score": 0.8720901608467102, 
+            "BeginOffset": 75, 
+            "EndOffset": 99
+        }, 
+        {
+            "Text": "a follow", 
+            "Score": 0.8489097356796265, 
+            "BeginOffset": 104, 
+            "EndOffset": 112
+        }, 
+        {
+            "Text": "Error 53", 
+            "Score": 0.8634300231933594, 
+            "BeginOffset": 119, 
+            "EndOffset": 127
+        }, 
+        {
+            "Text": "MORE OLD SECURITY ISSUES", 
+            "Score": 0.73834627866745, 
+            "BeginOffset": 132, 
+            "EndOffset": 156
+        }, 
+        {
+            "Text": "a major security issue", 
+            "Score": 0.9252352118492126, 
+            "BeginOffset": 176, 
+            "EndOffset": 198
+        }, 
+        {
+            "Text": "a core Linux functionality", 
+            "Score": 0.9701849222183228, 
+            "BeginOffset": 217, 
+            "EndOffset": 243
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9934300780296326, 
+            "BeginOffset": 245, 
+            "EndOffset": 254
+        }, 
+        {
+            "Text": "glibc", 
+            "Score": 0.926319420337677, 
+            "BeginOffset": 258, 
+            "EndOffset": 263
+        }, 
+        {
+            "Text": "glibc", 
+            "Score": 0.9151626825332642, 
+            "BeginOffset": 265, 
+            "EndOffset": 270
+        }, 
+        {
+            "Text": "a core part", 
+            "Score": 0.9970420598983765, 
+            "BeginOffset": 274, 
+            "EndOffset": 285
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9964414834976196, 
+            "BeginOffset": 289, 
+            "EndOffset": 294
+        }, 
+        {
+            "Text": "its libraries", 
+            "Score": 0.6515897512435913, 
+            "BeginOffset": 312, 
+            "EndOffset": 325
+        }, 
+        {
+            "Text": "the core applications", 
+            "Score": 0.9971871376037598, 
+            "BeginOffset": 378, 
+            "EndOffset": 399
+        }, 
+        {
+            "Text": "ssh", 
+            "Score": 0.8847013115882874, 
+            "BeginOffset": 408, 
+            "EndOffset": 411
+        }, 
+        {
+            "Text": "sudo", 
+            "Score": 0.7243418097496033, 
+            "BeginOffset": 413, 
+            "EndOffset": 417
+        }, 
+        {
+            "Text": "curl", 
+            "Score": 0.5694730281829834, 
+            "BeginOffset": 423, 
+            "EndOffset": 427
+        }, 
+        {
+            "Text": "All tools", 
+            "Score": 0.9750312566757202, 
+            "BeginOffset": 429, 
+            "EndOffset": 438
+        }, 
+        {
+            "Text": "many people", 
+            "Score": 0.7955718040466309, 
+            "BeginOffset": 444, 
+            "EndOffset": 455
+        }, 
+        {
+            "Text": "a daily basis", 
+            "Score": 0.9671216011047363, 
+            "BeginOffset": 481, 
+            "EndOffset": 494
+        }, 
+        {
+            "Text": "The bug", 
+            "Score": 0.9953745603561401, 
+            "BeginOffset": 496, 
+            "EndOffset": 503
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.8785955309867859, 
+            "BeginOffset": 528, 
+            "EndOffset": 532
+        }, 
+        {
+            "Text": "this code", 
+            "Score": 0.9996678233146667, 
+            "BeginOffset": 536, 
+            "EndOffset": 545
+        }, 
+        {
+            "Text": "a buffer overflow problem", 
+            "Score": 0.9911843538284302, 
+            "BeginOffset": 550, 
+            "EndOffset": 575
+        }, 
+        {
+            "Text": "remote code execution", 
+            "Score": 0.987151563167572, 
+            "BeginOffset": 600, 
+            "EndOffset": 621
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9924212098121643, 
+            "BeginOffset": 629, 
+            "EndOffset": 634
+        }, 
+        {
+            "Text": "the major open source vulnerabilities", 
+            "Score": 0.9654314517974854, 
+            "BeginOffset": 638, 
+            "EndOffset": 675
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.8177808523178101, 
+            "BeginOffset": 676, 
+            "EndOffset": 678
+        }, 
+        {
+            "Text": "the past few years", 
+            "Score": 0.9982792139053345, 
+            "BeginOffset": 682, 
+            "EndOffset": 700
+        }, 
+        {
+            "Text": "this bug", 
+            "Score": 0.9995505213737488, 
+            "BeginOffset": 702, 
+            "EndOffset": 710
+        }, 
+        {
+            "Text": "8 years", 
+            "Score": 0.9762569069862366, 
+            "BeginOffset": 762, 
+            "EndOffset": 769
+        }, 
+        {
+            "Text": "several groups", 
+            "Score": 0.8066142201423645, 
+            "BeginOffset": 819, 
+            "EndOffset": 833
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.9954854846000671, 
+            "BeginOffset": 855, 
+            "EndOffset": 868
+        }, 
+        {
+            "Text": "these people", 
+            "Score": 0.9845535159111023, 
+            "BeginOffset": 879, 
+            "EndOffset": 891
+        }, 
+        {
+            "Text": "Google or Red Hat", 
+            "Score": 0.9555435180664062, 
+            "BeginOffset": 905, 
+            "EndOffset": 922
+        }, 
+        {
+            "Text": "all good people", 
+            "Score": 0.9756003022193909, 
+            "BeginOffset": 928, 
+            "EndOffset": 943
+        }, 
+        {
+            "Text": "the maintainers", 
+            "Score": 0.9142073392868042, 
+            "BeginOffset": 985, 
+            "EndOffset": 1000
+        }, 
+        {
+            "Text": "a fix", 
+            "Score": 0.9986513257026672, 
+            "BeginOffset": 1010, 
+            "EndOffset": 1015
+        }, 
+        {
+            "Text": "the bug", 
+            "Score": 0.9742369651794434, 
+            "BeginOffset": 1023, 
+            "EndOffset": 1030
+        }, 
+        {
+            "Text": "a major vulnerability", 
+            "Score": 0.9989686608314514, 
+            "BeginOffset": 1090, 
+            "EndOffset": 1111
+        }, 
+        {
+            "Text": "your servers and anything", 
+            "Score": 0.9185696244239807, 
+            "BeginOffset": 1154, 
+            "EndOffset": 1179
+        }, 
+        {
+            "Text": "the first place", 
+            "Score": 0.9787557125091553, 
+            "BeginOffset": 1242, 
+            "EndOffset": 1257
+        }, 
+        {
+            "Text": "A lot", 
+            "Score": 0.9987145066261292, 
+            "BeginOffset": 1259, 
+            "EndOffset": 1264
+        }, 
+        {
+            "Text": "this kind", 
+            "Score": 0.999300479888916, 
+            "BeginOffset": 1268, 
+            "EndOffset": 1277
+        }, 
+        {
+            "Text": "software", 
+            "Score": 0.9979822039604187, 
+            "BeginOffset": 1281, 
+            "EndOffset": 1289
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9262294769287109, 
+            "BeginOffset": 1296, 
+            "EndOffset": 1301
+        }, 
+        {
+            "Text": "servers", 
+            "Score": 0.9994096159934998, 
+            "BeginOffset": 1305, 
+            "EndOffset": 1312
+        }, 
+        {
+            "Text": "the work", 
+            "Score": 0.9451892375946045, 
+            "BeginOffset": 1327, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "volunteers", 
+            "Score": 0.9992503523826599, 
+            "BeginOffset": 1339, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "the complexity", 
+            "Score": 0.9794617891311646, 
+            "BeginOffset": 1396, 
+            "EndOffset": 1410
+        }, 
+        {
+            "Text": "the code", 
+            "Score": 0.999625027179718, 
+            "BeginOffset": 1414, 
+            "EndOffset": 1422
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9990276098251343, 
+            "BeginOffset": 1460, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9963575601577759, 
+            "BeginOffset": 1469, 
+            "EndOffset": 1475
+        }, 
+        {
+            "Text": "bugs", 
+            "Score": 0.9854358434677124, 
+            "BeginOffset": 1534, 
+            "EndOffset": 1538
+        }, 
+        {
+            "Text": "the open source model", 
+            "Score": 0.9986464977264404, 
+            "BeginOffset": 1582, 
+            "EndOffset": 1603
+        }, 
+        {
+            "Text": "software", 
+            "Score": 0.9136617183685303, 
+            "BeginOffset": 1608, 
+            "EndOffset": 1616
+        }, 
+        {
+            "Text": "great[2]", 
+            "Score": 0.8240476846694946, 
+            "BeginOffset": 1620, 
+            "EndOffset": 1628
+        }, 
+        {
+            "Text": "the people", 
+            "Score": 0.997503936290741, 
+            "BeginOffset": 1633, 
+            "EndOffset": 1643
+        }, 
+        {
+            "Text": "this work", 
+            "Score": 0.9873158931732178, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1666
+        }, 
+        {
+            "Text": "an amazing job", 
+            "Score": 0.9987088441848755, 
+            "BeginOffset": 1677, 
+            "EndOffset": 1691
+        }, 
+        {
+            "Text": "as much support", 
+            "Score": 0.9213743209838867, 
+            "BeginOffset": 1772, 
+            "EndOffset": 1787
+        }, 
+        {
+            "Text": "any good ideas", 
+            "Score": 0.9989045262336731, 
+            "BeginOffset": 1844, 
+            "EndOffset": 1858
+        }, 
+        {
+            "Text": "ERROR 53", 
+            "Score": 0.8099997639656067, 
+            "BeginOffset": 1892, 
+            "EndOffset": 1900
+        }, 
+        {
+            "Text": "An update", 
+            "Score": 0.9131959676742554, 
+            "BeginOffset": 1912, 
+            "EndOffset": 1921
+        }, 
+        {
+            "Text": "the Error 53 problem", 
+            "Score": 0.9593254923820496, 
+            "BeginOffset": 1925, 
+            "EndOffset": 1945
+        }, 
+        {
+            "Text": "length", 
+            "Score": 0.9994847774505615, 
+            "BeginOffset": 1979, 
+            "EndOffset": 1985
+        }, 
+        {
+            "Text": "a couple weeks", 
+            "Score": 0.9885552525520325, 
+            "BeginOffset": 1986, 
+            "EndOffset": 2000
+        }, 
+        {
+            "Text": "phones", 
+            "Score": 0.8501630425453186, 
+            "BeginOffset": 2027, 
+            "EndOffset": 2033
+        }, 
+        {
+            "Text": "3rd party repairs", 
+            "Score": 0.9766697883605957, 
+            "BeginOffset": 2043, 
+            "EndOffset": 2060
+        }, 
+        {
+            "Text": "my point", 
+            "Score": 0.9994792342185974, 
+            "BeginOffset": 2079, 
+            "EndOffset": 2087
+        }, 
+        {
+            "Text": "a security measure", 
+            "Score": 0.994326114654541, 
+            "BeginOffset": 2102, 
+            "EndOffset": 2120
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.980904221534729, 
+            "BeginOffset": 2148, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999711513519287, 
+            "BeginOffset": 2159, 
+            "EndOffset": 2164
+        }, 
+        {
+            "Text": "a fix", 
+            "Score": 0.9972531199455261, 
+            "BeginOffset": 2174, 
+            "EndOffset": 2179
+        }, 
+        {
+            "Text": "this problem", 
+            "Score": 0.9987286925315857, 
+            "BeginOffset": 2184, 
+            "EndOffset": 2196
+        }, 
+        {
+            "Text": "their users", 
+            "Score": 0.9987249374389648, 
+            "BeginOffset": 2212, 
+            "EndOffset": 2223
+        }, 
+        {
+            "Text": "refunds", 
+            "Score": 0.9994144439697266, 
+            "BeginOffset": 2237, 
+            "EndOffset": 2244
+        }, 
+        {
+            "Text": "a replacement unit", 
+            "Score": 0.9981573224067688, 
+            "BeginOffset": 2271, 
+            "EndOffset": 2289
+        }, 
+        {
+            "Text": "the TechCrunch article Apple", 
+            "Score": 0.9949731230735779, 
+            "BeginOffset": 2318, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9178332090377808, 
+            "BeginOffset": 2351, 
+            "EndOffset": 2354
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.9883719086647034, 
+            "BeginOffset": 2381, 
+            "EndOffset": 2385
+        }, 
+        {
+            "Text": "their factory tests", 
+            "Score": 0.993249773979187, 
+            "BeginOffset": 2389, 
+            "EndOffset": 2408
+        }, 
+        {
+            "Text": "no broken phones", 
+            "Score": 0.9859621524810791, 
+            "BeginOffset": 2419, 
+            "EndOffset": 2435
+        }, 
+        {
+            "Text": "their customers", 
+            "Score": 0.9969365000724792, 
+            "BeginOffset": 2453, 
+            "EndOffset": 2468
+        }, 
+        {
+            "Text": "the error", 
+            "Score": 0.9979079365730286, 
+            "BeginOffset": 2473, 
+            "EndOffset": 2482
+        }, 
+        {
+            "Text": "an OS update", 
+            "Score": 0.9667118787765503, 
+            "BeginOffset": 2511, 
+            "EndOffset": 2523
+        }, 
+        {
+            "Text": "a wire", 
+            "Score": 0.9896897077560425, 
+            "BeginOffset": 2529, 
+            "EndOffset": 2535
+        }, 
+        {
+            "Text": "sense", 
+            "Score": 0.9966986179351807, 
+            "BeginOffset": 2556, 
+            "EndOffset": 2561
+        }, 
+        {
+            "Text": "particular note", 
+            "Score": 0.9852427244186401, 
+            "BeginOffset": 2566, 
+            "EndOffset": 2581
+        }, 
+        {
+            "Text": "a security measure", 
+            "Score": 0.9569643139839172, 
+            "BeginOffset": 2626, 
+            "EndOffset": 2644
+        }, 
+        {
+            "Text": "the fix", 
+            "Score": 0.9969621300697327, 
+            "BeginOffset": 2646, 
+            "EndOffset": 2653
+        }, 
+        {
+            "Text": "TouchID", 
+            "Score": 0.9996819496154785, 
+            "BeginOffset": 2667, 
+            "EndOffset": 2674
+        }, 
+        {
+            "Text": "4]", 
+            "Score": 0.895440936088562, 
+            "BeginOffset": 2685, 
+            "EndOffset": 2687
+        }, 
+        {
+            "Text": "the desired security solution", 
+            "Score": 0.9374834895133972, 
+            "BeginOffset": 2700, 
+            "EndOffset": 2729
+        }, 
+        {
+            "Text": "that other controversy", 
+            "Score": 0.9942185878753662, 
+            "BeginOffset": 2831, 
+            "EndOffset": 2853
+        }, 
+        {
+            "Text": "the company", 
+            "Score": 0.9455448389053345, 
+            "BeginOffset": 2859, 
+            "EndOffset": 2870
+        }, 
+        {
+            "Text": "NEW ITERM 2 BETA", 
+            "Score": 0.9990954995155334, 
+            "BeginOffset": 2875, 
+            "EndOffset": 2891
+        }, 
+        {
+            "Text": "iTerm 2", 
+            "Score": 0.7449222207069397, 
+            "BeginOffset": 2910, 
+            "EndOffset": 2917
+        }, 
+        {
+            "Text": "a popup", 
+            "Score": 0.9668970704078674, 
+            "BeginOffset": 2941, 
+            "EndOffset": 2948
+        }, 
+        {
+            "Text": "the beta", 
+            "Score": 0.9972585439682007, 
+            "BeginOffset": 2967, 
+            "EndOffset": 2975
+        }, 
+        {
+            "Text": "the upcoming release", 
+            "Score": 0.9934514164924622, 
+            "BeginOffset": 2980, 
+            "EndOffset": 3000
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9902015924453735, 
+            "BeginOffset": 3031, 
+            "EndOffset": 3036
+        }, 
+        {
+            "Text": "some really great features", 
+            "Score": 0.9983308911323547, 
+            "BeginOffset": 3065, 
+            "EndOffset": 3091
+        }, 
+        {
+            "Text": "The shell integration", 
+            "Score": 0.9649158120155334, 
+            "BeginOffset": 3093, 
+            "EndOffset": 3114
+        }, 
+        {
+            "Text": "automatic profile", 
+            "Score": 0.9820204973220825, 
+            "BeginOffset": 3172, 
+            "EndOffset": 3189
+        }, 
+        {
+            "Text": "the way iTerm", 
+            "Score": 0.9592339396476746, 
+            "BeginOffset": 3235, 
+            "EndOffset": 3248
+        }, 
+        {
+            "Text": "what kind", 
+            "Score": 0.9661839604377747, 
+            "BeginOffset": 3255, 
+            "EndOffset": 3264
+        }, 
+        {
+            "Text": "server", 
+            "Score": 0.7176932096481323, 
+            "BeginOffset": 3268, 
+            "EndOffset": 3274
+        }, 
+        {
+            "Text": "root", 
+            "Score": 0.9580625295639038, 
+            "BeginOffset": 3313, 
+            "EndOffset": 3317
+        }, 
+        {
+            "Text": "the beta", 
+            "Score": 0.9554311037063599, 
+            "BeginOffset": 3360, 
+            "EndOffset": 3368
+        }, 
+        {
+            "Text": "the change list", 
+            "Score": 0.9664175510406494, 
+            "BeginOffset": 3402, 
+            "EndOffset": 3417
+        }, 
+        {
+            "Text": "credit", 
+            "Score": 0.9742463231086731, 
+            "BeginOffset": 3498, 
+            "EndOffset": 3504
+        }, 
+        {
+            "Text": "the new features", 
+            "Score": 0.9966111779212952, 
+            "BeginOffset": 3529, 
+            "EndOffset": 3545
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9988700151443481, 
+            "BeginOffset": 3550, 
+            "EndOffset": 3556
+        }, 
+        {
+            "Text": "tmux", 
+            "Score": 0.9956784844398499, 
+            "BeginOffset": 3590, 
+            "EndOffset": 3594
+        }, 
+        {
+            "Text": "tmux", 
+            "Score": 0.9920339584350586, 
+            "BeginOffset": 3637, 
+            "EndOffset": 3641
+        }, 
+        {
+            "Text": "power", 
+            "Score": 0.8046732544898987, 
+            "BeginOffset": 3655, 
+            "EndOffset": 3660
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9989764094352722, 
+            "BeginOffset": 3676, 
+            "EndOffset": 3681
+        }, 
+        {
+            "Text": "that power", 
+            "Score": 0.9867571592330933, 
+            "BeginOffset": 3685, 
+            "EndOffset": 3695
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9993424415588379, 
+            "BeginOffset": 3704, 
+            "EndOffset": 3709
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.931011438369751, 
+            "BeginOffset": 3745, 
+            "EndOffset": 3748
+        }, 
+        {
+            "Text": "Heartblead and Shellshock", 
+            "Score": 0.9754231572151184, 
+            "BeginOffset": 3758, 
+            "EndOffset": 3783
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9816392064094543, 
+            "BeginOffset": 3800, 
+            "EndOffset": 3803
+        }, 
+        {
+            "Text": "projects", 
+            "Score": 0.7597305178642273, 
+            "BeginOffset": 3831, 
+            "EndOffset": 3839
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9963300228118896, 
+            "BeginOffset": 3849, 
+            "EndOffset": 3852
+        }, 
+        {
+            "Text": "these statements", 
+            "Score": 0.840991735458374, 
+            "BeginOffset": 3868, 
+            "EndOffset": 3884
+        }, 
+        {
+            "Text": "face value", 
+            "Score": 0.8092356324195862, 
+            "BeginOffset": 3888, 
+            "EndOffset": 3898
+        }, 
+        {
+            "Text": "a far more pleasant worldview", 
+            "Score": 0.9909727573394775, 
+            "BeginOffset": 3915, 
+            "EndOffset": 3944
+        }, 
+        {
+            "Text": "everyone else", 
+            "Score": 0.9962319731712341, 
+            "BeginOffset": 3969, 
+            "EndOffset": 3982
+        }, 
+        {
+            "Text": "the same", 
+            "Score": 0.8485720753669739, 
+            "BeginOffset": 3992, 
+            "EndOffset": 4000
+        }, 
+        {
+            "Text": "even the people", 
+            "Score": 0.924491822719574, 
+            "BeginOffset": 4002, 
+            "EndOffset": 4017
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9925926923751831, 
+            "BeginOffset": 4030, 
+            "EndOffset": 4035
+        }, 
+        {
+            "Text": "this subject", 
+            "Score": 0.8268910050392151, 
+            "BeginOffset": 4039, 
+            "EndOffset": 4051
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9981428980827332, 
+            "BeginOffset": 4062, 
+            "EndOffset": 4065
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.6388543844223022, 
+            "BeginOffset": 4096, 
+            "EndOffset": 4101
+        }, 
+        {
+            "Text": "this site", 
+            "Score": 0.9988800287246704, 
+            "BeginOffset": 4113, 
+            "EndOffset": 4122
+        }, 
+        {
+            "Text": "credit", 
+            "Score": 0.8881717324256897, 
+            "BeginOffset": 4148, 
+            "EndOffset": 4154
+        }, 
+        {
+            "Text": "thousands", 
+            "Score": 0.9949358105659485, 
+            "BeginOffset": 4191, 
+            "EndOffset": 4200
+        }, 
+        {
+            "Text": "other sites", 
+            "Score": 0.9981054067611694, 
+            "BeginOffset": 4204, 
+            "EndOffset": 4215
+        }
+    ]
+}

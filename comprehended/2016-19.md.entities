@@ -1,0 +1,291 @@
+{
+    "Entities": [
+        {
+            "Text": "this week", 
+            "Score": 0.95429527759552, 
+            "Type": "DATE", 
+            "BeginOffset": 47, 
+            "EndOffset": 56
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.587368905544281, 
+            "Type": "PERSON", 
+            "BeginOffset": 103, 
+            "EndOffset": 110
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.4641321301460266, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 112, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "2 weeks ago", 
+            "Score": 0.9945773482322693, 
+            "Type": "DATE", 
+            "BeginOffset": 223, 
+            "EndOffset": 234
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.8057163953781128, 
+            "Type": "PERSON", 
+            "BeginOffset": 240, 
+            "EndOffset": 247
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.7468900680541992, 
+            "Type": "OTHER", 
+            "BeginOffset": 248, 
+            "EndOffset": 251
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9139984250068665, 
+            "Type": "PERSON", 
+            "BeginOffset": 266, 
+            "EndOffset": 273
+        }, 
+        {
+            "Text": "3 major cornerstones", 
+            "Score": 0.862958550453186, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 490, 
+            "EndOffset": 510
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9704474806785583, 
+            "Type": "PERSON", 
+            "BeginOffset": 621, 
+            "EndOffset": 628
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.7074275016784668, 
+            "Type": "OTHER", 
+            "BeginOffset": 888, 
+            "EndOffset": 897
+        }, 
+        {
+            "Text": "second change", 
+            "Score": 0.9997690320014954, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1077, 
+            "EndOffset": 1090
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999713897705078, 
+            "Type": "PERSON", 
+            "BeginOffset": 1179, 
+            "EndOffset": 1186
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999260902404785, 
+            "Type": "PERSON", 
+            "BeginOffset": 1341, 
+            "EndOffset": 1348
+        }, 
+        {
+            "Text": "Samson", 
+            "Score": 0.9998050332069397, 
+            "Type": "PERSON", 
+            "BeginOffset": 1483, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999567270278931, 
+            "Type": "PERSON", 
+            "BeginOffset": 1580, 
+            "EndOffset": 1587
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999933242797852, 
+            "Type": "PERSON", 
+            "BeginOffset": 1714, 
+            "EndOffset": 1721
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999628067016602, 
+            "Type": "PERSON", 
+            "BeginOffset": 1810, 
+            "EndOffset": 1817
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999969005584717, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1945, 
+            "EndOffset": 1948
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9988634586334229, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1979, 
+            "EndOffset": 1984
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9994732737541199, 
+            "Type": "PERSON", 
+            "BeginOffset": 2015, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.569293200969696, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2036, 
+            "EndOffset": 2042
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.9999294281005859, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2046, 
+            "EndOffset": 2055
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999998807907104, 
+            "Type": "PERSON", 
+            "BeginOffset": 2653, 
+            "EndOffset": 2660
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.9994754791259766, 
+            "Type": "OTHER", 
+            "BeginOffset": 2705, 
+            "EndOffset": 2714
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9992332458496094, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2803, 
+            "EndOffset": 2808
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.9999781847000122, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2879, 
+            "EndOffset": 2886
+        }, 
+        {
+            "Text": "Craig Wright", 
+            "Score": 0.9999451041221619, 
+            "Type": "PERSON", 
+            "BeginOffset": 2888, 
+            "EndOffset": 2900
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9995206594467163, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3314, 
+            "EndOffset": 3322
+        }, 
+        {
+            "Text": "Brazilian", 
+            "Score": 0.9999997615814209, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3393, 
+            "EndOffset": 3402
+        }, 
+        {
+            "Text": "one judge", 
+            "Score": 0.6481271982192993, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3427, 
+            "EndOffset": 3436
+        }, 
+        {
+            "Text": "3 days", 
+            "Score": 0.9999604225158691, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3529, 
+            "EndOffset": 3535
+        }, 
+        {
+            "Text": "about 100 million users", 
+            "Score": 0.9970608353614807, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3551, 
+            "EndOffset": 3574
+        }, 
+        {
+            "Text": "Brazilians", 
+            "Score": 0.9999986886978149, 
+            "Type": "OTHER", 
+            "BeginOffset": 3602, 
+            "EndOffset": 3612
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999990463256836, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3865, 
+            "EndOffset": 3870
+        }, 
+        {
+            "Text": "App Store", 
+            "Score": 0.9761694073677063, 
+            "Type": "TITLE", 
+            "BeginOffset": 3905, 
+            "EndOffset": 3914
+        }, 
+        {
+            "Text": "IPv6", 
+            "Score": 0.9999681115150452, 
+            "Type": "OTHER", 
+            "BeginOffset": 3931, 
+            "EndOffset": 3935
+        }, 
+        {
+            "Text": "IPv4", 
+            "Score": 0.9994536638259888, 
+            "Type": "TITLE", 
+            "BeginOffset": 3940, 
+            "EndOffset": 3944
+        }, 
+        {
+            "Text": "IPv6", 
+            "Score": 0.9999857544898987, 
+            "Type": "TITLE", 
+            "BeginOffset": 4030, 
+            "EndOffset": 4034
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.999981164932251, 
+            "Type": "TITLE", 
+            "BeginOffset": 4181, 
+            "EndOffset": 4184
+        }, 
+        {
+            "Text": "past couple of weeks", 
+            "Score": 0.9999956488609314, 
+            "Type": "DATE", 
+            "BeginOffset": 4366, 
+            "EndOffset": 4386
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9998897314071655, 
+            "Type": "PERSON", 
+            "BeginOffset": 4566, 
+            "EndOffset": 4573
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "Entities": [
+        {
+            "Text": "Linux", 
+            "Score": 0.9159073829650879, 
+            "Type": "TITLE", 
+            "BeginOffset": 80, 
+            "EndOffset": 85
+        }, 
+        {
+            "Text": "Error 53", 
+            "Score": 0.6054108738899231, 
+            "Type": "TITLE", 
+            "BeginOffset": 119, 
+            "EndOffset": 127
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9763394594192505, 
+            "Type": "TITLE", 
+            "BeginOffset": 224, 
+            "EndOffset": 229
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9892100691795349, 
+            "Type": "TITLE", 
+            "BeginOffset": 289, 
+            "EndOffset": 294
+        }, 
+        {
+            "Text": "past few years", 
+            "Score": 0.795900285243988, 
+            "Type": "DATE", 
+            "BeginOffset": 686, 
+            "EndOffset": 700
+        }, 
+        {
+            "Text": "8 years", 
+            "Score": 0.9930354952812195, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 762, 
+            "EndOffset": 769
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.93671053647995, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 905, 
+            "EndOffset": 911
+        }, 
+        {
+            "Text": "Red Hat", 
+            "Score": 0.924927294254303, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 915, 
+            "EndOffset": 922
+        }, 
+        {
+            "Text": "first place", 
+            "Score": 0.9997541904449463, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1246, 
+            "EndOffset": 1257
+        }, 
+        {
+            "Text": "couple weeks ago", 
+            "Score": 0.9965640902519226, 
+            "Type": "DATE", 
+            "BeginOffset": 1988, 
+            "EndOffset": 2004
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9999905228614807, 
+            "Type": "DATE", 
+            "BeginOffset": 2148, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999837875366211, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2159, 
+            "EndOffset": 2164
+        }, 
+        {
+            "Text": "TechCrunch", 
+            "Score": 0.9999949932098389, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2322, 
+            "EndOffset": 2332
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999929666519165, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2341, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "iTerm 2", 
+            "Score": 0.7588311433792114, 
+            "Type": "TITLE", 
+            "BeginOffset": 2910, 
+            "EndOffset": 2917
+        }, 
+        {
+            "Text": "iTerm", 
+            "Score": 0.9999980926513672, 
+            "Type": "TITLE", 
+            "BeginOffset": 3243, 
+            "EndOffset": 3248
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999767541885376, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4030, 
+            "EndOffset": 4035
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.999715268611908, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4096, 
+            "EndOffset": 4101
+        }, 
+        {
+            "Text": "thousands of other sites", 
+            "Score": 0.9997336268424988, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4191, 
+            "EndOffset": 4215
+        }
+    ]
+}

@@ -1,0 +1,754 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Google AutoDraw", 
+            "Score": 0.9971964359283447, 
+            "BeginOffset": 0, 
+            "EndOffset": 15
+        }, 
+        {
+            "Text": "another new case", 
+            "Score": 0.9983888864517212, 
+            "BeginOffset": 56, 
+            "EndOffset": 72
+        }, 
+        {
+            "Text": "hacked home appliances", 
+            "Score": 0.9903063774108887, 
+            "BeginOffset": 76, 
+            "EndOffset": 98
+        }, 
+        {
+            "Text": "routers", 
+            "Score": 0.9633462429046631, 
+            "BeginOffset": 100, 
+            "EndOffset": 107
+        }, 
+        {
+            "Text": "this case", 
+            "Score": 0.9987278580665588, 
+            "BeginOffset": 111, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "sites", 
+            "Score": 0.9274742007255554, 
+            "BeginOffset": 132, 
+            "EndOffset": 137
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9919527769088745, 
+            "BeginOffset": 194, 
+            "EndOffset": 201
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9972972273826599, 
+            "BeginOffset": 218, 
+            "EndOffset": 224
+        }, 
+        {
+            "Text": "Easter", 
+            "Score": 0.9547708034515381, 
+            "BeginOffset": 235, 
+            "EndOffset": 241
+        }, 
+        {
+            "Text": "the fact", 
+            "Score": 0.9962043166160583, 
+            "BeginOffset": 246, 
+            "EndOffset": 254
+        }, 
+        {
+            "Text": "a holiday", 
+            "Score": 0.9980857372283936, 
+            "BeginOffset": 277, 
+            "EndOffset": 286
+        }, 
+        {
+            "Text": "the other side", 
+            "Score": 0.9993472099304199, 
+            "BeginOffset": 290, 
+            "EndOffset": 304
+        }, 
+        {
+            "Text": "the world", 
+            "Score": 0.9992379546165466, 
+            "BeginOffset": 308, 
+            "EndOffset": 317
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9993875026702881, 
+            "BeginOffset": 319, 
+            "EndOffset": 328
+        }, 
+        {
+            "Text": "this same holiday", 
+            "Score": 0.9392896294593811, 
+            "BeginOffset": 357, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "an update", 
+            "Score": 0.9982270002365112, 
+            "BeginOffset": 409, 
+            "EndOffset": 418
+        }, 
+        {
+            "Text": "every week", 
+            "Score": 0.9993137717247009, 
+            "BeginOffset": 419, 
+            "EndOffset": 429
+        }, 
+        {
+            "Text": "GOOGLE AUTODRAW", 
+            "Score": 0.9860345721244812, 
+            "BeginOffset": 481, 
+            "EndOffset": 496
+        }, 
+        {
+            "Text": "an attempt", 
+            "Score": 0.9986302852630615, 
+            "BeginOffset": 502, 
+            "EndOffset": 512
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9980250597000122, 
+            "BeginOffset": 583, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "AutoDraw", 
+            "Score": 0.984693169593811, 
+            "BeginOffset": 603, 
+            "EndOffset": 611
+        }, 
+        {
+            "Text": "AutoDraw", 
+            "Score": 0.9893621802330017, 
+            "BeginOffset": 613, 
+            "EndOffset": 621
+        }, 
+        {
+            "Text": "my scribbles", 
+            "Score": 0.9905681610107422, 
+            "BeginOffset": 646, 
+            "EndOffset": 658
+        }, 
+        {
+            "Text": "my mind", 
+            "Score": 0.9962083697319031, 
+            "BeginOffset": 713, 
+            "EndOffset": 720
+        }, 
+        {
+            "Text": "a square", 
+            "Score": 0.9976250529289246, 
+            "BeginOffset": 735, 
+            "EndOffset": 743
+        }, 
+        {
+            "Text": "a triangle", 
+            "Score": 0.9987844824790955, 
+            "BeginOffset": 749, 
+            "EndOffset": 759
+        }, 
+        {
+            "Text": "top", 
+            "Score": 0.9928136467933655, 
+            "BeginOffset": 763, 
+            "EndOffset": 766
+        }, 
+        {
+            "Text": "a button", 
+            "Score": 0.999248206615448, 
+            "BeginOffset": 780, 
+            "EndOffset": 788
+        }, 
+        {
+            "Text": "a proper house", 
+            "Score": 0.9940447211265564, 
+            "BeginOffset": 810, 
+            "EndOffset": 824
+        }, 
+        {
+            "Text": "the introductory blogpost", 
+            "Score": 0.9984372854232788, 
+            "BeginOffset": 840, 
+            "EndOffset": 865
+        }, 
+        {
+            "Text": "another application", 
+            "Score": 0.9415571093559265, 
+            "BeginOffset": 879, 
+            "EndOffset": 898
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9996606111526489, 
+            "BeginOffset": 902, 
+            "EndOffset": 908
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9890282154083252, 
+            "BeginOffset": 911, 
+            "EndOffset": 915
+        }, 
+        {
+            "Text": "Machine Learning", 
+            "Score": 0.9952555894851685, 
+            "BeginOffset": 919, 
+            "EndOffset": 935
+        }, 
+        {
+            "Text": "their Vision API", 
+            "Score": 0.99656742811203, 
+            "BeginOffset": 960, 
+            "EndOffset": 976
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9994094371795654, 
+            "BeginOffset": 981, 
+            "EndOffset": 987
+        }, 
+        {
+            "Text": "internal equivalent", 
+            "Score": 0.9744674563407898, 
+            "BeginOffset": 990, 
+            "EndOffset": 1009
+        }, 
+        {
+            "Text": "an internal database", 
+            "Score": 0.9996943473815918, 
+            "BeginOffset": 1072, 
+            "EndOffset": 1092
+        }, 
+        {
+            "Text": "artist drawings", 
+            "Score": 0.9999632835388184, 
+            "BeginOffset": 1096, 
+            "EndOffset": 1111
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.6791755557060242, 
+            "BeginOffset": 1131, 
+            "EndOffset": 1134
+        }, 
+        {
+            "Text": "a gimmick", 
+            "Score": 0.6550795435905457, 
+            "BeginOffset": 1142, 
+            "EndOffset": 1151
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9968946576118469, 
+            "BeginOffset": 1156, 
+            "EndOffset": 1162
+        }, 
+        {
+            "Text": "illustration", 
+            "Score": 0.9997203946113586, 
+            "BeginOffset": 1230, 
+            "EndOffset": 1242
+        }, 
+        {
+            "Text": "a mobile device", 
+            "Score": 0.998110294342041, 
+            "BeginOffset": 1246, 
+            "EndOffset": 1261
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9997214078903198, 
+            "BeginOffset": 1275, 
+            "EndOffset": 1280
+        }, 
+        {
+            "Text": "practical use", 
+            "Score": 0.9975557327270508, 
+            "BeginOffset": 1284, 
+            "EndOffset": 1297
+        }, 
+        {
+            "Text": "the exact same images", 
+            "Score": 0.9967275261878967, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1330
+        }, 
+        {
+            "Text": "every time", 
+            "Score": 0.9982729554176331, 
+            "BeginOffset": 1331, 
+            "EndOffset": 1341
+        }, 
+        {
+            "Text": "the other hand", 
+            "Score": 0.9981640577316284, 
+            "BeginOffset": 1346, 
+            "EndOffset": 1360
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.998485803604126, 
+            "BeginOffset": 1367, 
+            "EndOffset": 1373
+        }, 
+        {
+            "Text": "perspective", 
+            "Score": 0.9987500309944153, 
+            "BeginOffset": 1376, 
+            "EndOffset": 1387
+        }, 
+        {
+            "Text": "a great training tool", 
+            "Score": 0.981572151184082, 
+            "BeginOffset": 1406, 
+            "EndOffset": 1427
+        }, 
+        {
+            "Text": "their image recognition models", 
+            "Score": 0.9970309138298035, 
+            "BeginOffset": 1432, 
+            "EndOffset": 1462
+        }, 
+        {
+            "Text": "my drawings", 
+            "Score": 0.9986550211906433, 
+            "BeginOffset": 1484, 
+            "EndOffset": 1495
+        }, 
+        {
+            "Text": "HACKED HOME ROUTERS\n\n\nWordfence", 
+            "Score": 0.962065577507019, 
+            "BeginOffset": 1532, 
+            "EndOffset": 1563
+        }, 
+        {
+            "Text": "a site", 
+            "Score": 0.9984555840492249, 
+            "BeginOffset": 1565, 
+            "EndOffset": 1571
+        }, 
+        {
+            "Text": "Wordpress security", 
+            "Score": 0.989354133605957, 
+            "BeginOffset": 1578, 
+            "EndOffset": 1596
+        }, 
+        {
+            "Text": "a spike", 
+            "Score": 0.9991552829742432, 
+            "BeginOffset": 1604, 
+            "EndOffset": 1611
+        }, 
+        {
+            "Text": "attacks", 
+            "Score": 0.9986366629600525, 
+            "BeginOffset": 1615, 
+            "EndOffset": 1622
+        }, 
+        {
+            "Text": "Algeria", 
+            "Score": 0.9986770153045654, 
+            "BeginOffset": 1628, 
+            "EndOffset": 1635
+        }, 
+        {
+            "Text": "The article", 
+            "Score": 0.9861942529678345, 
+            "BeginOffset": 1673, 
+            "EndOffset": 1684
+        }, 
+        {
+            "Text": "their investigation", 
+            "Score": 0.6443613171577454, 
+            "BeginOffset": 1703, 
+            "EndOffset": 1722
+        }, 
+        {
+            "Text": "a read", 
+            "Score": 0.9277620911598206, 
+            "BeginOffset": 1732, 
+            "EndOffset": 1738
+        }, 
+        {
+            "Text": "a bigger issue", 
+            "Score": 0.9982650279998779, 
+            "BeginOffset": 1802, 
+            "EndOffset": 1816
+        }, 
+        {
+            "Text": "Algeria", 
+            "Score": 0.8390910029411316, 
+            "BeginOffset": 1839, 
+            "EndOffset": 1846
+        }, 
+        {
+            "Text": "a botnets", 
+            "Score": 0.9966468214988708, 
+            "BeginOffset": 1905, 
+            "EndOffset": 1914
+        }, 
+        {
+            "Text": "that abuses", 
+            "Score": 0.990734875202179, 
+            "BeginOffset": 1922, 
+            "EndOffset": 1933
+        }, 
+        {
+            "Text": "router flaws", 
+            "Score": 0.9572839140892029, 
+            "BeginOffset": 1934, 
+            "EndOffset": 1946
+        }, 
+        {
+            "Text": "a tool", 
+            "Score": 0.9475197196006775, 
+            "BeginOffset": 1956, 
+            "EndOffset": 1962
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9930437803268433, 
+            "BeginOffset": 1966, 
+            "EndOffset": 1977
+        }, 
+        {
+            "Text": "an uncommon occurrence", 
+            "Score": 0.9379778504371643, 
+            "BeginOffset": 2049, 
+            "EndOffset": 2071
+        }, 
+        {
+            "Text": "most other bots", 
+            "Score": 0.9540671110153198, 
+            "BeginOffset": 2084, 
+            "EndOffset": 2099
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.9685888290405273, 
+            "BeginOffset": 2100, 
+            "EndOffset": 2108
+        }, 
+        {
+            "Text": "a handful", 
+            "Score": 0.9890326857566833, 
+            "BeginOffset": 2119, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "attempts", 
+            "Score": 0.9579203128814697, 
+            "BeginOffset": 2132, 
+            "EndOffset": 2140
+        }, 
+        {
+            "Text": "a site", 
+            "Score": 0.9992417097091675, 
+            "BeginOffset": 2144, 
+            "EndOffset": 2150
+        }, 
+        {
+            "Text": "hacked router", 
+            "Score": 0.9990585446357727, 
+            "BeginOffset": 2155, 
+            "EndOffset": 2168
+        }, 
+        {
+            "Text": "The advantage", 
+            "Score": 0.9909145832061768, 
+            "BeginOffset": 2170, 
+            "EndOffset": 2183
+        }, 
+        {
+            "Text": "most security systems", 
+            "Score": 0.9948094487190247, 
+            "BeginOffset": 2235, 
+            "EndOffset": 2256
+        }, 
+        {
+            "Text": "volume", 
+            "Score": 0.9984086155891418, 
+            "BeginOffset": 2260, 
+            "EndOffset": 2266
+        }, 
+        {
+            "Text": "regular traffic", 
+            "Score": 0.6916825771331787, 
+            "BeginOffset": 2277, 
+            "EndOffset": 2292
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.9573076367378235, 
+            "BeginOffset": 2293, 
+            "EndOffset": 2295
+        }, 
+        {
+            "Text": "the size", 
+            "Score": 0.8267347812652588, 
+            "BeginOffset": 2310, 
+            "EndOffset": 2318
+        }, 
+        {
+            "Text": "the botnet", 
+            "Score": 0.7736396789550781, 
+            "BeginOffset": 2322, 
+            "EndOffset": 2332
+        }, 
+        {
+            "Text": "WERCKER BOUGHT BY ORACLE", 
+            "Score": 0.939337432384491, 
+            "BeginOffset": 2370, 
+            "EndOffset": 2394
+        }, 
+        {
+            "Text": "this post", 
+            "Score": 0.8121477961540222, 
+            "BeginOffset": 2415, 
+            "EndOffset": 2424
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.987108051776886, 
+            "BeginOffset": 2440, 
+            "EndOffset": 2447
+        }, 
+        {
+            "Text": "my favorite CI/CD tool", 
+            "Score": 0.9089705944061279, 
+            "BeginOffset": 2449, 
+            "EndOffset": 2471
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9816515445709229, 
+            "BeginOffset": 2491, 
+            "EndOffset": 2497
+        }, 
+        {
+            "Text": "this next week", 
+            "Score": 0.9691115021705627, 
+            "BeginOffset": 2526, 
+            "EndOffset": 2540
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9553168416023254, 
+            "BeginOffset": 2556, 
+            "EndOffset": 2560
+        }, 
+        {
+            "Text": "an initial reaction", 
+            "Score": 0.9666048288345337, 
+            "BeginOffset": 2604, 
+            "EndOffset": 2623
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.999530553817749, 
+            "BeginOffset": 2637, 
+            "EndOffset": 2645
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9925938844680786, 
+            "BeginOffset": 2665, 
+            "EndOffset": 2670
+        }, 
+        {
+            "Text": "some good things", 
+            "Score": 0.9928888082504272, 
+            "BeginOffset": 2684, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.994988739490509, 
+            "BeginOffset": 2709, 
+            "EndOffset": 2712
+        }, 
+        {
+            "Text": "The last CI tool", 
+            "Score": 0.9742960929870605, 
+            "BeginOffset": 2749, 
+            "EndOffset": 2765
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9977899789810181, 
+            "BeginOffset": 2771, 
+            "EndOffset": 2777
+        }, 
+        {
+            "Text": "their hands", 
+            "Score": 0.9896694421768188, 
+            "BeginOffset": 2782, 
+            "EndOffset": 2793
+        }, 
+        {
+            "Text": "Hudson", 
+            "Score": 0.9896641373634338, 
+            "BeginOffset": 2801, 
+            "EndOffset": 2807
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9466464519500732, 
+            "BeginOffset": 2848, 
+            "EndOffset": 2855
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9998152256011963, 
+            "BeginOffset": 2886, 
+            "EndOffset": 2892
+        }, 
+        {
+            "Text": "rules", 
+            "Score": 0.9874182343482971, 
+            "BeginOffset": 2895, 
+            "EndOffset": 2900
+        }, 
+        {
+            "Text": "the people", 
+            "Score": 0.9419321417808533, 
+            "BeginOffset": 2938, 
+            "EndOffset": 2948
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9993807673454285, 
+            "BeginOffset": 2952, 
+            "EndOffset": 2959
+        }, 
+        {
+            "Text": "a payday", 
+            "Score": 0.9942836761474609, 
+            "BeginOffset": 2969, 
+            "EndOffset": 2977
+        }, 
+        {
+            "Text": "their hard work", 
+            "Score": 0.9994677901268005, 
+            "BeginOffset": 2982, 
+            "EndOffset": 2997
+        }, 
+        {
+            "Text": "the usual feeling", 
+            "Score": 0.8975305557250977, 
+            "BeginOffset": 3018, 
+            "EndOffset": 3035
+        }, 
+        {
+            "Text": "any company", 
+            "Score": 0.9478326439857483, 
+            "BeginOffset": 3048, 
+            "EndOffset": 3059
+        }, 
+        {
+            "Text": "whose products", 
+            "Score": 0.9989921450614929, 
+            "BeginOffset": 3060, 
+            "EndOffset": 3074
+        }, 
+        {
+            "Text": "alternatives", 
+            "Score": 0.9519016742706299, 
+            "BeginOffset": 3128, 
+            "EndOffset": 3140
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9977359771728516, 
+            "BeginOffset": 3143, 
+            "EndOffset": 3145
+        }, 
+        {
+            "Text": "[2", 
+            "Score": 0.8404383659362793, 
+            "BeginOffset": 3166, 
+            "EndOffset": 3168
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.9656919240951538, 
+            "BeginOffset": 3180, 
+            "EndOffset": 3191
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.8624107241630554, 
+            "BeginOffset": 3234, 
+            "EndOffset": 3242
+        }, 
+        {
+            "Text": "attempts", 
+            "Score": 0.9776579737663269, 
+            "BeginOffset": 3246, 
+            "EndOffset": 3254
+        }, 
+        {
+            "Text": "a single IP", 
+            "Score": 0.6273504495620728, 
+            "BeginOffset": 3260, 
+            "EndOffset": 3271
+        }, 
+        {
+            "Text": "any flags", 
+            "Score": 0.9939732551574707, 
+            "BeginOffset": 3292, 
+            "EndOffset": 3301
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9998056888580322, 
+            "BeginOffset": 3304, 
+            "EndOffset": 3307
+        }, 
+        {
+            "Text": "rumors", 
+            "Score": 0.8002496957778931, 
+            "BeginOffset": 3335, 
+            "EndOffset": 3341
+        }, 
+        {
+            "Text": "no more updates", 
+            "Score": 0.994293749332428, 
+            "BeginOffset": 3347, 
+            "EndOffset": 3362
+        }, 
+        {
+            "Text": "my hope", 
+            "Score": 0.9936833381652832, 
+            "BeginOffset": 3392, 
+            "EndOffset": 3399
+        }, 
+        {
+            "Text": "integration", 
+            "Score": 0.9833414554595947, 
+            "BeginOffset": 3420, 
+            "EndOffset": 3431
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9989795684814453, 
+            "BeginOffset": 3437, 
+            "EndOffset": 3440
+        }, 
+        {
+            "Text": "the next release", 
+            "Score": 0.9957029223442078, 
+            "BeginOffset": 3474, 
+            "EndOffset": 3490
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "Entities": [
+        {
+            "Text": "Kubecon", 
+            "Score": 0.4454554617404938, 
+            "Type": "PERSON", 
+            "BeginOffset": 0, 
+            "EndOffset": 7
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.48869550228118896, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 598, 
+            "EndOffset": 608
+        }, 
+        {
+            "Text": "StackPointCloud", 
+            "Score": 0.9997285008430481, 
+            "Type": "TITLE", 
+            "BeginOffset": 1060, 
+            "EndOffset": 1075
+        }, 
+        {
+            "Text": "KASHTI\n\n\nAzure", 
+            "Score": 0.998064398765564, 
+            "Type": "TITLE", 
+            "BeginOffset": 1118, 
+            "EndOffset": 1132
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999154806137085, 
+            "Type": "TITLE", 
+            "BeginOffset": 1166, 
+            "EndOffset": 1176
+        }, 
+        {
+            "Text": "ACI", 
+            "Score": 0.9999990463256836, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1183, 
+            "EndOffset": 1186
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.44105619192123413, 
+            "Type": "TITLE", 
+            "BeginOffset": 1188, 
+            "EndOffset": 1193
+        }, 
+        {
+            "Text": "first major cloud provider", 
+            "Score": 0.8791272044181824, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1202, 
+            "EndOffset": 1228
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.999339759349823, 
+            "Type": "DATE", 
+            "BeginOffset": 1278, 
+            "EndOffset": 1287
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9996223449707031, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1289, 
+            "EndOffset": 1292
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999734163284302, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1323, 
+            "EndOffset": 1328
+        }, 
+        {
+            "Text": "Virtual Kubelet", 
+            "Score": 0.9994792938232422, 
+            "Type": "TITLE", 
+            "BeginOffset": 1399, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999808073043823, 
+            "Type": "TITLE", 
+            "BeginOffset": 1489, 
+            "EndOffset": 1499
+        }, 
+        {
+            "Text": "ACI", 
+            "Score": 0.9999971389770508, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1536, 
+            "EndOffset": 1539
+        }, 
+        {
+            "Text": "Hyper", 
+            "Score": 0.9999364614486694, 
+            "Type": "TITLE", 
+            "BeginOffset": 1575, 
+            "EndOffset": 1580
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9998760223388672, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1636, 
+            "EndOffset": 1639
+        }, 
+        {
+            "Text": "Fargate", 
+            "Score": 0.9998766183853149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1699, 
+            "EndOffset": 1706
+        }, 
+        {
+            "Text": "EKS", 
+            "Score": 0.49332094192504883, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1712, 
+            "EndOffset": 1715
+        }, 
+        {
+            "Text": "Open Service Broker", 
+            "Score": 0.7952510714530945, 
+            "Type": "TITLE", 
+            "BeginOffset": 1741, 
+            "EndOffset": 1760
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9726415276527405, 
+            "Type": "TITLE", 
+            "BeginOffset": 1765, 
+            "EndOffset": 1770
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999853372573853, 
+            "Type": "TITLE", 
+            "BeginOffset": 1815, 
+            "EndOffset": 1820
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999816417694092, 
+            "Type": "TITLE", 
+            "BeginOffset": 1843, 
+            "EndOffset": 1853
+        }, 
+        {
+            "Text": "third tool", 
+            "Score": 0.9999542236328125, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2062, 
+            "EndOffset": 2072
+        }, 
+        {
+            "Text": "Kashti", 
+            "Score": 0.9999887943267822, 
+            "Type": "PERSON", 
+            "BeginOffset": 2122, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "3 languages", 
+            "Score": 0.9999973773956299, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2722, 
+            "EndOffset": 2733
+        }, 
+        {
+            "Text": "JavaScript", 
+            "Score": 0.9999970197677612, 
+            "Type": "TITLE", 
+            "BeginOffset": 2761, 
+            "EndOffset": 2771
+        }, 
+        {
+            "Text": "Node", 
+            "Score": 0.9999929666519165, 
+            "Type": "TITLE", 
+            "BeginOffset": 2772, 
+            "EndOffset": 2776
+        }, 
+        {
+            "Text": "Java", 
+            "Score": 0.9528001546859741, 
+            "Type": "TITLE", 
+            "BeginOffset": 2778, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999356269836426, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2893, 
+            "EndOffset": 2897
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9998589754104614, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3059, 
+            "EndOffset": 3062
+        }
+    ]
+}

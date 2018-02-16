@@ -1,0 +1,562 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Docker", 
+            "Score": 0.9909601211547852, 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "containerd and Google", 
+            "Score": 0.9123491644859314, 
+            "BeginOffset": 15, 
+            "EndOffset": 36
+        }, 
+        {
+            "Text": "a new image compression technique", 
+            "Score": 0.9938012361526489, 
+            "BeginOffset": 48, 
+            "EndOffset": 81
+        }, 
+        {
+            "Text": "Another short one", 
+            "Score": 0.9475798606872559, 
+            "BeginOffset": 83, 
+            "EndOffset": 100
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9956669211387634, 
+            "BeginOffset": 101, 
+            "EndOffset": 110
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9921789765357971, 
+            "BeginOffset": 148, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9860000610351562, 
+            "BeginOffset": 166, 
+            "EndOffset": 174
+        }, 
+        {
+            "Text": "the news", 
+            "Score": 0.9982001781463623, 
+            "BeginOffset": 185, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "news", 
+            "Score": 0.8824601173400879, 
+            "BeginOffset": 237, 
+            "EndOffset": 241
+        }, 
+        {
+            "Text": "a side note", 
+            "Score": 0.9041102528572083, 
+            "BeginOffset": 273, 
+            "EndOffset": 284
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9980487823486328, 
+            "BeginOffset": 286, 
+            "EndOffset": 295
+        }, 
+        {
+            "Text": "enough attention", 
+            "Score": 0.9989848136901855, 
+            "BeginOffset": 324, 
+            "EndOffset": 340
+        }, 
+        {
+            "Text": "Google Cloud", 
+            "Score": 0.9963271021842957, 
+            "BeginOffset": 344, 
+            "EndOffset": 356
+        }, 
+        {
+            "Text": "a couple days", 
+            "Score": 0.8413676619529724, 
+            "BeginOffset": 373, 
+            "EndOffset": 386
+        }, 
+        {
+            "Text": "next week", 
+            "Score": 0.8518111109733582, 
+            "BeginOffset": 421, 
+            "EndOffset": 430
+        }, 
+        {
+            "Text": "a conference", 
+            "Score": 0.9991509914398193, 
+            "BeginOffset": 441, 
+            "EndOffset": 453
+        }, 
+        {
+            "Text": "Melbourne", 
+            "Score": 0.9927834868431091, 
+            "BeginOffset": 462, 
+            "EndOffset": 471
+        }, 
+        {
+            "Text": "a write", 
+            "Score": 0.9386352300643921, 
+            "BeginOffset": 551, 
+            "EndOffset": 558
+        }, 
+        {
+            "Text": "DOCKER DONATES CONTAINERD", 
+            "Score": 0.9476497769355774, 
+            "BeginOffset": 572, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "my last note", 
+            "Score": 0.9986395835876465, 
+            "BeginOffset": 603, 
+            "EndOffset": 615
+        }, 
+        {
+            "Text": "2016", 
+            "Score": 0.9994199872016907, 
+            "BeginOffset": 619, 
+            "EndOffset": 623
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9839054346084595, 
+            "BeginOffset": 642, 
+            "EndOffset": 648
+        }, 
+        {
+            "Text": "containerd", 
+            "Score": 0.8498914837837219, 
+            "BeginOffset": 658, 
+            "EndOffset": 668
+        }, 
+        {
+            "Text": "its own project", 
+            "Score": 0.9993189573287964, 
+            "BeginOffset": 674, 
+            "EndOffset": 689
+        }, 
+        {
+            "Text": "the next step", 
+            "Score": 0.9941875338554382, 
+            "BeginOffset": 719, 
+            "EndOffset": 732
+        }, 
+        {
+            "Text": "this process", 
+            "Score": 0.9988927245140076, 
+            "BeginOffset": 736, 
+            "EndOffset": 748
+        }, 
+        {
+            "Text": "the Cloud Native Computing Foundation", 
+            "Score": 0.9976746439933777, 
+            "BeginOffset": 767, 
+            "EndOffset": 804
+        }, 
+        {
+            "Text": "bureaucracy", 
+            "Score": 0.7591239213943481, 
+            "BeginOffset": 840, 
+            "EndOffset": 851
+        }, 
+        {
+            "Text": "its time", 
+            "Score": 0.9986623525619507, 
+            "BeginOffset": 863, 
+            "EndOffset": 871
+        }, 
+        {
+            "Text": "the core basis", 
+            "Score": 0.9988027215003967, 
+            "BeginOffset": 911, 
+            "EndOffset": 925
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9998323917388916, 
+            "BeginOffset": 929, 
+            "EndOffset": 939
+        }, 
+        {
+            "Text": "a standard", 
+            "Score": 0.9875369071960449, 
+            "BeginOffset": 943, 
+            "EndOffset": 953
+        }, 
+        {
+            "Text": "an independent party", 
+            "Score": 0.9980276823043823, 
+            "BeginOffset": 966, 
+            "EndOffset": 986
+        }, 
+        {
+            "Text": "The obvious benefit", 
+            "Score": 0.9994274377822876, 
+            "BeginOffset": 988, 
+            "EndOffset": 1007
+        }, 
+        {
+            "Text": "compatibility", 
+            "Score": 0.9630830883979797, 
+            "BeginOffset": 1020, 
+            "EndOffset": 1033
+        }, 
+        {
+            "Text": "different projects", 
+            "Score": 0.9919389486312866, 
+            "BeginOffset": 1042, 
+            "EndOffset": 1060
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9995168447494507, 
+            "BeginOffset": 1070, 
+            "EndOffset": 1076
+        }, 
+        {
+            "Text": "the same basic container structure", 
+            "Score": 0.9962911009788513, 
+            "BeginOffset": 1108, 
+            "EndOffset": 1142
+        }, 
+        {
+            "Text": "the hood", 
+            "Score": 0.9920156598091125, 
+            "BeginOffset": 1149, 
+            "EndOffset": 1157
+        }, 
+        {
+            "Text": "less chance", 
+            "Score": 0.9970223307609558, 
+            "BeginOffset": 1169, 
+            "EndOffset": 1180
+        }, 
+        {
+            "Text": "a single company", 
+            "Score": 0.9989907741546631, 
+            "BeginOffset": 1202, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "a fair bit", 
+            "Score": 0.9909999370574951, 
+            "BeginOffset": 1237, 
+            "EndOffset": 1247
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9855838418006897, 
+            "BeginOffset": 1262, 
+            "EndOffset": 1271
+        }, 
+        {
+            "Text": "article", 
+            "Score": 0.999409556388855, 
+            "BeginOffset": 1274, 
+            "EndOffset": 1281
+        }, 
+        {
+            "Text": "this progressing", 
+            "Score": 0.9991803169250488, 
+            "BeginOffset": 1358, 
+            "EndOffset": 1374
+        }, 
+        {
+            "Text": "GOOGLE", 
+            "Score": 0.97928786277771, 
+            "BeginOffset": 1379, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "JPEG COMPRESSION\n\n\nGoogle", 
+            "Score": 0.9360100626945496, 
+            "BeginOffset": 1388, 
+            "EndOffset": 1413
+        }, 
+        {
+            "Text": "better and smaller image formats", 
+            "Score": 0.9663079977035522, 
+            "BeginOffset": 1443, 
+            "EndOffset": 1475
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9826324582099915, 
+            "BeginOffset": 1480, 
+            "EndOffset": 1487
+        }, 
+        {
+            "Text": "The benefits", 
+            "Score": 0.9926469326019287, 
+            "BeginOffset": 1493, 
+            "EndOffset": 1505
+        }, 
+        {
+            "Text": "general", 
+            "Score": 0.9988072514533997, 
+            "BeginOffset": 1509, 
+            "EndOffset": 1516
+        }, 
+        {
+            "Text": "smaller images", 
+            "Score": 0.9867640137672424, 
+            "BeginOffset": 1530, 
+            "EndOffset": 1544
+        }, 
+        {
+            "Text": "less traffic", 
+            "Score": 0.985190749168396, 
+            "BeginOffset": 1550, 
+            "EndOffset": 1562
+        }, 
+        {
+            "Text": "a company", 
+            "Score": 0.8611509799957275, 
+            "BeginOffset": 1572, 
+            "EndOffset": 1581
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9994757771492004, 
+            "BeginOffset": 1587, 
+            "EndOffset": 1593
+        }, 
+        {
+            "Text": "large amounts", 
+            "Score": 0.9850573539733887, 
+            "BeginOffset": 1607, 
+            "EndOffset": 1620
+        }, 
+        {
+            "Text": "data", 
+            "Score": 0.9988831281661987, 
+            "BeginOffset": 1624, 
+            "EndOffset": 1628
+        }, 
+        {
+            "Text": "any small saving", 
+            "Score": 0.8804208040237427, 
+            "BeginOffset": 1629, 
+            "EndOffset": 1645
+        }, 
+        {
+            "Text": "Their main attempt", 
+            "Score": 0.8616360425949097, 
+            "BeginOffset": 1667, 
+            "EndOffset": 1685
+        }, 
+        {
+            "Text": "the WebP format", 
+            "Score": 0.9972772598266602, 
+            "BeginOffset": 1708, 
+            "EndOffset": 1723
+        }, 
+        {
+            "Text": "a completely new image format", 
+            "Score": 0.9911784529685974, 
+            "BeginOffset": 1725, 
+            "EndOffset": 1754
+        }, 
+        {
+            "Text": "Adoption", 
+            "Score": 0.9954924583435059, 
+            "BeginOffset": 1756, 
+            "EndOffset": 1764
+        }, 
+        {
+            "Text": "the least", 
+            "Score": 0.9183310866355896, 
+            "BeginOffset": 1802, 
+            "EndOffset": 1811
+        }, 
+        {
+            "Text": "Chrome and Opera", 
+            "Score": 0.883087694644928, 
+            "BeginOffset": 1846, 
+            "EndOffset": 1862
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.6077921986579895, 
+            "BeginOffset": 1863, 
+            "EndOffset": 1865
+        }, 
+        {
+            "Text": "only a part", 
+            "Score": 0.9110502004623413, 
+            "BeginOffset": 1881, 
+            "EndOffset": 1892
+        }, 
+        {
+            "Text": "your visitors", 
+            "Score": 0.8846327066421509, 
+            "BeginOffset": 1896, 
+            "EndOffset": 1909
+        }, 
+        {
+            "Text": "the image format", 
+            "Score": 0.9992386102676392, 
+            "BeginOffset": 1918, 
+            "EndOffset": 1934
+        }, 
+        {
+            "Text": "a single image", 
+            "Score": 0.9893990755081177, 
+            "BeginOffset": 1960, 
+            "EndOffset": 1974
+        }, 
+        {
+            "Text": "This time", 
+            "Score": 0.9985061287879944, 
+            "BeginOffset": 1999, 
+            "EndOffset": 2008
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9832912683486938, 
+            "BeginOffset": 2018, 
+            "EndOffset": 2024
+        }, 
+        {
+            "Text": "a new compression technique", 
+            "Score": 0.8668623566627502, 
+            "BeginOffset": 2038, 
+            "EndOffset": 2065
+        }, 
+        {
+            "Text": "JPEG", 
+            "Score": 0.9995700120925903, 
+            "BeginOffset": 2070, 
+            "EndOffset": 2074
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9954643249511719, 
+            "BeginOffset": 2113, 
+            "EndOffset": 2122
+        }, 
+        {
+            "Text": "a method", 
+            "Score": 0.9860369563102722, 
+            "BeginOffset": 2128, 
+            "EndOffset": 2136
+        }, 
+        {
+            "Text": "every browser", 
+            "Score": 0.9938769340515137, 
+            "BeginOffset": 2151, 
+            "EndOffset": 2164
+        }, 
+        {
+            "Text": "much drawbacks", 
+            "Score": 0.9904503226280212, 
+            "BeginOffset": 2173, 
+            "EndOffset": 2187
+        }, 
+        {
+            "Text": "a slightly slower compression", 
+            "Score": 0.8625268340110779, 
+            "BeginOffset": 2200, 
+            "EndOffset": 2229
+        }, 
+        {
+            "Text": "the images", 
+            "Score": 0.8258212208747864, 
+            "BeginOffset": 2285, 
+            "EndOffset": 2295
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9918668866157532, 
+            "BeginOffset": 2338, 
+            "EndOffset": 2344
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9895156621932983, 
+            "BeginOffset": 2416, 
+            "EndOffset": 2432
+        }, 
+        {
+            "Text": "a sizable database", 
+            "Score": 0.9997408986091614, 
+            "BeginOffset": 2463, 
+            "EndOffset": 2481
+        }, 
+        {
+            "Text": "photos people", 
+            "Score": 0.9995807409286499, 
+            "BeginOffset": 2485, 
+            "EndOffset": 2498
+        }, 
+        {
+            "Text": "the expectation", 
+            "Score": 0.9467396140098572, 
+            "BeginOffset": 2513, 
+            "EndOffset": 2528
+        }, 
+        {
+            "Text": "a perfect set", 
+            "Score": 0.9380122423171997, 
+            "BeginOffset": 2573, 
+            "EndOffset": 2586
+        }, 
+        {
+            "Text": "training data", 
+            "Score": 0.9530937671661377, 
+            "BeginOffset": 2590, 
+            "EndOffset": 2603
+        }, 
+        {
+            "Text": "sense", 
+            "Score": 0.9938299059867859, 
+            "BeginOffset": 2668, 
+            "EndOffset": 2673
+        }, 
+        {
+            "Text": "the algorithm", 
+            "Score": 0.9986391067504883, 
+            "BeginOffset": 2707, 
+            "EndOffset": 2720
+        }, 
+        {
+            "Text": "these photos", 
+            "Score": 0.9973673820495605, 
+            "BeginOffset": 2731, 
+            "EndOffset": 2743
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9980790019035339, 
+            "BeginOffset": 2747, 
+            "EndOffset": 2752
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9949960708618164, 
+            "BeginOffset": 2779, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "their website", 
+            "Score": 0.634731650352478, 
+            "BeginOffset": 2799, 
+            "EndOffset": 2812
+        }, 
+        {
+            "Text": "Firefox", 
+            "Score": 0.9994770884513855, 
+            "BeginOffset": 2838, 
+            "EndOffset": 2845
+        }
+    ]
+}

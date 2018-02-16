@@ -1,0 +1,664 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Both Docker and Kubernetes", 
+            "Score": 0.9764600992202759, 
+            "BeginOffset": 0, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "interesting releases", 
+            "Score": 0.9796962738037109, 
+            "BeginOffset": 31, 
+            "EndOffset": 51
+        }, 
+        {
+            "Text": "a free workshop", 
+            "Score": 0.9823608994483948, 
+            "BeginOffset": 59, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "Go tooling", 
+            "Score": 0.9868913292884827, 
+            "BeginOffset": 79, 
+            "EndOffset": 89
+        }, 
+        {
+            "Text": "DOCKER 17.06 CE", 
+            "Score": 0.9216882586479187, 
+            "BeginOffset": 113, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "the new naming scheme", 
+            "Score": 0.9978809356689453, 
+            "BeginOffset": 137, 
+            "EndOffset": 158
+        }, 
+        {
+            "Text": "year", 
+            "Score": 0.9691100120544434, 
+            "BeginOffset": 162, 
+            "EndOffset": 166
+        }, 
+        {
+            "Text": "month", 
+            "Score": 0.7669273018836975, 
+            "BeginOffset": 167, 
+            "EndOffset": 172
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9961698651313782, 
+            "BeginOffset": 174, 
+            "EndOffset": 180
+        }, 
+        {
+            "Text": "version 17.06 CE", 
+            "Score": 0.9392693042755127, 
+            "BeginOffset": 190, 
+            "EndOffset": 206
+        }, 
+        {
+            "Text": "Community Edition", 
+            "Score": 0.9968200325965881, 
+            "BeginOffset": 207, 
+            "EndOffset": 224
+        }, 
+        {
+            "Text": "This version", 
+            "Score": 0.9993214011192322, 
+            "BeginOffset": 227, 
+            "EndOffset": 239
+        }, 
+        {
+            "Text": "the things", 
+            "Score": 0.9997000694274902, 
+            "BeginOffset": 257, 
+            "EndOffset": 267
+        }, 
+        {
+            "Text": "DockerCon", 
+            "Score": 0.9983860850334167, 
+            "BeginOffset": 281, 
+            "EndOffset": 290
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9970139265060425, 
+            "BeginOffset": 318, 
+            "EndOffset": 326
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.8817298412322998, 
+            "BeginOffset": 357, 
+            "EndOffset": 365
+        }, 
+        {
+            "Text": "an organization perspective", 
+            "Score": 0.977012038230896, 
+            "BeginOffset": 388, 
+            "EndOffset": 415
+        }, 
+        {
+            "Text": "the first", 
+            "Score": 0.947048008441925, 
+            "BeginOffset": 455, 
+            "EndOffset": 464
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9336675405502319, 
+            "BeginOffset": 489, 
+            "EndOffset": 493
+        }, 
+        {
+            "Text": "the renamed and open sourced base", 
+            "Score": 0.8946272134780884, 
+            "BeginOffset": 495, 
+            "EndOffset": 528
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9939888715744019, 
+            "BeginOffset": 532, 
+            "EndOffset": 538
+        }, 
+        {
+            "Text": "the initial struggles", 
+            "Score": 0.8237162828445435, 
+            "BeginOffset": 562, 
+            "EndOffset": 583
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.8298243880271912, 
+            "BeginOffset": 584, 
+            "EndOffset": 586
+        }, 
+        {
+            "Text": "that move", 
+            "Score": 0.921156108379364, 
+            "BeginOffset": 588, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "my opinion", 
+            "Score": 0.9963372945785522, 
+            "BeginOffset": 622, 
+            "EndOffset": 632
+        }, 
+        {
+            "Text": "the single most important part", 
+            "Score": 0.9826878309249878, 
+            "BeginOffset": 641, 
+            "EndOffset": 671
+        }, 
+        {
+            "Text": "this release", 
+            "Score": 0.9992281794548035, 
+            "BeginOffset": 675, 
+            "EndOffset": 687
+        }, 
+        {
+            "Text": "multi-stage builds", 
+            "Score": 0.9842957854270935, 
+            "BeginOffset": 708, 
+            "EndOffset": 726
+        }, 
+        {
+            "Text": "a stable released version", 
+            "Score": 0.9909038543701172, 
+            "BeginOffset": 730, 
+            "EndOffset": 755
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9912331700325012, 
+            "BeginOffset": 759, 
+            "EndOffset": 765
+        }, 
+        {
+            "Text": "production", 
+            "Score": 0.9915401935577393, 
+            "BeginOffset": 790, 
+            "EndOffset": 800
+        }, 
+        {
+            "Text": "case", 
+            "Score": 0.9952200055122375, 
+            "BeginOffset": 805, 
+            "EndOffset": 809
+        }, 
+        {
+            "Text": "a refresher, multi-stage builds", 
+            "Score": 0.949982762336731, 
+            "BeginOffset": 819, 
+            "EndOffset": 850
+        }, 
+        {
+            "Text": "multiple FROM statements", 
+            "Score": 0.9888119697570801, 
+            "BeginOffset": 874, 
+            "EndOffset": 898
+        }, 
+        {
+            "Text": "a single Dockerfile", 
+            "Score": 0.998805046081543, 
+            "BeginOffset": 902, 
+            "EndOffset": 921
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.9994016885757446, 
+            "BeginOffset": 934, 
+            "EndOffset": 941
+        }, 
+        {
+            "Text": "a container", 
+            "Score": 0.7937914133071899, 
+            "BeginOffset": 958, 
+            "EndOffset": 969
+        }, 
+        {
+            "Text": "and/or packaging", 
+            "Score": 0.8186548948287964, 
+            "BeginOffset": 984, 
+            "EndOffset": 1000
+        }, 
+        {
+            "Text": "your software", 
+            "Score": 0.9394701719284058, 
+            "BeginOffset": 1001, 
+            "EndOffset": 1014
+        }, 
+        {
+            "Text": "a smaller, leaner, one", 
+            "Score": 0.8593021035194397, 
+            "BeginOffset": 1024, 
+            "EndOffset": 1046
+        }, 
+        {
+            "Text": "The obvious use cases", 
+            "Score": 0.9856135845184326, 
+            "BeginOffset": 1064, 
+            "EndOffset": 1085
+        }, 
+        {
+            "Text": "compiled languages", 
+            "Score": 0.9874005317687988, 
+            "BeginOffset": 1104, 
+            "EndOffset": 1122
+        }, 
+        {
+            "Text": "Java or Go", 
+            "Score": 0.9376686811447144, 
+            "BeginOffset": 1131, 
+            "EndOffset": 1141
+        }, 
+        {
+            "Text": "your web applications", 
+            "Score": 0.9988697171211243, 
+            "BeginOffset": 1179, 
+            "EndOffset": 1200
+        }, 
+        {
+            "Text": "CI/CD chain", 
+            "Score": 0.8934353590011597, 
+            "BeginOffset": 1201, 
+            "EndOffset": 1212
+        }, 
+        {
+            "Text": "SASS[2]", 
+            "Score": 0.9278361797332764, 
+            "BeginOffset": 1244, 
+            "EndOffset": 1251
+        }, 
+        {
+            "Text": "your front end assets", 
+            "Score": 0.9885836839675903, 
+            "BeginOffset": 1266, 
+            "EndOffset": 1287
+        }, 
+        {
+            "Text": "the less code and applications", 
+            "Score": 0.8694301247596741, 
+            "BeginOffset": 1300, 
+            "EndOffset": 1330
+        }, 
+        {
+            "Text": "your container", 
+            "Score": 0.9953818321228027, 
+            "BeginOffset": 1343, 
+            "EndOffset": 1357
+        }, 
+        {
+            "Text": "the smaller any possible attack vector", 
+            "Score": 0.8337029218673706, 
+            "BeginOffset": 1359, 
+            "EndOffset": 1397
+        }, 
+        {
+            "Text": "the usual benefits", 
+            "Score": 0.8871958255767822, 
+            "BeginOffset": 1413, 
+            "EndOffset": 1431
+        }, 
+        {
+            "Text": "a smaller image", 
+            "Score": 0.998197615146637, 
+            "BeginOffset": 1437, 
+            "EndOffset": 1452
+        }, 
+        {
+            "Text": "a deployment", 
+            "Score": 0.9988635778427124, 
+            "BeginOffset": 1469, 
+            "EndOffset": 1481
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9973869919776917, 
+            "BeginOffset": 1494, 
+            "EndOffset": 1500
+        }, 
+        {
+            "Text": "other improvements", 
+            "Score": 0.9919257164001465, 
+            "BeginOffset": 1504, 
+            "EndOffset": 1522
+        }, 
+        {
+            "Text": "this release", 
+            "Score": 0.9993345737457275, 
+            "BeginOffset": 1526, 
+            "EndOffset": 1538
+        }, 
+        {
+            "Text": "the release notes", 
+            "Score": 0.9979077577590942, 
+            "BeginOffset": 1577, 
+            "EndOffset": 1594
+        }, 
+        {
+            "Text": "the 8 minute video", 
+            "Score": 0.9579145908355713, 
+            "BeginOffset": 1628, 
+            "EndOffset": 1646
+        }, 
+        {
+            "Text": "a good summary", 
+            "Score": 0.989484429359436, 
+            "BeginOffset": 1676, 
+            "EndOffset": 1690
+        }, 
+        {
+            "Text": "KUBERNETES 1.7\n\n\nKubernetes", 
+            "Score": 0.9219459891319275, 
+            "BeginOffset": 1695, 
+            "EndOffset": 1722
+        }, 
+        {
+            "Text": "a new release", 
+            "Score": 0.9819343090057373, 
+            "BeginOffset": 1732, 
+            "EndOffset": 1745
+        }, 
+        {
+            "Text": "version 1.7", 
+            "Score": 0.9393500089645386, 
+            "BeginOffset": 1747, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "a single aspect", 
+            "Score": 0.9912483096122742, 
+            "BeginOffset": 1787, 
+            "EndOffset": 1802
+        }, 
+        {
+            "Text": "the new release", 
+            "Score": 0.9995709657669067, 
+            "BeginOffset": 1806, 
+            "EndOffset": 1821
+        }, 
+        {
+            "Text": "secret encryption", 
+            "Score": 0.9984602928161621, 
+            "BeginOffset": 1823, 
+            "EndOffset": 1840
+        }, 
+        {
+            "Text": "alpha", 
+            "Score": 0.9912446737289429, 
+            "BeginOffset": 1859, 
+            "EndOffset": 1864
+        }, 
+        {
+            "Text": "a useful and important addition", 
+            "Score": 0.925853431224823, 
+            "BeginOffset": 1870, 
+            "EndOffset": 1901
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9900736212730408, 
+            "BeginOffset": 1905, 
+            "EndOffset": 1915
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.982107937335968, 
+            "BeginOffset": 1931, 
+            "EndOffset": 1938
+        }, 
+        {
+            "Text": "1.8", 
+            "Score": 0.9886536598205566, 
+            "BeginOffset": 1963, 
+            "EndOffset": 1966
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.9738590121269226, 
+            "BeginOffset": 2063, 
+            "EndOffset": 2070
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.9966796636581421, 
+            "BeginOffset": 2087, 
+            "EndOffset": 2089
+        }, 
+        {
+            "Text": "an EncryptionConfig yaml file", 
+            "Score": 0.9689969420433044, 
+            "BeginOffset": 2117, 
+            "EndOffset": 2146
+        }, 
+        {
+            "Text": "the encryption/decryption providers", 
+            "Score": 0.9654281735420227, 
+            "BeginOffset": 2161, 
+            "EndOffset": 2196
+        }, 
+        {
+            "Text": "The first provider", 
+            "Score": 0.9990279674530029, 
+            "BeginOffset": 2198, 
+            "EndOffset": 2216
+        }, 
+        {
+            "Text": "this _ordered_ list", 
+            "Score": 0.9949055910110474, 
+            "BeginOffset": 2220, 
+            "EndOffset": 2239
+        }, 
+        {
+            "Text": "decryption", 
+            "Score": 0.9748150110244751, 
+            "BeginOffset": 2275, 
+            "EndOffset": 2285
+        }, 
+        {
+            "Text": "the others", 
+            "Score": 0.8036230802536011, 
+            "BeginOffset": 2286, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "order", 
+            "Score": 0.9824829697608948, 
+            "BeginOffset": 2312, 
+            "EndOffset": 2317
+        }, 
+        {
+            "Text": "Per provider", 
+            "Score": 0.9536892175674438, 
+            "BeginOffset": 2327, 
+            "EndOffset": 2339
+        }, 
+        {
+            "Text": "multiple keys", 
+            "Score": 0.8517221212387085, 
+            "BeginOffset": 2361, 
+            "EndOffset": 2374
+        }, 
+        {
+            "Text": "order", 
+            "Score": 0.9947889447212219, 
+            "BeginOffset": 2402, 
+            "EndOffset": 2407
+        }, 
+        {
+            "Text": "The secrets", 
+            "Score": 0.9903390407562256, 
+            "BeginOffset": 2410, 
+            "EndOffset": 2421
+        }, 
+        {
+            "Text": "etcd", 
+            "Score": 0.9967638850212097, 
+            "BeginOffset": 2436, 
+            "EndOffset": 2440
+        }, 
+        {
+            "Text": "an encrypted manner", 
+            "Score": 0.9082028865814209, 
+            "BeginOffset": 2466, 
+            "EndOffset": 2485
+        }, 
+        {
+            "Text": "The config key", 
+            "Score": 0.9991986155509949, 
+            "BeginOffset": 2487, 
+            "EndOffset": 2501
+        }, 
+        {
+            "Text": "the secrets", 
+            "Score": 0.9965066313743591, 
+            "BeginOffset": 2513, 
+            "EndOffset": 2524
+        }, 
+        {
+            "Text": "the master nodes", 
+            "Score": 0.9968143701553345, 
+            "BeginOffset": 2538, 
+            "EndOffset": 2554
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9501855969429016, 
+            "BeginOffset": 2591, 
+            "EndOffset": 2597
+        }, 
+        {
+            "Text": "GOLANG TOOLING", 
+            "Score": 0.8861791491508484, 
+            "BeginOffset": 2621, 
+            "EndOffset": 2635
+        }, 
+        {
+            "Text": "a talk", 
+            "Score": 0.8756871223449707, 
+            "BeginOffset": 2656, 
+            "EndOffset": 2662
+        }, 
+        {
+            "Text": "this subject", 
+            "Score": 0.9948678016662598, 
+            "BeginOffset": 2666, 
+            "EndOffset": 2678
+        }, 
+        {
+            "Text": "Francesc Campoy", 
+            "Score": 0.9952421188354492, 
+            "BeginOffset": 2680, 
+            "EndOffset": 2695
+        }, 
+        {
+            "Text": "a GitHub repo", 
+            "Score": 0.9985167384147644, 
+            "BeginOffset": 2704, 
+            "EndOffset": 2717
+        }, 
+        {
+            "Text": "a workshop", 
+            "Score": 0.9940686225891113, 
+            "BeginOffset": 2722, 
+            "EndOffset": 2732
+        }, 
+        {
+            "Text": "tooling", 
+            "Score": 0.9912290573120117, 
+            "BeginOffset": 2736, 
+            "EndOffset": 2743
+        }, 
+        {
+            "Text": "useful tools", 
+            "Score": 0.595971405506134, 
+            "BeginOffset": 2822, 
+            "EndOffset": 2834
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9883701205253601, 
+            "BeginOffset": 2856, 
+            "EndOffset": 2862
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9992130994796753, 
+            "BeginOffset": 2938, 
+            "EndOffset": 2943
+        }, 
+        {
+            "Text": "your skill level", 
+            "Score": 0.9978615045547485, 
+            "BeginOffset": 3010, 
+            "EndOffset": 3026
+        }, 
+        {
+            "Text": "that way", 
+            "Score": 0.9495909810066223, 
+            "BeginOffset": 3115, 
+            "EndOffset": 3123
+        }, 
+        {
+            "Text": "someone else", 
+            "Score": 0.8694729804992676, 
+            "BeginOffset": 3143, 
+            "EndOffset": 3155
+        }, 
+        {
+            "Text": "[1] People", 
+            "Score": 0.9666303992271423, 
+            "BeginOffset": 3177, 
+            "EndOffset": 3187
+        }, 
+        {
+            "Text": "all the repos", 
+            "Score": 0.9980993270874023, 
+            "BeginOffset": 3227, 
+            "EndOffset": 3240
+        }, 
+        {
+            "Text": "dependencies", 
+            "Score": 0.9629096984863281, 
+            "BeginOffset": 3251, 
+            "EndOffset": 3263
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.8966023921966553, 
+            "BeginOffset": 3269, 
+            "EndOffset": 3272
+        }, 
+        {
+            "Text": "application", 
+            "Score": 0.9874898195266724, 
+            "BeginOffset": 3311, 
+            "EndOffset": 3322
+        }, 
+        {
+            "Text": "a Docker container", 
+            "Score": 0.980887770652771, 
+            "BeginOffset": 3326, 
+            "EndOffset": 3344
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.999161958694458, 
+            "BeginOffset": 3347, 
+            "EndOffset": 3350
+        }, 
+        {
+            "Text": "the earlier linked description", 
+            "Score": 0.9995824694633484, 
+            "BeginOffset": 3379, 
+            "EndOffset": 3409
+        }
+    ]
+}

@@ -1,0 +1,718 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Lambda", 
+            "Score": 0.8988702893257141, 
+            "BeginOffset": 26, 
+            "EndOffset": 32
+        }, 
+        {
+            "Text": "Autoscaling", 
+            "Score": 0.8012524247169495, 
+            "BeginOffset": 34, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9773301482200623, 
+            "BeginOffset": 49, 
+            "EndOffset": 52
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9180495142936707, 
+            "BeginOffset": 71, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "Cloud AutoML", 
+            "Score": 0.9978032112121582, 
+            "BeginOffset": 86, 
+            "EndOffset": 98
+        }, 
+        {
+            "Text": "easier machine", 
+            "Score": 0.8153296709060669, 
+            "BeginOffset": 103, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "AWS LAMBDA", 
+            "Score": 0.9841077923774719, 
+            "BeginOffset": 137, 
+            "EndOffset": 147
+        }, 
+        {
+            "Text": "a move reminiscent", 
+            "Score": 0.8535900712013245, 
+            "BeginOffset": 153, 
+            "EndOffset": 171
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9984421730041504, 
+            "BeginOffset": 175, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "Kubernetes release", 
+            "Score": 0.9804274439811707, 
+            "BeginOffset": 184, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9965762495994568, 
+            "BeginOffset": 204, 
+            "EndOffset": 207
+        }, 
+        {
+            "Text": "holiday", 
+            "Score": 0.9905456900596619, 
+            "BeginOffset": 262, 
+            "EndOffset": 269
+        }, 
+        {
+            "Text": "this case", 
+            "Score": 0.9964135885238647, 
+            "BeginOffset": 274, 
+            "EndOffset": 283
+        }, 
+        {
+            "Text": "the support", 
+            "Score": 0.9972654581069946, 
+            "BeginOffset": 284, 
+            "EndOffset": 295
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9990251660346985, 
+            "BeginOffset": 306, 
+            "EndOffset": 312
+        }, 
+        {
+            "Text": "Invent[1]", 
+            "Score": 0.769673764705658, 
+            "BeginOffset": 342, 
+            "EndOffset": 351
+        }, 
+        {
+            "Text": "any work", 
+            "Score": 0.9965804219245911, 
+            "BeginOffset": 395, 
+            "EndOffset": 403
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.8127265572547913, 
+            "BeginOffset": 409, 
+            "EndOffset": 412
+        }, 
+        {
+            "Text": "a good post", 
+            "Score": 0.9987279772758484, 
+            "BeginOffset": 423, 
+            "EndOffset": 434
+        }, 
+        {
+            "Text": "the AWS Compute blog", 
+            "Score": 0.9956570863723755, 
+            "BeginOffset": 438, 
+            "EndOffset": 458
+        }, 
+        {
+            "Text": "lambda", 
+            "Score": 0.9613019824028015, 
+            "BeginOffset": 512, 
+            "EndOffset": 518
+        }, 
+        {
+            "Text": "your main", 
+            "Score": 0.7756958603858948, 
+            "BeginOffset": 530, 
+            "EndOffset": 539
+        }, 
+        {
+            "Text": "a Handler function", 
+            "Score": 0.921609103679657, 
+            "BeginOffset": 565, 
+            "EndOffset": 583
+        }, 
+        {
+            "Text": "the input", 
+            "Score": 0.9799565672874451, 
+            "BeginOffset": 587, 
+            "EndOffset": 596
+        }, 
+        {
+            "Text": "import", 
+            "Score": 0.7183997631072998, 
+            "BeginOffset": 603, 
+            "EndOffset": 609
+        }, 
+        {
+            "Text": "\"github.com/aws/aws-lambda-go/events\"\n        \"github.com/aws/aws-lambda-go/lambda", 
+            "Score": 0.7704495787620544, 
+            "BeginOffset": 620, 
+            "EndOffset": 702
+        }, 
+        {
+            "Text": "func Handler", 
+            "Score": 0.8306060433387756, 
+            "BeginOffset": 715, 
+            "EndOffset": 727
+        }, 
+        {
+            "Text": "ctx context", 
+            "Score": 0.9703373312950134, 
+            "BeginOffset": 728, 
+            "EndOffset": 739
+        }, 
+        {
+            "Text": "Context", 
+            "Score": 0.8040802478790283, 
+            "BeginOffset": 740, 
+            "EndOffset": 747
+        }, 
+        {
+            "Text": "request events", 
+            "Score": 0.8986161351203918, 
+            "BeginOffset": 749, 
+            "EndOffset": 763
+        }, 
+        {
+            "Text": "APIGatewayProxyRequest", 
+            "Score": 0.792543888092041, 
+            "BeginOffset": 764, 
+            "EndOffset": 786
+        }, 
+        {
+            "Text": "events", 
+            "Score": 0.9772916436195374, 
+            "BeginOffset": 789, 
+            "EndOffset": 795
+        }, 
+        {
+            "Text": "APIGatewayProxyResponse", 
+            "Score": 0.6034525632858276, 
+            "BeginOffset": 796, 
+            "EndOffset": 819
+        }, 
+        {
+            "Text": "error", 
+            "Score": 0.9722495675086975, 
+            "BeginOffset": 821, 
+            "EndOffset": 826
+        }, 
+        {
+            "Text": "More code\n        return events", 
+            "Score": 0.6522245407104492, 
+            "BeginOffset": 841, 
+            "EndOffset": 872
+        }, 
+        {
+            "Text": "APIGatewayProxyResponse", 
+            "Score": 0.6510426998138428, 
+            "BeginOffset": 873, 
+            "EndOffset": 896
+        }, 
+        {
+            "Text": "Body", 
+            "Score": 0.9179882407188416, 
+            "BeginOffset": 899, 
+            "EndOffset": 903
+        }, 
+        {
+            "Text": "request", 
+            "Score": 0.9493185877799988, 
+            "BeginOffset": 905, 
+            "EndOffset": 912
+        }, 
+        {
+            "Text": "Body", 
+            "Score": 0.5641894340515137, 
+            "BeginOffset": 913, 
+            "EndOffset": 917
+        }, 
+        {
+            "Text": "StatusCode", 
+            "Score": 0.9286280274391174, 
+            "BeginOffset": 919, 
+            "EndOffset": 929
+        }, 
+        {
+            "Text": "200", 
+            "Score": 0.695960521697998, 
+            "BeginOffset": 931, 
+            "EndOffset": 934
+        }, 
+        {
+            "Text": "nil", 
+            "Score": 0.6442729830741882, 
+            "BeginOffset": 938, 
+            "EndOffset": 941
+        }, 
+        {
+            "Text": "func main", 
+            "Score": 0.8583514094352722, 
+            "BeginOffset": 953, 
+            "EndOffset": 962
+        }, 
+        {
+            "Text": "lambda", 
+            "Score": 0.8582716584205627, 
+            "BeginOffset": 975, 
+            "EndOffset": 981
+        }, 
+        {
+            "Text": "Start", 
+            "Score": 0.8186029195785522, 
+            "BeginOffset": 982, 
+            "EndOffset": 987
+        }, 
+        {
+            "Text": "Handler", 
+            "Score": 0.9635865688323975, 
+            "BeginOffset": 988, 
+            "EndOffset": 995
+        }, 
+        {
+            "Text": "some flexibility", 
+            "Score": 0.99369215965271, 
+            "BeginOffset": 1013, 
+            "EndOffset": 1029
+        }, 
+        {
+            "Text": "the Handler function", 
+            "Score": 0.9949027299880981, 
+            "BeginOffset": 1033, 
+            "EndOffset": 1053
+        }, 
+        {
+            "Text": "terms", 
+            "Score": 0.9884464740753174, 
+            "BeginOffset": 1110, 
+            "EndOffset": 1115
+        }, 
+        {
+            "Text": "arguments", 
+            "Score": 0.997063159942627, 
+            "BeginOffset": 1119, 
+            "EndOffset": 1128
+        }, 
+        {
+            "Text": "return values", 
+            "Score": 0.7305675745010376, 
+            "BeginOffset": 1133, 
+            "EndOffset": 1146
+        }, 
+        {
+            "Text": "The main difference", 
+            "Score": 0.99823397397995, 
+            "BeginOffset": 1149, 
+            "EndOffset": 1168
+        }, 
+        {
+            "Text": "the other languages", 
+            "Score": 0.9988583326339722, 
+            "BeginOffset": 1174, 
+            "EndOffset": 1193
+        }, 
+        {
+            "Text": "a compiled binary", 
+            "Score": 0.9977167844772339, 
+            "BeginOffset": 1231, 
+            "EndOffset": 1248
+        }, 
+        {
+            "Text": "a zip file", 
+            "Score": 0.9098307490348816, 
+            "BeginOffset": 1269, 
+            "EndOffset": 1279
+        }, 
+        {
+            "Text": "excellent cross-platform compilation", 
+            "Score": 0.9843621253967285, 
+            "BeginOffset": 1293, 
+            "EndOffset": 1329
+        }, 
+        {
+            "Text": "your CI/CD chain", 
+            "Score": 0.9915199875831604, 
+            "BeginOffset": 1383, 
+            "EndOffset": 1399
+        }, 
+        {
+            "Text": "AWS AUTO SCALING", 
+            "Score": 0.9867016673088074, 
+            "BeginOffset": 1411, 
+            "EndOffset": 1427
+        }, 
+        {
+            "Text": "other AWS news", 
+            "Score": 0.9386101961135864, 
+            "BeginOffset": 1433, 
+            "EndOffset": 1447
+        }, 
+        {
+            "Text": "a new unified scaling method", 
+            "Score": 0.9979147911071777, 
+            "BeginOffset": 1465, 
+            "EndOffset": 1493
+        }, 
+        {
+            "Text": "a handful", 
+            "Score": 0.9586659669876099, 
+            "BeginOffset": 1531, 
+            "EndOffset": 1540
+        }, 
+        {
+            "Text": "regions", 
+            "Score": 0.9992550611495972, 
+            "BeginOffset": 1544, 
+            "EndOffset": 1551
+        }, 
+        {
+            "Text": "a pure software solution", 
+            "Score": 0.996638834476471, 
+            "BeginOffset": 1588, 
+            "EndOffset": 1612
+        }, 
+        {
+            "Text": "a far easier way", 
+            "Score": 0.9759976267814636, 
+            "BeginOffset": 1630, 
+            "EndOffset": 1646
+        }, 
+        {
+            "Text": "autoscaling", 
+            "Score": 0.9965868592262268, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1668
+        }, 
+        {
+            "Text": "autoscaling", 
+            "Score": 0.9890708327293396, 
+            "BeginOffset": 1710, 
+            "EndOffset": 1721
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.8883457183837891, 
+            "BeginOffset": 1726, 
+            "EndOffset": 1734
+        }, 
+        {
+            "Text": "services", 
+            "Score": 0.9995560050010681, 
+            "BeginOffset": 1738, 
+            "EndOffset": 1746
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9198831915855408, 
+            "BeginOffset": 1799, 
+            "EndOffset": 1804
+        }, 
+        {
+            "Text": "the triggers", 
+            "Score": 0.9858857989311218, 
+            "BeginOffset": 1822, 
+            "EndOffset": 1834
+        }, 
+        {
+            "Text": "each service", 
+            "Score": 0.9873252511024475, 
+            "BeginOffset": 1850, 
+            "EndOffset": 1862
+        }, 
+        {
+            "Text": "CloudWatch alarms", 
+            "Score": 0.8941752910614014, 
+            "BeginOffset": 1896, 
+            "EndOffset": 1913
+        }, 
+        {
+            "Text": "each service", 
+            "Score": 0.9852463603019714, 
+            "BeginOffset": 1929, 
+            "EndOffset": 1941
+        }, 
+        {
+            "Text": "a scaling plan", 
+            "Score": 0.9898331761360168, 
+            "BeginOffset": 1964, 
+            "EndOffset": 1978
+        }, 
+        {
+            "Text": "This plan", 
+            "Score": 0.9962653517723083, 
+            "BeginOffset": 1980, 
+            "EndOffset": 1989
+        }, 
+        {
+            "Text": "its own way", 
+            "Score": 0.9987191557884216, 
+            "BeginOffset": 1994, 
+            "EndOffset": 2005
+        }, 
+        {
+            "Text": "the need", 
+            "Score": 0.9988380074501038, 
+            "BeginOffset": 2015, 
+            "EndOffset": 2023
+        }, 
+        {
+            "Text": "scaling", 
+            "Score": 0.9966739416122437, 
+            "BeginOffset": 2028, 
+            "EndOffset": 2035
+        }, 
+        {
+            "Text": "several strategies", 
+            "Score": 0.860788881778717, 
+            "BeginOffset": 2051, 
+            "EndOffset": 2069
+        }, 
+        {
+            "Text": "a single overview", 
+            "Score": 0.9989665150642395, 
+            "BeginOffset": 2116, 
+            "EndOffset": 2133
+        }, 
+        {
+            "Text": "all your scaling", 
+            "Score": 0.999682605266571, 
+            "BeginOffset": 2137, 
+            "EndOffset": 2153
+        }, 
+        {
+            "Text": "the separate parts", 
+            "Score": 0.9797223210334778, 
+            "BeginOffset": 2161, 
+            "EndOffset": 2179
+        }, 
+        {
+            "Text": "your applications", 
+            "Score": 0.9992749094963074, 
+            "BeginOffset": 2183, 
+            "EndOffset": 2200
+        }, 
+        {
+            "Text": "One side effect", 
+            "Score": 0.9989431500434875, 
+            "BeginOffset": 2203, 
+            "EndOffset": 2218
+        }, 
+        {
+            "Text": "those annoying CloudWatch alarms", 
+            "Score": 0.964573085308075, 
+            "BeginOffset": 2254, 
+            "EndOffset": 2286
+        }, 
+        {
+            "Text": "an ERROR state", 
+            "Score": 0.8915901184082031, 
+            "BeginOffset": 2322, 
+            "EndOffset": 2336
+        }, 
+        {
+            "Text": "the minimum", 
+            "Score": 0.9988268613815308, 
+            "BeginOffset": 2375, 
+            "EndOffset": 2386
+        }, 
+        {
+            "Text": "CLOUD AUTOML\n\n\nGoogle", 
+            "Score": 0.998672604560852, 
+            "BeginOffset": 2400, 
+            "EndOffset": 2421
+        }, 
+        {
+            "Text": "new Cloud AutoML", 
+            "Score": 0.9607616662979126, 
+            "BeginOffset": 2424, 
+            "EndOffset": 2440
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9736784100532532, 
+            "BeginOffset": 2444, 
+            "EndOffset": 2449
+        }, 
+        {
+            "Text": "AI", 
+            "Score": 0.9947640299797058, 
+            "BeginOffset": 2466, 
+            "EndOffset": 2468
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9323452711105347, 
+            "BeginOffset": 2505, 
+            "EndOffset": 2521
+        }, 
+        {
+            "Text": "2 choices", 
+            "Score": 0.9039900302886963, 
+            "BeginOffset": 2550, 
+            "EndOffset": 2559
+        }, 
+        {
+            "Text": "your own", 
+            "Score": 0.9950578212738037, 
+            "BeginOffset": 2573, 
+            "EndOffset": 2581
+        }, 
+        {
+            "Text": "Tensorflow[3]", 
+            "Score": 0.7869557738304138, 
+            "BeginOffset": 2588, 
+            "EndOffset": 2601
+        }, 
+        {
+            "Text": "their pre-defined models", 
+            "Score": 0.9264874458312988, 
+            "BeginOffset": 2609, 
+            "EndOffset": 2633
+        }, 
+        {
+            "Text": "Cloud AutoML", 
+            "Score": 0.9993121027946472, 
+            "BeginOffset": 2635, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9978763461112976, 
+            "BeginOffset": 2651, 
+            "EndOffset": 2656
+        }, 
+        {
+            "Text": "a middle ground", 
+            "Score": 0.9978395104408264, 
+            "BeginOffset": 2668, 
+            "EndOffset": 2683
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9962087273597717, 
+            "BeginOffset": 2685, 
+            "EndOffset": 2690
+        }, 
+        {
+            "Text": "your own models", 
+            "Score": 0.9978899359703064, 
+            "BeginOffset": 2701, 
+            "EndOffset": 2716
+        }, 
+        {
+            "Text": "the full AI/ML expertise", 
+            "Score": 0.9969139099121094, 
+            "BeginOffset": 2733, 
+            "EndOffset": 2757
+        }, 
+        {
+            "Text": "Tensorflow", 
+            "Score": 0.996651291847229, 
+            "BeginOffset": 2787, 
+            "EndOffset": 2797
+        }, 
+        {
+            "Text": "The first product", 
+            "Score": 0.9947568774223328, 
+            "BeginOffset": 2800, 
+            "EndOffset": 2817
+        }, 
+        {
+            "Text": "AutoML Vision", 
+            "Score": 0.9994217157363892, 
+            "BeginOffset": 2832, 
+            "EndOffset": 2845
+        }, 
+        {
+            "Text": "a drag and drop interface", 
+            "Score": 0.9898785352706909, 
+            "BeginOffset": 2858, 
+            "EndOffset": 2883
+        }, 
+        {
+            "Text": "images", 
+            "Score": 0.9974341988563538, 
+            "BeginOffset": 2910, 
+            "EndOffset": 2916
+        }, 
+        {
+            "Text": "the model", 
+            "Score": 0.9797220230102539, 
+            "BeginOffset": 2932, 
+            "EndOffset": 2941
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.994672954082489, 
+            "BeginOffset": 3020, 
+            "EndOffset": 3028
+        }, 
+        {
+            "Text": "the model building", 
+            "Score": 0.9975215792655945, 
+            "BeginOffset": 3033, 
+            "EndOffset": 3051
+        }, 
+        {
+            "Text": "the model", 
+            "Score": 0.9851723313331604, 
+            "BeginOffset": 3078, 
+            "EndOffset": 3087
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9988958835601807, 
+            "BeginOffset": 3093, 
+            "EndOffset": 3096
+        }, 
+        {
+            "Text": "an interesting product", 
+            "Score": 0.992361843585968, 
+            "BeginOffset": 3127, 
+            "EndOffset": 3149
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9761289358139038, 
+            "BeginOffset": 3205, 
+            "EndOffset": 3215
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9936268925666809, 
+            "BeginOffset": 3218, 
+            "EndOffset": 3221
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9972702264785767, 
+            "BeginOffset": 3292, 
+            "EndOffset": 3295
+        }, 
+        {
+            "Text": "a plane", 
+            "Score": 0.9667246341705322, 
+            "BeginOffset": 3341, 
+            "EndOffset": 3348
+        }, 
+        {
+            "Text": "the near future", 
+            "Score": 0.9348764419555664, 
+            "BeginOffset": 3378, 
+            "EndOffset": 3393
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9950793385505676, 
+            "BeginOffset": 3396, 
+            "EndOffset": 3399
+        }
+    ]
+}

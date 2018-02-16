@@ -1,0 +1,200 @@
+{
+    "Entities": [
+        {
+            "Text": "VMWare", 
+            "Score": 0.5612127184867859, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 104, 
+            "EndOffset": 110
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.5165708065032959, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 114, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "next week", 
+            "Score": 0.9490647315979004, 
+            "Type": "DATE", 
+            "BeginOffset": 133, 
+            "EndOffset": 142
+        }, 
+        {
+            "Text": "Krebs", 
+            "Score": 0.467199444770813, 
+            "Type": "PERSON", 
+            "BeginOffset": 260, 
+            "EndOffset": 265
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.8187639713287354, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 460, 
+            "EndOffset": 470
+        }, 
+        {
+            "Text": "Krebs", 
+            "Score": 0.5641697645187378, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 572, 
+            "EndOffset": 577
+        }, 
+        {
+            "Text": "OVH", 
+            "Score": 0.9911302328109741, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 581, 
+            "EndOffset": 584
+        }, 
+        {
+            "Text": "L7", 
+            "Score": 0.46712419390678406, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 788, 
+            "EndOffset": 790
+        }, 
+        {
+            "Text": "HTTP", 
+            "Score": 0.7995768189430237, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 792, 
+            "EndOffset": 796
+        }, 
+        {
+            "Text": "L3", 
+            "Score": 0.5601433515548706, 
+            "Type": "OTHER", 
+            "BeginOffset": 835, 
+            "EndOffset": 837
+        }, 
+        {
+            "Text": "L4", 
+            "Score": 0.9715172052383423, 
+            "Type": "OTHER", 
+            "BeginOffset": 838, 
+            "EndOffset": 840
+        }, 
+        {
+            "Text": "L3", 
+            "Score": 0.9999046325683594, 
+            "Type": "OTHER", 
+            "BeginOffset": 1029, 
+            "EndOffset": 1031
+        }, 
+        {
+            "Text": "L4", 
+            "Score": 0.8496574759483337, 
+            "Type": "OTHER", 
+            "BeginOffset": 1032, 
+            "EndOffset": 1034
+        }, 
+        {
+            "Text": "HTTP", 
+            "Score": 0.9991621971130371, 
+            "Type": "OTHER", 
+            "BeginOffset": 1139, 
+            "EndOffset": 1143
+        }, 
+        {
+            "Text": "10-year old", 
+            "Score": 0.9988932013511658, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1474, 
+            "EndOffset": 1485
+        }, 
+        {
+            "Text": "SSH", 
+            "Score": 0.6464869379997253, 
+            "Type": "OTHER", 
+            "BeginOffset": 1486, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9996496438980103, 
+            "Type": "OTHER", 
+            "BeginOffset": 1568, 
+            "EndOffset": 1578
+        }, 
+        {
+            "Text": "Javascript", 
+            "Score": 0.9999961853027344, 
+            "Type": "TITLE", 
+            "BeginOffset": 1930, 
+            "EndOffset": 1940
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999872446060181, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2141, 
+            "EndOffset": 2149
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9997279047966003, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2228, 
+            "EndOffset": 2233
+        }, 
+        {
+            "Text": "two places", 
+            "Score": 0.999997079372406, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2558, 
+            "EndOffset": 2568
+        }, 
+        {
+            "Text": "first paragraph", 
+            "Score": 0.9999769926071167, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2723, 
+            "EndOffset": 2738
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3040, 
+            "EndOffset": 3048
+        }, 
+        {
+            "Text": "second interface", 
+            "Score": 0.9999983310699463, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3362, 
+            "EndOffset": 3378
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9993494153022766, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3397, 
+            "EndOffset": 3403
+        }, 
+        {
+            "Text": "Igor", 
+            "Score": 0.99983811378479, 
+            "Type": "PERSON", 
+            "BeginOffset": 3638, 
+            "EndOffset": 3642
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.9999830722808838, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3754, 
+            "EndOffset": 3757
+        }, 
+        {
+            "Text": "CLIve", 
+            "Score": 0.9998300075531006, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3830, 
+            "EndOffset": 3835
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.7524035573005676, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 35, 
+            "EndOffset": 38
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9648464918136597, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 51, 
+            "EndOffset": 54
+        }, 
+        {
+            "Text": "DevOps", 
+            "Score": 0.673744261264801, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 74, 
+            "EndOffset": 80
+        }, 
+        {
+            "Text": "HYPERDEV", 
+            "Score": 0.5199573040008545, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 85, 
+            "EndOffset": 93
+        }, 
+        {
+            "Text": "Fog Creek", 
+            "Score": 0.8422746658325195, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 96, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "Trello", 
+            "Score": 0.4350104331970215, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 130, 
+            "EndOffset": 136
+        }, 
+        {
+            "Text": "HyperDev", 
+            "Score": 0.7458171248435974, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 226, 
+            "EndOffset": 234
+        }, 
+        {
+            "Text": "HyperDev", 
+            "Score": 0.707541823387146, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 418, 
+            "EndOffset": 426
+        }, 
+        {
+            "Text": "NodeJS", 
+            "Score": 0.9999939203262329, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1354, 
+            "EndOffset": 1360
+        }, 
+        {
+            "Text": "HyperDev", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1375, 
+            "EndOffset": 1383
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999703168869019, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1568, 
+            "EndOffset": 1571
+        }, 
+        {
+            "Text": "Sunday", 
+            "Score": 0.9999613761901855, 
+            "Type": "DATE", 
+            "BeginOffset": 1595, 
+            "EndOffset": 1601
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9973125457763672, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1621, 
+            "EndOffset": 1624
+        }, 
+        {
+            "Text": "Sydney", 
+            "Score": 0.999890923500061, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1662, 
+            "EndOffset": 1668
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9967536330223083, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1900, 
+            "EndOffset": 1909
+        }, 
+        {
+            "Text": "AZ", 
+            "Score": 0.999906063079834, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2145, 
+            "EndOffset": 2147
+        }, 
+        {
+            "Text": "Aurora", 
+            "Score": 0.9997668862342834, 
+            "Type": "PERSON", 
+            "BeginOffset": 2856, 
+            "EndOffset": 2862
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999955892562866, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2905, 
+            "EndOffset": 2908
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9990037083625793, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2937, 
+            "EndOffset": 2940
+        }, 
+        {
+            "Text": "DevOps", 
+            "Score": 0.9999895095825195, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2962, 
+            "EndOffset": 2968
+        }, 
+        {
+            "Text": "DevOps", 
+            "Score": 0.9994502663612366, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3104, 
+            "EndOffset": 3110
+        }, 
+        {
+            "Text": "Monday", 
+            "Score": 0.9999998807907104, 
+            "Type": "DATE", 
+            "BeginOffset": 3248, 
+            "EndOffset": 3254
+        }
+    ]
+}

@@ -1,0 +1,1036 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Apple updated products", 
+            "Score": 0.8744203448295593, 
+            "BeginOffset": 0, 
+            "EndOffset": 22
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.8920309543609619, 
+            "BeginOffset": 34, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9907684922218323, 
+            "BeginOffset": 44, 
+            "EndOffset": 50
+        }, 
+        {
+            "Text": "Symantec SSL certificates", 
+            "Score": 0.9930053949356079, 
+            "BeginOffset": 59, 
+            "EndOffset": 84
+        }, 
+        {
+            "Text": "Stack Overflow", 
+            "Score": 0.9745364189147949, 
+            "BeginOffset": 109, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "their latest developer survey results", 
+            "Score": 0.960137128829956, 
+            "BeginOffset": 133, 
+            "EndOffset": 170
+        }, 
+        {
+            "Text": "a day", 
+            "Score": 0.9736022353172302, 
+            "BeginOffset": 188, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "an incredibly busy weekend", 
+            "Score": 0.99470454454422, 
+            "BeginOffset": 225, 
+            "EndOffset": 251
+        }, 
+        {
+            "Text": "last night", 
+            "Score": 0.996346652507782, 
+            "BeginOffset": 311, 
+            "EndOffset": 321
+        }, 
+        {
+            "Text": "my sanity", 
+            "Score": 0.9844386577606201, 
+            "BeginOffset": 382, 
+            "EndOffset": 391
+        }, 
+        {
+            "Text": "UPDATED APPLE PRODUCTS", 
+            "Score": 0.918895423412323, 
+            "BeginOffset": 396, 
+            "EndOffset": 418
+        }, 
+        {
+            "Text": "the trend", 
+            "Score": 0.8564103245735168, 
+            "BeginOffset": 431, 
+            "EndOffset": 440
+        }, 
+        {
+            "Text": "the past few years", 
+            "Score": 0.9984293580055237, 
+            "BeginOffset": 444, 
+            "EndOffset": 462
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9897900223731995, 
+            "BeginOffset": 464, 
+            "EndOffset": 469
+        }, 
+        {
+            "Text": "updates", 
+            "Score": 0.8559730052947998, 
+            "BeginOffset": 490, 
+            "EndOffset": 497
+        }, 
+        {
+            "Text": "new products", 
+            "Score": 0.9989213943481445, 
+            "BeginOffset": 502, 
+            "EndOffset": 514
+        }, 
+        {
+            "Text": "March", 
+            "Score": 0.9917172193527222, 
+            "BeginOffset": 518, 
+            "EndOffset": 523
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9940447211265564, 
+            "BeginOffset": 537, 
+            "EndOffset": 542
+        }, 
+        {
+            "Text": "minor updates", 
+            "Score": 0.8505247831344604, 
+            "BeginOffset": 588, 
+            "EndOffset": 601
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9986181855201721, 
+            "BeginOffset": 607, 
+            "EndOffset": 615
+        }, 
+        {
+            "Text": "their own way", 
+            "Score": 0.9927160739898682, 
+            "BeginOffset": 636, 
+            "EndOffset": 649
+        }, 
+        {
+            "Text": "The one", 
+            "Score": 0.9934619069099426, 
+            "BeginOffset": 652, 
+            "EndOffset": 659
+        }, 
+        {
+            "Text": "the most", 
+            "Score": 0.9800371527671814, 
+            "BeginOffset": 676, 
+            "EndOffset": 684
+        }, 
+        {
+            "Text": "the new red iPhone", 
+            "Score": 0.9866459965705872, 
+            "BeginOffset": 688, 
+            "EndOffset": 706
+        }, 
+        {
+            "Text": "more colors", 
+            "Score": 0.9923443794250488, 
+            "BeginOffset": 760, 
+            "EndOffset": 771
+        }, 
+        {
+            "Text": "the lineup", 
+            "Score": 0.9892315864562988, 
+            "BeginOffset": 775, 
+            "EndOffset": 785
+        }, 
+        {
+            "Text": "a good thing", 
+            "Score": 0.9544673562049866, 
+            "BeginOffset": 789, 
+            "EndOffset": 801
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.7085398435592651, 
+            "BeginOffset": 801, 
+            "EndOffset": 804
+        }, 
+        {
+            "Text": "the only downside", 
+            "Score": 0.9911367893218994, 
+            "BeginOffset": 809, 
+            "EndOffset": 826
+        }, 
+        {
+            "Text": "the start", 
+            "Score": 0.9966256022453308, 
+            "BeginOffset": 879, 
+            "EndOffset": 888
+        }, 
+        {
+            "Text": "the color", 
+            "Score": 0.9994570016860962, 
+            "BeginOffset": 923, 
+            "EndOffset": 932
+        }, 
+        {
+            "Text": "the new models", 
+            "Score": 0.9956698417663574, 
+            "BeginOffset": 937, 
+            "EndOffset": 951
+        }, 
+        {
+            "Text": "later this year", 
+            "Score": 0.9002887606620789, 
+            "BeginOffset": 952, 
+            "EndOffset": 967
+        }, 
+        {
+            "Text": "The new iPad", 
+            "Score": 0.998771607875824, 
+            "BeginOffset": 970, 
+            "EndOffset": 982
+        }, 
+        {
+            "Text": "another interesting move", 
+            "Score": 0.9981833100318909, 
+            "BeginOffset": 986, 
+            "EndOffset": 1010
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.9868475794792175, 
+            "BeginOffset": 1026, 
+            "EndOffset": 1034
+        }, 
+        {
+            "Text": "the third iPad", 
+            "Score": 0.995332658290863, 
+            "BeginOffset": 1044, 
+            "EndOffset": 1058
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.8451843857765198, 
+            "BeginOffset": 1071, 
+            "EndOffset": 1075
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9939008951187134, 
+            "BeginOffset": 1121, 
+            "EndOffset": 1130
+        }, 
+        {
+            "Text": "MacBooks and iMacs", 
+            "Score": 0.9628201127052307, 
+            "BeginOffset": 1167, 
+            "EndOffset": 1185
+        }, 
+        {
+            "Text": "model year", 
+            "Score": 0.9967362880706787, 
+            "BeginOffset": 1222, 
+            "EndOffset": 1232
+        }, 
+        {
+            "Text": "this idea", 
+            "Score": 0.9306872487068176, 
+            "BeginOffset": 1252, 
+            "EndOffset": 1261
+        }, 
+        {
+            "Text": "unique names", 
+            "Score": 0.9948148727416992, 
+            "BeginOffset": 1276, 
+            "EndOffset": 1288
+        }, 
+        {
+            "Text": "the product", 
+            "Score": 0.9995250105857849, 
+            "BeginOffset": 1327, 
+            "EndOffset": 1338
+        }, 
+        {
+            "Text": "a good deal", 
+            "Score": 0.8857953548431396, 
+            "BeginOffset": 1349, 
+            "EndOffset": 1360
+        }, 
+        {
+            "Text": "The cheapest iPad", 
+            "Score": 0.9917961955070496, 
+            "BeginOffset": 1362, 
+            "EndOffset": 1379
+        }, 
+        {
+            "Text": "$70", 
+            "Score": 0.9054296016693115, 
+            "BeginOffset": 1391, 
+            "EndOffset": 1394
+        }, 
+        {
+            "Text": "the old Airs", 
+            "Score": 0.9419905543327332, 
+            "BeginOffset": 1408, 
+            "EndOffset": 1420
+        }, 
+        {
+            "Text": "an updated iPad Pro", 
+            "Score": 0.9870948195457458, 
+            "BeginOffset": 1466, 
+            "EndOffset": 1485
+        }, 
+        {
+            "Text": "my iPad Air", 
+            "Score": 0.99229496717453, 
+            "BeginOffset": 1523, 
+            "EndOffset": 1534
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.9882797598838806, 
+            "BeginOffset": 1538, 
+            "EndOffset": 1546
+        }, 
+        {
+            "Text": "APPLE BUYS WORKFLOW", 
+            "Score": 0.9897558093070984, 
+            "BeginOffset": 1551, 
+            "EndOffset": 1570
+        }, 
+        {
+            "Text": "other Apple news", 
+            "Score": 0.9692664742469788, 
+            "BeginOffset": 1576, 
+            "EndOffset": 1592
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.9997532963752747, 
+            "BeginOffset": 1606, 
+            "EndOffset": 1614
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.9443449974060059, 
+            "BeginOffset": 1616, 
+            "EndOffset": 1624
+        }, 
+        {
+            "Text": "an automation app", 
+            "Score": 0.99684077501297, 
+            "BeginOffset": 1628, 
+            "EndOffset": 1645
+        }, 
+        {
+            "Text": "many tasks", 
+            "Score": 0.9979671239852905, 
+            "BeginOffset": 1669, 
+            "EndOffset": 1679
+        }, 
+        {
+            "Text": "extensive deep", 
+            "Score": 0.9818710684776306, 
+            "BeginOffset": 1697, 
+            "EndOffset": 1711
+        }, 
+        {
+            "Text": "other apps", 
+            "Score": 0.9773725271224976, 
+            "BeginOffset": 1725, 
+            "EndOffset": 1735
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9978463649749756, 
+            "BeginOffset": 1746, 
+            "EndOffset": 1751
+        }, 
+        {
+            "Text": "the writing", 
+            "Score": 0.8973514437675476, 
+            "BeginOffset": 1768, 
+            "EndOffset": 1779
+        }, 
+        {
+            "Text": "this site", 
+            "Score": 0.9949355125427246, 
+            "BeginOffset": 1789, 
+            "EndOffset": 1798
+        }, 
+        {
+            "Text": "Examples", 
+            "Score": 0.9975619316101074, 
+            "BeginOffset": 1801, 
+            "EndOffset": 1809
+        }, 
+        {
+            "Text": "links", 
+            "Score": 0.9958374500274658, 
+            "BeginOffset": 1828, 
+            "EndOffset": 1833
+        }, 
+        {
+            "Text": "these weekly notes", 
+            "Score": 0.9955707788467407, 
+            "BeginOffset": 1838, 
+            "EndOffset": 1856
+        }, 
+        {
+            "Text": "a Workflow", 
+            "Score": 0.9949144124984741, 
+            "BeginOffset": 1868, 
+            "EndOffset": 1878
+        }, 
+        {
+            "Text": "a link or Safari webpage", 
+            "Score": 0.9925920367240906, 
+            "BeginOffset": 1892, 
+            "EndOffset": 1916
+        }, 
+        {
+            "Text": "my list", 
+            "Score": 0.9996303915977478, 
+            "BeginOffset": 1932, 
+            "EndOffset": 1939
+        }, 
+        {
+            "Text": "subjects", 
+            "Score": 0.9993368983268738, 
+            "BeginOffset": 1943, 
+            "EndOffset": 1951
+        }, 
+        {
+            "Text": "Another workflow", 
+            "Score": 0.9999622106552124, 
+            "BeginOffset": 1953, 
+            "EndOffset": 1969
+        }, 
+        {
+            "Text": "a new Weekly Note", 
+            "Score": 0.991364598274231, 
+            "BeginOffset": 1994, 
+            "EndOffset": 2011
+        }, 
+        {
+            "Text": "all the values", 
+            "Score": 0.9651305079460144, 
+            "BeginOffset": 2023, 
+            "EndOffset": 2037
+        }, 
+        {
+            "Text": "the header", 
+            "Score": 0.9887177348136902, 
+            "BeginOffset": 2042, 
+            "EndOffset": 2052
+        }, 
+        {
+            "Text": "the subject list", 
+            "Score": 0.9933995008468628, 
+            "BeginOffset": 2067, 
+            "EndOffset": 2083
+        }, 
+        {
+            "Text": "my editor", 
+            "Score": 0.9898291826248169, 
+            "BeginOffset": 2087, 
+            "EndOffset": 2096
+        }, 
+        {
+            "Text": "choice[2]", 
+            "Score": 0.9995157122612, 
+            "BeginOffset": 2100, 
+            "EndOffset": 2109
+        }, 
+        {
+            "Text": "all automation", 
+            "Score": 0.8751294612884521, 
+            "BeginOffset": 2151, 
+            "EndOffset": 2165
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9862664937973022, 
+            "BeginOffset": 2175, 
+            "EndOffset": 2180
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9998131990432739, 
+            "BeginOffset": 2184, 
+            "EndOffset": 2188
+        }, 
+        {
+            "Text": "life", 
+            "Score": 0.6982192993164062, 
+            "BeginOffset": 2221, 
+            "EndOffset": 2225
+        }, 
+        {
+            "Text": "these examples", 
+            "Score": 0.9809256196022034, 
+            "BeginOffset": 2259, 
+            "EndOffset": 2273
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9876238107681274, 
+            "BeginOffset": 2303, 
+            "EndOffset": 2309
+        }, 
+        {
+            "Text": "more complex tasks", 
+            "Score": 0.9908742904663086, 
+            "BeginOffset": 2313, 
+            "EndOffset": 2331
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.9908390045166016, 
+            "BeginOffset": 2344, 
+            "EndOffset": 2352
+        }, 
+        {
+            "Text": "the more interesting part", 
+            "Score": 0.9965787529945374, 
+            "BeginOffset": 2376, 
+            "EndOffset": 2401
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9846585392951965, 
+            "BeginOffset": 2431, 
+            "EndOffset": 2436
+        }, 
+        {
+            "Text": "a mixed bag result", 
+            "Score": 0.9667322039604187, 
+            "BeginOffset": 2441, 
+            "EndOffset": 2459
+        }, 
+        {
+            "Text": "acquisitions", 
+            "Score": 0.9992232918739319, 
+            "BeginOffset": 2465, 
+            "EndOffset": 2477
+        }, 
+        {
+            "Text": "Positive examples", 
+            "Score": 0.9999578595161438, 
+            "BeginOffset": 2479, 
+            "EndOffset": 2496
+        }, 
+        {
+            "Text": "apps", 
+            "Score": 0.9988643527030945, 
+            "BeginOffset": 2500, 
+            "EndOffset": 2504
+        }, 
+        {
+            "Text": "Siri and TestFlight", 
+            "Score": 0.9809110760688782, 
+            "BeginOffset": 2533, 
+            "EndOffset": 2552
+        }, 
+        {
+            "Text": "a valuable part", 
+            "Score": 0.9486439824104309, 
+            "BeginOffset": 2589, 
+            "EndOffset": 2604
+        }, 
+        {
+            "Text": "the iOS ecosystem", 
+            "Score": 0.9937440156936646, 
+            "BeginOffset": 2608, 
+            "EndOffset": 2625
+        }, 
+        {
+            "Text": "Early signs", 
+            "Score": 0.9933404922485352, 
+            "BeginOffset": 2627, 
+            "EndOffset": 2638
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.9943555593490601, 
+            "BeginOffset": 2661, 
+            "EndOffset": 2669
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.99967360496521, 
+            "BeginOffset": 2674, 
+            "EndOffset": 2682
+        }, 
+        {
+            "Text": "the app", 
+            "Score": 0.9683746695518494, 
+            "BeginOffset": 2692, 
+            "EndOffset": 2699
+        }, 
+        {
+            "Text": "Workflow", 
+            "Score": 0.9995821118354797, 
+            "BeginOffset": 2736, 
+            "EndOffset": 2744
+        }, 
+        {
+            "Text": "automation", 
+            "Score": 0.9596979022026062, 
+            "BeginOffset": 2774, 
+            "EndOffset": 2784
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9987286925315857, 
+            "BeginOffset": 2788, 
+            "EndOffset": 2791
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9987600445747375, 
+            "BeginOffset": 2807, 
+            "EndOffset": 2812
+        }, 
+        {
+            "Text": "his instead", 
+            "Score": 0.9828070402145386, 
+            "BeginOffset": 2828, 
+            "EndOffset": 2839
+        }, 
+        {
+            "Text": "just another acquihire", 
+            "Score": 0.8353356719017029, 
+            "BeginOffset": 2858, 
+            "EndOffset": 2880
+        }, 
+        {
+            "Text": "enough space", 
+            "Score": 0.8414074182510376, 
+            "BeginOffset": 2901, 
+            "EndOffset": 2913
+        }, 
+        {
+            "Text": "improvement", 
+            "Score": 0.9974942207336426, 
+            "BeginOffset": 2918, 
+            "EndOffset": 2929
+        }, 
+        {
+            "Text": "the automation side", 
+            "Score": 0.9756313562393188, 
+            "BeginOffset": 2933, 
+            "EndOffset": 2952
+        }, 
+        {
+            "Text": "more information", 
+            "Score": 0.998622715473175, 
+            "BeginOffset": 2959, 
+            "EndOffset": 2975
+        }, 
+        {
+            "Text": "far better examples", 
+            "Score": 0.9948535561561584, 
+            "BeginOffset": 2988, 
+            "EndOffset": 3007
+        }, 
+        {
+            "Text": "workflows", 
+            "Score": 0.8814555406570435, 
+            "BeginOffset": 3011, 
+            "EndOffset": 3020
+        }, 
+        {
+            "Text": "Macstories", 
+            "Score": 0.9978985786437988, 
+            "BeginOffset": 3048, 
+            "EndOffset": 3058
+        }, 
+        {
+            "Text": "' iOS automation section", 
+            "Score": 0.9986957907676697, 
+            "BeginOffset": 3058, 
+            "EndOffset": 3082
+        }, 
+        {
+            "Text": "their take", 
+            "Score": 0.9496497511863708, 
+            "BeginOffset": 3092, 
+            "EndOffset": 3102
+        }, 
+        {
+            "Text": "the acquisition", 
+            "Score": 0.9865818023681641, 
+            "BeginOffset": 3106, 
+            "EndOffset": 3121
+        }, 
+        {
+            "Text": "SYMANTEC", 
+            "Score": 0.9248268008232117, 
+            "BeginOffset": 3126, 
+            "EndOffset": 3134
+        }, 
+        {
+            "Text": "CERTIFICATE PROBLEM", 
+            "Score": 0.9995236992835999, 
+            "BeginOffset": 3137, 
+            "EndOffset": 3156
+        }, 
+        {
+            "Text": "a time", 
+            "Score": 0.990831732749939, 
+            "BeginOffset": 3162, 
+            "EndOffset": 3168
+        }, 
+        {
+            "Text": "free SSL certificates", 
+            "Score": 0.9537633061408997, 
+            "BeginOffset": 3175, 
+            "EndOffset": 3196
+        }, 
+        {
+            "Text": "more commonplace Google", 
+            "Score": 0.9966649413108826, 
+            "BeginOffset": 3210, 
+            "EndOffset": 3233
+        }, 
+        {
+            "Text": "the largest provider", 
+            "Score": 0.9380145072937012, 
+            "BeginOffset": 3254, 
+            "EndOffset": 3274
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.920258104801178, 
+            "BeginOffset": 3278, 
+            "EndOffset": 3286
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8672011494636536, 
+            "BeginOffset": 3327, 
+            "EndOffset": 3333
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.9923526644706726, 
+            "BeginOffset": 3335, 
+            "EndOffset": 3343
+        }, 
+        {
+            "Text": "30.000 certificates", 
+            "Score": 0.9831295609474182, 
+            "BeginOffset": 3371, 
+            "EndOffset": 3390
+        }, 
+        {
+            "Text": "The linked article", 
+            "Score": 0.9480053782463074, 
+            "BeginOffset": 3392, 
+            "EndOffset": 3410
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9957337975502014, 
+            "BeginOffset": 3417, 
+            "EndOffset": 3422
+        }, 
+        {
+            "Text": "the ongoing discussions", 
+            "Score": 0.9988248348236084, 
+            "BeginOffset": 3426, 
+            "EndOffset": 3449
+        }, 
+        {
+            "Text": "both parties", 
+            "Score": 0.9987689256668091, 
+            "BeginOffset": 3462, 
+            "EndOffset": 3474
+        }, 
+        {
+            "Text": "polite", 
+            "Score": 0.9578103423118591, 
+            "BeginOffset": 3511, 
+            "EndOffset": 3517
+        }, 
+        {
+            "Text": "the other", 
+            "Score": 0.8937146067619324, 
+            "BeginOffset": 3533, 
+            "EndOffset": 3542
+        }, 
+        {
+            "Text": "blatantly lying", 
+            "Score": 0.7822971343994141, 
+            "BeginOffset": 3546, 
+            "EndOffset": 3561
+        }, 
+        {
+            "Text": "the plan", 
+            "Score": 0.7451900839805603, 
+            "BeginOffset": 3576, 
+            "EndOffset": 3584
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9661267399787903, 
+            "BeginOffset": 3610, 
+            "EndOffset": 3616
+        }, 
+        {
+            "Text": "Symantec", 
+            "Score": 0.978158712387085, 
+            "BeginOffset": 3647, 
+            "EndOffset": 3655
+        }, 
+        {
+            "Text": "certificates", 
+            "Score": 0.9979536533355713, 
+            "BeginOffset": 3663, 
+            "EndOffset": 3675
+        }, 
+        {
+            "Text": "about 30%", 
+            "Score": 0.9205672740936279, 
+            "BeginOffset": 3700, 
+            "EndOffset": 3709
+        }, 
+        {
+            "Text": "all SSL certificates", 
+            "Score": 0.7742279171943665, 
+            "BeginOffset": 3713, 
+            "EndOffset": 3733
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9941582679748535, 
+            "BeginOffset": 3768, 
+            "EndOffset": 3773
+        }, 
+        {
+            "Text": "websites", 
+            "Score": 0.9997456073760986, 
+            "BeginOffset": 3777, 
+            "EndOffset": 3785
+        }, 
+        {
+            "Text": "new certificates", 
+            "Score": 0.9973399639129639, 
+            "BeginOffset": 3833, 
+            "EndOffset": 3849
+        }, 
+        {
+            "Text": "a good idea", 
+            "Score": 0.9983646273612976, 
+            "BeginOffset": 3879, 
+            "EndOffset": 3890
+        }, 
+        {
+            "Text": "your renewal date", 
+            "Score": 0.9988189339637756, 
+            "BeginOffset": 3900, 
+            "EndOffset": 3917
+        }, 
+        {
+            "Text": "a different solution", 
+            "Score": 0.990921139717102, 
+            "BeginOffset": 3953, 
+            "EndOffset": 3973
+        }, 
+        {
+            "Text": "Encrypt", 
+            "Score": 0.9968301057815552, 
+            "BeginOffset": 3995, 
+            "EndOffset": 4002
+        }, 
+        {
+            "Text": "AWS Certificate Manager", 
+            "Score": 0.9974332451820374, 
+            "BeginOffset": 4004, 
+            "EndOffset": 4027
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9901579022407532, 
+            "BeginOffset": 4029, 
+            "EndOffset": 4039
+        }, 
+        {
+            "Text": "the many other solutions", 
+            "Score": 0.9825339317321777, 
+            "BeginOffset": 4051, 
+            "EndOffset": 4075
+        }, 
+        {
+            "Text": "STACK OVERFLOW DEVELOPER SURVEY", 
+            "Score": 0.99759840965271, 
+            "BeginOffset": 4080, 
+            "EndOffset": 4111
+        }, 
+        {
+            "Text": "every year", 
+            "Score": 0.9968109130859375, 
+            "BeginOffset": 4117, 
+            "EndOffset": 4127
+        }, 
+        {
+            "Text": "Stack Overflow", 
+            "Score": 0.859770655632019, 
+            "BeginOffset": 4129, 
+            "EndOffset": 4143
+        }, 
+        {
+            "Text": "their developer survey", 
+            "Score": 0.9057761430740356, 
+            "BeginOffset": 4148, 
+            "EndOffset": 4170
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9955035448074341, 
+            "BeginOffset": 4180, 
+            "EndOffset": 4185
+        }, 
+        {
+            "Text": "information", 
+            "Score": 0.9865147471427917, 
+            "BeginOffset": 4189, 
+            "EndOffset": 4200
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9994229078292847, 
+            "BeginOffset": 4214, 
+            "EndOffset": 4219
+        }, 
+        {
+            "Text": "an English language site", 
+            "Score": 0.9441141486167908, 
+            "BeginOffset": 4257, 
+            "EndOffset": 4281
+        }, 
+        {
+            "Text": "most respondents", 
+            "Score": 0.996213436126709, 
+            "BeginOffset": 4282, 
+            "EndOffset": 4298
+        }, 
+        {
+            "Text": "white men", 
+            "Score": 0.9886471629142761, 
+            "BeginOffset": 4303, 
+            "EndOffset": 4312
+        }, 
+        {
+            "Text": "the languages", 
+            "Score": 0.9546992778778076, 
+            "BeginOffset": 4319, 
+            "EndOffset": 4332
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9620198607444763, 
+            "BeginOffset": 4341, 
+            "EndOffset": 4347
+        }, 
+        {
+            "Text": "the ones", 
+            "Score": 0.9612104892730713, 
+            "BeginOffset": 4352, 
+            "EndOffset": 4360
+        }, 
+        {
+            "Text": "the best paid language", 
+            "Score": 0.9908895492553711, 
+            "BeginOffset": 4404, 
+            "EndOffset": 4426
+        }, 
+        {
+            "Text": "the most popular one", 
+            "Score": 0.8913276791572571, 
+            "BeginOffset": 4450, 
+            "EndOffset": 4470
+        }, 
+        {
+            "Text": "The overview", 
+            "Score": 0.9992271661758423, 
+            "BeginOffset": 4516, 
+            "EndOffset": 4528
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.8923837542533875, 
+            "BeginOffset": 4555, 
+            "EndOffset": 4560
+        }, 
+        {
+            "Text": "information", 
+            "Score": 0.999779224395752, 
+            "BeginOffset": 4564, 
+            "EndOffset": 4575
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9996589422225952, 
+            "BeginOffset": 4594, 
+            "EndOffset": 4600
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9969211220741272, 
+            "BeginOffset": 4603, 
+            "EndOffset": 4605
+        }, 
+        {
+            "Text": "a similar one", 
+            "Score": 0.974879801273346, 
+            "BeginOffset": 4613, 
+            "EndOffset": 4626
+        }, 
+        {
+            "Text": "blue Apple", 
+            "Score": 0.9964666962623596, 
+            "BeginOffset": 4630, 
+            "EndOffset": 4640
+        }, 
+        {
+            "Text": "another bright color", 
+            "Score": 0.8757384419441223, 
+            "BeginOffset": 4645, 
+            "EndOffset": 4665
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9939020276069641, 
+            "BeginOffset": 4668, 
+            "EndOffset": 4671
+        }, 
+        {
+            "Text": "Ulysses", 
+            "Score": 0.9908233880996704, 
+            "BeginOffset": 4681, 
+            "EndOffset": 4688
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.947952926158905, 
+            "BeginOffset": 4692, 
+            "EndOffset": 4702
+        }
+    ]
+}

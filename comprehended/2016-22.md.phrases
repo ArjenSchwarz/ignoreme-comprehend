@@ -1,0 +1,592 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Some additional thoughts", 
+            "Score": 0.96337890625, 
+            "BeginOffset": 0, 
+            "EndOffset": 24
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.9936147928237915, 
+            "BeginOffset": 28, 
+            "EndOffset": 37
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9709562063217163, 
+            "BeginOffset": 40, 
+            "EndOffset": 49
+        }, 
+        {
+            "Text": "a new interface", 
+            "Score": 0.9992116093635559, 
+            "BeginOffset": 51, 
+            "EndOffset": 66
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9968586564064026, 
+            "BeginOffset": 71, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "the happy result", 
+            "Score": 0.9980440139770508, 
+            "BeginOffset": 84, 
+            "EndOffset": 100
+        }, 
+        {
+            "Text": "the Oracle v Google lawsuit", 
+            "Score": 0.9945785999298096, 
+            "BeginOffset": 104, 
+            "EndOffset": 131
+        }, 
+        {
+            "Text": "BITBUCKET PIPELINES", 
+            "Score": 0.8863208293914795, 
+            "BeginOffset": 136, 
+            "EndOffset": 155
+        }, 
+        {
+            "Text": "an article", 
+            "Score": 0.9996766448020935, 
+            "BeginOffset": 182, 
+            "EndOffset": 192
+        }, 
+        {
+            "Text": "my first impressions", 
+            "Score": 0.9991001486778259, 
+            "BeginOffset": 198, 
+            "EndOffset": 218
+        }, 
+        {
+            "Text": "their Pipelines", 
+            "Score": 0.7289862036705017, 
+            "BeginOffset": 257, 
+            "EndOffset": 272
+        }, 
+        {
+            "Text": "a big move", 
+            "Score": 0.9985523819923401, 
+            "BeginOffset": 276, 
+            "EndOffset": 286
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.9961180090904236, 
+            "BeginOffset": 292, 
+            "EndOffset": 301
+        }, 
+        {
+            "Text": "The one thing", 
+            "Score": 0.9871824383735657, 
+            "BeginOffset": 352, 
+            "EndOffset": 365
+        }, 
+        {
+            "Text": "a great feature", 
+            "Score": 0.9977872371673584, 
+            "BeginOffset": 400, 
+            "EndOffset": 415
+        }, 
+        {
+            "Text": "Pull Requests", 
+            "Score": 0.9726927876472473, 
+            "BeginOffset": 452, 
+            "EndOffset": 465
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9145587682723999, 
+            "BeginOffset": 537, 
+            "EndOffset": 543
+        }, 
+        {
+            "Text": "3rd party services", 
+            "Score": 0.9907416105270386, 
+            "BeginOffset": 550, 
+            "EndOffset": 568
+        }, 
+        {
+            "Text": "a use case", 
+            "Score": 0.9978474974632263, 
+            "BeginOffset": 619, 
+            "EndOffset": 629
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9992157816886902, 
+            "BeginOffset": 654, 
+            "EndOffset": 663
+        }, 
+        {
+            "Text": "your complete CI needs", 
+            "Score": 0.978553056716919, 
+            "BeginOffset": 668, 
+            "EndOffset": 690
+        }, 
+        {
+            "Text": "some quick and basic checks", 
+            "Score": 0.8955683708190918, 
+            "BeginOffset": 707, 
+            "EndOffset": 734
+        }, 
+        {
+            "Text": "unit tests", 
+            "Score": 0.9646387100219727, 
+            "BeginOffset": 736, 
+            "EndOffset": 746
+        }, 
+        {
+            "Text": "lint checks", 
+            "Score": 0.9847486019134521, 
+            "BeginOffset": 748, 
+            "EndOffset": 759
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.99224454164505, 
+            "BeginOffset": 782, 
+            "EndOffset": 791
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9727528691291809, 
+            "BeginOffset": 824, 
+            "EndOffset": 833
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9946058392524719, 
+            "BeginOffset": 888, 
+            "EndOffset": 898
+        }, 
+        {
+            "Text": "One other thing", 
+            "Score": 0.9872308969497681, 
+            "BeginOffset": 901, 
+            "EndOffset": 916
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.7371165156364441, 
+            "BeginOffset": 983, 
+            "EndOffset": 989
+        }, 
+        {
+            "Text": "another smaller player", 
+            "Score": 0.9943914413452148, 
+            "BeginOffset": 1000, 
+            "EndOffset": 1022
+        }, 
+        {
+            "Text": "this capability", 
+            "Score": 0.8884989023208618, 
+            "BeginOffset": 1047, 
+            "EndOffset": 1062
+        }, 
+        {
+            "Text": "Gitlab", 
+            "Score": 0.9329681396484375, 
+            "BeginOffset": 1073, 
+            "EndOffset": 1079
+        }, 
+        {
+            "Text": "a complete CI tool", 
+            "Score": 0.990847647190094, 
+            "BeginOffset": 1087, 
+            "EndOffset": 1105
+        }, 
+        {
+            "Text": "their repository hosting", 
+            "Score": 0.996240496635437, 
+            "BeginOffset": 1111, 
+            "EndOffset": 1135
+        }, 
+        {
+            "Text": "either SaaS or self-hosted", 
+            "Score": 0.8992570638656616, 
+            "BeginOffset": 1137, 
+            "EndOffset": 1163
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9997139573097229, 
+            "BeginOffset": 1169, 
+            "EndOffset": 1178
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9967383146286011, 
+            "BeginOffset": 1185, 
+            "EndOffset": 1190
+        }, 
+        {
+            "Text": "an example", 
+            "Score": 0.9953011274337769, 
+            "BeginOffset": 1247, 
+            "EndOffset": 1257
+        }, 
+        {
+            "Text": "JENKINS BLUE OCEAN", 
+            "Score": 0.9331484436988831, 
+            "BeginOffset": 1303, 
+            "EndOffset": 1321
+        }, 
+        {
+            "Text": "CI tools", 
+            "Score": 0.9895266890525818, 
+            "BeginOffset": 1348, 
+            "EndOffset": 1356
+        }, 
+        {
+            "Text": "a new interface", 
+            "Score": 0.9992969036102295, 
+            "BeginOffset": 1358, 
+            "EndOffset": 1373
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9994630813598633, 
+            "BeginOffset": 1378, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9161734580993652, 
+            "BeginOffset": 1400, 
+            "EndOffset": 1409
+        }, 
+        {
+            "Text": "Blue Ocean", 
+            "Score": 0.9989610910415649, 
+            "BeginOffset": 1417, 
+            "EndOffset": 1427
+        }, 
+        {
+            "Text": "early stages", 
+            "Score": 0.9944453239440918, 
+            "BeginOffset": 1440, 
+            "EndOffset": 1452
+        }, 
+        {
+            "Text": "The Jenkins interface", 
+            "Score": 0.9979888796806335, 
+            "BeginOffset": 1502, 
+            "EndOffset": 1523
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9956364035606384, 
+            "BeginOffset": 1535, 
+            "EndOffset": 1540
+        }, 
+        {
+            "Text": "the introduction", 
+            "Score": 0.9208105206489563, 
+            "BeginOffset": 1572, 
+            "EndOffset": 1588
+        }, 
+        {
+            "Text": "its pipelines", 
+            "Score": 0.9995757341384888, 
+            "BeginOffset": 1592, 
+            "EndOffset": 1605
+        }, 
+        {
+            "Text": "a great improvement", 
+            "Score": 0.9773673415184021, 
+            "BeginOffset": 1627, 
+            "EndOffset": 1646
+        }, 
+        {
+            "Text": "ORACLE VS GOOGLE\n\n\nA 2 week trial", 
+            "Score": 0.8562914133071899, 
+            "BeginOffset": 1651, 
+            "EndOffset": 1684
+        }, 
+        {
+            "Text": "the result", 
+            "Score": 0.9574838280677795, 
+            "BeginOffset": 1700, 
+            "EndOffset": 1710
+        }, 
+        {
+            "Text": "most developers", 
+            "Score": 0.9789252877235413, 
+            "BeginOffset": 1711, 
+            "EndOffset": 1726
+        }, 
+        {
+            "Text": "2010 Oracle", 
+            "Score": 0.9924042224884033, 
+            "BeginOffset": 1747, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.7909801006317139, 
+            "BeginOffset": 1764, 
+            "EndOffset": 1770
+        }, 
+        {
+            "Text": "copyright infringement", 
+            "Score": 0.9892033934593201, 
+            "BeginOffset": 1775, 
+            "EndOffset": 1797
+        }, 
+        {
+            "Text": "the Java APIs", 
+            "Score": 0.9051854014396667, 
+            "BeginOffset": 1816, 
+            "EndOffset": 1829
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9947826862335205, 
+            "BeginOffset": 1841, 
+            "EndOffset": 1848
+        }, 
+        {
+            "Text": "The original case", 
+            "Score": 0.9953118562698364, 
+            "BeginOffset": 1850, 
+            "EndOffset": 1867
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9997788667678833, 
+            "BeginOffset": 1879, 
+            "EndOffset": 1885
+        }, 
+        {
+            "Text": "the assumption", 
+            "Score": 0.9989688992500305, 
+            "BeginOffset": 1893, 
+            "EndOffset": 1907
+        }, 
+        {
+            "Text": "APIs", 
+            "Score": 0.9983369708061218, 
+            "BeginOffset": 1913, 
+            "EndOffset": 1917
+        }, 
+        {
+            "Text": "the fair use case", 
+            "Score": 0.9053558111190796, 
+            "BeginOffset": 1996, 
+            "EndOffset": 2013
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.981657087802887, 
+            "BeginOffset": 2019, 
+            "EndOffset": 2028
+        }, 
+        {
+            "Text": "this important[1]", 
+            "Score": 0.909216046333313, 
+            "BeginOffset": 2073, 
+            "EndOffset": 2090
+        }, 
+        {
+            "Text": "APIs", 
+            "Score": 0.7642834782600403, 
+            "BeginOffset": 2092, 
+            "EndOffset": 2096
+        }, 
+        {
+            "Text": "all the time", 
+            "Score": 0.9522146582603455, 
+            "BeginOffset": 2115, 
+            "EndOffset": 2127
+        }, 
+        {
+            "Text": "a copyright", 
+            "Score": 0.9609182476997375, 
+            "BeginOffset": 2158, 
+            "EndOffset": 2169
+        }, 
+        {
+            "Text": "developers", 
+            "Score": 0.9966861009597778, 
+            "BeginOffset": 2207, 
+            "EndOffset": 2217
+        }, 
+        {
+            "Text": "lawsuits", 
+            "Score": 0.9821665287017822, 
+            "BeginOffset": 2221, 
+            "EndOffset": 2229
+        }, 
+        {
+            "Text": "this way", 
+            "Score": 0.9419461488723755, 
+            "BeginOffset": 2244, 
+            "EndOffset": 2252
+        }, 
+        {
+            "Text": "some chance", 
+            "Score": 0.9264781475067139, 
+            "BeginOffset": 2280, 
+            "EndOffset": 2291
+        }, 
+        {
+            "Text": "those lawsuits", 
+            "Score": 0.9981722235679626, 
+            "BeginOffset": 2306, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "deep enough pockets", 
+            "Score": 0.9894520044326782, 
+            "BeginOffset": 2340, 
+            "EndOffset": 2359
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9993859529495239, 
+            "BeginOffset": 2373, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "A couple", 
+            "Score": 0.9912406802177429, 
+            "BeginOffset": 2415, 
+            "EndOffset": 2423
+        }, 
+        {
+            "Text": "examples", 
+            "Score": 0.9996290802955627, 
+            "BeginOffset": 2427, 
+            "EndOffset": 2435
+        }, 
+        {
+            "Text": "reimplemented APIs", 
+            "Score": 0.9986005425453186, 
+            "BeginOffset": 2439, 
+            "EndOffset": 2457
+        }, 
+        {
+            "Text": "Mono", 
+            "Score": 0.9988797307014465, 
+            "BeginOffset": 2462, 
+            "EndOffset": 2466
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9525195956230164, 
+            "BeginOffset": 2482, 
+            "EndOffset": 2491
+        }, 
+        {
+            "Text": "Microsoft[2]", 
+            "Score": 0.9626297354698181, 
+            "BeginOffset": 2545, 
+            "EndOffset": 2557
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9805915951728821, 
+            "BeginOffset": 2568, 
+            "EndOffset": 2574
+        }, 
+        {
+            "Text": "' reimplementation", 
+            "Score": 0.7599022388458252, 
+            "BeginOffset": 2587, 
+            "EndOffset": 2605
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9931538701057434, 
+            "BeginOffset": 2609, 
+            "EndOffset": 2615
+        }, 
+        {
+            "Text": "Android APIs", 
+            "Score": 0.9826872944831848, 
+            "BeginOffset": 2618, 
+            "EndOffset": 2630
+        }, 
+        {
+            "Text": "the Java APIs", 
+            "Score": 0.8782066702842712, 
+            "BeginOffset": 2701, 
+            "EndOffset": 2714
+        }, 
+        {
+            "Text": "question[3]", 
+            "Score": 0.9977328181266785, 
+            "BeginOffset": 2718, 
+            "EndOffset": 2729
+        }, 
+        {
+            "Text": "any other verdict", 
+            "Score": 0.8091331720352173, 
+            "BeginOffset": 2735, 
+            "EndOffset": 2752
+        }, 
+        {
+            "Text": "trouble", 
+            "Score": 0.9922167658805847, 
+            "BeginOffset": 2772, 
+            "EndOffset": 2779
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9996142983436584, 
+            "BeginOffset": 2782, 
+            "EndOffset": 2784
+        }, 
+        {
+            "Text": "any potential repercussions", 
+            "Score": 0.8308493494987488, 
+            "BeginOffset": 2797, 
+            "EndOffset": 2824
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.8082226514816284, 
+            "BeginOffset": 2829, 
+            "EndOffset": 2836
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9990693926811218, 
+            "BeginOffset": 2839, 
+            "EndOffset": 2842
+        }, 
+        {
+            "Text": "corporate infighting", 
+            "Score": 0.8517642021179199, 
+            "BeginOffset": 2870, 
+            "EndOffset": 2890
+        }, 
+        {
+            "Text": "a whole new level", 
+            "Score": 0.9966461658477783, 
+            "BeginOffset": 2894, 
+            "EndOffset": 2911
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.998741090297699, 
+            "BeginOffset": 2914, 
+            "EndOffset": 2917
+        }, 
+        {
+            "Text": "Which Oracle", 
+            "Score": 0.9991963505744934, 
+            "BeginOffset": 2918, 
+            "EndOffset": 2930
+        }, 
+        {
+            "Text": "Sun", 
+            "Score": 0.7642528414726257, 
+            "BeginOffset": 2956, 
+            "EndOffset": 2959
+        }
+    ]
+}

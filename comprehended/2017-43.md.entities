@@ -1,0 +1,214 @@
+{
+    "Entities": [
+        {
+            "Text": "KRACK", 
+            "Score": 0.22811250388622284, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4, 
+            "EndOffset": 9
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.6379815936088562, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 35, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.575393795967102, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 65, 
+            "EndOffset": 71
+        }, 
+        {
+            "Text": "KRACK", 
+            "Score": 0.5915152430534363, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 76, 
+            "EndOffset": 81
+        }, 
+        {
+            "Text": "KRACK", 
+            "Score": 0.6566440463066101, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 339, 
+            "EndOffset": 344
+        }, 
+        {
+            "Text": "WPA", 
+            "Score": 0.41558703780174255, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 364, 
+            "EndOffset": 367
+        }, 
+        {
+            "Text": "KRACK", 
+            "Score": 0.6724050045013428, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 500, 
+            "EndOffset": 505
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999990463256836, 
+            "Type": "TITLE", 
+            "BeginOffset": 1400, 
+            "EndOffset": 1407
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9960917830467224, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1850, 
+            "EndOffset": 1860
+        }, 
+        {
+            "Text": "first class", 
+            "Score": 0.5983513593673706, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1870, 
+            "EndOffset": 1881
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.5779679417610168, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1908, 
+            "EndOffset": 1914
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999980926513672, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1936, 
+            "EndOffset": 1946
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9994916915893555, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1988, 
+            "EndOffset": 1994
+        }, 
+        {
+            "Text": "CRI-O", 
+            "Score": 0.9204498529434204, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1998, 
+            "EndOffset": 2003
+        }, 
+        {
+            "Text": "two projects", 
+            "Score": 0.9999749064445496, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2026, 
+            "EndOffset": 2038
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999986886978149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2069, 
+            "EndOffset": 2079
+        }, 
+        {
+            "Text": "Swarm", 
+            "Score": 0.9998133778572083, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2110, 
+            "EndOffset": 2115
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999948740005493, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2153, 
+            "EndOffset": 2159
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999947547912598, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2198, 
+            "EndOffset": 2208
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999992847442627, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2242, 
+            "EndOffset": 2248
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.999994158744812, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2287, 
+            "EndOffset": 2293
+        }, 
+        {
+            "Text": "Swarm", 
+            "Score": 0.9997453093528748, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2318, 
+            "EndOffset": 2323
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999037981033325, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2332, 
+            "EndOffset": 2342
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9999991655349731, 
+            "Type": "PERSON", 
+            "BeginOffset": 2410, 
+            "EndOffset": 2414
+        }, 
+        {
+            "Text": "5", 
+            "Score": 0.9999954700469971, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2415, 
+            "EndOffset": 2416
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.999996542930603, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2553, 
+            "EndOffset": 2559
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999725818634033, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2609, 
+            "EndOffset": 2619
+        }, 
+        {
+            "Text": "both projects", 
+            "Score": 0.9999901056289673, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2804, 
+            "EndOffset": 2817
+        }, 
+        {
+            "Text": "version 6.0", 
+            "Score": 0.9938552379608154, 
+            "Type": "OTHER", 
+            "BeginOffset": 3008, 
+            "EndOffset": 3019
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999988079071045, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3061, 
+            "EndOffset": 3067
+        }
+    ]
+}

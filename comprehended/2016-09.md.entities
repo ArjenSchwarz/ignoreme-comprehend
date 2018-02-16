@@ -1,0 +1,375 @@
+{
+    "Entities": [
+        {
+            "Text": "This week", 
+            "Score": 0.9195975661277771, 
+            "Type": "DATE", 
+            "BeginOffset": 0, 
+            "EndOffset": 9
+        }, 
+        {
+            "Text": "past week", 
+            "Score": 0.9052842855453491, 
+            "Type": "DATE", 
+            "BeginOffset": 184, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9179295301437378, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 262, 
+            "EndOffset": 267
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.5544947981834412, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 269, 
+            "EndOffset": 276
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.8661223649978638, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 294, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.7157188057899475, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 305, 
+            "EndOffset": 312
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9712239503860474, 
+            "Type": "TITLE", 
+            "BeginOffset": 352, 
+            "EndOffset": 355
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9357165098190308, 
+            "Type": "TITLE", 
+            "BeginOffset": 360, 
+            "EndOffset": 367
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9803202152252197, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 413, 
+            "EndOffset": 422
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.8757596015930176, 
+            "Type": "TITLE", 
+            "BeginOffset": 453, 
+            "EndOffset": 460
+        }, 
+        {
+            "Text": "late last year", 
+            "Score": 0.8783936500549316, 
+            "Type": "DATE", 
+            "BeginOffset": 647, 
+            "EndOffset": 661
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.3363690972328186, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 686, 
+            "EndOffset": 693
+        }, 
+        {
+            "Text": "Mono", 
+            "Score": 0.3755030333995819, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 770, 
+            "EndOffset": 774
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.7722810506820679, 
+            "Type": "TITLE", 
+            "BeginOffset": 863, 
+            "EndOffset": 868
+        }, 
+        {
+            "Text": "first time", 
+            "Score": 0.7477030158042908, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 874, 
+            "EndOffset": 884
+        }, 
+        {
+            "Text": "Beagle", 
+            "Score": 0.6195704340934753, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 908, 
+            "EndOffset": 914
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.828284740447998, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 953, 
+            "EndOffset": 958
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9999997615814209, 
+            "Type": "TITLE", 
+            "BeginOffset": 988, 
+            "EndOffset": 994
+        }, 
+        {
+            "Text": "Beagle", 
+            "Score": 0.9997071623802185, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1050, 
+            "EndOffset": 1056
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.999963641166687, 
+            "Type": "TITLE", 
+            "BeginOffset": 1239, 
+            "EndOffset": 1244
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999852180480957, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1289, 
+            "EndOffset": 1298
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.999840497970581, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1354, 
+            "EndOffset": 1363
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9869770407676697, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1578, 
+            "EndOffset": 1587
+        }, 
+        {
+            "Text": "Mono", 
+            "Score": 0.9999887943267822, 
+            "Type": "TITLE", 
+            "BeginOffset": 1680, 
+            "EndOffset": 1684
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999986886978149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1733, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.9997256398200989, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1916, 
+            "EndOffset": 1923
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9989694356918335, 
+            "Type": "DATE", 
+            "BeginOffset": 2083, 
+            "EndOffset": 2092
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9997451901435852, 
+            "Type": "PERSON", 
+            "BeginOffset": 2129, 
+            "EndOffset": 2134
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999886751174927, 
+            "Type": "TITLE", 
+            "BeginOffset": 2198, 
+            "EndOffset": 2205
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999958276748657, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2395, 
+            "EndOffset": 2400
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2593, 
+            "EndOffset": 2598
+        }, 
+        {
+            "Text": "Java", 
+            "Score": 0.9999794960021973, 
+            "Type": "TITLE", 
+            "BeginOffset": 2900, 
+            "EndOffset": 2904
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.9997333884239197, 
+            "Type": "TITLE", 
+            "BeginOffset": 3122, 
+            "EndOffset": 3129
+        }, 
+        {
+            "Text": "Go 1.5", 
+            "Score": 0.9999498128890991, 
+            "Type": "TITLE", 
+            "BeginOffset": 3247, 
+            "EndOffset": 3253
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9999375939369202, 
+            "Type": "DATE", 
+            "BeginOffset": 3254, 
+            "EndOffset": 3263
+        }, 
+        {
+            "Text": "Go Mobile", 
+            "Score": 0.9419413805007935, 
+            "Type": "TITLE", 
+            "BeginOffset": 3282, 
+            "EndOffset": 3291
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999936819076538, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3391, 
+            "EndOffset": 3395
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9997947812080383, 
+            "Type": "TITLE", 
+            "BeginOffset": 3396, 
+            "EndOffset": 3403
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.7918189764022827, 
+            "Type": "TITLE", 
+            "BeginOffset": 3408, 
+            "EndOffset": 3411
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9999788999557495, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3632, 
+            "EndOffset": 3637
+        }, 
+        {
+            "Text": "1.6", 
+            "Score": 0.999976634979248, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3835, 
+            "EndOffset": 3838
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9985318779945374, 
+            "Type": "DATE", 
+            "BeginOffset": 3876, 
+            "EndOffset": 3885
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9998304843902588, 
+            "Type": "PERSON", 
+            "BeginOffset": 3968, 
+            "EndOffset": 3973
+        }, 
+        {
+            "Text": "5", 
+            "Score": 1.0, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3974, 
+            "EndOffset": 3975
+        }, 
+        {
+            "Text": "1.6", 
+            "Score": 0.8557960391044617, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4003, 
+            "EndOffset": 4006
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999750852584839, 
+            "Type": "TITLE", 
+            "BeginOffset": 4523, 
+            "EndOffset": 4526
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9999995231628418, 
+            "Type": "TITLE", 
+            "BeginOffset": 4575, 
+            "EndOffset": 4580
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999997615814209, 
+            "Type": "TITLE", 
+            "BeginOffset": 4591, 
+            "EndOffset": 4598
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999984502792358, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4605, 
+            "EndOffset": 4609
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999843835830688, 
+            "Type": "TITLE", 
+            "BeginOffset": 4645, 
+            "EndOffset": 4648
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9991507530212402, 
+            "Type": "TITLE", 
+            "BeginOffset": 4697, 
+            "EndOffset": 4702
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.9999386072158813, 
+            "Type": "OTHER", 
+            "BeginOffset": 4800, 
+            "EndOffset": 4809
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9995238780975342, 
+            "Type": "PERSON", 
+            "BeginOffset": 4844, 
+            "EndOffset": 4849
+        }
+    ]
+}

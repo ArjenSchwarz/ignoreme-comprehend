@@ -1,0 +1,1018 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "This week", 
+            "Score": 0.9994428157806396, 
+            "BeginOffset": 0, 
+            "EndOffset": 9
+        }, 
+        {
+            "Text": "a focus", 
+            "Score": 0.9977907538414001, 
+            "BeginOffset": 21, 
+            "EndOffset": 28
+        }, 
+        {
+            "Text": "programming languages", 
+            "Score": 0.9898565411567688, 
+            "BeginOffset": 32, 
+            "EndOffset": 53
+        }, 
+        {
+            "Text": "cross-platform work", 
+            "Score": 0.871434211730957, 
+            "BeginOffset": 72, 
+            "EndOffset": 91
+        }, 
+        {
+            "Text": "CROSSING THE", 
+            "Score": 0.7593079209327698, 
+            "BeginOffset": 96, 
+            "EndOffset": 108
+        }, 
+        {
+            "Text": "cross-platform work", 
+            "Score": 0.9850217700004578, 
+            "BeginOffset": 143, 
+            "EndOffset": 162
+        }, 
+        {
+            "Text": "this past week", 
+            "Score": 0.9858183264732361, 
+            "BeginOffset": 179, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9987828731536865, 
+            "BeginOffset": 205, 
+            "EndOffset": 213
+        }, 
+        {
+            "Text": "events", 
+            "Score": 0.9996535778045654, 
+            "BeginOffset": 217, 
+            "EndOffset": 223
+        }, 
+        {
+            "Text": "that situation", 
+            "Score": 0.9944030046463013, 
+            "BeginOffset": 245, 
+            "EndOffset": 259
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.9517174959182739, 
+            "BeginOffset": 269, 
+            "EndOffset": 276
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9964694976806641, 
+            "BeginOffset": 294, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.9747616648674011, 
+            "BeginOffset": 305, 
+            "EndOffset": 312
+        }, 
+        {
+            "Text": "a platform", 
+            "Score": 0.998476505279541, 
+            "BeginOffset": 316, 
+            "EndOffset": 326
+        }, 
+        {
+            "Text": "iOS and Android applications", 
+            "Score": 0.9508711099624634, 
+            "BeginOffset": 352, 
+            "EndOffset": 380
+        }, 
+        {
+            "Text": "C# and", 
+            "Score": 0.7725003361701965, 
+            "BeginOffset": 384, 
+            "EndOffset": 390
+        }, 
+        {
+            "Text": "NET", 
+            "Score": 0.8910561800003052, 
+            "BeginOffset": 392, 
+            "EndOffset": 395
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9691125750541687, 
+            "BeginOffset": 413, 
+            "EndOffset": 422
+        }, 
+        {
+            "Text": "its Windows-only policy", 
+            "Score": 0.9836783409118652, 
+            "BeginOffset": 449, 
+            "EndOffset": 472
+        }, 
+        {
+            "Text": "their products", 
+            "Score": 0.9249552488327026, 
+            "BeginOffset": 499, 
+            "EndOffset": 513
+        }, 
+        {
+            "Text": "available cross-platform", 
+            "Score": 0.8624640703201294, 
+            "BeginOffset": 514, 
+            "EndOffset": 538
+        }, 
+        {
+            "Text": "an obvious move", 
+            "Score": 0.9991707801818848, 
+            "BeginOffset": 547, 
+            "EndOffset": 562
+        }, 
+        {
+            "Text": "their decision", 
+            "Score": 0.9941808581352234, 
+            "BeginOffset": 585, 
+            "EndOffset": 599
+        }, 
+        {
+            "Text": "source", 
+            "Score": 0.9155451655387878, 
+            "BeginOffset": 608, 
+            "EndOffset": 614
+        }, 
+        {
+            "Text": "their Visual Studio Code editor", 
+            "Score": 0.9837467074394226, 
+            "BeginOffset": 615, 
+            "EndOffset": 646
+        }, 
+        {
+            "Text": "late last year", 
+            "Score": 0.9858273863792419, 
+            "BeginOffset": 647, 
+            "EndOffset": 661
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.9826698303222656, 
+            "BeginOffset": 686, 
+            "EndOffset": 693
+        }, 
+        {
+            "Text": "a related open source project", 
+            "Score": 0.9948840141296387, 
+            "BeginOffset": 714, 
+            "EndOffset": 743
+        }, 
+        {
+            "Text": "[1] Mono", 
+            "Score": 0.9157822728157043, 
+            "BeginOffset": 760, 
+            "EndOffset": 768
+        }, 
+        {
+            "Text": "Mono", 
+            "Score": 0.9953287839889526, 
+            "BeginOffset": 770, 
+            "EndOffset": 774
+        }, 
+        {
+            "Text": "an open source reimplementation", 
+            "Score": 0.9967482686042786, 
+            "BeginOffset": 778, 
+            "EndOffset": 809
+        }, 
+        {
+            "Text": "the .NET framework", 
+            "Score": 0.9788016676902771, 
+            "BeginOffset": 813, 
+            "EndOffset": 831
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.8781706690788269, 
+            "BeginOffset": 863, 
+            "EndOffset": 868
+        }, 
+        {
+            "Text": "The first time", 
+            "Score": 0.9970921277999878, 
+            "BeginOffset": 870, 
+            "EndOffset": 884
+        }, 
+        {
+            "Text": "Beagle", 
+            "Score": 0.9467388391494751, 
+            "BeginOffset": 908, 
+            "EndOffset": 914
+        }, 
+        {
+            "Text": "a system", 
+            "Score": 0.766251802444458, 
+            "BeginOffset": 916, 
+            "EndOffset": 924
+        }, 
+        {
+            "Text": "wide search tool", 
+            "Score": 0.9105986952781677, 
+            "BeginOffset": 925, 
+            "EndOffset": 941
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9870323538780212, 
+            "BeginOffset": 953, 
+            "EndOffset": 958
+        }, 
+        {
+            "Text": "Spotlight", 
+            "Score": 0.9961527585983276, 
+            "BeginOffset": 961, 
+            "EndOffset": 970
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9917061924934387, 
+            "BeginOffset": 988, 
+            "EndOffset": 994
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9885545969009399, 
+            "BeginOffset": 999, 
+            "EndOffset": 1007
+        }, 
+        {
+            "Text": "my desktop environment", 
+            "Score": 0.8115675449371338, 
+            "BeginOffset": 1023, 
+            "EndOffset": 1045
+        }, 
+        {
+            "Text": "Beagle", 
+            "Score": 0.9062613844871521, 
+            "BeginOffset": 1050, 
+            "EndOffset": 1056
+        }, 
+        {
+            "Text": "a nice tool", 
+            "Score": 0.9977842569351196, 
+            "BeginOffset": 1061, 
+            "EndOffset": 1072
+        }, 
+        {
+            "Text": "development", 
+            "Score": 0.9583759307861328, 
+            "BeginOffset": 1098, 
+            "EndOffset": 1109
+        }, 
+        {
+            "Text": "something else", 
+            "Score": 0.9984778761863708, 
+            "BeginOffset": 1141, 
+            "EndOffset": 1155
+        }, 
+        {
+            "Text": "top", 
+            "Score": 0.9503101110458374, 
+            "BeginOffset": 1183, 
+            "EndOffset": 1186
+        }, 
+        {
+            "Text": "the wider Linux community", 
+            "Score": 0.9068966507911682, 
+            "BeginOffset": 1229, 
+            "EndOffset": 1254
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9895455241203308, 
+            "BeginOffset": 1258, 
+            "EndOffset": 1266
+        }, 
+        {
+            "Text": "the use", 
+            "Score": 0.9990308880805969, 
+            "BeginOffset": 1278, 
+            "EndOffset": 1285
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9987396001815796, 
+            "BeginOffset": 1289, 
+            "EndOffset": 1298
+        }, 
+        {
+            "Text": "technology", 
+            "Score": 0.7794722318649292, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1319
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9834343194961548, 
+            "BeginOffset": 1323, 
+            "EndOffset": 1331
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.8248485326766968, 
+            "BeginOffset": 1354, 
+            "EndOffset": 1363
+        }, 
+        {
+            "Text": "tactics", 
+            "Score": 0.795543909072876, 
+            "BeginOffset": 1372, 
+            "EndOffset": 1379
+        }, 
+        {
+            "Text": "open source developers", 
+            "Score": 0.9806899428367615, 
+            "BeginOffset": 1413, 
+            "EndOffset": 1435
+        }, 
+        {
+            "Text": "communists", 
+            "Score": 0.9797573685646057, 
+            "BeginOffset": 1439, 
+            "EndOffset": 1449
+        }, 
+        {
+            "Text": "these reactions", 
+            "Score": 0.9743731617927551, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1502
+        }, 
+        {
+            "Text": "The main fear", 
+            "Score": 0.9978969097137451, 
+            "BeginOffset": 1529, 
+            "EndOffset": 1542
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9839876294136047, 
+            "BeginOffset": 1546, 
+            "EndOffset": 1554
+        }, 
+        {
+            "Text": "some point", 
+            "Score": 0.8673438429832458, 
+            "BeginOffset": 1567, 
+            "EndOffset": 1577
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9839300513267517, 
+            "BeginOffset": 1578, 
+            "EndOffset": 1587
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.6542283892631531, 
+            "BeginOffset": 1607, 
+            "EndOffset": 1609
+        }, 
+        {
+            "Text": "the proprietary/copyrighted parts", 
+            "Score": 0.9849538803100586, 
+            "BeginOffset": 1616, 
+            "EndOffset": 1649
+        }, 
+        {
+            "Text": "the specifications", 
+            "Score": 0.9999446272850037, 
+            "BeginOffset": 1653, 
+            "EndOffset": 1671
+        }, 
+        {
+            "Text": "Mono", 
+            "Score": 0.9970287084579468, 
+            "BeginOffset": 1680, 
+            "EndOffset": 1684
+        }, 
+        {
+            "Text": "code", 
+            "Score": 0.9873614311218262, 
+            "BeginOffset": 1691, 
+            "EndOffset": 1695
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9739188551902771, 
+            "BeginOffset": 1709, 
+            "EndOffset": 1717
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9988962411880493, 
+            "BeginOffset": 1733, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.4503469169139862, 
+            "BeginOffset": 1756, 
+            "EndOffset": 1759
+        }, 
+        {
+            "Text": "the better", 
+            "Score": 0.993414044380188, 
+            "BeginOffset": 1818, 
+            "EndOffset": 1828
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.994181215763092, 
+            "BeginOffset": 1833, 
+            "EndOffset": 1837
+        }, 
+        {
+            "Text": "their recent acquisitions", 
+            "Score": 0.990917444229126, 
+            "BeginOffset": 1850, 
+            "EndOffset": 1875
+        }, 
+        {
+            "Text": "a good steward", 
+            "Score": 0.9992057085037231, 
+            "BeginOffset": 1898, 
+            "EndOffset": 1912
+        }, 
+        {
+            "Text": "Xamarin", 
+            "Score": 0.9983883500099182, 
+            "BeginOffset": 1916, 
+            "EndOffset": 1923
+        }, 
+        {
+            "Text": "their own products", 
+            "Score": 0.9995747208595276, 
+            "BeginOffset": 1967, 
+            "EndOffset": 1985
+        }, 
+        {
+            "Text": "quite a bit", 
+            "Score": 0.9802196621894836, 
+            "BeginOffset": 2009, 
+            "EndOffset": 2020
+        }, 
+        {
+            "Text": "improvements", 
+            "Score": 0.7925142645835876, 
+            "BeginOffset": 2024, 
+            "EndOffset": 2036
+        }, 
+        {
+            "Text": "the product", 
+            "Score": 0.9987119436264038, 
+            "BeginOffset": 2040, 
+            "EndOffset": 2051
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.8465553522109985, 
+            "BeginOffset": 2083, 
+            "EndOffset": 2092
+        }, 
+        {
+            "Text": "a pull request", 
+            "Score": 0.8669776916503906, 
+            "BeginOffset": 2111, 
+            "EndOffset": 2125
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9988056421279907, 
+            "BeginOffset": 2129, 
+            "EndOffset": 2134
+        }, 
+        {
+            "Text": "a port", 
+            "Score": 0.8074313402175903, 
+            "BeginOffset": 2187, 
+            "EndOffset": 2193
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.998730480670929, 
+            "BeginOffset": 2198, 
+            "EndOffset": 2205
+        }, 
+        {
+            "Text": "master", 
+            "Score": 0.9596011638641357, 
+            "BeginOffset": 2250, 
+            "EndOffset": 2256
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9998882412910461, 
+            "BeginOffset": 2258, 
+            "EndOffset": 2263
+        }, 
+        {
+            "Text": "good work", 
+            "Score": 0.9975795149803162, 
+            "BeginOffset": 2267, 
+            "EndOffset": 2276
+        }, 
+        {
+            "Text": "the requester", 
+            "Score": 0.9992565512657166, 
+            "BeginOffset": 2294, 
+            "EndOffset": 2307
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9997251033782959, 
+            "BeginOffset": 2330, 
+            "EndOffset": 2334
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9972304701805115, 
+            "BeginOffset": 2395, 
+            "EndOffset": 2400
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9984446167945862, 
+            "BeginOffset": 2430, 
+            "EndOffset": 2433
+        }, 
+        {
+            "Text": "the advantages", 
+            "Score": 0.9478987455368042, 
+            "BeginOffset": 2453, 
+            "EndOffset": 2467
+        }, 
+        {
+            "Text": "open source software", 
+            "Score": 0.9913322329521179, 
+            "BeginOffset": 2471, 
+            "EndOffset": 2491
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9177504181861877, 
+            "BeginOffset": 2550, 
+            "EndOffset": 2558
+        }, 
+        {
+            "Text": "the Swift maintainers", 
+            "Score": 0.9828823208808899, 
+            "BeginOffset": 2589, 
+            "EndOffset": 2610
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9989522099494934, 
+            "BeginOffset": 2716, 
+            "EndOffset": 2724
+        }, 
+        {
+            "Text": "developers", 
+            "Score": 0.9749125242233276, 
+            "BeginOffset": 2728, 
+            "EndOffset": 2738
+        }, 
+        {
+            "Text": "cross-platform apps", 
+            "Score": 0.9989291429519653, 
+            "BeginOffset": 2749, 
+            "EndOffset": 2768
+        }, 
+        {
+            "Text": "a single language", 
+            "Score": 0.9970692992210388, 
+            "BeginOffset": 2802, 
+            "EndOffset": 2819
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9993789792060852, 
+            "BeginOffset": 2860, 
+            "EndOffset": 2865
+        }, 
+        {
+            "Text": "Objective-C and Java", 
+            "Score": 0.9802842736244202, 
+            "BeginOffset": 2884, 
+            "EndOffset": 2904
+        }, 
+        {
+            "Text": "a single code base", 
+            "Score": 0.9792602062225342, 
+            "BeginOffset": 2910, 
+            "EndOffset": 2928
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.996584951877594, 
+            "BeginOffset": 2948, 
+            "EndOffset": 2959
+        }, 
+        {
+            "Text": "the server side code", 
+            "Score": 0.9189717769622803, 
+            "BeginOffset": 2968, 
+            "EndOffset": 2988
+        }, 
+        {
+            "Text": "the same language", 
+            "Score": 0.9981755018234253, 
+            "BeginOffset": 2992, 
+            "EndOffset": 3009
+        }, 
+        {
+            "Text": "a big win", 
+            "Score": 0.679606020450592, 
+            "BeginOffset": 3044, 
+            "EndOffset": 3053
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9985551238059998, 
+            "BeginOffset": 3057, 
+            "EndOffset": 3067
+        }, 
+        {
+            "Text": "something similar", 
+            "Score": 0.9963803887367249, 
+            "BeginOffset": 3081, 
+            "EndOffset": 3098
+        }, 
+        {
+            "Text": "Xamarin and other tools", 
+            "Score": 0.9573621153831482, 
+            "BeginOffset": 3122, 
+            "EndOffset": 3145
+        }, 
+        {
+            "Text": "open source", 
+            "Score": 0.9944037199020386, 
+            "BeginOffset": 3190, 
+            "EndOffset": 3201
+        }, 
+        {
+            "Text": "a far longer time", 
+            "Score": 0.8913337588310242, 
+            "BeginOffset": 3206, 
+            "EndOffset": 3223
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9788861870765686, 
+            "BeginOffset": 3232, 
+            "EndOffset": 3243
+        }, 
+        {
+            "Text": "Go 1.5", 
+            "Score": 0.953234851360321, 
+            "BeginOffset": 3247, 
+            "EndOffset": 3253
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9998205900192261, 
+            "BeginOffset": 3254, 
+            "EndOffset": 3263
+        }, 
+        {
+            "Text": "the Go Mobile project", 
+            "Score": 0.9811334013938904, 
+            "BeginOffset": 3278, 
+            "EndOffset": 3299
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9928335547447205, 
+            "BeginOffset": 3304, 
+            "EndOffset": 3312
+        }, 
+        {
+            "Text": "an experimental project", 
+            "Score": 0.998322606086731, 
+            "BeginOffset": 3327, 
+            "EndOffset": 3350
+        }, 
+        {
+            "Text": "complete Go applications", 
+            "Score": 0.9992695450782776, 
+            "BeginOffset": 3363, 
+            "EndOffset": 3387
+        }, 
+        {
+            "Text": "both Android and iOS devices", 
+            "Score": 0.9885119795799255, 
+            "BeginOffset": 3391, 
+            "EndOffset": 3419
+        }, 
+        {
+            "Text": "development", 
+            "Score": 0.9977893829345703, 
+            "BeginOffset": 3454, 
+            "EndOffset": 3465
+        }, 
+        {
+            "Text": "a mobile developer", 
+            "Score": 0.9723069667816162, 
+            "BeginOffset": 3536, 
+            "EndOffset": 3554
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.990910530090332, 
+            "BeginOffset": 3570, 
+            "EndOffset": 3575
+        }, 
+        {
+            "Text": "attention", 
+            "Score": 0.9996966123580933, 
+            "BeginOffset": 3579, 
+            "EndOffset": 3588
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9999608993530273, 
+            "BeginOffset": 3592, 
+            "EndOffset": 3598
+        }, 
+        {
+            "Text": "which language", 
+            "Score": 0.9869409203529358, 
+            "BeginOffset": 3643, 
+            "EndOffset": 3657
+        }, 
+        {
+            "Text": "that cross platform development options", 
+            "Score": 0.9525547027587891, 
+            "BeginOffset": 3682, 
+            "EndOffset": 3721
+        }, 
+        {
+            "Text": "these efforts", 
+            "Score": 0.9090617895126343, 
+            "BeginOffset": 3768, 
+            "EndOffset": 3781
+        }, 
+        {
+            "Text": "the major companies", 
+            "Score": 0.8612776398658752, 
+            "BeginOffset": 3799, 
+            "EndOffset": 3818
+        }, 
+        {
+            "Text": "GO 1.6", 
+            "Score": 0.9975053668022156, 
+            "BeginOffset": 3832, 
+            "EndOffset": 3838
+        }, 
+        {
+            "Text": "my mind", 
+            "Score": 0.8453969955444336, 
+            "BeginOffset": 3868, 
+            "EndOffset": 3875
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9664811491966248, 
+            "BeginOffset": 3876, 
+            "EndOffset": 3885
+        }, 
+        {
+            "Text": "a new release", 
+            "Score": 0.9964118003845215, 
+            "BeginOffset": 3914, 
+            "EndOffset": 3927
+        }, 
+        {
+            "Text": "Swift[5]", 
+            "Score": 0.994548499584198, 
+            "BeginOffset": 3968, 
+            "EndOffset": 3976
+        }, 
+        {
+            "Text": "their version numbers", 
+            "Score": 0.8442795872688293, 
+            "BeginOffset": 3980, 
+            "EndOffset": 4001
+        }, 
+        {
+            "Text": "1.6", 
+            "Score": 0.859447717666626, 
+            "BeginOffset": 4003, 
+            "EndOffset": 4006
+        }, 
+        {
+            "Text": "an incremental update", 
+            "Score": 0.9859256148338318, 
+            "BeginOffset": 4017, 
+            "EndOffset": 4038
+        }, 
+        {
+            "Text": "The biggest change", 
+            "Score": 0.9957177639007568, 
+            "BeginOffset": 4040, 
+            "EndOffset": 4058
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9040611386299133, 
+            "BeginOffset": 4062, 
+            "EndOffset": 4069
+        }, 
+        {
+            "Text": "HTTP/2", 
+            "Score": 0.998546838760376, 
+            "BeginOffset": 4074, 
+            "EndOffset": 4080
+        }, 
+        {
+            "Text": "some interesting improvements", 
+            "Score": 0.9776668548583984, 
+            "BeginOffset": 4096, 
+            "EndOffset": 4125
+        }, 
+        {
+            "Text": "the board", 
+            "Score": 0.9936384558677673, 
+            "BeginOffset": 4135, 
+            "EndOffset": 4144
+        }, 
+        {
+            "Text": "the release notes", 
+            "Score": 0.982989490032196, 
+            "BeginOffset": 4214, 
+            "EndOffset": 4231
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9997826218605042, 
+            "BeginOffset": 4243, 
+            "EndOffset": 4245
+        }, 
+        {
+            "Text": "the backend", 
+            "Score": 0.7536132335662842, 
+            "BeginOffset": 4275, 
+            "EndOffset": 4286
+        }, 
+        {
+            "Text": "its own product", 
+            "Score": 0.8313232660293579, 
+            "BeginOffset": 4291, 
+            "EndOffset": 4306
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9723878502845764, 
+            "BeginOffset": 4309, 
+            "EndOffset": 4312
+        }, 
+        {
+            "Text": "This something", 
+            "Score": 0.99843829870224, 
+            "BeginOffset": 4313, 
+            "EndOffset": 4327
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9913240075111389, 
+            "BeginOffset": 4401, 
+            "EndOffset": 4404
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.9996634721755981, 
+            "BeginOffset": 4408, 
+            "EndOffset": 4412
+        }, 
+        {
+            "Text": "this day", 
+            "Score": 0.7998293042182922, 
+            "BeginOffset": 4417, 
+            "EndOffset": 4425
+        }, 
+        {
+            "Text": "their products", 
+            "Score": 0.9964334964752197, 
+            "BeginOffset": 4447, 
+            "EndOffset": 4461
+        }, 
+        {
+            "Text": "good things", 
+            "Score": 0.9964398741722107, 
+            "BeginOffset": 4482, 
+            "EndOffset": 4493
+        }, 
+        {
+            "Text": "iOS apps", 
+            "Score": 0.9883992671966553, 
+            "BeginOffset": 4523, 
+            "EndOffset": 4531
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.8703961372375488, 
+            "BeginOffset": 4534, 
+            "EndOffset": 4537
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.8020374178886414, 
+            "BeginOffset": 4575, 
+            "EndOffset": 4580
+        }, 
+        {
+            "Text": "their Android apps", 
+            "Score": 0.9991661310195923, 
+            "BeginOffset": 4585, 
+            "EndOffset": 4603
+        }, 
+        {
+            "Text": "both Music", 
+            "Score": 0.9970013499259949, 
+            "BeginOffset": 4605, 
+            "EndOffset": 4615
+        }, 
+        {
+            "Text": "their much-loved Move", 
+            "Score": 0.9974475502967834, 
+            "BeginOffset": 4620, 
+            "EndOffset": 4641
+        }, 
+        {
+            "Text": "iOS app", 
+            "Score": 0.963228166103363, 
+            "BeginOffset": 4645, 
+            "EndOffset": 4652
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.9847729802131653, 
+            "BeginOffset": 4655, 
+            "EndOffset": 4658
+        }, 
+        {
+            "Text": "the version", 
+            "Score": 0.9514058232307434, 
+            "BeginOffset": 4671, 
+            "EndOffset": 4682
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.877300500869751, 
+            "BeginOffset": 4697, 
+            "EndOffset": 4702
+        }, 
+        {
+            "Text": "the general public", 
+            "Score": 0.8126037120819092, 
+            "BeginOffset": 4722, 
+            "EndOffset": 4740
+        }, 
+        {
+            "Text": "developers", 
+            "Score": 0.898708164691925, 
+            "BeginOffset": 4746, 
+            "EndOffset": 4756
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.9928639531135559, 
+            "BeginOffset": 4800, 
+            "EndOffset": 4809
+        }, 
+        {
+            "Text": "Swift", 
+            "Score": 0.9260550141334534, 
+            "BeginOffset": 4844, 
+            "EndOffset": 4849
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9354715347290039, 
+            "BeginOffset": 4866, 
+            "EndOffset": 4871
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9998202919960022, 
+            "BeginOffset": 4913, 
+            "EndOffset": 4918
+        }, 
+        {
+            "Text": "difference", 
+            "Score": 0.7933772206306458, 
+            "BeginOffset": 4922, 
+            "EndOffset": 4932
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "Entities": [
+        {
+            "Text": "Apple", 
+            "Score": 0.9509654641151428, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 5
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.5175812244415283, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 39, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.6962420344352722, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 97, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9671435952186584, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 204, 
+            "EndOffset": 209
+        }, 
+        {
+            "Text": "Blackhat", 
+            "Score": 0.6019813418388367, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 234, 
+            "EndOffset": 242
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.8300365805625916, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 385, 
+            "EndOffset": 390
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9316945672035217, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 427, 
+            "EndOffset": 432
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9766592383384705, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 535, 
+            "EndOffset": 540
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9748156070709229, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 723, 
+            "EndOffset": 728
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9827730655670166, 
+            "Type": "TITLE", 
+            "BeginOffset": 773, 
+            "EndOffset": 776
+        }, 
+        {
+            "Text": "iCloud", 
+            "Score": 0.9527273178100586, 
+            "Type": "TITLE", 
+            "BeginOffset": 781, 
+            "EndOffset": 787
+        }, 
+        {
+            "Text": "$200.000", 
+            "Score": 0.9995495676994324, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 840, 
+            "EndOffset": 848
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9538599848747253, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 855, 
+            "EndOffset": 860
+        }, 
+        {
+            "Text": "3rd parties", 
+            "Score": 0.6964303851127625, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1018, 
+            "EndOffset": 1029
+        }, 
+        {
+            "Text": "two ways", 
+            "Score": 0.9801239371299744, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1124, 
+            "EndOffset": 1132
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.99901282787323, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1315, 
+            "EndOffset": 1318
+        }, 
+        {
+            "Text": "New York", 
+            "Score": 0.999954879283905, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1330, 
+            "EndOffset": 1338
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9889695644378662, 
+            "Type": "DATE", 
+            "BeginOffset": 1346, 
+            "EndOffset": 1355
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999949932098389, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1501, 
+            "EndOffset": 1506
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999833106994629, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1914, 
+            "EndOffset": 1919
+        }, 
+        {
+            "Text": "10 different routes", 
+            "Score": 0.9994757175445557, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2271, 
+            "EndOffset": 2290
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999814033508301, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2902, 
+            "EndOffset": 2905
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999862909317017, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3157, 
+            "EndOffset": 3160
+        }, 
+        {
+            "Text": "each region", 
+            "Score": 0.9999470114707947, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3587, 
+            "EndOffset": 3598
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999781847000122, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3910, 
+            "EndOffset": 3915
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9582114815711975, 
+            "Type": "TITLE", 
+            "BeginOffset": 3966, 
+            "EndOffset": 3976
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999983310699463, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4070, 
+            "EndOffset": 4073
+        }, 
+        {
+            "Text": "ELB", 
+            "Score": 0.9999979734420776, 
+            "Type": "TITLE", 
+            "BeginOffset": 4095, 
+            "EndOffset": 4098
+        }, 
+        {
+            "Text": "ALBs", 
+            "Score": 0.9999880790710449, 
+            "Type": "TITLE", 
+            "BeginOffset": 4099, 
+            "EndOffset": 4103
+        }, 
+        {
+            "Text": "BitTorrent", 
+            "Score": 0.9999945163726807, 
+            "Type": "TITLE", 
+            "BeginOffset": 4201, 
+            "EndOffset": 4211
+        }, 
+        {
+            "Text": "several months ago", 
+            "Score": 0.9999961256980896, 
+            "Type": "DATE", 
+            "BeginOffset": 4266, 
+            "EndOffset": 4284
+        }, 
+        {
+            "Text": "IAM", 
+            "Score": 0.9999734163284302, 
+            "Type": "TITLE", 
+            "BeginOffset": 4442, 
+            "EndOffset": 4445
+        }
+    ]
+}

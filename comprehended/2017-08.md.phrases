@@ -1,0 +1,820 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A couple", 
+            "Score": 0.9975993037223816, 
+            "BeginOffset": 0, 
+            "EndOffset": 8
+        }, 
+        {
+            "Text": "long awaited features", 
+            "Score": 0.9871466755867004, 
+            "BeginOffset": 12, 
+            "EndOffset": 33
+        }, 
+        {
+            "Text": "AWS EC2 instances", 
+            "Score": 0.9650177955627441, 
+            "BeginOffset": 55, 
+            "EndOffset": 72
+        }, 
+        {
+            "Text": "Go 1.8", 
+            "Score": 0.8649910092353821, 
+            "BeginOffset": 77, 
+            "EndOffset": 83
+        }, 
+        {
+            "Text": "AWS MISSING FEATURES", 
+            "Score": 0.9498196244239807, 
+            "BeginOffset": 101, 
+            "EndOffset": 121
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9846938252449036, 
+            "BeginOffset": 147, 
+            "EndOffset": 153
+        }, 
+        {
+            "Text": "EC2 instances", 
+            "Score": 0.9819348454475403, 
+            "BeginOffset": 175, 
+            "EndOffset": 188
+        }, 
+        {
+            "Text": "Things", 
+            "Score": 0.9741590023040771, 
+            "BeginOffset": 190, 
+            "EndOffset": 196
+        }, 
+        {
+            "Text": "no sense", 
+            "Score": 0.9971528649330139, 
+            "BeginOffset": 207, 
+            "EndOffset": 215
+        }, 
+        {
+            "Text": "competitors", 
+            "Score": 0.9202178120613098, 
+            "BeginOffset": 247, 
+            "EndOffset": 258
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8805027604103088, 
+            "BeginOffset": 272, 
+            "EndOffset": 275
+        }, 
+        {
+            "Text": "the top", 
+            "Score": 0.9981560111045837, 
+            "BeginOffset": 280, 
+            "EndOffset": 287
+        }, 
+        {
+            "Text": "the list", 
+            "Score": 0.9992637634277344, 
+            "BeginOffset": 291, 
+            "EndOffset": 299
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9976335167884827, 
+            "BeginOffset": 310, 
+            "EndOffset": 321
+        }, 
+        {
+            "Text": "EBS volumes", 
+            "Score": 0.9900269508361816, 
+            "BeginOffset": 332, 
+            "EndOffset": 343
+        }, 
+        {
+            "Text": "EBS volumes", 
+            "Score": 0.9932471513748169, 
+            "BeginOffset": 346, 
+            "EndOffset": 357
+        }, 
+        {
+            "Text": "the hard disks", 
+            "Score": 0.9839571118354797, 
+            "BeginOffset": 372, 
+            "EndOffset": 386
+        }, 
+        {
+            "Text": "EC2 instances", 
+            "Score": 0.9758699536323547, 
+            "BeginOffset": 391, 
+            "EndOffset": 404
+        }, 
+        {
+            "Text": "the cloud", 
+            "Score": 0.9951705932617188, 
+            "BeginOffset": 425, 
+            "EndOffset": 434
+        }, 
+        {
+            "Text": "different types", 
+            "Score": 0.9891167879104614, 
+            "BeginOffset": 536, 
+            "EndOffset": 551
+        }, 
+        {
+            "Text": "the sizes", 
+            "Score": 0.9114192724227905, 
+            "BeginOffset": 570, 
+            "EndOffset": 579
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7954949140548706, 
+            "BeginOffset": 580, 
+            "EndOffset": 582
+        }, 
+        {
+            "Text": "your instance", 
+            "Score": 0.994965672492981, 
+            "BeginOffset": 611, 
+            "EndOffset": 624
+        }, 
+        {
+            "Text": "any changes", 
+            "Score": 0.9220975041389465, 
+            "BeginOffset": 664, 
+            "EndOffset": 675
+        }, 
+        {
+            "Text": "a different size", 
+            "Score": 0.9160204529762268, 
+            "BeginOffset": 730, 
+            "EndOffset": 746
+        }, 
+        {
+            "Text": "your data", 
+            "Score": 0.9690039753913879, 
+            "BeginOffset": 761, 
+            "EndOffset": 770
+        }, 
+        {
+            "Text": "your only option", 
+            "Score": 0.991364598274231, 
+            "BeginOffset": 771, 
+            "EndOffset": 787
+        }, 
+        {
+            "Text": "a snapshot", 
+            "Score": 0.9980454444885254, 
+            "BeginOffset": 800, 
+            "EndOffset": 810
+        }, 
+        {
+            "Text": "a new disk", 
+            "Score": 0.9995627403259277, 
+            "BeginOffset": 822, 
+            "EndOffset": 832
+        }, 
+        {
+            "Text": "that snapshot", 
+            "Score": 0.9965789914131165, 
+            "BeginOffset": 838, 
+            "EndOffset": 851
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.998974621295929, 
+            "BeginOffset": 856, 
+            "EndOffset": 860
+        }, 
+        {
+            "Text": "this site", 
+            "Score": 0.9983524084091187, 
+            "BeginOffset": 878, 
+            "EndOffset": 887
+        }, 
+        {
+            "Text": "that exact process", 
+            "Score": 0.90168696641922, 
+            "BeginOffset": 898, 
+            "EndOffset": 916
+        }, 
+        {
+            "Text": "2] works", 
+            "Score": 0.8330203294754028, 
+            "BeginOffset": 917, 
+            "EndOffset": 925
+        }, 
+        {
+            "Text": "root devices", 
+            "Score": 0.8373536467552185, 
+            "BeginOffset": 930, 
+            "EndOffset": 942
+        }, 
+        {
+            "Text": "these changes", 
+            "Score": 0.998651921749115, 
+            "BeginOffset": 992, 
+            "EndOffset": 1005
+        }, 
+        {
+            "Text": "some limitations", 
+            "Score": 0.9881584048271179, 
+            "BeginOffset": 1057, 
+            "EndOffset": 1073
+        }, 
+        {
+            "Text": "resize tools", 
+            "Score": 0.9927246570587158, 
+            "BeginOffset": 1103, 
+            "EndOffset": 1115
+        }, 
+        {
+            "Text": "your instance", 
+            "Score": 0.9823007583618164, 
+            "BeginOffset": 1123, 
+            "EndOffset": 1136
+        }, 
+        {
+            "Text": "a very welcome change", 
+            "Score": 0.9901490807533264, 
+            "BeginOffset": 1146, 
+            "EndOffset": 1167
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.93658846616745, 
+            "BeginOffset": 1220, 
+            "EndOffset": 1234
+        }, 
+        {
+            "Text": "instances", 
+            "Score": 0.752029299736023, 
+            "BeginOffset": 1243, 
+            "EndOffset": 1252
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.994124710559845, 
+            "BeginOffset": 1327, 
+            "EndOffset": 1334
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9822543859481812, 
+            "BeginOffset": 1351, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "all my instances", 
+            "Score": 0.9865445494651794, 
+            "BeginOffset": 1378, 
+            "EndOffset": 1394
+        }, 
+        {
+            "Text": "The other annoying limitation", 
+            "Score": 0.9964311122894287, 
+            "BeginOffset": 1410, 
+            "EndOffset": 1439
+        }, 
+        {
+            "Text": "IAM instance roles", 
+            "Score": 0.9923715591430664, 
+            "BeginOffset": 1471, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "EC2 instances", 
+            "Score": 0.9713281989097595, 
+            "BeginOffset": 1508, 
+            "EndOffset": 1521
+        }, 
+        {
+            "Text": "the issue", 
+            "Score": 0.9622119665145874, 
+            "BeginOffset": 1558, 
+            "EndOffset": 1567
+        }, 
+        {
+            "Text": "an instance role", 
+            "Score": 0.9997087121009827, 
+            "BeginOffset": 1592, 
+            "EndOffset": 1608
+        }, 
+        {
+            "Text": "Instance roles", 
+            "Score": 0.9981804490089417, 
+            "BeginOffset": 1616, 
+            "EndOffset": 1630
+        }, 
+        {
+            "Text": "the recommended way", 
+            "Score": 0.9921637773513794, 
+            "BeginOffset": 1635, 
+            "EndOffset": 1654
+        }, 
+        {
+            "Text": "permissions", 
+            "Score": 0.9997562766075134, 
+            "BeginOffset": 1667, 
+            "EndOffset": 1678
+        }, 
+        {
+            "Text": "your EC2 instances", 
+            "Score": 0.9811075329780579, 
+            "BeginOffset": 1683, 
+            "EndOffset": 1701
+        }, 
+        {
+            "Text": "your instance", 
+            "Score": 0.9963821172714233, 
+            "BeginOffset": 1729, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "the applications", 
+            "Score": 0.996517539024353, 
+            "BeginOffset": 1748, 
+            "EndOffset": 1764
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9953072667121887, 
+            "BeginOffset": 1780, 
+            "EndOffset": 1786
+        }, 
+        {
+            "Text": "all the different parts", 
+            "Score": 0.9516240358352661, 
+            "BeginOffset": 1790, 
+            "EndOffset": 1813
+        }, 
+        {
+            "Text": "your AWS infrastructure", 
+            "Score": 0.9993714094161987, 
+            "BeginOffset": 1817, 
+            "EndOffset": 1840
+        }, 
+        {
+            "Text": "keys", 
+            "Score": 0.9981379508972168, 
+            "BeginOffset": 1857, 
+            "EndOffset": 1861
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9552595615386963, 
+            "BeginOffset": 1894, 
+            "EndOffset": 1899
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9951515197753906, 
+            "BeginOffset": 1903, 
+            "EndOffset": 1909
+        }, 
+        {
+            "Text": "a security and management perspective", 
+            "Score": 0.9817561507225037, 
+            "BeginOffset": 1922, 
+            "EndOffset": 1959
+        }, 
+        {
+            "Text": "the role", 
+            "Score": 0.9964812994003296, 
+            "BeginOffset": 2005, 
+            "EndOffset": 2013
+        }, 
+        {
+            "Text": "an instance", 
+            "Score": 0.999870240688324, 
+            "BeginOffset": 2017, 
+            "EndOffset": 2028
+        }, 
+        {
+            "Text": "the role", 
+            "Score": 0.9914896488189697, 
+            "BeginOffset": 2115, 
+            "EndOffset": 2123
+        }, 
+        {
+            "Text": "luck", 
+            "Score": 0.9790119528770447, 
+            "BeginOffset": 2186, 
+            "EndOffset": 2190
+        }, 
+        {
+            "Text": "a major issue", 
+            "Score": 0.9998224377632141, 
+            "BeginOffset": 2204, 
+            "EndOffset": 2217
+        }, 
+        {
+            "Text": "early enough[3]", 
+            "Score": 0.8427166938781738, 
+            "BeginOffset": 2239, 
+            "EndOffset": 2254
+        }, 
+        {
+            "Text": "a production instance", 
+            "Score": 0.995102047920227, 
+            "BeginOffset": 2270, 
+            "EndOffset": 2291
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9907371401786804, 
+            "BeginOffset": 2336, 
+            "EndOffset": 2341
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9991222023963928, 
+            "BeginOffset": 2345, 
+            "EndOffset": 2349
+        }, 
+        {
+            "Text": "good news", 
+            "Score": 0.9993073344230652, 
+            "BeginOffset": 2369, 
+            "EndOffset": 2378
+        }, 
+        {
+            "Text": "a limited way", 
+            "Score": 0.9656214118003845, 
+            "BeginOffset": 2422, 
+            "EndOffset": 2435
+        }, 
+        {
+            "Text": "[4] instance roles", 
+            "Score": 0.9690306186676025, 
+            "BeginOffset": 2462, 
+            "EndOffset": 2480
+        }, 
+        {
+            "Text": "the CLI tools", 
+            "Score": 0.9379358887672424, 
+            "BeginOffset": 2520, 
+            "EndOffset": 2533
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9970346689224243, 
+            "BeginOffset": 2543, 
+            "EndOffset": 2548
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9494223594665527, 
+            "BeginOffset": 2614, 
+            "EndOffset": 2620
+        }, 
+        {
+            "Text": "the console", 
+            "Score": 0.9984285831451416, 
+            "BeginOffset": 2624, 
+            "EndOffset": 2635
+        }, 
+        {
+            "Text": "an interface", 
+            "Score": 0.8758594393730164, 
+            "BeginOffset": 2656, 
+            "EndOffset": 2668
+        }, 
+        {
+            "Text": "another option", 
+            "Score": 0.991143524646759, 
+            "BeginOffset": 2707, 
+            "EndOffset": 2721
+        }, 
+        {
+            "Text": "the function", 
+            "Score": 0.9933444261550903, 
+            "BeginOffset": 2754, 
+            "EndOffset": 2766
+        }, 
+        {
+            "Text": "the Console", 
+            "Score": 0.9995525479316711, 
+            "BeginOffset": 2780, 
+            "EndOffset": 2791
+        }, 
+        {
+            "Text": "my preferred solution", 
+            "Score": 0.9791958928108215, 
+            "BeginOffset": 2851, 
+            "EndOffset": 2872
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9986071586608887, 
+            "BeginOffset": 2908, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "GO 1.8", 
+            "Score": 0.831400454044342, 
+            "BeginOffset": 2927, 
+            "EndOffset": 2933
+        }, 
+        {
+            "Text": "regular readers", 
+            "Score": 0.7660296559333801, 
+            "BeginOffset": 2939, 
+            "EndOffset": 2954
+        }, 
+        {
+            "Text": "the Go language", 
+            "Score": 0.8494581580162048, 
+            "BeginOffset": 2968, 
+            "EndOffset": 2983
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.9864479303359985, 
+            "BeginOffset": 2996, 
+            "EndOffset": 3000
+        }, 
+        {
+            "Text": "the meetup", 
+            "Score": 0.8793702125549316, 
+            "BeginOffset": 3027, 
+            "EndOffset": 3037
+        }, 
+        {
+            "Text": "almost a year", 
+            "Score": 0.9953856468200684, 
+            "BeginOffset": 3049, 
+            "EndOffset": 3062
+        }, 
+        {
+            "Text": "5]", 
+            "Score": 0.9852263927459717, 
+            "BeginOffset": 3067, 
+            "EndOffset": 3069
+        }, 
+        {
+            "Text": "every six months", 
+            "Score": 0.8941258192062378, 
+            "BeginOffset": 3084, 
+            "EndOffset": 3100
+        }, 
+        {
+            "Text": "a weekly note", 
+            "Score": 0.9667403697967529, 
+            "BeginOffset": 3109, 
+            "EndOffset": 3122
+        }, 
+        {
+            "Text": "the regularly scheduled new version", 
+            "Score": 0.9983856678009033, 
+            "BeginOffset": 3134, 
+            "EndOffset": 3169
+        }, 
+        {
+            "Text": "1.8", 
+            "Score": 0.9046012163162231, 
+            "BeginOffset": 3174, 
+            "EndOffset": 3177
+        }, 
+        {
+            "Text": "a major improvement", 
+            "Score": 0.862765908241272, 
+            "BeginOffset": 3185, 
+            "EndOffset": 3204
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9989421963691711, 
+            "BeginOffset": 3236, 
+            "EndOffset": 3244
+        }, 
+        {
+            "Text": "very nice changes", 
+            "Score": 0.9906611442565918, 
+            "BeginOffset": 3248, 
+            "EndOffset": 3265
+        }, 
+        {
+            "Text": "these changes", 
+            "Score": 0.9979089498519897, 
+            "BeginOffset": 3284, 
+            "EndOffset": 3297
+        }, 
+        {
+            "Text": "a great impact", 
+            "Score": 0.8666886687278748, 
+            "BeginOffset": 3309, 
+            "EndOffset": 3323
+        }, 
+        {
+            "Text": "your work", 
+            "Score": 0.9998500943183899, 
+            "BeginOffset": 3327, 
+            "EndOffset": 3336
+        }, 
+        {
+            "Text": "e exact edge case", 
+            "Score": 0.9990544319152832, 
+            "BeginOffset": 3352, 
+            "EndOffset": 3369
+        }, 
+        {
+            "Text": "the two things", 
+            "Score": 0.9668248295783997, 
+            "BeginOffset": 3398, 
+            "EndOffset": 3412
+        }, 
+        {
+            "Text": "the most", 
+            "Score": 0.9716818332672119, 
+            "BeginOffset": 3420, 
+            "EndOffset": 3428
+        }, 
+        {
+            "Text": "this release", 
+            "Score": 0.9864312410354614, 
+            "BeginOffset": 3435, 
+            "EndOffset": 3447
+        }, 
+        {
+            "Text": "the conversion rule changes", 
+            "Score": 0.960176408290863, 
+            "BeginOffset": 3452, 
+            "EndOffset": 3479
+        }, 
+        {
+            "Text": "two structs", 
+            "Score": 0.9833210706710815, 
+            "BeginOffset": 3523, 
+            "EndOffset": 3534
+        }, 
+        {
+            "Text": "the same fields", 
+            "Score": 0.8782205581665039, 
+            "BeginOffset": 3540, 
+            "EndOffset": 3555
+        }, 
+        {
+            "Text": "each other", 
+            "Score": 0.9982239007949829, 
+            "BeginOffset": 3561, 
+            "EndOffset": 3571
+        }, 
+        {
+            "Text": "the new sort", 
+            "Score": 0.9994505047798157, 
+            "BeginOffset": 3577, 
+            "EndOffset": 3589
+        }, 
+        {
+            "Text": "Slice function", 
+            "Score": 0.990313708782196, 
+            "BeginOffset": 3590, 
+            "EndOffset": 3604
+        }, 
+        {
+            "Text": "far more succinct sorting algorithms", 
+            "Score": 0.9197689890861511, 
+            "BeginOffset": 3622, 
+            "EndOffset": 3658
+        }, 
+        {
+            "Text": "the changes", 
+            "Score": 0.9852964282035828, 
+            "BeginOffset": 3708, 
+            "EndOffset": 3719
+        }, 
+        {
+            "Text": "this presentation", 
+            "Score": 0.9981897473335266, 
+            "BeginOffset": 3748, 
+            "EndOffset": 3765
+        }, 
+        {
+            "Text": "Francesc Campoy", 
+            "Score": 0.9981684684753418, 
+            "BeginOffset": 3769, 
+            "EndOffset": 3784
+        }, 
+        {
+            "Text": "our last meetup", 
+            "Score": 0.9976961612701416, 
+            "BeginOffset": 3802, 
+            "EndOffset": 3817
+        }, 
+        {
+            "Text": "a guide", 
+            "Score": 0.9997344613075256, 
+            "BeginOffset": 3821, 
+            "EndOffset": 3828
+        }, 
+        {
+            "Text": "the various changes", 
+            "Score": 0.9984970688819885, 
+            "BeginOffset": 3840, 
+            "EndOffset": 3859
+        }, 
+        {
+            "Text": "all the code examples", 
+            "Score": 0.9931692481040955, 
+            "BeginOffset": 3869, 
+            "EndOffset": 3890
+        }, 
+        {
+            "Text": "a good way", 
+            "Score": 0.9861820936203003, 
+            "BeginOffset": 3905, 
+            "EndOffset": 3915
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9985530376434326, 
+            "BeginOffset": 3940, 
+            "EndOffset": 3942
+        }, 
+        {
+            "Text": "limits", 
+            "Score": 0.9798689484596252, 
+            "BeginOffset": 3954, 
+            "EndOffset": 3960
+        }, 
+        {
+            "Text": "more than 16TiB", 
+            "Score": 0.9923311471939087, 
+            "BeginOffset": 3995, 
+            "EndOffset": 4010
+        }, 
+        {
+            "Text": "a raid setup", 
+            "Score": 0.9740587472915649, 
+            "BeginOffset": 4029, 
+            "EndOffset": 4041
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9995407462120056, 
+            "BeginOffset": 4044, 
+            "EndOffset": 4047
+        }, 
+        {
+            "Text": "that page", 
+            "Score": 0.876905620098114, 
+            "BeginOffset": 4076, 
+            "EndOffset": 4085
+        }, 
+        {
+            "Text": "this new functionality", 
+            "Score": 0.9947059750556946, 
+            "BeginOffset": 4097, 
+            "EndOffset": 4119
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9674814939498901, 
+            "BeginOffset": 4122, 
+            "EndOffset": 4125
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.8842183947563171, 
+            "BeginOffset": 4179, 
+            "EndOffset": 4182
+        }, 
+        {
+            "Text": "a different role", 
+            "Score": 0.9988855123519897, 
+            "BeginOffset": 4187, 
+            "EndOffset": 4203
+        }, 
+        {
+            "Text": "the permissions", 
+            "Score": 0.8844701051712036, 
+            "BeginOffset": 4216, 
+            "EndOffset": 4231
+        }, 
+        {
+            "Text": "the attached role", 
+            "Score": 0.9826508164405823, 
+            "BeginOffset": 4235, 
+            "EndOffset": 4252
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.8942089080810547, 
+            "BeginOffset": 4254, 
+            "EndOffset": 4257
+        }, 
+        {
+            "Text": "March", 
+            "Score": 0.8105036616325378, 
+            "BeginOffset": 4316, 
+            "EndOffset": 4321
+        }, 
+        {
+            "Text": "other commitments", 
+            "Score": 0.9980718493461609, 
+            "BeginOffset": 4329, 
+            "EndOffset": 4346
+        }
+    ]
+}

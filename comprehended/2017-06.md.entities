@@ -1,0 +1,235 @@
+{
+    "Entities": [
+        {
+            "Text": "Mirai", 
+            "Score": 0.8624752163887024, 
+            "Type": "PERSON", 
+            "BeginOffset": 23, 
+            "EndOffset": 28
+        }, 
+        {
+            "Text": "Gitlab", 
+            "Score": 0.7112241983413696, 
+            "Type": "PERSON", 
+            "BeginOffset": 30, 
+            "EndOffset": 36
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9740505218505859, 
+            "Type": "TITLE", 
+            "BeginOffset": 53, 
+            "EndOffset": 59
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9899430274963379, 
+            "Type": "TITLE", 
+            "BeginOffset": 64, 
+            "EndOffset": 67
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9705560207366943, 
+            "Type": "DATE", 
+            "BeginOffset": 110, 
+            "EndOffset": 119
+        }, 
+        {
+            "Text": "Enigma", 
+            "Score": 0.24768565595149994, 
+            "Type": "TITLE", 
+            "BeginOffset": 122, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8962938785552979, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 143, 
+            "EndOffset": 149
+        }, 
+        {
+            "Text": "Project Shield", 
+            "Score": 0.6138684153556824, 
+            "Type": "TITLE", 
+            "BeginOffset": 184, 
+            "EndOffset": 198
+        }, 
+        {
+            "Text": "KrebsOnSecurity", 
+            "Score": 0.8550863265991211, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 222, 
+            "EndOffset": 237
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9896317720413208, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 348, 
+            "EndOffset": 354
+        }, 
+        {
+            "Text": "450.000 queries per second", 
+            "Score": 0.9557565450668335, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 520, 
+            "EndOffset": 546
+        }, 
+        {
+            "Text": "about 175.000 IPs", 
+            "Score": 0.9542383551597595, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 552, 
+            "EndOffset": 569
+        }, 
+        {
+            "Text": "Art Technica", 
+            "Score": 0.6381288170814514, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 681, 
+            "EndOffset": 693
+        }, 
+        {
+            "Text": "Mirai", 
+            "Score": 0.4006583094596863, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 787, 
+            "EndOffset": 792
+        }, 
+        {
+            "Text": "Krebs", 
+            "Score": 0.866197407245636, 
+            "Type": "PERSON", 
+            "BeginOffset": 808, 
+            "EndOffset": 813
+        }, 
+        {
+            "Text": "each", 
+            "Score": 0.9999966621398926, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1515, 
+            "EndOffset": 1519
+        }, 
+        {
+            "Text": "second", 
+            "Score": 0.9999998807907104, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1695, 
+            "EndOffset": 1701
+        }, 
+        {
+            "Text": "first place", 
+            "Score": 0.999964714050293, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1933, 
+            "EndOffset": 1944
+        }, 
+        {
+            "Text": "IOS", 
+            "Score": 0.9998682737350464, 
+            "Type": "TITLE", 
+            "BeginOffset": 2003, 
+            "EndOffset": 2006
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9995381832122803, 
+            "Type": "TITLE", 
+            "BeginOffset": 2062, 
+            "EndOffset": 2069
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999692440032959, 
+            "Type": "TITLE", 
+            "BeginOffset": 2073, 
+            "EndOffset": 2076
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9896893501281738, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2091, 
+            "EndOffset": 2094
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999866485595703, 
+            "Type": "TITLE", 
+            "BeginOffset": 2117, 
+            "EndOffset": 2120
+        }, 
+        {
+            "Text": "HTML 5", 
+            "Score": 0.9999604821205139, 
+            "Type": "TITLE", 
+            "BeginOffset": 2294, 
+            "EndOffset": 2300
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.999871015548706, 
+            "Type": "TITLE", 
+            "BeginOffset": 2379, 
+            "EndOffset": 2385
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9998936653137207, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2549, 
+            "EndOffset": 2554
+        }, 
+        {
+            "Text": "Chromium", 
+            "Score": 0.9999352693557739, 
+            "Type": "TITLE", 
+            "BeginOffset": 2573, 
+            "EndOffset": 2581
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.999901533126831, 
+            "Type": "TITLE", 
+            "BeginOffset": 2643, 
+            "EndOffset": 2646
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9960542917251587, 
+            "Type": "TITLE", 
+            "BeginOffset": 2718, 
+            "EndOffset": 2721
+        }, 
+        {
+            "Text": "second", 
+            "Score": 0.9999829530715942, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2771, 
+            "EndOffset": 2777
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9971362352371216, 
+            "Type": "TITLE", 
+            "BeginOffset": 2802, 
+            "EndOffset": 2805
+        }, 
+        {
+            "Text": "Safari", 
+            "Score": 0.9999312162399292, 
+            "Type": "TITLE", 
+            "BeginOffset": 2835, 
+            "EndOffset": 2841
+        }, 
+        {
+            "Text": "iOS 10.3", 
+            "Score": 0.9999912977218628, 
+            "Type": "TITLE", 
+            "BeginOffset": 3096, 
+            "EndOffset": 3104
+        }
+    ]
+}

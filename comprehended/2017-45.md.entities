@@ -1,0 +1,172 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.632728099822998, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.6784032583236694, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 41, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.264878511428833, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 89, 
+            "EndOffset": 94
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.34638550877571106, 
+            "Type": "TITLE", 
+            "BeginOffset": 128, 
+            "EndOffset": 138
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9234597086906433, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 143, 
+            "EndOffset": 146
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9877293109893799, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 180, 
+            "EndOffset": 183
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.661841094493866, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 226, 
+            "EndOffset": 231
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9543913006782532, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 369, 
+            "EndOffset": 372
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9381319284439087, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 905, 
+            "EndOffset": 908
+        }, 
+        {
+            "Text": "each account", 
+            "Score": 0.9999290704727173, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1045, 
+            "EndOffset": 1057
+        }, 
+        {
+            "Text": "AMAZON", 
+            "Score": 0.9995397329330444, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1062, 
+            "EndOffset": 1068
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999593496322632, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1165, 
+            "EndOffset": 1171
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999922513961792, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1193, 
+            "EndOffset": 1199
+        }, 
+        {
+            "Text": "Prime", 
+            "Score": 0.9999184608459473, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1237, 
+            "EndOffset": 1242
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999934434890747, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1381, 
+            "EndOffset": 1387
+        }, 
+        {
+            "Text": "JavaScript", 
+            "Score": 0.9999995231628418, 
+            "Type": "TITLE", 
+            "BeginOffset": 2244, 
+            "EndOffset": 2254
+        }, 
+        {
+            "Text": "first glance", 
+            "Score": 0.9991757869720459, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2277, 
+            "EndOffset": 2289
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9999876022338867, 
+            "Type": "TITLE", 
+            "BeginOffset": 2313, 
+            "EndOffset": 2319
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999809265136719, 
+            "Type": "TITLE", 
+            "BeginOffset": 2396, 
+            "EndOffset": 2406
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9993177652359009, 
+            "Type": "TITLE", 
+            "BeginOffset": 2444, 
+            "EndOffset": 2450
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999938011169434, 
+            "Type": "TITLE", 
+            "BeginOffset": 2605, 
+            "EndOffset": 2611
+        }, 
+        {
+            "Text": "November", 
+            "Score": 0.999969482421875, 
+            "Type": "DATE", 
+            "BeginOffset": 2700, 
+            "EndOffset": 2708
+        }, 
+        {
+            "Text": "This year", 
+            "Score": 0.9998419284820557, 
+            "Type": "DATE", 
+            "BeginOffset": 2849, 
+            "EndOffset": 2858
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999645948410034, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3179, 
+            "EndOffset": 3182
+        }
+    ]
+}

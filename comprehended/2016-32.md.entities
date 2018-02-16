@@ -1,0 +1,172 @@
+{
+    "Entities": [
+        {
+            "Text": "two password manager applications", 
+            "Score": 0.7365514636039734, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 160, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9730376601219177, 
+            "Type": "DATE", 
+            "BeginOffset": 194, 
+            "EndOffset": 203
+        }, 
+        {
+            "Text": "first one", 
+            "Score": 0.9034281373023987, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 210, 
+            "EndOffset": 219
+        }, 
+        {
+            "Text": "1Password", 
+            "Score": 0.8955486416816711, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 240, 
+            "EndOffset": 249
+        }, 
+        {
+            "Text": "single purchase", 
+            "Score": 0.6913065314292908, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 454, 
+            "EndOffset": 469
+        }, 
+        {
+            "Text": "TextExpander", 
+            "Score": 0.6687473058700562, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 516, 
+            "EndOffset": 528
+        }, 
+        {
+            "Text": "$2.99 US", 
+            "Score": 0.8923279643058777, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 851, 
+            "EndOffset": 859
+        }, 
+        {
+            "Text": "3", 
+            "Score": 0.9998400211334229, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1423, 
+            "EndOffset": 1424
+        }, 
+        {
+            "Text": "4 months", 
+            "Score": 0.8211824297904968, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1425, 
+            "EndOffset": 1433
+        }, 
+        {
+            "Text": "2 major updates", 
+            "Score": 0.8173052668571472, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1604, 
+            "EndOffset": 1619
+        }, 
+        {
+            "Text": "second news", 
+            "Score": 0.9994782209396362, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1757, 
+            "EndOffset": 1768
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999643564224243, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1805, 
+            "EndOffset": 1811
+        }, 
+        {
+            "Text": "Dashlane", 
+            "Score": 0.9466244578361511, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1816, 
+            "EndOffset": 1824
+        }, 
+        {
+            "Text": "YOLO", 
+            "Score": 0.999984622001648, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1878, 
+            "EndOffset": 1882
+        }, 
+        {
+            "Text": "1Password", 
+            "Score": 0.9999904036521912, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2028, 
+            "EndOffset": 2037
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.48585572838783264, 
+            "Type": "TITLE", 
+            "BeginOffset": 2047, 
+            "EndOffset": 2050
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999942779541016, 
+            "Type": "TITLE", 
+            "BeginOffset": 2215, 
+            "EndOffset": 2222
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999929666519165, 
+            "Type": "TITLE", 
+            "BeginOffset": 2290, 
+            "EndOffset": 2293
+        }, 
+        {
+            "Text": "1Password solution", 
+            "Score": 0.9997819066047668, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2372, 
+            "EndOffset": 2390
+        }, 
+        {
+            "Text": "1Password extension", 
+            "Score": 0.999970018863678, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2533, 
+            "EndOffset": 2552
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999693632125854, 
+            "Type": "PERSON", 
+            "BeginOffset": 2842, 
+            "EndOffset": 2848
+        }, 
+        {
+            "Text": "YouTube", 
+            "Score": 0.9998192191123962, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2888, 
+            "EndOffset": 2895
+        }, 
+        {
+            "Text": "Dockercon", 
+            "Score": 0.9999752044677734, 
+            "Type": "PERSON", 
+            "BeginOffset": 3136, 
+            "EndOffset": 3145
+        }, 
+        {
+            "Text": "2013", 
+            "Score": 0.9999998807907104, 
+            "Type": "DATE", 
+            "BeginOffset": 3273, 
+            "EndOffset": 3277
+        }
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "AWS", 
+            "Score": 0.9789814352989197, 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "an update", 
+            "Score": 0.9988200068473816, 
+            "BeginOffset": 13, 
+            "EndOffset": 22
+        }, 
+        {
+            "Text": "ECS auto scaling", 
+            "Score": 0.9025096297264099, 
+            "BeginOffset": 26, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "Google Cloud Platform", 
+            "Score": 0.9939407110214233, 
+            "BeginOffset": 44, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "an interesting article", 
+            "Score": 0.9995200037956238, 
+            "BeginOffset": 72, 
+            "EndOffset": 94
+        }, 
+        {
+            "Text": "user accounts", 
+            "Score": 0.990220308303833, 
+            "BeginOffset": 101, 
+            "EndOffset": 114
+        }, 
+        {
+            "Text": "a Cloud Warrior", 
+            "Score": 0.9957410097122192, 
+            "BeginOffset": 129, 
+            "EndOffset": 144
+        }, 
+        {
+            "Text": "ECS TARGET", 
+            "Score": 0.6805798411369324, 
+            "BeginOffset": 149, 
+            "EndOffset": 159
+        }, 
+        {
+            "Text": "About a day", 
+            "Score": 0.8674386143684387, 
+            "BeginOffset": 171, 
+            "EndOffset": 182
+        }, 
+        {
+            "Text": "my article", 
+            "Score": 0.999675452709198, 
+            "BeginOffset": 199, 
+            "EndOffset": 209
+        }, 
+        {
+            "Text": "autoscaling ECS", 
+            "Score": 0.8693543672561646, 
+            "BeginOffset": 216, 
+            "EndOffset": 231
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.989953339099884, 
+            "BeginOffset": 233, 
+            "EndOffset": 236
+        }, 
+        {
+            "Text": "all the links", 
+            "Score": 0.9704141020774841, 
+            "BeginOffset": 316, 
+            "EndOffset": 329
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9999439120292664, 
+            "BeginOffset": 341, 
+            "EndOffset": 352
+        }, 
+        {
+            "Text": "This new feature", 
+            "Score": 0.9987459778785706, 
+            "BeginOffset": 379, 
+            "EndOffset": 395
+        }, 
+        {
+            "Text": "Target Tracking", 
+            "Score": 0.9818437695503235, 
+            "BeginOffset": 406, 
+            "EndOffset": 421
+        }, 
+        {
+            "Text": "a target", 
+            "Score": 0.995029866695404, 
+            "BeginOffset": 461, 
+            "EndOffset": 469
+        }, 
+        {
+            "Text": "your ECS containers", 
+            "Score": 0.9984813332557678, 
+            "BeginOffset": 475, 
+            "EndOffset": 494
+        }, 
+        {
+            "Text": "this means", 
+            "Score": 0.7978208661079407, 
+            "BeginOffset": 525, 
+            "EndOffset": 535
+        }, 
+        {
+            "Text": "the autoscaling", 
+            "Score": 0.9969657063484192, 
+            "BeginOffset": 544, 
+            "EndOffset": 559
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.995283842086792, 
+            "BeginOffset": 567, 
+            "EndOffset": 572
+        }, 
+        {
+            "Text": "CPU alarms", 
+            "Score": 0.9885382056236267, 
+            "BeginOffset": 619, 
+            "EndOffset": 629
+        }, 
+        {
+            "Text": "the number", 
+            "Score": 0.9991916418075562, 
+            "BeginOffset": 653, 
+            "EndOffset": 663
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9984040260314941, 
+            "BeginOffset": 667, 
+            "EndOffset": 677
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.9977113604545593, 
+            "BeginOffset": 713, 
+            "EndOffset": 716
+        }, 
+        {
+            "Text": "the number", 
+            "Score": 0.9995454549789429, 
+            "BeginOffset": 741, 
+            "EndOffset": 751
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.999808669090271, 
+            "BeginOffset": 755, 
+            "EndOffset": 765
+        }, 
+        {
+            "Text": "a pre-defined average CPU usage", 
+            "Score": 0.9930381178855896, 
+            "BeginOffset": 781, 
+            "EndOffset": 812
+        }, 
+        {
+            "Text": "your desired CPU", 
+            "Score": 0.9867011904716492, 
+            "BeginOffset": 850, 
+            "EndOffset": 866
+        }, 
+        {
+            "Text": "60%", 
+            "Score": 0.9811340570449829, 
+            "BeginOffset": 870, 
+            "EndOffset": 873
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9883031249046326, 
+            "BeginOffset": 910, 
+            "EndOffset": 920
+        }, 
+        {
+            "Text": "USER ACCOUNT", 
+            "Score": 0.8774598836898804, 
+            "BeginOffset": 950, 
+            "EndOffset": 962
+        }, 
+        {
+            "Text": "the Google Cloud Platform Blog", 
+            "Score": 0.8956977128982544, 
+            "BeginOffset": 983, 
+            "EndOffset": 1013
+        }, 
+        {
+            "Text": "an interesting article", 
+            "Score": 0.9973359107971191, 
+            "BeginOffset": 1014, 
+            "EndOffset": 1036
+        }, 
+        {
+            "Text": "best practices", 
+            "Score": 0.9467236995697021, 
+            "BeginOffset": 1059, 
+            "EndOffset": 1073
+        }, 
+        {
+            "Text": "user accounts and authorisation", 
+            "Score": 0.9462199211120605, 
+            "BeginOffset": 1078, 
+            "EndOffset": 1109
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9798798561096191, 
+            "BeginOffset": 1120, 
+            "EndOffset": 1125
+        }, 
+        {
+            "Text": "anything ground", 
+            "Score": 0.9959967732429504, 
+            "BeginOffset": 1138, 
+            "EndOffset": 1153
+        }, 
+        {
+            "Text": "a clear overview", 
+            "Score": 0.8972545862197876, 
+            "BeginOffset": 1202, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "a good starting point", 
+            "Score": 0.9931307435035706, 
+            "BeginOffset": 1230, 
+            "EndOffset": 1251
+        }, 
+        {
+            "Text": "your user management", 
+            "Score": 0.9854668378829956, 
+            "BeginOffset": 1287, 
+            "EndOffset": 1307
+        }, 
+        {
+            "Text": "the number", 
+            "Score": 0.9849451184272766, 
+            "BeginOffset": 1321, 
+            "EndOffset": 1331
+        }, 
+        {
+            "Text": "places", 
+            "Score": 0.9985369443893433, 
+            "BeginOffset": 1335, 
+            "EndOffset": 1341
+        }, 
+        {
+            "Text": "a long generated password", 
+            "Score": 0.9909295439720154, 
+            "BeginOffset": 1373, 
+            "EndOffset": 1398
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.6583988070487976, 
+            "BeginOffset": 1399, 
+            "EndOffset": 1401
+        }, 
+        {
+            "Text": "these kinds", 
+            "Score": 0.9997026920318604, 
+            "BeginOffset": 1413, 
+            "EndOffset": 1424
+        }, 
+        {
+            "Text": "articles", 
+            "Score": 0.9981891512870789, 
+            "BeginOffset": 1428, 
+            "EndOffset": 1436
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9918504357337952, 
+            "BeginOffset": 1472, 
+            "EndOffset": 1479
+        }, 
+        {
+            "Text": "APN CLOUD WARRIOR", 
+            "Score": 0.9818602800369263, 
+            "BeginOffset": 1484, 
+            "EndOffset": 1501
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9068409204483032, 
+            "BeginOffset": 1504, 
+            "EndOffset": 1513
+        }, 
+        {
+            "Text": "an AWS Partner Network", 
+            "Score": 0.9938488602638245, 
+            "BeginOffset": 1523, 
+            "EndOffset": 1545
+        }, 
+        {
+            "Text": "APN", 
+            "Score": 0.9761126041412354, 
+            "BeginOffset": 1547, 
+            "EndOffset": 1550
+        }, 
+        {
+            "Text": "Cloud Warrior[2]", 
+            "Score": 0.7905445694923401, 
+            "BeginOffset": 1552, 
+            "EndOffset": 1568
+        }, 
+        {
+            "Text": "my company Bulletproof", 
+            "Score": 0.9663456678390503, 
+            "BeginOffset": 1573, 
+            "EndOffset": 1595
+        }, 
+        {
+            "Text": "This program", 
+            "Score": 0.996946394443512, 
+            "BeginOffset": 1597, 
+            "EndOffset": 1609
+        }, 
+        {
+            "Text": "a group", 
+            "Score": 0.9845784306526184, 
+            "BeginOffset": 1623, 
+            "EndOffset": 1630
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9997808337211609, 
+            "BeginOffset": 1634, 
+            "EndOffset": 1640
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9880936741828918, 
+            "BeginOffset": 1663, 
+            "EndOffset": 1666
+        }, 
+        {
+            "Text": "their contributions", 
+            "Score": 0.9982184171676636, 
+            "BeginOffset": 1671, 
+            "EndOffset": 1690
+        }, 
+        {
+            "Text": "the wider community", 
+            "Score": 0.9995723962783813, 
+            "BeginOffset": 1694, 
+            "EndOffset": 1713
+        }, 
+        {
+            "Text": "their company", 
+            "Score": 0.9590540528297424, 
+            "BeginOffset": 1725, 
+            "EndOffset": 1738
+        }, 
+        {
+            "Text": "a premier partner", 
+            "Score": 0.9844459891319275, 
+            "BeginOffset": 1743, 
+            "EndOffset": 1760
+        }, 
+        {
+            "Text": "a Cloud Warrior", 
+            "Score": 0.991378664970398, 
+            "BeginOffset": 1777, 
+            "EndOffset": 1792
+        }, 
+        {
+            "Text": "the door", 
+            "Score": 0.9980498552322388, 
+            "BeginOffset": 1834, 
+            "EndOffset": 1842
+        }, 
+        {
+            "Text": "one[3]", 
+            "Score": 0.890109658241272, 
+            "BeginOffset": 1860, 
+            "EndOffset": 1866
+        }, 
+        {
+            "Text": "The program", 
+            "Score": 0.9984682202339172, 
+            "BeginOffset": 1869, 
+            "EndOffset": 1880
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9997002482414246, 
+            "BeginOffset": 1930, 
+            "EndOffset": 1936
+        }, 
+        {
+            "Text": "similar roles", 
+            "Score": 0.9988332390785217, 
+            "BeginOffset": 1940, 
+            "EndOffset": 1953
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9994134902954102, 
+            "BeginOffset": 1961, 
+            "EndOffset": 1970
+        }, 
+        {
+            "Text": "New Zealand", 
+            "Score": 0.9987117648124695, 
+            "BeginOffset": 1975, 
+            "EndOffset": 1986
+        }, 
+        {
+            "Text": "special meetups/events", 
+            "Score": 0.8685944080352783, 
+            "BeginOffset": 1994, 
+            "EndOffset": 2016
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9990559220314026, 
+            "BeginOffset": 2036, 
+            "EndOffset": 2044
+        }, 
+        {
+            "Text": "the track", 
+            "Score": 0.984400749206543, 
+            "BeginOffset": 2128, 
+            "EndOffset": 2137
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9758784174919128, 
+            "BeginOffset": 2143, 
+            "EndOffset": 2146
+        }, 
+        {
+            "Text": "obvious reasons", 
+            "Score": 0.9965599775314331, 
+            "BeginOffset": 2158, 
+            "EndOffset": 2173
+        }, 
+        {
+            "Text": "evangelising", 
+            "Score": 0.9237608313560486, 
+            "BeginOffset": 2256, 
+            "EndOffset": 2268
+        }, 
+        {
+            "Text": "the platform", 
+            "Score": 0.9960622191429138, 
+            "BeginOffset": 2269, 
+            "EndOffset": 2281
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.7935807704925537, 
+            "BeginOffset": 2295, 
+            "EndOffset": 2299
+        }, 
+        {
+            "Text": "the role description", 
+            "Score": 0.9533184170722961, 
+            "BeginOffset": 2303, 
+            "EndOffset": 2323
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9765719771385193, 
+            "BeginOffset": 2323, 
+            "EndOffset": 2326
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8247029185295105, 
+            "BeginOffset": 2349, 
+            "EndOffset": 2352
+        }, 
+        {
+            "Text": "a difference", 
+            "Score": 0.9949952363967896, 
+            "BeginOffset": 2402, 
+            "EndOffset": 2414
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9435552954673767, 
+            "BeginOffset": 2423, 
+            "EndOffset": 2426
+        }, 
+        {
+            "Text": "your password manager", 
+            "Score": 0.8318934440612793, 
+            "BeginOffset": 2433, 
+            "EndOffset": 2454
+        }, 
+        {
+            "Text": "choice", 
+            "Score": 0.9979247450828552, 
+            "BeginOffset": 2458, 
+            "EndOffset": 2464
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9987846612930298, 
+            "BeginOffset": 2467, 
+            "EndOffset": 2470
+        }, 
+        {
+            "Text": "a nested acronym", 
+            "Score": 0.790558397769928, 
+            "BeginOffset": 2483, 
+            "EndOffset": 2499
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9980803728103638, 
+            "BeginOffset": 2502, 
+            "EndOffset": 2505
+        }, 
+        {
+            "Text": "a limit", 
+            "Score": 0.7576838135719299, 
+            "BeginOffset": 2514, 
+            "EndOffset": 2521
+        }, 
+        {
+            "Text": "1 warrior", 
+            "Score": 0.9814289212226868, 
+            "BeginOffset": 2525, 
+            "EndOffset": 2534
+        }, 
+        {
+            "Text": "company", 
+            "Score": 0.9999072551727295, 
+            "BeginOffset": 2539, 
+            "EndOffset": 2546
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9973858594894409, 
+            "BeginOffset": 2549, 
+            "EndOffset": 2552
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.7338791489601135, 
+            "BeginOffset": 2564, 
+            "EndOffset": 2572
+        }, 
+        {
+            "Text": "a re", 
+            "Score": 0.9924546480178833, 
+            "BeginOffset": 2577, 
+            "EndOffset": 2581
+        }, 
+        {
+            "Text": "Invent ticket", 
+            "Score": 0.9904688596725464, 
+            "BeginOffset": 2582, 
+            "EndOffset": 2595
+        }
+    ]
+}

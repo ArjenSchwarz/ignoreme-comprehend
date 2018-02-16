@@ -1,0 +1,165 @@
+{
+    "Entities": [
+        {
+            "Text": "Both", 
+            "Score": 0.862481951713562, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 0, 
+            "EndOffset": 4
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.5952788591384888, 
+            "Type": "PERSON", 
+            "BeginOffset": 5, 
+            "EndOffset": 11
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9486119747161865, 
+            "Type": "PERSON", 
+            "BeginOffset": 16, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "17.06 CE", 
+            "Score": 0.889134407043457, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 120, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.8523954153060913, 
+            "Type": "PERSON", 
+            "BeginOffset": 174, 
+            "EndOffset": 180
+        }, 
+        {
+            "Text": "17.06 CE", 
+            "Score": 0.8861709833145142, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 198, 
+            "EndOffset": 206
+        }, 
+        {
+            "Text": "DockerCon", 
+            "Score": 0.7434829473495483, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 281, 
+            "EndOffset": 290
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.5267760753631592, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 459, 
+            "EndOffset": 464
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.46758902072906494, 
+            "Type": "PERSON", 
+            "BeginOffset": 489, 
+            "EndOffset": 493
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.5964949131011963, 
+            "Type": "PERSON", 
+            "BeginOffset": 532, 
+            "EndOffset": 538
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.6821054220199585, 
+            "Type": "PERSON", 
+            "BeginOffset": 759, 
+            "EndOffset": 765
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.7358198165893555, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 767, 
+            "EndOffset": 770
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.7344924807548523, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 945, 
+            "EndOffset": 950
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9998117089271545, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1043, 
+            "EndOffset": 1046
+        }, 
+        {
+            "Text": "Java", 
+            "Score": 0.9999755620956421, 
+            "Type": "TITLE", 
+            "BeginOffset": 1131, 
+            "EndOffset": 1135
+        }, 
+        {
+            "Text": "Go", 
+            "Score": 0.9777845144271851, 
+            "Type": "TITLE", 
+            "BeginOffset": 1139, 
+            "EndOffset": 1141
+        }, 
+        {
+            "Text": "8 minute", 
+            "Score": 0.9993582963943481, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1632, 
+            "EndOffset": 1640
+        }, 
+        {
+            "Text": "1.7", 
+            "Score": 0.753201425075531, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1706, 
+            "EndOffset": 1709
+        }, 
+        {
+            "Text": "1.7", 
+            "Score": 0.6440321207046509, 
+            "Type": "OTHER", 
+            "BeginOffset": 1755, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "1.8", 
+            "Score": 0.9999852180480957, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1963, 
+            "EndOffset": 1966
+        }, 
+        {
+            "Text": "first provider", 
+            "Score": 0.9992940425872803, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2202, 
+            "EndOffset": 2216
+        }, 
+        {
+            "Text": "Francesc Campoy", 
+            "Score": 0.9999591708183289, 
+            "Type": "PERSON", 
+            "BeginOffset": 2680, 
+            "EndOffset": 2695
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9783767461776733, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2706, 
+            "EndOffset": 2712
+        }
+    ]
+}

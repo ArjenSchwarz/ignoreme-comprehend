@@ -1,0 +1,305 @@
+{
+    "Entities": [
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.7250249981880188, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 28, 
+            "EndOffset": 37
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.6522813439369202, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 40, 
+            "EndOffset": 49
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.602500319480896, 
+            "Type": "PERSON", 
+            "BeginOffset": 71, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.8918167948722839, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 108, 
+            "EndOffset": 114
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9601823091506958, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 117, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "BITBUCKET", 
+            "Score": 0.2565554082393646, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 136, 
+            "EndOffset": 145
+        }, 
+        {
+            "Text": "first impressions", 
+            "Score": 0.7595682740211487, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 201, 
+            "EndOffset": 218
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.7333944439888, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 263, 
+            "EndOffset": 272
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.8464080691337585, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 292, 
+            "EndOffset": 301
+        }, 
+        {
+            "Text": "one thing", 
+            "Score": 0.7307534217834473, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 356, 
+            "EndOffset": 365
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.7600913643836975, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 537, 
+            "EndOffset": 543
+        }, 
+        {
+            "Text": "3rd party services", 
+            "Score": 0.7718380689620972, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 550, 
+            "EndOffset": 568
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.900421142578125, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 654, 
+            "EndOffset": 663
+        }, 
+        {
+            "Text": "CI", 
+            "Score": 0.6848042607307434, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 682, 
+            "EndOffset": 684
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.8926125764846802, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 782, 
+            "EndOffset": 791
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.8826175332069397, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 824, 
+            "EndOffset": 833
+        }, 
+        {
+            "Text": "One other thing", 
+            "Score": 0.8363102078437805, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 901, 
+            "EndOffset": 916
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9999613761901855, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 983, 
+            "EndOffset": 989
+        }, 
+        {
+            "Text": "Gitlab", 
+            "Score": 0.9999269247055054, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1073, 
+            "EndOffset": 1079
+        }, 
+        {
+            "Text": "SaaS", 
+            "Score": 0.9998729228973389, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1144, 
+            "EndOffset": 1148
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9999666213989258, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1169, 
+            "EndOffset": 1178
+        }, 
+        {
+            "Text": "CI", 
+            "Score": 0.9999960660934448, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1348, 
+            "EndOffset": 1350
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9997866749763489, 
+            "Type": "PERSON", 
+            "BeginOffset": 1378, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9992892146110535, 
+            "Type": "DATE", 
+            "BeginOffset": 1400, 
+            "EndOffset": 1409
+        }, 
+        {
+            "Text": "Blue Ocean", 
+            "Score": 0.9966393709182739, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1417, 
+            "EndOffset": 1427
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999868869781494, 
+            "Type": "PERSON", 
+            "BeginOffset": 1506, 
+            "EndOffset": 1513
+        }, 
+        {
+            "Text": "ORACLE VS", 
+            "Score": 0.9999878406524658, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1651, 
+            "EndOffset": 1660
+        }, 
+        {
+            "Text": "2 week", 
+            "Score": 0.7882658243179321, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1672, 
+            "EndOffset": 1678
+        }, 
+        {
+            "Text": "2010", 
+            "Score": 0.9999978542327881, 
+            "Type": "DATE", 
+            "BeginOffset": 1747, 
+            "EndOffset": 1751
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9974641799926758, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1752, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9301996231079102, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1764, 
+            "EndOffset": 1770
+        }, 
+        {
+            "Text": "Java", 
+            "Score": 0.9999823570251465, 
+            "Type": "TITLE", 
+            "BeginOffset": 1820, 
+            "EndOffset": 1824
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999650716781616, 
+            "Type": "TITLE", 
+            "BeginOffset": 1841, 
+            "EndOffset": 1848
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999387264251709, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1879, 
+            "EndOffset": 1885
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2373, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.457550048828125, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2482, 
+            "EndOffset": 2491
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999991655349731, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2545, 
+            "EndOffset": 2554
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999927282333374, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2568, 
+            "EndOffset": 2574
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999542236328125, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2609, 
+            "EndOffset": 2615
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9998050332069397, 
+            "Type": "TITLE", 
+            "BeginOffset": 2618, 
+            "EndOffset": 2625
+        }, 
+        {
+            "Text": "Java", 
+            "Score": 0.9999951124191284, 
+            "Type": "TITLE", 
+            "BeginOffset": 2705, 
+            "EndOffset": 2709
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9984334111213684, 
+            "Type": "TITLE", 
+            "BeginOffset": 2829, 
+            "EndOffset": 2836
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9999299049377441, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2924, 
+            "EndOffset": 2930
+        }
+    ]
+}

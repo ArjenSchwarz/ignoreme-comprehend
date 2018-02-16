@@ -1,0 +1,778 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "that exciting time", 
+            "Score": 0.9194267988204956, 
+            "BeginOffset": 5, 
+            "EndOffset": 23
+        }, 
+        {
+            "Text": "the big tech companies", 
+            "Score": 0.986636757850647, 
+            "BeginOffset": 36, 
+            "EndOffset": 58
+        }, 
+        {
+            "Text": "their earnings", 
+            "Score": 0.9988527894020081, 
+            "BeginOffset": 68, 
+            "EndOffset": 82
+        }, 
+        {
+            "Text": "those results", 
+            "Score": 0.9874030351638794, 
+            "BeginOffset": 116, 
+            "EndOffset": 129
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9993565082550049, 
+            "BeginOffset": 154, 
+            "EndOffset": 159
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9723751544952393, 
+            "BeginOffset": 177, 
+            "EndOffset": 183
+        }, 
+        {
+            "Text": "any money", 
+            "Score": 0.9945745468139648, 
+            "BeginOffset": 219, 
+            "EndOffset": 228
+        }, 
+        {
+            "Text": "Google and Facebook", 
+            "Score": 0.9708443284034729, 
+            "BeginOffset": 234, 
+            "EndOffset": 253
+        }, 
+        {
+            "Text": "more ads", 
+            "Score": 0.998361349105835, 
+            "BeginOffset": 259, 
+            "EndOffset": 267
+        }, 
+        {
+            "Text": "mobile than", 
+            "Score": 0.7178148031234741, 
+            "BeginOffset": 271, 
+            "EndOffset": 282
+        }, 
+        {
+            "Text": "WHATSAPP", 
+            "Score": 0.8614264726638794, 
+            "BeginOffset": 379, 
+            "EndOffset": 387
+        }, 
+        {
+            "Text": "the past week", 
+            "Score": 0.918341338634491, 
+            "BeginOffset": 406, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "the biggest tech news", 
+            "Score": 0.843589723110199, 
+            "BeginOffset": 470, 
+            "EndOffset": 491
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.8342458009719849, 
+            "BeginOffset": 542, 
+            "EndOffset": 550
+        }, 
+        {
+            "Text": "its subscription fee", 
+            "Score": 0.9971897006034851, 
+            "BeginOffset": 560, 
+            "EndOffset": 580
+        }, 
+        {
+            "Text": "an iOS and early Whatsapp user", 
+            "Score": 0.9183078408241272, 
+            "BeginOffset": 585, 
+            "EndOffset": 615
+        }, 
+        {
+            "Text": "the only time", 
+            "Score": 0.9964286684989929, 
+            "BeginOffset": 617, 
+            "EndOffset": 630
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9817479848861694, 
+            "BeginOffset": 648, 
+            "EndOffset": 656
+        }, 
+        {
+            "Text": "the app", 
+            "Score": 0.9858256578445435, 
+            "BeginOffset": 685, 
+            "EndOffset": 692
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.99335116147995, 
+            "BeginOffset": 703, 
+            "EndOffset": 714
+        }, 
+        {
+            "Text": "their strange business model", 
+            "Score": 0.9791712760925293, 
+            "BeginOffset": 757, 
+            "EndOffset": 785
+        }, 
+        {
+            "Text": "the app", 
+            "Score": 0.9990251064300537, 
+            "BeginOffset": 853, 
+            "EndOffset": 860
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9989436268806458, 
+            "BeginOffset": 864, 
+            "EndOffset": 867
+        }, 
+        {
+            "Text": "a yearly fee", 
+            "Score": 0.9993346929550171, 
+            "BeginOffset": 907, 
+            "EndOffset": 919
+        }, 
+        {
+            "Text": "1 dollar", 
+            "Score": 0.999719500541687, 
+            "BeginOffset": 923, 
+            "EndOffset": 931
+        }, 
+        {
+            "Text": "the free app", 
+            "Score": 0.9992554783821106, 
+            "BeginOffset": 943, 
+            "EndOffset": 955
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9998051524162292, 
+            "BeginOffset": 959, 
+            "EndOffset": 966
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.8318946957588196, 
+            "BeginOffset": 977, 
+            "EndOffset": 980
+        }, 
+        {
+            "Text": "That yearly fee", 
+            "Score": 0.9297023415565491, 
+            "BeginOffset": 982, 
+            "EndOffset": 997
+        }, 
+        {
+            "Text": "a year", 
+            "Score": 0.9691681861877441, 
+            "BeginOffset": 1017, 
+            "EndOffset": 1023
+        }, 
+        {
+            "Text": "my family", 
+            "Score": 0.9975887537002563, 
+            "BeginOffset": 1039, 
+            "EndOffset": 1048
+        }, 
+        {
+            "Text": "The Netherlands", 
+            "Score": 0.9605564475059509, 
+            "BeginOffset": 1057, 
+            "EndOffset": 1072
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9869224429130554, 
+            "BeginOffset": 1074, 
+            "EndOffset": 1082
+        }, 
+        {
+            "Text": "the main way", 
+            "Score": 0.9598687887191772, 
+            "BeginOffset": 1086, 
+            "EndOffset": 1098
+        }, 
+        {
+            "Text": "each other", 
+            "Score": 0.9994454383850098, 
+            "BeginOffset": 1113, 
+            "EndOffset": 1123
+        }, 
+        {
+            "Text": "no free sms", 
+            "Score": 0.9913214445114136, 
+            "BeginOffset": 1125, 
+            "EndOffset": 1136
+        }, 
+        {
+            "Text": "this fee", 
+            "Score": 0.9967653155326843, 
+            "BeginOffset": 1192, 
+            "EndOffset": 1200
+        }, 
+        {
+            "Text": "the free app", 
+            "Score": 0.9990794062614441, 
+            "BeginOffset": 1220, 
+            "EndOffset": 1232
+        }, 
+        {
+            "Text": "the model", 
+            "Score": 0.8756815195083618, 
+            "BeginOffset": 1270, 
+            "EndOffset": 1279
+        }, 
+        {
+            "Text": "an even bigger mess", 
+            "Score": 0.9841065406799316, 
+            "BeginOffset": 1284, 
+            "EndOffset": 1303
+        }, 
+        {
+            "Text": "no doubt", 
+            "Score": 0.9428012371063232, 
+            "BeginOffset": 1356, 
+            "EndOffset": 1364
+        }, 
+        {
+            "Text": "this fee and confusion", 
+            "Score": 0.8638102412223816, 
+            "BeginOffset": 1365, 
+            "EndOffset": 1387
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9840500354766846, 
+            "BeginOffset": 1407, 
+            "EndOffset": 1412
+        }, 
+        {
+            "Text": "users", 
+            "Score": 0.9998185038566589, 
+            "BeginOffset": 1416, 
+            "EndOffset": 1421
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9996967911720276, 
+            "BeginOffset": 1433, 
+            "EndOffset": 1441
+        }, 
+        {
+            "Text": "lack", 
+            "Score": 0.9200932383537292, 
+            "BeginOffset": 1449, 
+            "EndOffset": 1453
+        }, 
+        {
+            "Text": "a credit card", 
+            "Score": 0.9909190535545349, 
+            "BeginOffset": 1457, 
+            "EndOffset": 1470
+        }, 
+        {
+            "Text": "the goal", 
+            "Score": 0.9868846535682678, 
+            "BeginOffset": 1477, 
+            "EndOffset": 1485
+        }, 
+        {
+            "Text": "more users", 
+            "Score": 0.998961865901947, 
+            "BeginOffset": 1496, 
+            "EndOffset": 1506
+        }, 
+        {
+            "Text": "no doubt", 
+            "Score": 0.9493486881256104, 
+            "BeginOffset": 1514, 
+            "EndOffset": 1522
+        }, 
+        {
+            "Text": "a positive change", 
+            "Score": 0.9990361332893372, 
+            "BeginOffset": 1531, 
+            "EndOffset": 1548
+        }, 
+        {
+            "Text": "a gigantic impact", 
+            "Score": 0.9991343021392822, 
+            "BeginOffset": 1588, 
+            "EndOffset": 1605
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9996836185455322, 
+            "BeginOffset": 1609, 
+            "EndOffset": 1617
+        }, 
+        {
+            "Text": "balance sheet", 
+            "Score": 0.9975088834762573, 
+            "BeginOffset": 1620, 
+            "EndOffset": 1633
+        }, 
+        {
+            "Text": "more people", 
+            "Score": 0.9860469698905945, 
+            "BeginOffset": 1672, 
+            "EndOffset": 1683
+        }, 
+        {
+            "Text": "the app", 
+            "Score": 0.9948626160621643, 
+            "BeginOffset": 1688, 
+            "EndOffset": 1695
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9045627117156982, 
+            "BeginOffset": 1711, 
+            "EndOffset": 1719
+        }, 
+        {
+            "Text": "perspective", 
+            "Score": 0.9993952512741089, 
+            "BeginOffset": 1722, 
+            "EndOffset": 1733
+        }, 
+        {
+            "Text": "the data", 
+            "Score": 0.9957441091537476, 
+            "BeginOffset": 1746, 
+            "EndOffset": 1754
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9986885190010071, 
+            "BeginOffset": 1755, 
+            "EndOffset": 1763
+        }, 
+        {
+            "Text": "exactly a surprising move", 
+            "Score": 0.7948482632637024, 
+            "BeginOffset": 1867, 
+            "EndOffset": 1892
+        }, 
+        {
+            "Text": "the 22 billion", 
+            "Score": 0.8996423482894897, 
+            "BeginOffset": 1934, 
+            "EndOffset": 1948
+        }, 
+        {
+            "Text": "a minor uproar", 
+            "Score": 0.974662184715271, 
+            "BeginOffset": 2019, 
+            "EndOffset": 2033
+        }, 
+        {
+            "Text": "acceptance", 
+            "Score": 0.9825919270515442, 
+            "BeginOffset": 2075, 
+            "EndOffset": 2085
+        }, 
+        {
+            "Text": "a few months", 
+            "Score": 0.9280562996864319, 
+            "BeginOffset": 2102, 
+            "EndOffset": 2114
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.998715877532959, 
+            "BeginOffset": 2194, 
+            "EndOffset": 2202
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9188136458396912, 
+            "BeginOffset": 2206, 
+            "EndOffset": 2212
+        }, 
+        {
+            "Text": "the service", 
+            "Score": 0.9982362985610962, 
+            "BeginOffset": 2229, 
+            "EndOffset": 2240
+        }, 
+        {
+            "Text": "their privacy enough", 
+            "Score": 0.9783523678779602, 
+            "BeginOffset": 2269, 
+            "EndOffset": 2289
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9886007905006409, 
+            "BeginOffset": 2332, 
+            "EndOffset": 2340
+        }, 
+        {
+            "Text": "a financial standpoint", 
+            "Score": 0.9889695048332214, 
+            "BeginOffset": 2355, 
+            "EndOffset": 2377
+        }, 
+        {
+            "Text": "fun", 
+            "Score": 0.999767541885376, 
+            "BeginOffset": 2389, 
+            "EndOffset": 2392
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9844984412193298, 
+            "BeginOffset": 2401, 
+            "EndOffset": 2407
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9972756505012512, 
+            "BeginOffset": 2416, 
+            "EndOffset": 2424
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9867002964019775, 
+            "BeginOffset": 2458, 
+            "EndOffset": 2463
+        }, 
+        {
+            "Text": "Asia", 
+            "Score": 0.9987850785255432, 
+            "BeginOffset": 2468, 
+            "EndOffset": 2472
+        }, 
+        {
+            "Text": "messaging services", 
+            "Score": 0.9992634057998657, 
+            "BeginOffset": 2474, 
+            "EndOffset": 2492
+        }, 
+        {
+            "Text": "Line", 
+            "Score": 0.9671812057495117, 
+            "BeginOffset": 2498, 
+            "EndOffset": 2502
+        }, 
+        {
+            "Text": "a business", 
+            "Score": 0.8787164688110352, 
+            "BeginOffset": 2513, 
+            "EndOffset": 2523
+        }, 
+        {
+            "Text": "a mix", 
+            "Score": 0.9968723058700562, 
+            "BeginOffset": 2531, 
+            "EndOffset": 2536
+        }, 
+        {
+            "Text": "several things", 
+            "Score": 0.909824788570404, 
+            "BeginOffset": 2540, 
+            "EndOffset": 2554
+        }, 
+        {
+            "Text": "stickers", 
+            "Score": 0.999332845211029, 
+            "BeginOffset": 2569, 
+            "EndOffset": 2577
+        }, 
+        {
+            "Text": "integration", 
+            "Score": 0.9955182671546936, 
+            "BeginOffset": 2581, 
+            "EndOffset": 2592
+        }, 
+        {
+            "Text": "companies", 
+            "Score": 0.8051943182945251, 
+            "BeginOffset": 2598, 
+            "EndOffset": 2607
+        }, 
+        {
+            "Text": "The latter", 
+            "Score": 0.9988861083984375, 
+            "BeginOffset": 2609, 
+            "EndOffset": 2619
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.999825656414032, 
+            "BeginOffset": 2637, 
+            "EndOffset": 2645
+        }, 
+        {
+            "Text": "Hong Kong", 
+            "Score": 0.9986162781715393, 
+            "BeginOffset": 2691, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "businesses", 
+            "Score": 0.9776332378387451, 
+            "BeginOffset": 2735, 
+            "EndOffset": 2745
+        }, 
+        {
+            "Text": "Whatsapp", 
+            "Score": 0.9675782918930054, 
+            "BeginOffset": 2756, 
+            "EndOffset": 2764
+        }, 
+        {
+            "Text": "information", 
+            "Score": 0.6965627670288086, 
+            "BeginOffset": 2773, 
+            "EndOffset": 2784
+        }, 
+        {
+            "Text": "a website", 
+            "Score": 0.8395155668258667, 
+            "BeginOffset": 2796, 
+            "EndOffset": 2805
+        }, 
+        {
+            "Text": "that integration", 
+            "Score": 0.9969496130943298, 
+            "BeginOffset": 2851, 
+            "EndOffset": 2867
+        }, 
+        {
+            "Text": "possibilities", 
+            "Score": 0.7437237501144409, 
+            "BeginOffset": 2872, 
+            "EndOffset": 2885
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9872586727142334, 
+            "BeginOffset": 2910, 
+            "EndOffset": 2918
+        }, 
+        {
+            "Text": "the existing setup", 
+            "Score": 0.9879366159439087, 
+            "BeginOffset": 2942, 
+            "EndOffset": 2960
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9963098168373108, 
+            "BeginOffset": 2978, 
+            "EndOffset": 2983
+        }, 
+        {
+            "Text": "OTHER STUFF", 
+            "Score": 0.999318540096283, 
+            "BeginOffset": 3005, 
+            "EndOffset": 3016
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9979590773582458, 
+            "BeginOffset": 3042, 
+            "EndOffset": 3047
+        }, 
+        {
+            "Text": "other stuff", 
+            "Score": 0.9960629343986511, 
+            "BeginOffset": 3051, 
+            "EndOffset": 3062
+        }, 
+        {
+            "Text": "the last week", 
+            "Score": 0.9980582594871521, 
+            "BeginOffset": 3075, 
+            "EndOffset": 3088
+        }, 
+        {
+            "Text": "executive shuffles", 
+            "Score": 0.9611910581588745, 
+            "BeginOffset": 3103, 
+            "EndOffset": 3121
+        }, 
+        {
+            "Text": "Twitter", 
+            "Score": 0.9985815286636353, 
+            "BeginOffset": 3125, 
+            "EndOffset": 3132
+        }, 
+        {
+            "Text": "yet another round", 
+            "Score": 0.9880064129829407, 
+            "BeginOffset": 3136, 
+            "EndOffset": 3153
+        }, 
+        {
+            "Text": "rumors", 
+            "Score": 0.9973588585853577, 
+            "BeginOffset": 3157, 
+            "EndOffset": 3163
+        }, 
+        {
+            "Text": "possible new devices", 
+            "Score": 0.9414251446723938, 
+            "BeginOffset": 3175, 
+            "EndOffset": 3195
+        }, 
+        {
+            "Text": "companies", 
+            "Score": 0.9920192360877991, 
+            "BeginOffset": 3201, 
+            "EndOffset": 3210
+        }, 
+        {
+            "Text": "that sort", 
+            "Score": 0.9968539476394653, 
+            "BeginOffset": 3218, 
+            "EndOffset": 3227
+        }, 
+        {
+            "Text": "thing", 
+            "Score": 0.9993651509284973, 
+            "BeginOffset": 3231, 
+            "EndOffset": 3236
+        }, 
+        {
+            "Text": "enough[1]", 
+            "Score": 0.867231547832489, 
+            "BeginOffset": 3272, 
+            "EndOffset": 3281
+        }, 
+        {
+            "Text": "the reasoning", 
+            "Score": 0.9910113215446472, 
+            "BeginOffset": 3321, 
+            "EndOffset": 3334
+        }, 
+        {
+            "Text": "consequences", 
+            "Score": 0.9959224462509155, 
+            "BeginOffset": 3342, 
+            "EndOffset": 3354
+        }, 
+        {
+            "Text": "a good understanding", 
+            "Score": 0.9335829019546509, 
+            "BeginOffset": 3419, 
+            "EndOffset": 3439
+        }, 
+        {
+            "Text": "the ramifications", 
+            "Score": 0.9996744394302368, 
+            "BeginOffset": 3443, 
+            "EndOffset": 3460
+        }, 
+        {
+            "Text": "the other stuff", 
+            "Score": 0.9992016553878784, 
+            "BeginOffset": 3464, 
+            "EndOffset": 3479
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9993718266487122, 
+            "BeginOffset": 3503, 
+            "EndOffset": 3509
+        }, 
+        {
+            "Text": "Stratechery", 
+            "Score": 0.9989485144615173, 
+            "BeginOffset": 3513, 
+            "EndOffset": 3524
+        }, 
+        {
+            "Text": "Ben Thompson", 
+            "Score": 0.9980267882347107, 
+            "BeginOffset": 3531, 
+            "EndOffset": 3543
+        }, 
+        {
+            "Text": "a good job", 
+            "Score": 0.9985677599906921, 
+            "BeginOffset": 3549, 
+            "EndOffset": 3559
+        }, 
+        {
+            "Text": "his weekly articles", 
+            "Score": 0.9985591173171997, 
+            "BeginOffset": 3565, 
+            "EndOffset": 3584
+        }, 
+        {
+            "Text": "an even better job", 
+            "Score": 0.9994737505912781, 
+            "BeginOffset": 3590, 
+            "EndOffset": 3608
+        }, 
+        {
+            "Text": "his daily subscription email", 
+            "Score": 0.987272322177887, 
+            "BeginOffset": 3614, 
+            "EndOffset": 3642
+        }, 
+        {
+            "Text": "the other hand", 
+            "Score": 0.9932435154914856, 
+            "BeginOffset": 3649, 
+            "EndOffset": 3663
+        }, 
+        {
+            "Text": "the kind", 
+            "Score": 0.9954078793525696, 
+            "BeginOffset": 3678, 
+            "EndOffset": 3686
+        }, 
+        {
+            "Text": "subjects", 
+            "Score": 0.9977250099182129, 
+            "BeginOffset": 3690, 
+            "EndOffset": 3698
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.8574135303497314, 
+            "BeginOffset": 3771, 
+            "EndOffset": 3773
+        }, 
+        {
+            "Text": "an opinion", 
+            "Score": 0.9880496859550476, 
+            "BeginOffset": 3788, 
+            "EndOffset": 3798
+        }, 
+        {
+            "Text": "devices", 
+            "Score": 0.6030148863792419, 
+            "BeginOffset": 3805, 
+            "EndOffset": 3812
+        }, 
+        {
+            "Text": "ports", 
+            "Score": 0.999647319316864, 
+            "BeginOffset": 3830, 
+            "EndOffset": 3835
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.9734920859336853, 
+            "BeginOffset": 3884, 
+            "EndOffset": 3892
+        }
+    ]
+}

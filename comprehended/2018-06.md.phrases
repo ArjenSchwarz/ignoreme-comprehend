@@ -1,0 +1,652 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.988055408000946, 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9953680038452148, 
+            "BeginOffset": 22, 
+            "EndOffset": 28
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9448850750923157, 
+            "BeginOffset": 33, 
+            "EndOffset": 40
+        }, 
+        {
+            "Text": "Red Hat", 
+            "Score": 0.9988576173782349, 
+            "BeginOffset": 42, 
+            "EndOffset": 49
+        }, 
+        {
+            "Text": "CoreOS", 
+            "Score": 0.9889394044876099, 
+            "BeginOffset": 59, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "Nintendo", 
+            "Score": 0.9884981513023376, 
+            "BeginOffset": 71, 
+            "EndOffset": 79
+        }, 
+        {
+            "Text": "details", 
+            "Score": 0.9941279888153076, 
+            "BeginOffset": 89, 
+            "EndOffset": 96
+        }, 
+        {
+            "Text": "Switch Online", 
+            "Score": 0.98878014087677, 
+            "BeginOffset": 103, 
+            "EndOffset": 116
+        }, 
+        {
+            "Text": "KUBERNETES", 
+            "Score": 0.7432306408882141, 
+            "BeginOffset": 121, 
+            "EndOffset": 131
+        }, 
+        {
+            "Text": "DOCKER", 
+            "Score": 0.9660250544548035, 
+            "BeginOffset": 135, 
+            "EndOffset": 141
+        }, 
+        {
+            "Text": "the betas", 
+            "Score": 0.992200493812561, 
+            "BeginOffset": 160, 
+            "EndOffset": 169
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9923801422119141, 
+            "BeginOffset": 174, 
+            "EndOffset": 180
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.9886600375175476, 
+            "BeginOffset": 185, 
+            "EndOffset": 188
+        }, 
+        {
+            "Text": "Docker Enterprise", 
+            "Score": 0.8640783429145813, 
+            "BeginOffset": 198, 
+            "EndOffset": 215
+        }, 
+        {
+            "Text": "Kubernetes support", 
+            "Score": 0.9793922901153564, 
+            "BeginOffset": 217, 
+            "EndOffset": 235
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9708382487297058, 
+            "BeginOffset": 252, 
+            "EndOffset": 258
+        }, 
+        {
+            "Text": "Windows Desktop", 
+            "Score": 0.9941127300262451, 
+            "BeginOffset": 263, 
+            "EndOffset": 278
+        }, 
+        {
+            "Text": "a local Kubernetes cluster", 
+            "Score": 0.9978120923042297, 
+            "BeginOffset": 332, 
+            "EndOffset": 358
+        }, 
+        {
+            "Text": "development", 
+            "Score": 0.9991772174835205, 
+            "BeginOffset": 363, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9851040840148926, 
+            "BeginOffset": 415, 
+            "EndOffset": 422
+        }, 
+        {
+            "Text": "all 3", 
+            "Score": 0.975086510181427, 
+            "BeginOffset": 441, 
+            "EndOffset": 446
+        }, 
+        {
+            "Text": "a matter", 
+            "Score": 0.9969847798347473, 
+            "BeginOffset": 465, 
+            "EndOffset": 473
+        }, 
+        {
+            "Text": "the final versions", 
+            "Score": 0.9872266054153442, 
+            "BeginOffset": 489, 
+            "EndOffset": 507
+        }, 
+        {
+            "Text": "the software", 
+            "Score": 0.9990916848182678, 
+            "BeginOffset": 511, 
+            "EndOffset": 523
+        }, 
+        {
+            "Text": "the beta tracks", 
+            "Score": 0.9924590587615967, 
+            "BeginOffset": 541, 
+            "EndOffset": 556
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9779230952262878, 
+            "BeginOffset": 593, 
+            "EndOffset": 603
+        }, 
+        {
+            "Text": "a try", 
+            "Score": 0.9413390755653381, 
+            "BeginOffset": 636, 
+            "EndOffset": 641
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9961773157119751, 
+            "BeginOffset": 646, 
+            "EndOffset": 651
+        }, 
+        {
+            "Text": "a secondary computer", 
+            "Score": 0.9971016049385071, 
+            "BeginOffset": 682, 
+            "EndOffset": 702
+        }, 
+        {
+            "Text": "the edge version", 
+            "Score": 0.8941711187362671, 
+            "BeginOffset": 734, 
+            "EndOffset": 750
+        }, 
+        {
+            "Text": "COREOS JOINS RED HAT\n\n\nCoreOS", 
+            "Score": 0.9214935898780823, 
+            "BeginOffset": 755, 
+            "EndOffset": 784
+        }, 
+        {
+            "Text": "the makers", 
+            "Score": 0.9989615678787231, 
+            "BeginOffset": 786, 
+            "EndOffset": 796
+        }, 
+        {
+            "Text": "etcd, rkt, Container Linux[1]", 
+            "Score": 0.8845906853675842, 
+            "BeginOffset": 800, 
+            "EndOffset": 829
+        }, 
+        {
+            "Text": "various other container", 
+            "Score": 0.9351524710655212, 
+            "BeginOffset": 835, 
+            "EndOffset": 858
+        }, 
+        {
+            "Text": "related tools", 
+            "Score": 0.8475870490074158, 
+            "BeginOffset": 859, 
+            "EndOffset": 872
+        }, 
+        {
+            "Text": "Red Hat", 
+            "Score": 0.9972295165061951, 
+            "BeginOffset": 885, 
+            "EndOffset": 892
+        }, 
+        {
+            "Text": "an interesting move", 
+            "Score": 0.9988113641738892, 
+            "BeginOffset": 902, 
+            "EndOffset": 921
+        }, 
+        {
+            "Text": "a good acquisition", 
+            "Score": 0.981286346912384, 
+            "BeginOffset": 941, 
+            "EndOffset": 959
+        }, 
+        {
+            "Text": "both sides", 
+            "Score": 0.9954796433448792, 
+            "BeginOffset": 964, 
+            "EndOffset": 974
+        }, 
+        {
+            "Text": "CoreOS", 
+            "Score": 0.9967784285545349, 
+            "BeginOffset": 983, 
+            "EndOffset": 989
+        }, 
+        {
+            "Text": "a commercial offering", 
+            "Score": 0.9965807199478149, 
+            "BeginOffset": 994, 
+            "EndOffset": 1015
+        }, 
+        {
+            "Text": "their Tectonic platform", 
+            "Score": 0.9974021315574646, 
+            "BeginOffset": 1021, 
+            "EndOffset": 1044
+        }, 
+        {
+            "Text": "a custom management layer", 
+            "Score": 0.9836325645446777, 
+            "BeginOffset": 1065, 
+            "EndOffset": 1090
+        }, 
+        {
+            "Text": "top", 
+            "Score": 0.9903686046600342, 
+            "BeginOffset": 1094, 
+            "EndOffset": 1097
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9964142441749573, 
+            "BeginOffset": 1101, 
+            "EndOffset": 1111
+        }, 
+        {
+            "Text": "their non-commercial tools", 
+            "Score": 0.9850504994392395, 
+            "BeginOffset": 1143, 
+            "EndOffset": 1169
+        }, 
+        {
+            "Text": "that regard", 
+            "Score": 0.9992185235023499, 
+            "BeginOffset": 1174, 
+            "EndOffset": 1185
+        }, 
+        {
+            "Text": "a larger corporation", 
+            "Score": 0.9429891705513, 
+            "BeginOffset": 1217, 
+            "EndOffset": 1237
+        }, 
+        {
+            "Text": "more freedom", 
+            "Score": 0.9938203692436218, 
+            "BeginOffset": 1254, 
+            "EndOffset": 1266
+        }, 
+        {
+            "Text": "the importance and open source nature", 
+            "Score": 0.9112152457237244, 
+            "BeginOffset": 1297, 
+            "EndOffset": 1334
+        }, 
+        {
+            "Text": "those tools", 
+            "Score": 0.987662672996521, 
+            "BeginOffset": 1338, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "Red Hat", 
+            "Score": 0.9992058277130127, 
+            "BeginOffset": 1378, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "The only exception", 
+            "Score": 0.9641308188438416, 
+            "BeginOffset": 1417, 
+            "EndOffset": 1435
+        }, 
+        {
+            "Text": "Tectonic", 
+            "Score": 0.9980019927024841, 
+            "BeginOffset": 1445, 
+            "EndOffset": 1453
+        }, 
+        {
+            "Text": "some large customers", 
+            "Score": 0.9370046257972717, 
+            "BeginOffset": 1489, 
+            "EndOffset": 1509
+        }, 
+        {
+            "Text": "the short", 
+            "Score": 0.9407908320426941, 
+            "BeginOffset": 1544, 
+            "EndOffset": 1553
+        }, 
+        {
+            "Text": "medium term", 
+            "Score": 0.9463653564453125, 
+            "BeginOffset": 1557, 
+            "EndOffset": 1568
+        }, 
+        {
+            "Text": "a fan", 
+            "Score": 0.9963597655296326, 
+            "BeginOffset": 1611, 
+            "EndOffset": 1616
+        }, 
+        {
+            "Text": "acquisitions", 
+            "Score": 0.9990267157554626, 
+            "BeginOffset": 1620, 
+            "EndOffset": 1632
+        }, 
+        {
+            "Text": "this case", 
+            "Score": 0.9863786101341248, 
+            "BeginOffset": 1674, 
+            "EndOffset": 1683
+        }, 
+        {
+            "Text": "an immediate downside", 
+            "Score": 0.9998136758804321, 
+            "BeginOffset": 1696, 
+            "EndOffset": 1717
+        }, 
+        {
+            "Text": "NINTENDO SWITCH", 
+            "Score": 0.9988909363746643, 
+            "BeginOffset": 1728, 
+            "EndOffset": 1743
+        }, 
+        {
+            "Text": "another smartphone game", 
+            "Score": 0.8542770147323608, 
+            "BeginOffset": 1770, 
+            "EndOffset": 1793
+        }, 
+        {
+            "Text": "Nintendo", 
+            "Score": 0.9988419413566589, 
+            "BeginOffset": 1795, 
+            "EndOffset": 1803
+        }, 
+        {
+            "Text": "details", 
+            "Score": 0.9927293658256531, 
+            "BeginOffset": 1817, 
+            "EndOffset": 1824
+        }, 
+        {
+            "Text": "their online service", 
+            "Score": 0.9988322257995605, 
+            "BeginOffset": 1829, 
+            "EndOffset": 1849
+        }, 
+        {
+            "Text": "a financial sense", 
+            "Score": 0.9794577360153198, 
+            "BeginOffset": 1901, 
+            "EndOffset": 1918
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9991090297698975, 
+            "BeginOffset": 1924, 
+            "EndOffset": 1934
+        }, 
+        {
+            "Text": "this service", 
+            "Score": 0.9983158111572266, 
+            "BeginOffset": 1935, 
+            "EndOffset": 1947
+        }, 
+        {
+            "Text": "games", 
+            "Score": 0.9869694113731384, 
+            "BeginOffset": 1981, 
+            "EndOffset": 1986
+        }, 
+        {
+            "Text": "Splatoon[2]", 
+            "Score": 0.9910784959793091, 
+            "BeginOffset": 1995, 
+            "EndOffset": 2006
+        }, 
+        {
+            "Text": "September", 
+            "Score": 0.8914834856987, 
+            "BeginOffset": 2020, 
+            "EndOffset": 2029
+        }, 
+        {
+            "Text": "a plan", 
+            "Score": 0.9980621933937073, 
+            "BeginOffset": 2070, 
+            "EndOffset": 2076
+        }, 
+        {
+            "Text": "4 US dollar", 
+            "Score": 0.9808359146118164, 
+            "BeginOffset": 2094, 
+            "EndOffset": 2105
+        }, 
+        {
+            "Text": "month", 
+            "Score": 0.9844790101051331, 
+            "BeginOffset": 2110, 
+            "EndOffset": 2115
+        }, 
+        {
+            "Text": "20 dollar", 
+            "Score": 0.9944103360176086, 
+            "BeginOffset": 2119, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "year", 
+            "Score": 0.911830484867096, 
+            "BeginOffset": 2133, 
+            "EndOffset": 2137
+        }, 
+        {
+            "Text": "less than half price", 
+            "Score": 0.9670538306236267, 
+            "BeginOffset": 2162, 
+            "EndOffset": 2182
+        }, 
+        {
+            "Text": "a yearly plan", 
+            "Score": 0.9475459456443787, 
+            "BeginOffset": 2187, 
+            "EndOffset": 2200
+        }, 
+        {
+            "Text": "many people", 
+            "Score": 0.9773027300834656, 
+            "BeginOffset": 2230, 
+            "EndOffset": 2241
+        }, 
+        {
+            "Text": "the monthly plan", 
+            "Score": 0.9925112128257751, 
+            "BeginOffset": 2253, 
+            "EndOffset": 2269
+        }, 
+        {
+            "Text": "addition", 
+            "Score": 0.9988442659378052, 
+            "BeginOffset": 2275, 
+            "EndOffset": 2283
+        }, 
+        {
+            "Text": "the privilege", 
+            "Score": 0.998458743095398, 
+            "BeginOffset": 2287, 
+            "EndOffset": 2300
+        }, 
+        {
+            "Text": "online games", 
+            "Score": 0.9988992214202881, 
+            "BeginOffset": 2312, 
+            "EndOffset": 2324
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9820886254310608, 
+            "BeginOffset": 2345, 
+            "EndOffset": 2351
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9993894696235657, 
+            "BeginOffset": 2355, 
+            "EndOffset": 2363
+        }, 
+        {
+            "Text": "classic Nintendo titles", 
+            "Score": 0.9988677501678467, 
+            "BeginOffset": 2367, 
+            "EndOffset": 2390
+        }, 
+        {
+            "Text": "no idea", 
+            "Score": 0.9941732883453369, 
+            "BeginOffset": 2418, 
+            "EndOffset": 2425
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9952780604362488, 
+            "BeginOffset": 2479, 
+            "EndOffset": 2485
+        }, 
+        {
+            "Text": "modern games", 
+            "Score": 0.9748035669326782, 
+            "BeginOffset": 2489, 
+            "EndOffset": 2501
+        }, 
+        {
+            "Text": "the Switch", 
+            "Score": 0.9927016496658325, 
+            "BeginOffset": 2513, 
+            "EndOffset": 2523
+        }, 
+        {
+            "Text": "ALEXA AD RECOGNITION", 
+            "Score": 0.9941232204437256, 
+            "BeginOffset": 2542, 
+            "EndOffset": 2562
+        }, 
+        {
+            "Text": "A small article", 
+            "Score": 0.8189822435379028, 
+            "BeginOffset": 2565, 
+            "EndOffset": 2580
+        }, 
+        {
+            "Text": "this explanation", 
+            "Score": 0.9935265779495239, 
+            "BeginOffset": 2610, 
+            "EndOffset": 2626
+        }, 
+        {
+            "Text": "Bloomberg", 
+            "Score": 0.945332407951355, 
+            "BeginOffset": 2630, 
+            "EndOffset": 2639
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9989930391311646, 
+            "BeginOffset": 2647, 
+            "EndOffset": 2652
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9792557954788208, 
+            "BeginOffset": 2672, 
+            "EndOffset": 2678
+        }, 
+        {
+            "Text": "ads", 
+            "Score": 0.9999698996543884, 
+            "BeginOffset": 2681, 
+            "EndOffset": 2684
+        }, 
+        {
+            "Text": "more and more devices", 
+            "Score": 0.9726876020431519, 
+            "BeginOffset": 2709, 
+            "EndOffset": 2730
+        }, 
+        {
+            "Text": "phrases", 
+            "Score": 0.9977158308029175, 
+            "BeginOffset": 2753, 
+            "EndOffset": 2760
+        }, 
+        {
+            "Text": "companies", 
+            "Score": 0.996812105178833, 
+            "BeginOffset": 2779, 
+            "EndOffset": 2788
+        }, 
+        {
+            "Text": "accounts", 
+            "Score": 0.9992255568504333, 
+            "BeginOffset": 2870, 
+            "EndOffset": 2878
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.8684366941452026, 
+            "BeginOffset": 2879, 
+            "EndOffset": 2888
+        }, 
+        {
+            "Text": "dollhouse story", 
+            "Score": 0.9994746446609497, 
+            "BeginOffset": 2891, 
+            "EndOffset": 2906
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9849347472190857, 
+            "BeginOffset": 2909, 
+            "EndOffset": 2912
+        }, 
+        {
+            "Text": "CoreOS", 
+            "Score": 0.8312634229660034, 
+            "BeginOffset": 2939, 
+            "EndOffset": 2945
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9588636159896851, 
+            "BeginOffset": 2980, 
+            "EndOffset": 2983
+        }, 
+        {
+            "Text": "great fun btw", 
+            "Score": 0.8337821364402771, 
+            "BeginOffset": 2993, 
+            "EndOffset": 3006
+        }
+    ]
+}

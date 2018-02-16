@@ -1,0 +1,598 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "The KRACK attack", 
+            "Score": 0.999428391456604, 
+            "BeginOffset": 0, 
+            "EndOffset": 16
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9675032496452332, 
+            "BeginOffset": 35, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9929121136665344, 
+            "BeginOffset": 65, 
+            "EndOffset": 71
+        }, 
+        {
+            "Text": "KRACK", 
+            "Score": 0.5052989721298218, 
+            "BeginOffset": 76, 
+            "EndOffset": 81
+        }, 
+        {
+            "Text": "something big", 
+            "Score": 0.9867687225341797, 
+            "BeginOffset": 115, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "my weekly note", 
+            "Score": 0.8853328824043274, 
+            "BeginOffset": 149, 
+            "EndOffset": 163
+        }, 
+        {
+            "Text": "all the immediate hype", 
+            "Score": 0.9912242293357849, 
+            "BeginOffset": 183, 
+            "EndOffset": 205
+        }, 
+        {
+            "Text": "the KRACK attack", 
+            "Score": 0.9924565553665161, 
+            "BeginOffset": 335, 
+            "EndOffset": 351
+        }, 
+        {
+            "Text": "WPA2", 
+            "Score": 0.9814909100532532, 
+            "BeginOffset": 364, 
+            "EndOffset": 368
+        }, 
+        {
+            "Text": "these things", 
+            "Score": 0.99287348985672, 
+            "BeginOffset": 420, 
+            "EndOffset": 432
+        }, 
+        {
+            "Text": "all the various details", 
+            "Score": 0.9791837930679321, 
+            "BeginOffset": 473, 
+            "EndOffset": 496
+        }, 
+        {
+            "Text": "1] KRACK", 
+            "Score": 0.8094500303268433, 
+            "BeginOffset": 497, 
+            "EndOffset": 505
+        }, 
+        {
+            "Text": "an attacker", 
+            "Score": 0.9674276113510132, 
+            "BeginOffset": 523, 
+            "EndOffset": 534
+        }, 
+        {
+            "Text": "the keys", 
+            "Score": 0.9992697238922119, 
+            "BeginOffset": 546, 
+            "EndOffset": 554
+        }, 
+        {
+            "Text": "traffic", 
+            "Score": 0.9865376353263855, 
+            "BeginOffset": 571, 
+            "EndOffset": 578
+        }, 
+        {
+            "Text": "the user", 
+            "Score": 0.9989283680915833, 
+            "BeginOffset": 587, 
+            "EndOffset": 595
+        }, 
+        {
+            "Text": "the access point", 
+            "Score": 0.9956774711608887, 
+            "BeginOffset": 600, 
+            "EndOffset": 616
+        }, 
+        {
+            "Text": "the attacker", 
+            "Score": 0.9865512251853943, 
+            "BeginOffset": 633, 
+            "EndOffset": 645
+        }, 
+        {
+            "Text": "the data", 
+            "Score": 0.946694552898407, 
+            "BeginOffset": 663, 
+            "EndOffset": 671
+        }, 
+        {
+            "Text": "a secure endpoint", 
+            "Score": 0.9914610981941223, 
+            "BeginOffset": 715, 
+            "EndOffset": 732
+        }, 
+        {
+            "Text": "https", 
+            "Score": 0.6633565425872803, 
+            "BeginOffset": 734, 
+            "EndOffset": 739
+        }, 
+        {
+            "Text": "SSL", 
+            "Score": 0.9240162968635559, 
+            "BeginOffset": 741, 
+            "EndOffset": 744
+        }, 
+        {
+            "Text": "even a VPN", 
+            "Score": 0.9358115196228027, 
+            "BeginOffset": 749, 
+            "EndOffset": 759
+        }, 
+        {
+            "Text": "an issue", 
+            "Score": 0.9276026487350464, 
+            "BeginOffset": 777, 
+            "EndOffset": 785
+        }, 
+        {
+            "Text": "the actual impact", 
+            "Score": 0.873784065246582, 
+            "BeginOffset": 822, 
+            "EndOffset": 839
+        }, 
+        {
+            "Text": "a bad attack", 
+            "Score": 0.998829185962677, 
+            "BeginOffset": 853, 
+            "EndOffset": 865
+        }, 
+        {
+            "Text": "mind", 
+            "Score": 0.8764564394950867, 
+            "BeginOffset": 882, 
+            "EndOffset": 886
+        }, 
+        {
+            "Text": "public WiFi", 
+            "Score": 0.9842595458030701, 
+            "BeginOffset": 962, 
+            "EndOffset": 973
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.8868892788887024, 
+            "BeginOffset": 987, 
+            "EndOffset": 990
+        }, 
+        {
+            "Text": "your home router", 
+            "Score": 0.8652487397193909, 
+            "BeginOffset": 1004, 
+            "EndOffset": 1020
+        }, 
+        {
+            "Text": "an attack", 
+            "Score": 0.9994648098945618, 
+            "BeginOffset": 1062, 
+            "EndOffset": 1071
+        }, 
+        {
+            "Text": "a problem", 
+            "Score": 0.9975368976593018, 
+            "BeginOffset": 1109, 
+            "EndOffset": 1118
+        }, 
+        {
+            "Text": "an apartment building", 
+            "Score": 0.9971088767051697, 
+            "BeginOffset": 1134, 
+            "EndOffset": 1155
+        }, 
+        {
+            "Text": "the street", 
+            "Score": 0.9995731115341187, 
+            "BeginOffset": 1211, 
+            "EndOffset": 1221
+        }, 
+        {
+            "Text": "a neighbor", 
+            "Score": 0.9979747533798218, 
+            "BeginOffset": 1225, 
+            "EndOffset": 1235
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.6781222820281982, 
+            "BeginOffset": 1235, 
+            "EndOffset": 1238
+        }, 
+        {
+            "Text": "a different matter", 
+            "Score": 0.8139073252677917, 
+            "BeginOffset": 1254, 
+            "EndOffset": 1272
+        }, 
+        {
+            "Text": "devices", 
+            "Score": 0.7404071092605591, 
+            "BeginOffset": 1296, 
+            "EndOffset": 1303
+        }, 
+        {
+            "Text": "operating systems", 
+            "Score": 0.8466105461120605, 
+            "BeginOffset": 1308, 
+            "EndOffset": 1325
+        }, 
+        {
+            "Text": "patches", 
+            "Score": 0.9975415468215942, 
+            "BeginOffset": 1357, 
+            "EndOffset": 1364
+        }, 
+        {
+            "Text": "The biggest issue", 
+            "Score": 0.9940891861915588, 
+            "BeginOffset": 1366, 
+            "EndOffset": 1383
+        }, 
+        {
+            "Text": "Android phones", 
+            "Score": 0.7764692306518555, 
+            "BeginOffset": 1400, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "a more powerful version", 
+            "Score": 0.9751763343811035, 
+            "BeginOffset": 1449, 
+            "EndOffset": 1472
+        }, 
+        {
+            "Text": "the attack", 
+            "Score": 0.9999228119850159, 
+            "BeginOffset": 1476, 
+            "EndOffset": 1486
+        }, 
+        {
+            "Text": "4]", 
+            "Score": 0.6270201802253723, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "their regular issue", 
+            "Score": 0.9064457416534424, 
+            "BeginOffset": 1509, 
+            "EndOffset": 1528
+        }, 
+        {
+            "Text": "updates", 
+            "Score": 0.999604344367981, 
+            "BeginOffset": 1544, 
+            "EndOffset": 1551
+        }, 
+        {
+            "Text": "The other patching issue", 
+            "Score": 0.9971281290054321, 
+            "BeginOffset": 1553, 
+            "EndOffset": 1577
+        }, 
+        {
+            "Text": "IoT devices", 
+            "Score": 0.9863535761833191, 
+            "BeginOffset": 1587, 
+            "EndOffset": 1598
+        }, 
+        {
+            "Text": "the firmware", 
+            "Score": 0.7739256024360657, 
+            "BeginOffset": 1627, 
+            "EndOffset": 1639
+        }, 
+        {
+            "Text": "these devices", 
+            "Score": 0.9996430277824402, 
+            "BeginOffset": 1790, 
+            "EndOffset": 1803
+        }, 
+        {
+            "Text": "DOCKER AND KUBERNETES", 
+            "Score": 0.9967498183250427, 
+            "BeginOffset": 1808, 
+            "EndOffset": 1829
+        }, 
+        {
+            "Text": "more fun news", 
+            "Score": 0.9535489678382874, 
+            "BeginOffset": 1835, 
+            "EndOffset": 1848
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.988511323928833, 
+            "BeginOffset": 1850, 
+            "EndOffset": 1860
+        }, 
+        {
+            "Text": "a first class orchestration tool", 
+            "Score": 0.9843021631240845, 
+            "BeginOffset": 1868, 
+            "EndOffset": 1900
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9707557559013367, 
+            "BeginOffset": 1908, 
+            "EndOffset": 1914
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9958375692367554, 
+            "BeginOffset": 1936, 
+            "EndOffset": 1946
+        }, 
+        {
+            "Text": "its container runtime", 
+            "Score": 0.9757163524627686, 
+            "BeginOffset": 1956, 
+            "EndOffset": 1977
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9188835620880127, 
+            "BeginOffset": 1988, 
+            "EndOffset": 1994
+        }, 
+        {
+            "Text": "CRI-O", 
+            "Score": 0.8326624631881714, 
+            "BeginOffset": 1998, 
+            "EndOffset": 2003
+        }, 
+        {
+            "Text": "the two projects", 
+            "Score": 0.9304189085960388, 
+            "BeginOffset": 2022, 
+            "EndOffset": 2038
+        }, 
+        {
+            "Text": "roles", 
+            "Score": 0.9909864664077759, 
+            "BeginOffset": 2046, 
+            "EndOffset": 2051
+        }, 
+        {
+            "Text": "this regard", 
+            "Score": 0.9137828350067139, 
+            "BeginOffset": 2055, 
+            "EndOffset": 2066
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9998161196708679, 
+            "BeginOffset": 2069, 
+            "EndOffset": 2079
+        }, 
+        {
+            "Text": "a similar status", 
+            "Score": 0.9980685114860535, 
+            "BeginOffset": 2090, 
+            "EndOffset": 2106
+        }, 
+        {
+            "Text": "Swarm", 
+            "Score": 0.999596357345581, 
+            "BeginOffset": 2110, 
+            "EndOffset": 2115
+        }, 
+        {
+            "Text": "the releases", 
+            "Score": 0.8996860384941101, 
+            "BeginOffset": 2137, 
+            "EndOffset": 2149
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999186992645264, 
+            "BeginOffset": 2153, 
+            "EndOffset": 2159
+        }, 
+        {
+            "Text": "the standard version", 
+            "Score": 0.9978528618812561, 
+            "BeginOffset": 2174, 
+            "EndOffset": 2194
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9993042349815369, 
+            "BeginOffset": 2198, 
+            "EndOffset": 2208
+        }, 
+        {
+            "Text": "any changes", 
+            "Score": 0.9996484518051147, 
+            "BeginOffset": 2218, 
+            "EndOffset": 2229
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9996590614318848, 
+            "BeginOffset": 2242, 
+            "EndOffset": 2248
+        }, 
+        {
+            "Text": "the Docker native config files", 
+            "Score": 0.9980722665786743, 
+            "BeginOffset": 2283, 
+            "EndOffset": 2313
+        }, 
+        {
+            "Text": "Swarm", 
+            "Score": 0.9593868255615234, 
+            "BeginOffset": 2318, 
+            "EndOffset": 2323
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9782739877700806, 
+            "BeginOffset": 2332, 
+            "EndOffset": 2342
+        }, 
+        {
+            "Text": "Moby[5]", 
+            "Score": 0.9990925192832947, 
+            "BeginOffset": 2410, 
+            "EndOffset": 2417
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.8324708938598633, 
+            "BeginOffset": 2429, 
+            "EndOffset": 2433
+        }, 
+        {
+            "Text": "the various components", 
+            "Score": 0.9758012294769287, 
+            "BeginOffset": 2443, 
+            "EndOffset": 2465
+        }, 
+        {
+            "Text": "all work", 
+            "Score": 0.9983412623405457, 
+            "BeginOffset": 2477, 
+            "EndOffset": 2485
+        }, 
+        {
+            "Text": "your Docker development work", 
+            "Score": 0.9457191228866577, 
+            "BeginOffset": 2548, 
+            "EndOffset": 2576
+        }, 
+        {
+            "Text": "existing Kubernetes users", 
+            "Score": 0.9970963001251221, 
+            "BeginOffset": 2600, 
+            "EndOffset": 2625
+        }, 
+        {
+            "Text": "the tools", 
+            "Score": 0.9857106804847717, 
+            "BeginOffset": 2680, 
+            "EndOffset": 2689
+        }, 
+        {
+            "Text": "most other scenarios", 
+            "Score": 0.9932440519332886, 
+            "BeginOffset": 2736, 
+            "EndOffset": 2756
+        }, 
+        {
+            "Text": "my mind", 
+            "Score": 0.9692124128341675, 
+            "BeginOffset": 2772, 
+            "EndOffset": 2779
+        }, 
+        {
+            "Text": "a great win", 
+            "Score": 0.9348185062408447, 
+            "BeginOffset": 2788, 
+            "EndOffset": 2799
+        }, 
+        {
+            "Text": "both projects", 
+            "Score": 0.9994598627090454, 
+            "BeginOffset": 2804, 
+            "EndOffset": 2817
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9964301586151123, 
+            "BeginOffset": 2820, 
+            "EndOffset": 2823
+        }, 
+        {
+            "Text": "the actual site", 
+            "Score": 0.8216040134429932, 
+            "BeginOffset": 2844, 
+            "EndOffset": 2859
+        }, 
+        {
+            "Text": "even the paper", 
+            "Score": 0.9866565465927124, 
+            "BeginOffset": 2863, 
+            "EndOffset": 2877
+        }, 
+        {
+            "Text": "[2] Shocking", 
+            "Score": 0.9146080017089844, 
+            "BeginOffset": 2889, 
+            "EndOffset": 2901
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.7948212623596191, 
+            "BeginOffset": 2912, 
+            "EndOffset": 2915
+        }, 
+        {
+            "Text": "which case", 
+            "Score": 0.8423723578453064, 
+            "BeginOffset": 2945, 
+            "EndOffset": 2955
+        }, 
+        {
+            "Text": "the least", 
+            "Score": 0.915204644203186, 
+            "BeginOffset": 2971, 
+            "EndOffset": 2980
+        }, 
+        {
+            "Text": "your problems", 
+            "Score": 0.9982225894927979, 
+            "BeginOffset": 2984, 
+            "EndOffset": 2997
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9960792660713196, 
+            "BeginOffset": 3000, 
+            "EndOffset": 3003
+        }, 
+        {
+            "Text": "version 6.0", 
+            "Score": 0.8367125988006592, 
+            "BeginOffset": 3008, 
+            "EndOffset": 3019
+        }, 
+        {
+            "Text": "higher", 
+            "Score": 0.9860039353370667, 
+            "BeginOffset": 3024, 
+            "EndOffset": 3030
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.9589602947235107, 
+            "BeginOffset": 3033, 
+            "EndOffset": 3036
+        }, 
+        {
+            "Text": "The open source part", 
+            "Score": 0.7463889718055725, 
+            "BeginOffset": 3037, 
+            "EndOffset": 3057
+        }
+    ]
+}

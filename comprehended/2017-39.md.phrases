@@ -1,0 +1,508 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "AWS", 
+            "Score": 0.9240397214889526, 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "per-second billing", 
+            "Score": 0.9700496196746826, 
+            "BeginOffset": 15, 
+            "EndOffset": 33
+        }, 
+        {
+            "Text": "10 years", 
+            "Score": 0.9927269816398621, 
+            "BeginOffset": 53, 
+            "EndOffset": 61
+        }, 
+        {
+            "Text": "EC2 PER", 
+            "Score": 0.8745632767677307, 
+            "BeginOffset": 70, 
+            "EndOffset": 77
+        }, 
+        {
+            "Text": "SECOND BILLING\n\n\nAWS", 
+            "Score": 0.9262266159057617, 
+            "BeginOffset": 78, 
+            "EndOffset": 98
+        }, 
+        {
+            "Text": "per-second billing", 
+            "Score": 0.9827315211296082, 
+            "BeginOffset": 134, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "EC2 Instances", 
+            "Score": 0.8968184590339661, 
+            "BeginOffset": 157, 
+            "EndOffset": 170
+        }, 
+        {
+            "Text": "EBS Volumes", 
+            "Score": 0.9910633563995361, 
+            "BeginOffset": 175, 
+            "EndOffset": 186
+        }, 
+        {
+            "Text": "the third", 
+            "Score": 0.9983009696006775, 
+            "BeginOffset": 214, 
+            "EndOffset": 223
+        }, 
+        {
+            "Text": "October", 
+            "Score": 0.9969443082809448, 
+            "BeginOffset": 227, 
+            "EndOffset": 234
+        }, 
+        {
+            "Text": "line", 
+            "Score": 0.9979543685913086, 
+            "BeginOffset": 254, 
+            "EndOffset": 258
+        }, 
+        {
+            "Text": "both Microsoft Azure", 
+            "Score": 0.8340703248977661, 
+            "BeginOffset": 264, 
+            "EndOffset": 284
+        }, 
+        {
+            "Text": "Google Cloud Compute", 
+            "Score": 0.995481014251709, 
+            "BeginOffset": 289, 
+            "EndOffset": 309
+        }, 
+        {
+            "Text": "per-minute billing", 
+            "Score": 0.9831059575080872, 
+            "BeginOffset": 331, 
+            "EndOffset": 349
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.9988442063331604, 
+            "BeginOffset": 354, 
+            "EndOffset": 365
+        }, 
+        {
+            "Text": "the difference", 
+            "Score": 0.9749611020088196, 
+            "BeginOffset": 393, 
+            "EndOffset": 407
+        }, 
+        {
+            "Text": "per-second and per-minute billing", 
+            "Score": 0.9541977643966675, 
+            "BeginOffset": 416, 
+            "EndOffset": 449
+        }, 
+        {
+            "Text": "unlikely anyone", 
+            "Score": 0.9554868340492249, 
+            "BeginOffset": 476, 
+            "EndOffset": 491
+        }, 
+        {
+            "Text": "a welcome change", 
+            "Score": 0.9965941905975342, 
+            "BeginOffset": 528, 
+            "EndOffset": 544
+        }, 
+        {
+            "Text": "more flexible tasks", 
+            "Score": 0.9913917779922485, 
+            "BeginOffset": 559, 
+            "EndOffset": 578
+        }, 
+        {
+            "Text": "the change", 
+            "Score": 0.8433086276054382, 
+            "BeginOffset": 587, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "a 2 minute task", 
+            "Score": 0.9958376884460449, 
+            "BeginOffset": 640, 
+            "EndOffset": 655
+        }, 
+        {
+            "Text": "an hour[1]", 
+            "Score": 0.9296438694000244, 
+            "BeginOffset": 683, 
+            "EndOffset": 693
+        }, 
+        {
+            "Text": "the hourly prices", 
+            "Score": 0.9867674112319946, 
+            "BeginOffset": 707, 
+            "EndOffset": 724
+        }, 
+        {
+            "Text": "an instance", 
+            "Score": 0.9976457357406616, 
+            "BeginOffset": 728, 
+            "EndOffset": 739
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.8674755096435547, 
+            "BeginOffset": 847, 
+            "EndOffset": 855
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9994737505912781, 
+            "BeginOffset": 877, 
+            "EndOffset": 882
+        }, 
+        {
+            "Text": "short parallel jobs", 
+            "Score": 0.9980185031890869, 
+            "BeginOffset": 886, 
+            "EndOffset": 905
+        }, 
+        {
+            "Text": "powerful machines", 
+            "Score": 0.9987367987632751, 
+            "BeginOffset": 909, 
+            "EndOffset": 926
+        }, 
+        {
+            "Text": "some other ways", 
+            "Score": 0.991393506526947, 
+            "BeginOffset": 945, 
+            "EndOffset": 960
+        }, 
+        {
+            "Text": "thinking", 
+            "Score": 0.9996604919433594, 
+            "BeginOffset": 964, 
+            "EndOffset": 972
+        }, 
+        {
+            "Text": "truly on-demand instances", 
+            "Score": 0.8877103328704834, 
+            "BeginOffset": 982, 
+            "EndOffset": 1007
+        }, 
+        {
+            "Text": "An example", 
+            "Score": 0.9990273714065552, 
+            "BeginOffset": 1009, 
+            "EndOffset": 1019
+        }, 
+        {
+            "Text": "jump boxes", 
+            "Score": 0.8002313375473022, 
+            "BeginOffset": 1031, 
+            "EndOffset": 1041
+        }, 
+        {
+            "Text": "bastion hosts", 
+            "Score": 0.9504631161689758, 
+            "BeginOffset": 1045, 
+            "EndOffset": 1058
+        }, 
+        {
+            "Text": "a single machine", 
+            "Score": 0.9883052706718445, 
+            "BeginOffset": 1078, 
+            "EndOffset": 1094
+        }, 
+        {
+            "Text": "the aid", 
+            "Score": 0.9443944692611694, 
+            "BeginOffset": 1124, 
+            "EndOffset": 1131
+        }, 
+        {
+            "Text": "a Lambda function", 
+            "Score": 0.9995250701904297, 
+            "BeginOffset": 1135, 
+            "EndOffset": 1152
+        }, 
+        {
+            "Text": "a temporary instance", 
+            "Score": 0.9971172213554382, 
+            "BeginOffset": 1177, 
+            "EndOffset": 1197
+        }, 
+        {
+            "Text": "the access[2]", 
+            "Score": 0.8565994501113892, 
+            "BeginOffset": 1216, 
+            "EndOffset": 1229
+        }, 
+        {
+            "Text": "that very moment", 
+            "Score": 0.9304765462875366, 
+            "BeginOffset": 1233, 
+            "EndOffset": 1249
+        }, 
+        {
+            "Text": "some extra security", 
+            "Score": 0.9955417513847351, 
+            "BeginOffset": 1259, 
+            "EndOffset": 1278
+        }, 
+        {
+            "Text": "no additional cost[3]", 
+            "Score": 0.8920555114746094, 
+            "BeginOffset": 1282, 
+            "EndOffset": 1303
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9867916703224182, 
+            "BeginOffset": 1322, 
+            "EndOffset": 1328
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.974745512008667, 
+            "BeginOffset": 1332, 
+            "EndOffset": 1338
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.8794894814491272, 
+            "BeginOffset": 1373, 
+            "EndOffset": 1380
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9985254406929016, 
+            "BeginOffset": 1381, 
+            "EndOffset": 1384
+        }, 
+        {
+            "Text": "its billing[4]", 
+            "Score": 0.8285137414932251, 
+            "BeginOffset": 1390, 
+            "EndOffset": 1404
+        }, 
+        {
+            "Text": "a good improvement", 
+            "Score": 0.9704277515411377, 
+            "BeginOffset": 1427, 
+            "EndOffset": 1445
+        }, 
+        {
+            "Text": "A reminder", 
+            "Score": 0.9985018372535706, 
+            "BeginOffset": 1447, 
+            "EndOffset": 1457
+        }, 
+        {
+            "Text": "advantage", 
+            "Score": 0.998516857624054, 
+            "BeginOffset": 1486, 
+            "EndOffset": 1495
+        }, 
+        {
+            "Text": "that hour", 
+            "Score": 0.9995162487030029, 
+            "BeginOffset": 1499, 
+            "EndOffset": 1508
+        }, 
+        {
+            "Text": "your development instances", 
+            "Score": 0.995377242565155, 
+            "BeginOffset": 1524, 
+            "EndOffset": 1550
+        }, 
+        {
+            "Text": "your production machines", 
+            "Score": 0.9930107593536377, 
+            "BeginOffset": 1566, 
+            "EndOffset": 1590
+        }, 
+        {
+            "Text": "8:01", 
+            "Score": 0.988286554813385, 
+            "BeginOffset": 1595, 
+            "EndOffset": 1599
+        }, 
+        {
+            "Text": "your automation", 
+            "Score": 0.9986833333969116, 
+            "BeginOffset": 1642, 
+            "EndOffset": 1657
+        }, 
+        {
+            "Text": "10 YEARS", 
+            "Score": 0.9537893533706665, 
+            "BeginOffset": 1671, 
+            "EndOffset": 1679
+        }, 
+        {
+            "Text": "The original creators", 
+            "Score": 0.9107456207275391, 
+            "BeginOffset": 1688, 
+            "EndOffset": 1709
+        }, 
+        {
+            "Text": "an article", 
+            "Score": 0.9976128339767456, 
+            "BeginOffset": 1722, 
+            "EndOffset": 1732
+        }, 
+        {
+            "Text": "the language", 
+            "Score": 0.9997611045837402, 
+            "BeginOffset": 1749, 
+            "EndOffset": 1761
+        }, 
+        {
+            "Text": "the fact", 
+            "Score": 0.9973731637001038, 
+            "BeginOffset": 1811, 
+            "EndOffset": 1819
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9996012449264526, 
+            "BeginOffset": 1838, 
+            "EndOffset": 1842
+        }, 
+        {
+            "Text": "10 years", 
+            "Score": 0.9132888913154602, 
+            "BeginOffset": 1849, 
+            "EndOffset": 1857
+        }, 
+        {
+            "Text": "the official \"birthday", 
+            "Score": 0.9971075057983398, 
+            "BeginOffset": 1872, 
+            "EndOffset": 1894
+        }, 
+        {
+            "Text": "open source", 
+            "Score": 0.831720232963562, 
+            "BeginOffset": 1917, 
+            "EndOffset": 1928
+        }, 
+        {
+            "Text": "2 years", 
+            "Score": 0.9969901442527771, 
+            "BeginOffset": 1929, 
+            "EndOffset": 1936
+        }, 
+        {
+            "Text": "an interesting read", 
+            "Score": 0.9947376251220703, 
+            "BeginOffset": 1949, 
+            "EndOffset": 1968
+        }, 
+        {
+            "Text": "a language", 
+            "Score": 0.9608312249183655, 
+            "BeginOffset": 2006, 
+            "EndOffset": 2016
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9699761271476746, 
+            "BeginOffset": 2031, 
+            "EndOffset": 2033
+        }, 
+        {
+            "Text": "the hour boundary", 
+            "Score": 0.999332070350647, 
+            "BeginOffset": 2083, 
+            "EndOffset": 2100
+        }, 
+        {
+            "Text": "which case", 
+            "Score": 0.9863218069076538, 
+            "BeginOffset": 2105, 
+            "EndOffset": 2115
+        }, 
+        {
+            "Text": "2 hours", 
+            "Score": 0.9598726630210876, 
+            "BeginOffset": 2135, 
+            "EndOffset": 2142
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9944069981575012, 
+            "BeginOffset": 2145, 
+            "EndOffset": 2148
+        }, 
+        {
+            "Text": "an idea", 
+            "Score": 0.7108091115951538, 
+            "BeginOffset": 2157, 
+            "EndOffset": 2164
+        }, 
+        {
+            "Text": "the presentation", 
+            "Score": 0.9180030226707458, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2201
+        }, 
+        {
+            "Text": "the AWS meetup", 
+            "Score": 0.9986143112182617, 
+            "BeginOffset": 2214, 
+            "EndOffset": 2228
+        }, 
+        {
+            "Text": "Wednesday", 
+            "Score": 0.9971380233764648, 
+            "BeginOffset": 2232, 
+            "EndOffset": 2241
+        }, 
+        {
+            "Text": "the spoiler", 
+            "Score": 0.9483252763748169, 
+            "BeginOffset": 2261, 
+            "EndOffset": 2272
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9910841584205627, 
+            "BeginOffset": 2275, 
+            "EndOffset": 2278
+        }, 
+        {
+            "Text": "very expensive instances", 
+            "Score": 0.9673048853874207, 
+            "BeginOffset": 2310, 
+            "EndOffset": 2334
+        }, 
+        {
+            "Text": "this purpose", 
+            "Score": 0.9940345883369446, 
+            "BeginOffset": 2339, 
+            "EndOffset": 2351
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9986912608146667, 
+            "BeginOffset": 2354, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "not many people", 
+            "Score": 0.7937578558921814, 
+            "BeginOffset": 2375, 
+            "EndOffset": 2390
+        }, 
+        {
+            "Text": "stuff", 
+            "Score": 0.9464293122291565, 
+            "BeginOffset": 2425, 
+            "EndOffset": 2430
+        }
+    ]
+}

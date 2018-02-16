@@ -1,0 +1,193 @@
+{
+    "Entities": [
+        {
+            "Text": "Lambda, Autoscaling", 
+            "Score": 0.8961037993431091, 
+            "Type": "LOCATION", 
+            "BeginOffset": 26, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7802751064300537, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 49, 
+            "EndOffset": 52
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.8096814751625061, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 71, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "Cloud AutoML", 
+            "Score": 0.5560158491134644, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 86, 
+            "EndOffset": 98
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8235992789268494, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 137, 
+            "EndOffset": 140
+        }, 
+        {
+            "Text": "LAMBDA", 
+            "Score": 0.8824305534362793, 
+            "Type": "TITLE", 
+            "BeginOffset": 141, 
+            "EndOffset": 147
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.3316619396209717, 
+            "Type": "TITLE", 
+            "BeginOffset": 175, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.6817763447761536, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 204, 
+            "EndOffset": 207
+        }, 
+        {
+            "Text": "Go", 
+            "Score": 0.4619711637496948, 
+            "Type": "TITLE", 
+            "BeginOffset": 300, 
+            "EndOffset": 302
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9533400535583496, 
+            "Type": "TITLE", 
+            "BeginOffset": 306, 
+            "EndOffset": 312
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8303694128990173, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 442, 
+            "EndOffset": 445
+        }, 
+        {
+            "Text": "200 }", 
+            "Score": 0.5489763617515564, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 931, 
+            "EndOffset": 936
+        }, 
+        {
+            "Text": "Handler", 
+            "Score": 0.9999880790710449, 
+            "Type": "PERSON", 
+            "BeginOffset": 1037, 
+            "EndOffset": 1044
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9998706579208374, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1411, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999961853027344, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1439, 
+            "EndOffset": 1442
+        }, 
+        {
+            "Text": "each service", 
+            "Score": 0.9999009966850281, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1850, 
+            "EndOffset": 1862
+        }, 
+        {
+            "Text": "CloudWatch", 
+            "Score": 0.9998421669006348, 
+            "Type": "TITLE", 
+            "BeginOffset": 1896, 
+            "EndOffset": 1906
+        }, 
+        {
+            "Text": "each service", 
+            "Score": 0.9995011687278748, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1929, 
+            "EndOffset": 1941
+        }, 
+        {
+            "Text": "One side", 
+            "Score": 0.9999861717224121, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2203, 
+            "EndOffset": 2211
+        }, 
+        {
+            "Text": "CloudWatch", 
+            "Score": 0.999996542930603, 
+            "Type": "TITLE", 
+            "BeginOffset": 2269, 
+            "EndOffset": 2279
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999896287918091, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2415, 
+            "EndOffset": 2421
+        }, 
+        {
+            "Text": "Cloud AutoML", 
+            "Score": 0.7522528767585754, 
+            "Type": "TITLE", 
+            "BeginOffset": 2428, 
+            "EndOffset": 2440
+        }, 
+        {
+            "Text": "2 choices", 
+            "Score": 0.9999439120292664, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2550, 
+            "EndOffset": 2559
+        }, 
+        {
+            "Text": "Tensorflow", 
+            "Score": 0.9998663663864136, 
+            "Type": "TITLE", 
+            "BeginOffset": 2588, 
+            "EndOffset": 2598
+        }, 
+        {
+            "Text": "Cloud AutoML", 
+            "Score": 0.9999945759773254, 
+            "Type": "TITLE", 
+            "BeginOffset": 2635, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "Tensorflow", 
+            "Score": 0.9999957084655762, 
+            "Type": "TITLE", 
+            "BeginOffset": 2787, 
+            "EndOffset": 2797
+        }, 
+        {
+            "Text": "first product", 
+            "Score": 0.9072427153587341, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2804, 
+            "EndOffset": 2817
+        }
+    ]
+}

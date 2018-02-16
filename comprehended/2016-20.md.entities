@@ -1,0 +1,200 @@
+{
+    "Entities": [
+        {
+            "Text": "Amazon", 
+            "Score": 0.8837137818336487, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.5738050937652588, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 36, 
+            "EndOffset": 43
+        }, 
+        {
+            "Text": "EFF", 
+            "Score": 0.8851480484008789, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 99, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9432312250137329, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 147, 
+            "EndOffset": 153
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9732836484909058, 
+            "Type": "DATE", 
+            "BeginOffset": 180, 
+            "EndOffset": 189
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.6463980674743652, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 224, 
+            "EndOffset": 227
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9871677756309509, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 251, 
+            "EndOffset": 254
+        }, 
+        {
+            "Text": "DynamoDB", 
+            "Score": 0.6900230646133423, 
+            "Type": "TITLE", 
+            "BeginOffset": 420, 
+            "EndOffset": 428
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9222667217254639, 
+            "Type": "TITLE", 
+            "BeginOffset": 558, 
+            "EndOffset": 564
+        }, 
+        {
+            "Text": "Tesla", 
+            "Score": 0.42071518301963806, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 890, 
+            "EndOffset": 895
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.7256857752799988, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 978, 
+            "EndOffset": 984
+        }, 
+        {
+            "Text": "USA", 
+            "Score": 0.9999203681945801, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1035, 
+            "EndOffset": 1038
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.8630804419517517, 
+            "Type": "DATE", 
+            "BeginOffset": 1375, 
+            "EndOffset": 1384
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999979734420776, 
+            "Type": "PERSON", 
+            "BeginOffset": 1396, 
+            "EndOffset": 1403
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9998979568481445, 
+            "Type": "DATE", 
+            "BeginOffset": 1431, 
+            "EndOffset": 1440
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999657869338989, 
+            "Type": "PERSON", 
+            "BeginOffset": 1466, 
+            "EndOffset": 1473
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9986287951469421, 
+            "Type": "DATE", 
+            "BeginOffset": 1527, 
+            "EndOffset": 1536
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9998176693916321, 
+            "Type": "PERSON", 
+            "BeginOffset": 1776, 
+            "EndOffset": 1783
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999908208847046, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2427, 
+            "EndOffset": 2430
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999667406082153, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2589, 
+            "EndOffset": 2595
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.99997878074646, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2847, 
+            "EndOffset": 2853
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999828338623047, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3208, 
+            "EndOffset": 3215
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999953508377075, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3275, 
+            "EndOffset": 3282
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.9999762177467346, 
+            "Type": "OTHER", 
+            "BeginOffset": 3283, 
+            "EndOffset": 3286
+        }, 
+        {
+            "Text": "Hugo", 
+            "Score": 0.919567346572876, 
+            "Type": "PERSON", 
+            "BeginOffset": 3675, 
+            "EndOffset": 3679
+        }, 
+        {
+            "Text": "EFF", 
+            "Score": 0.9999867677688599, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3707, 
+            "EndOffset": 3710
+        }, 
+        {
+            "Text": "ACME", 
+            "Score": 0.881593644618988, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3752, 
+            "EndOffset": 3756
+        }, 
+        {
+            "Text": "ACME", 
+            "Score": 0.999991774559021, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4779, 
+            "EndOffset": 4783
+        }
+    ]
+}

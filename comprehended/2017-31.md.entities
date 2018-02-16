@@ -1,0 +1,298 @@
+{
+    "Entities": [
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.5251830816268921, 
+            "Type": "TITLE", 
+            "BeginOffset": 0, 
+            "EndOffset": 14
+        }, 
+        {
+            "Text": "StackSets", 
+            "Score": 0.6602188944816589, 
+            "Type": "TITLE", 
+            "BeginOffset": 15, 
+            "EndOffset": 24
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.6536530256271362, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 33, 
+            "EndOffset": 36
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.3665934205055237, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 41, 
+            "EndOffset": 46
+        }, 
+        {
+            "Text": "Both", 
+            "Score": 0.8471913933753967, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 79, 
+            "EndOffset": 83
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9734534025192261, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 156, 
+            "EndOffset": 159
+        }, 
+        {
+            "Text": "two", 
+            "Score": 0.690799355506897, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 261, 
+            "EndOffset": 264
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9754638671875, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 265, 
+            "EndOffset": 268
+        }, 
+        {
+            "Text": "first bit", 
+            "Score": 0.7106397747993469, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 473, 
+            "EndOffset": 482
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9020809531211853, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 494, 
+            "EndOffset": 497
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.695206344127655, 
+            "Type": "TITLE", 
+            "BeginOffset": 539, 
+            "EndOffset": 553
+        }, 
+        {
+            "Text": "StackSets", 
+            "Score": 0.4920729100704193, 
+            "Type": "TITLE", 
+            "BeginOffset": 555, 
+            "EndOffset": 564
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9456220865249634, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 918, 
+            "EndOffset": 921
+        }, 
+        {
+            "Text": "CloudTrail", 
+            "Score": 0.8579840660095215, 
+            "Type": "TITLE", 
+            "BeginOffset": 974, 
+            "EndOffset": 984
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.987509548664093, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 989, 
+            "EndOffset": 992
+        }, 
+        {
+            "Text": "Config", 
+            "Score": 0.47300806641578674, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 993, 
+            "EndOffset": 999
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9996539354324341, 
+            "Type": "TITLE", 
+            "BeginOffset": 1125, 
+            "EndOffset": 1131
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999988079071045, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1419, 
+            "EndOffset": 1422
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999837875366211, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1455, 
+            "EndOffset": 1460
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9997913241386414, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1497, 
+            "EndOffset": 1502
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9999938011169434, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1556, 
+            "EndOffset": 1561
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9998981952667236, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1845, 
+            "EndOffset": 1850
+        }, 
+        {
+            "Text": "YouTube", 
+            "Score": 0.9999463558197021, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2368, 
+            "EndOffset": 2375
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9998997449874878, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2488, 
+            "EndOffset": 2493
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9999996423721313, 
+            "Type": "TITLE", 
+            "BeginOffset": 2758, 
+            "EndOffset": 2764
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 1.0, 
+            "Type": "TITLE", 
+            "BeginOffset": 2944, 
+            "EndOffset": 2949
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9999990463256836, 
+            "Type": "TITLE", 
+            "BeginOffset": 2953, 
+            "EndOffset": 2958
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.9930707812309265, 
+            "Type": "TITLE", 
+            "BeginOffset": 3051, 
+            "EndOffset": 3056
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.997245192527771, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3107, 
+            "EndOffset": 3112
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999887943267822, 
+            "Type": "TITLE", 
+            "BeginOffset": 3113, 
+            "EndOffset": 3116
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.7509934902191162, 
+            "Type": "TITLE", 
+            "BeginOffset": 3145, 
+            "EndOffset": 3150
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999755620956421, 
+            "Type": "TITLE", 
+            "BeginOffset": 3179, 
+            "EndOffset": 3186
+        }, 
+        {
+            "Text": "5 minute", 
+            "Score": 0.9999915361404419, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3245, 
+            "EndOffset": 3253
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999966621398926, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3449, 
+            "EndOffset": 3455
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9999986886978149, 
+            "Type": "TITLE", 
+            "BeginOffset": 3524, 
+            "EndOffset": 3530
+        }, 
+        {
+            "Text": "Adobe", 
+            "Score": 0.9997968077659607, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3584, 
+            "EndOffset": 3589
+        }, 
+        {
+            "Text": "2020", 
+            "Score": 0.9999998807907104, 
+            "Type": "DATE", 
+            "BeginOffset": 3647, 
+            "EndOffset": 3651
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9990123510360718, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3925, 
+            "EndOffset": 3928
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.9999779462814331, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3967, 
+            "EndOffset": 3970
+        }, 
+        {
+            "Text": "first place", 
+            "Score": 0.9992810487747192, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3978, 
+            "EndOffset": 3989
+        }, 
+        {
+            "Text": "first beta version", 
+            "Score": 0.9999281764030457, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4052, 
+            "EndOffset": 4070
+        }, 
+        {
+            "Text": "Hoary", 
+            "Score": 0.9972540736198425, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4074, 
+            "EndOffset": 4079
+        }
+    ]
+}

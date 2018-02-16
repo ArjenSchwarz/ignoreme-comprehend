@@ -1,0 +1,796 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "The Weekly Notes", 
+            "Score": 0.997763991355896, 
+            "BeginOffset": 0, 
+            "EndOffset": 16
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.993970513343811, 
+            "BeginOffset": 21, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "group", 
+            "Score": 0.7623001933097839, 
+            "BeginOffset": 37, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9967987537384033, 
+            "BeginOffset": 43, 
+            "EndOffset": 51
+        }, 
+        {
+            "Text": "short", 
+            "Score": 0.7028260827064514, 
+            "BeginOffset": 55, 
+            "EndOffset": 60
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.7066967487335205, 
+            "BeginOffset": 79, 
+            "EndOffset": 85
+        }, 
+        {
+            "Text": "note", 
+            "Score": 0.999102771282196, 
+            "BeginOffset": 102, 
+            "EndOffset": 106
+        }, 
+        {
+            "Text": "the past week", 
+            "Score": 0.9978702664375305, 
+            "BeginOffset": 110, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "a single article", 
+            "Score": 0.999733567237854, 
+            "BeginOffset": 129, 
+            "EndOffset": 145
+        }, 
+        {
+            "Text": "either articles or tools", 
+            "Score": 0.9526090025901794, 
+            "BeginOffset": 168, 
+            "EndOffset": 192
+        }, 
+        {
+            "Text": "a whole article", 
+            "Score": 0.9681214690208435, 
+            "BeginOffset": 240, 
+            "EndOffset": 255
+        }, 
+        {
+            "Text": "the number", 
+            "Score": 0.9416571259498596, 
+            "BeginOffset": 264, 
+            "EndOffset": 274
+        }, 
+        {
+            "Text": "subjects", 
+            "Score": 0.9997349381446838, 
+            "BeginOffset": 278, 
+            "EndOffset": 286
+        }, 
+        {
+            "Text": "week", 
+            "Score": 0.991827666759491, 
+            "BeginOffset": 304, 
+            "EndOffset": 308
+        }, 
+        {
+            "Text": "week", 
+            "Score": 0.9926472902297974, 
+            "BeginOffset": 312, 
+            "EndOffset": 316
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9952432513237, 
+            "BeginOffset": 333, 
+            "EndOffset": 338
+        }, 
+        {
+            "Text": "my opinion", 
+            "Score": 0.9992617964744568, 
+            "BeginOffset": 357, 
+            "EndOffset": 367
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9945558905601501, 
+            "BeginOffset": 374, 
+            "EndOffset": 380
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9993343353271484, 
+            "BeginOffset": 384, 
+            "EndOffset": 389
+        }, 
+        {
+            "Text": "short links", 
+            "Score": 0.9869655966758728, 
+            "BeginOffset": 427, 
+            "EndOffset": 438
+        }, 
+        {
+            "Text": "all the time", 
+            "Score": 0.9796517491340637, 
+            "BeginOffset": 439, 
+            "EndOffset": 451
+        }, 
+        {
+            "Text": "every week", 
+            "Score": 0.9984527826309204, 
+            "BeginOffset": 495, 
+            "EndOffset": 505
+        }, 
+        {
+            "Text": "ENCRYPT AND AUTOMATED SSL CERTIFICATES", 
+            "Score": 0.8508157730102539, 
+            "BeginOffset": 516, 
+            "EndOffset": 554
+        }, 
+        {
+            "Text": "Encrypt", 
+            "Score": 0.8021578788757324, 
+            "BeginOffset": 563, 
+            "EndOffset": 570
+        }, 
+        {
+            "Text": "a service", 
+            "Score": 0.9984880685806274, 
+            "BeginOffset": 574, 
+            "EndOffset": 583
+        }, 
+        {
+            "Text": "the very laudable goal", 
+            "Score": 0.9975033402442932, 
+            "BeginOffset": 589, 
+            "EndOffset": 611
+        }, 
+        {
+            "Text": "free SSL certificates", 
+            "Score": 0.9968014359474182, 
+            "BeginOffset": 625, 
+            "EndOffset": 646
+        }, 
+        {
+            "Text": "a client", 
+            "Score": 0.9898713827133179, 
+            "BeginOffset": 682, 
+            "EndOffset": 690
+        }, 
+        {
+            "Text": "your server", 
+            "Score": 0.9969320893287659, 
+            "BeginOffset": 711, 
+            "EndOffset": 722
+        }, 
+        {
+            "Text": "a new certificate", 
+            "Score": 0.9992444515228271, 
+            "BeginOffset": 757, 
+            "EndOffset": 774
+        }, 
+        {
+            "Text": "this certificate", 
+            "Score": 0.9983615279197693, 
+            "BeginOffset": 811, 
+            "EndOffset": 827
+        }, 
+        {
+            "Text": "your web server", 
+            "Score": 0.9965354800224304, 
+            "BeginOffset": 840, 
+            "EndOffset": 855
+        }, 
+        {
+            "Text": "The reason", 
+            "Score": 0.9957643747329712, 
+            "BeginOffset": 857, 
+            "EndOffset": 867
+        }, 
+        {
+            "Text": "the client", 
+            "Score": 0.9993003606796265, 
+            "BeginOffset": 877, 
+            "EndOffset": 887
+        }, 
+        {
+            "Text": "these certificates", 
+            "Score": 0.996295690536499, 
+            "BeginOffset": 899, 
+            "EndOffset": 917
+        }, 
+        {
+            "Text": "a maximum", 
+            "Score": 0.994889497756958, 
+            "BeginOffset": 941, 
+            "EndOffset": 950
+        }, 
+        {
+            "Text": "90 days", 
+            "Score": 0.997422993183136, 
+            "BeginOffset": 954, 
+            "EndOffset": 961
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.7771235108375549, 
+            "BeginOffset": 989, 
+            "EndOffset": 999
+        }, 
+        {
+            "Text": "a new certificate", 
+            "Score": 0.9997182488441467, 
+            "BeginOffset": 1040, 
+            "EndOffset": 1057
+        }, 
+        {
+            "Text": "that time", 
+            "Score": 0.7559718489646912, 
+            "BeginOffset": 1065, 
+            "EndOffset": 1074
+        }, 
+        {
+            "Text": "a cronjob", 
+            "Score": 0.9275004267692566, 
+            "BeginOffset": 1101, 
+            "EndOffset": 1110
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9903950095176697, 
+            "BeginOffset": 1156, 
+            "EndOffset": 1164
+        }, 
+        {
+            "Text": "advantages", 
+            "Score": 0.9991204142570496, 
+            "BeginOffset": 1168, 
+            "EndOffset": 1178
+        }, 
+        {
+            "Text": "the security standpoint", 
+            "Score": 0.845086932182312, 
+            "BeginOffset": 1200, 
+            "EndOffset": 1223
+        }, 
+        {
+            "Text": "short lived certificates", 
+            "Score": 0.9281138181686401, 
+            "BeginOffset": 1232, 
+            "EndOffset": 1256
+        }, 
+        {
+            "Text": "any compromises", 
+            "Score": 0.9920037388801575, 
+            "BeginOffset": 1268, 
+            "EndOffset": 1283
+        }, 
+        {
+            "Text": "a specific certificate", 
+            "Score": 0.980224609375, 
+            "BeginOffset": 1295, 
+            "EndOffset": 1317
+        }, 
+        {
+            "Text": "a replacement certificate", 
+            "Score": 0.9329013228416443, 
+            "BeginOffset": 1342, 
+            "EndOffset": 1367
+        }, 
+        {
+            "Text": "related", 
+            "Score": 0.9966182708740234, 
+            "BeginOffset": 1404, 
+            "EndOffset": 1411
+        }, 
+        {
+            "Text": "the automation part", 
+            "Score": 0.7624746561050415, 
+            "BeginOffset": 1416, 
+            "EndOffset": 1435
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9568109512329102, 
+            "BeginOffset": 1466, 
+            "EndOffset": 1471
+        }, 
+        {
+            "Text": "servers", 
+            "Score": 0.9996585249900818, 
+            "BeginOffset": 1475, 
+            "EndOffset": 1482
+        }, 
+        {
+            "Text": "expiring certificates", 
+            "Score": 0.9669022560119629, 
+            "BeginOffset": 1549, 
+            "EndOffset": 1570
+        }, 
+        {
+            "Text": "a task", 
+            "Score": 0.9934706091880798, 
+            "BeginOffset": 1585, 
+            "EndOffset": 1591
+        }, 
+        {
+            "Text": "your certificates", 
+            "Score": 0.9641157388687134, 
+            "BeginOffset": 1623, 
+            "EndOffset": 1640
+        }, 
+        {
+            "Text": "every couple", 
+            "Score": 0.9980552196502686, 
+            "BeginOffset": 1641, 
+            "EndOffset": 1653
+        }, 
+        {
+            "Text": "weeks", 
+            "Score": 0.999122142791748, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1662
+        }, 
+        {
+            "Text": "my invitation", 
+            "Score": 0.9997469186782837, 
+            "BeginOffset": 1717, 
+            "EndOffset": 1730
+        }, 
+        {
+            "Text": "the closed beta", 
+            "Score": 0.9977410435676575, 
+            "BeginOffset": 1734, 
+            "EndOffset": 1749
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9870598912239075, 
+            "BeginOffset": 1750, 
+            "EndOffset": 1759
+        }, 
+        {
+            "Text": "the plan", 
+            "Score": 0.9998773336410522, 
+            "BeginOffset": 1761, 
+            "EndOffset": 1769
+        }, 
+        {
+            "Text": "the public beta", 
+            "Score": 0.9988135099411011, 
+            "BeginOffset": 1783, 
+            "EndOffset": 1798
+        }, 
+        {
+            "Text": "the 3rd", 
+            "Score": 0.9922661185264587, 
+            "BeginOffset": 1802, 
+            "EndOffset": 1809
+        }, 
+        {
+            "Text": "December", 
+            "Score": 0.9973552823066711, 
+            "BeginOffset": 1813, 
+            "EndOffset": 1821
+        }, 
+        {
+            "Text": "a Developer Preview", 
+            "Score": 0.9572855830192566, 
+            "BeginOffset": 1853, 
+            "EndOffset": 1872
+        }, 
+        {
+            "Text": "a first release", 
+            "Score": 0.9892699122428894, 
+            "BeginOffset": 1876, 
+            "EndOffset": 1891
+        }, 
+        {
+            "Text": "the tool/client", 
+            "Score": 0.9871364831924438, 
+            "BeginOffset": 1969, 
+            "EndOffset": 1984
+        }, 
+        {
+            "Text": "the certificates", 
+            "Score": 0.9801438450813293, 
+            "BeginOffset": 2000, 
+            "EndOffset": 2016
+        }, 
+        {
+            "Text": "a first version", 
+            "Score": 0.9037531018257141, 
+            "BeginOffset": 2071, 
+            "EndOffset": 2086
+        }, 
+        {
+            "Text": "a simple use case", 
+            "Score": 0.9952509999275208, 
+            "BeginOffset": 2104, 
+            "EndOffset": 2121
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9883021116256714, 
+            "BeginOffset": 2156, 
+            "EndOffset": 2166
+        }, 
+        {
+            "Text": "the most important part", 
+            "Score": 0.9919162392616272, 
+            "BeginOffset": 2180, 
+            "EndOffset": 2203
+        }, 
+        {
+            "Text": "the process", 
+            "Score": 0.9903897047042847, 
+            "BeginOffset": 2207, 
+            "EndOffset": 2218
+        }, 
+        {
+            "Text": "verification", 
+            "Score": 0.9998228549957275, 
+            "BeginOffset": 2222, 
+            "EndOffset": 2234
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.9580826163291931, 
+            "BeginOffset": 2257, 
+            "EndOffset": 2265
+        }, 
+        {
+            "Text": "the certificate", 
+            "Score": 0.9982908368110657, 
+            "BeginOffset": 2285, 
+            "EndOffset": 2300
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.993009626865387, 
+            "BeginOffset": 2309, 
+            "EndOffset": 2319
+        }, 
+        {
+            "Text": "the client", 
+            "Score": 0.995488703250885, 
+            "BeginOffset": 2336, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "a file", 
+            "Score": 0.975075900554657, 
+            "BeginOffset": 2359, 
+            "EndOffset": 2365
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.989799439907074, 
+            "BeginOffset": 2380, 
+            "EndOffset": 2388
+        }, 
+        {
+            "Text": "case", 
+            "Score": 0.9918400645256042, 
+            "BeginOffset": 2397, 
+            "EndOffset": 2401
+        }, 
+        {
+            "Text": "the IP address", 
+            "Score": 0.9964293837547302, 
+            "BeginOffset": 2431, 
+            "EndOffset": 2445
+        }, 
+        {
+            "Text": "file", 
+            "Score": 0.9916011691093445, 
+            "BeginOffset": 2451, 
+            "EndOffset": 2455
+        }, 
+        {
+            "Text": "the DNS record", 
+            "Score": 0.9371553063392639, 
+            "BeginOffset": 2481, 
+            "EndOffset": 2495
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.9978875517845154, 
+            "BeginOffset": 2500, 
+            "EndOffset": 2508
+        }, 
+        {
+            "Text": "a fair enough check", 
+            "Score": 0.9809938669204712, 
+            "BeginOffset": 2527, 
+            "EndOffset": 2546
+        }, 
+        {
+            "Text": "problems", 
+            "Score": 0.9993987679481506, 
+            "BeginOffset": 2562, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "certain use cases", 
+            "Score": 0.9981871247291565, 
+            "BeginOffset": 2575, 
+            "EndOffset": 2592
+        }, 
+        {
+            "Text": "The first type", 
+            "Score": 0.9857394695281982, 
+            "BeginOffset": 2617, 
+            "EndOffset": 2631
+        }, 
+        {
+            "Text": "a site", 
+            "Score": 0.9997725486755371, 
+            "BeginOffset": 2644, 
+            "EndOffset": 2650
+        }, 
+        {
+            "Text": "mine", 
+            "Score": 0.9978413581848145, 
+            "BeginOffset": 2656, 
+            "EndOffset": 2660
+        }, 
+        {
+            "Text": "a static site", 
+            "Score": 0.9901625514030457, 
+            "BeginOffset": 2662, 
+            "EndOffset": 2675
+        }, 
+        {
+            "Text": "a server", 
+            "Score": 0.9743253588676453, 
+            "BeginOffset": 2692, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "an S3 bucket", 
+            "Score": 0.8936823010444641, 
+            "BeginOffset": 2717, 
+            "EndOffset": 2729
+        }, 
+        {
+            "Text": "the certificate", 
+            "Score": 0.9950302243232727, 
+            "BeginOffset": 2746, 
+            "EndOffset": 2761
+        }, 
+        {
+            "Text": "the _manual_ plugin", 
+            "Score": 0.9993325471878052, 
+            "BeginOffset": 2771, 
+            "EndOffset": 2790
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9912406802177429, 
+            "BeginOffset": 2815, 
+            "EndOffset": 2823
+        }, 
+        {
+            "Text": "manual steps", 
+            "Score": 0.9653407335281372, 
+            "BeginOffset": 2827, 
+            "EndOffset": 2839
+        }, 
+        {
+            "Text": "solutions", 
+            "Score": 0.9959351420402527, 
+            "BeginOffset": 2860, 
+            "EndOffset": 2869
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9955857396125793, 
+            "BeginOffset": 2900, 
+            "EndOffset": 2905
+        }, 
+        {
+            "Text": "The second use case", 
+            "Score": 0.9990143775939941, 
+            "BeginOffset": 2942, 
+            "EndOffset": 2961
+        }, 
+        {
+            "Text": "development servers", 
+            "Score": 0.9375287294387817, 
+            "BeginOffset": 2986, 
+            "EndOffset": 3005
+        }, 
+        {
+            "Text": "other machines", 
+            "Score": 0.942315399646759, 
+            "BeginOffset": 3010, 
+            "EndOffset": 3024
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9934829473495483, 
+            "BeginOffset": 3066, 
+            "EndOffset": 3076
+        }, 
+        {
+            "Text": "the only way", 
+            "Score": 0.9453543424606323, 
+            "BeginOffset": 3077, 
+            "EndOffset": 3089
+        }, 
+        {
+            "Text": "certificates", 
+            "Score": 0.9954758882522583, 
+            "BeginOffset": 3102, 
+            "EndOffset": 3114
+        }, 
+        {
+            "Text": "these servers", 
+            "Score": 0.9555325508117676, 
+            "BeginOffset": 3147, 
+            "EndOffset": 3160
+        }, 
+        {
+            "Text": "not the best solution", 
+            "Score": 0.9888535737991333, 
+            "BeginOffset": 3201, 
+            "EndOffset": 3222
+        }, 
+        {
+            "Text": "forum posts", 
+            "Score": 0.873969554901123, 
+            "BeginOffset": 3237, 
+            "EndOffset": 3248
+        }, 
+        {
+            "Text": "validation", 
+            "Score": 0.9936412572860718, 
+            "BeginOffset": 3261, 
+            "EndOffset": 3271
+        }, 
+        {
+            "Text": "DNS", 
+            "Score": 0.9897796511650085, 
+            "BeginOffset": 3280, 
+            "EndOffset": 3283
+        }, 
+        {
+            "Text": "the works", 
+            "Score": 0.8222075700759888, 
+            "BeginOffset": 3290, 
+            "EndOffset": 3299
+        }, 
+        {
+            "Text": "launch", 
+            "Score": 0.9964393377304077, 
+            "BeginOffset": 3323, 
+            "EndOffset": 3329
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9788868427276611, 
+            "BeginOffset": 3366, 
+            "EndOffset": 3372
+        }, 
+        {
+            "Text": "the private beta", 
+            "Score": 0.9997425079345703, 
+            "BeginOffset": 3376, 
+            "EndOffset": 3392
+        }, 
+        {
+            "Text": "the public beta", 
+            "Score": 0.9930320382118225, 
+            "BeginOffset": 3423, 
+            "EndOffset": 3438
+        }, 
+        {
+            "Text": "December", 
+            "Score": 0.9885409474372864, 
+            "BeginOffset": 3459, 
+            "EndOffset": 3467
+        }, 
+        {
+            "Text": "AWS RELEASES GO SDK", 
+            "Score": 0.9889874458312988, 
+            "BeginOffset": 3501, 
+            "EndOffset": 3520
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.9981768727302551, 
+            "BeginOffset": 3554, 
+            "EndOffset": 3565
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9963313937187195, 
+            "BeginOffset": 3571, 
+            "EndOffset": 3574
+        }, 
+        {
+            "Text": "version 1.0", 
+            "Score": 0.9962674379348755, 
+            "BeginOffset": 3585, 
+            "EndOffset": 3596
+        }, 
+        {
+            "Text": "their Go API", 
+            "Score": 0.9483628273010254, 
+            "BeginOffset": 3600, 
+            "EndOffset": 3612
+        }, 
+        {
+            "Text": "the code", 
+            "Score": 0.9973171353340149, 
+            "BeginOffset": 3640, 
+            "EndOffset": 3648
+        }, 
+        {
+            "Text": "Stripe", 
+            "Score": 0.7896553874015808, 
+            "BeginOffset": 3660, 
+            "EndOffset": 3666
+        }, 
+        {
+            "Text": "the functionality", 
+            "Score": 0.9964492321014404, 
+            "BeginOffset": 3713, 
+            "EndOffset": 3730
+        }, 
+        {
+            "Text": "the APIs", 
+            "Score": 0.9913537502288818, 
+            "BeginOffset": 3734, 
+            "EndOffset": 3742
+        }, 
+        {
+            "Text": "other languages", 
+            "Score": 0.9976485967636108, 
+            "BeginOffset": 3747, 
+            "EndOffset": 3762
+        }, 
+        {
+            "Text": "the early versions", 
+            "Score": 0.9990508556365967, 
+            "BeginOffset": 3776, 
+            "EndOffset": 3794
+        }, 
+        {
+            "Text": "the API", 
+            "Score": 0.9993936419487, 
+            "BeginOffset": 3798, 
+            "EndOffset": 3805
+        }, 
+        {
+            "Text": "the improvements", 
+            "Score": 0.999796986579895, 
+            "BeginOffset": 3822, 
+            "EndOffset": 3838
+        }, 
+        {
+            "Text": "the Developer Preview", 
+            "Score": 0.9889255166053772, 
+            "BeginOffset": 3855, 
+            "EndOffset": 3876
+        }, 
+        {
+            "Text": "a project", 
+            "Score": 0.9749345779418945, 
+            "BeginOffset": 3936, 
+            "EndOffset": 3945
+        }
+    ]
+}

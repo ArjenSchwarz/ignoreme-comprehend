@@ -1,0 +1,922 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Amazon", 
+            "Score": 0.9882605075836182, 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "their IoT button", 
+            "Score": 0.9969702959060669, 
+            "BeginOffset": 18, 
+            "EndOffset": 34
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9881967902183533, 
+            "BeginOffset": 36, 
+            "EndOffset": 43
+        }, 
+        {
+            "Text": "a new way", 
+            "Score": 0.9997099041938782, 
+            "BeginOffset": 53, 
+            "EndOffset": 62
+        }, 
+        {
+            "Text": "workflows", 
+            "Score": 0.9665464758872986, 
+            "BeginOffset": 80, 
+            "EndOffset": 89
+        }, 
+        {
+            "Text": "the EFF", 
+            "Score": 0.9496436715126038, 
+            "BeginOffset": 95, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "Certbot", 
+            "Score": 0.980618417263031, 
+            "BeginOffset": 113, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "INTERNET", 
+            "Score": 0.8126058578491211, 
+            "BeginOffset": 125, 
+            "EndOffset": 133
+        }, 
+        {
+            "Text": "BUTTONS\n\n\nAmazon", 
+            "Score": 0.9925195574760437, 
+            "BeginOffset": 137, 
+            "EndOffset": 153
+        }, 
+        {
+            "Text": "a new little toy", 
+            "Score": 0.9978412985801697, 
+            "BeginOffset": 163, 
+            "EndOffset": 179
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9977970719337463, 
+            "BeginOffset": 180, 
+            "EndOffset": 189
+        }, 
+        {
+            "Text": "a button", 
+            "Score": 0.9958251118659973, 
+            "BeginOffset": 191, 
+            "EndOffset": 199
+        }, 
+        {
+            "Text": "your AWS account", 
+            "Score": 0.9964276552200317, 
+            "BeginOffset": 219, 
+            "EndOffset": 235
+        }, 
+        {
+            "Text": "the AWS IoT tools", 
+            "Score": 0.9961795806884766, 
+            "BeginOffset": 247, 
+            "EndOffset": 264
+        }, 
+        {
+            "Text": "the button press", 
+            "Score": 0.9640907049179077, 
+            "BeginOffset": 280, 
+            "EndOffset": 296
+        }, 
+        {
+            "Text": "simple commands", 
+            "Score": 0.9467688202857971, 
+            "BeginOffset": 375, 
+            "EndOffset": 390
+        }, 
+        {
+            "Text": "the click", 
+            "Score": 0.9949524998664856, 
+            "BeginOffset": 407, 
+            "EndOffset": 416
+        }, 
+        {
+            "Text": "DynamoDB", 
+            "Score": 0.9886246919631958, 
+            "BeginOffset": 420, 
+            "EndOffset": 428
+        }, 
+        {
+            "Text": "some sort", 
+            "Score": 0.9888896942138672, 
+            "BeginOffset": 440, 
+            "EndOffset": 449
+        }, 
+        {
+            "Text": "notification", 
+            "Score": 0.999187171459198, 
+            "BeginOffset": 453, 
+            "EndOffset": 465
+        }, 
+        {
+            "Text": "More interesting use cases", 
+            "Score": 0.9383209347724915, 
+            "BeginOffset": 468, 
+            "EndOffset": 494
+        }, 
+        {
+            "Text": "Lambda functions", 
+            "Score": 0.9955695867538452, 
+            "BeginOffset": 558, 
+            "EndOffset": 574
+        }, 
+        {
+            "Text": "the button", 
+            "Score": 0.8728557825088501, 
+            "BeginOffset": 612, 
+            "EndOffset": 622
+        }, 
+        {
+            "Text": "a single action", 
+            "Score": 0.9918591976165771, 
+            "BeginOffset": 723, 
+            "EndOffset": 738
+        }, 
+        {
+            "Text": "a button", 
+            "Score": 0.9872767925262451, 
+            "BeginOffset": 752, 
+            "EndOffset": 760
+        }, 
+        {
+            "Text": "your bed", 
+            "Score": 0.9506409764289856, 
+            "BeginOffset": 769, 
+            "EndOffset": 777
+        }, 
+        {
+            "Text": "the light", 
+            "Score": 0.9965332746505737, 
+            "BeginOffset": 792, 
+            "EndOffset": 801
+        }, 
+        {
+            "Text": "the morning", 
+            "Score": 0.998781681060791, 
+            "BeginOffset": 805, 
+            "EndOffset": 816
+        }, 
+        {
+            "Text": "your coffee machine", 
+            "Score": 0.991881251335144, 
+            "BeginOffset": 825, 
+            "EndOffset": 844
+        }, 
+        {
+            "Text": "some music", 
+            "Score": 0.9877991676330566, 
+            "BeginOffset": 854, 
+            "EndOffset": 864
+        }, 
+        {
+            "Text": "your Tesla", 
+            "Score": 0.8798309564590454, 
+            "BeginOffset": 885, 
+            "EndOffset": 895
+        }, 
+        {
+            "Text": "the garage", 
+            "Score": 0.977405846118927, 
+            "BeginOffset": 903, 
+            "EndOffset": 913
+        }, 
+        {
+            "Text": "a single press", 
+            "Score": 0.9989957809448242, 
+            "BeginOffset": 919, 
+            "EndOffset": 933
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9776589274406433, 
+            "BeginOffset": 978, 
+            "EndOffset": 984
+        }, 
+        {
+            "Text": "the button", 
+            "Score": 0.9650653600692749, 
+            "BeginOffset": 993, 
+            "EndOffset": 1003
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9469337463378906, 
+            "BeginOffset": 1021, 
+            "EndOffset": 1027
+        }, 
+        {
+            "Text": "the USA[1]", 
+            "Score": 0.9406771659851074, 
+            "BeginOffset": 1031, 
+            "EndOffset": 1041
+        }, 
+        {
+            "Text": "the buttons", 
+            "Score": 0.9987651705741882, 
+            "BeginOffset": 1071, 
+            "EndOffset": 1082
+        }, 
+        {
+            "Text": "hours", 
+            "Score": 0.9954855442047119, 
+            "BeginOffset": 1104, 
+            "EndOffset": 1109
+        }, 
+        {
+            "Text": "a holiday", 
+            "Score": 0.9972554445266724, 
+            "BeginOffset": 1154, 
+            "EndOffset": 1163
+        }, 
+        {
+            "Text": "luck", 
+            "Score": 0.7644286155700684, 
+            "BeginOffset": 1191, 
+            "EndOffset": 1195
+        }, 
+        {
+            "Text": "stock", 
+            "Score": 0.9941692352294922, 
+            "BeginOffset": 1258, 
+            "EndOffset": 1263
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9798502922058105, 
+            "BeginOffset": 1291, 
+            "EndOffset": 1299
+        }, 
+        {
+            "Text": "WERCKER", 
+            "Score": 0.8825489282608032, 
+            "BeginOffset": 1353, 
+            "EndOffset": 1360
+        }, 
+        {
+            "Text": "WORKFLOWS", 
+            "Score": 0.9755529761314392, 
+            "BeginOffset": 1363, 
+            "EndOffset": 1372
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.6943791508674622, 
+            "BeginOffset": 1375, 
+            "EndOffset": 1384
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9982197284698486, 
+            "BeginOffset": 1396, 
+            "EndOffset": 1403
+        }, 
+        {
+            "Text": "pipelines", 
+            "Score": 0.9537011981010437, 
+            "BeginOffset": 1416, 
+            "EndOffset": 1425
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9977125525474548, 
+            "BeginOffset": 1431, 
+            "EndOffset": 1440
+        }, 
+        {
+            "Text": "some words", 
+            "Score": 0.999718427658081, 
+            "BeginOffset": 1452, 
+            "EndOffset": 1462
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9984220862388611, 
+            "BeginOffset": 1466, 
+            "EndOffset": 1473
+        }, 
+        {
+            "Text": "version", 
+            "Score": 0.9980322122573853, 
+            "BeginOffset": 1476, 
+            "EndOffset": 1483
+        }, 
+        {
+            "Text": "beta", 
+            "Score": 0.994786262512207, 
+            "BeginOffset": 1505, 
+            "EndOffset": 1509
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9932600259780884, 
+            "BeginOffset": 1514, 
+            "EndOffset": 1521
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9150420427322388, 
+            "BeginOffset": 1527, 
+            "EndOffset": 1536
+        }, 
+        {
+            "Text": "everyone[2]", 
+            "Score": 0.9250438213348389, 
+            "BeginOffset": 1557, 
+            "EndOffset": 1568
+        }, 
+        {
+            "Text": "the theory", 
+            "Score": 0.869519829750061, 
+            "BeginOffset": 1659, 
+            "EndOffset": 1669
+        }, 
+        {
+            "Text": "the new way", 
+            "Score": 0.999812126159668, 
+            "BeginOffset": 1673, 
+            "EndOffset": 1684
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9215847849845886, 
+            "BeginOffset": 1734, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "Wercker files", 
+            "Score": 0.9955297708511353, 
+            "BeginOffset": 1776, 
+            "EndOffset": 1789
+        }, 
+        {
+            "Text": "a build and deploy section", 
+            "Score": 0.8548153638839722, 
+            "BeginOffset": 1794, 
+            "EndOffset": 1820
+        }, 
+        {
+            "Text": "the new system", 
+            "Score": 0.9973128437995911, 
+            "BeginOffset": 1827, 
+            "EndOffset": 1841
+        }, 
+        {
+            "Text": "no more limits", 
+            "Score": 0.8547977209091187, 
+            "BeginOffset": 1877, 
+            "EndOffset": 1891
+        }, 
+        {
+            "Text": "the type and amount", 
+            "Score": 0.9802003502845764, 
+            "BeginOffset": 1895, 
+            "EndOffset": 1914
+        }, 
+        {
+            "Text": "sections", 
+            "Score": 0.9022629261016846, 
+            "BeginOffset": 1918, 
+            "EndOffset": 1926
+        }, 
+        {
+            "Text": "These sections", 
+            "Score": 0.9999799728393555, 
+            "BeginOffset": 1928, 
+            "EndOffset": 1942
+        }, 
+        {
+            "Text": "as pipelines", 
+            "Score": 0.9794151782989502, 
+            "BeginOffset": 1963, 
+            "EndOffset": 1975
+        }, 
+        {
+            "Text": "the term", 
+            "Score": 0.7383601665496826, 
+            "BeginOffset": 1986, 
+            "EndOffset": 1994
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9961941838264465, 
+            "BeginOffset": 2018, 
+            "EndOffset": 2027
+        }, 
+        {
+            "Text": "the old way", 
+            "Score": 0.9454512000083923, 
+            "BeginOffset": 2048, 
+            "EndOffset": 2059
+        }, 
+        {
+            "Text": "a git push", 
+            "Score": 0.9990044832229614, 
+            "BeginOffset": 2064, 
+            "EndOffset": 2074
+        }, 
+        {
+            "Text": "a different action", 
+            "Score": 0.9951933026313782, 
+            "BeginOffset": 2111, 
+            "EndOffset": 2129
+        }, 
+        {
+            "Text": "a deployment", 
+            "Score": 0.8782224655151367, 
+            "BeginOffset": 2170, 
+            "EndOffset": 2182
+        }, 
+        {
+            "Text": "multiple pipelines", 
+            "Score": 0.993921160697937, 
+            "BeginOffset": 2225, 
+            "EndOffset": 2243
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.9968879222869873, 
+            "BeginOffset": 2247, 
+            "EndOffset": 2260
+        }, 
+        {
+            "Text": "tasks", 
+            "Score": 0.9987260699272156, 
+            "BeginOffset": 2296, 
+            "EndOffset": 2301
+        }, 
+        {
+            "Text": "parallel", 
+            "Score": 0.9865494966506958, 
+            "BeginOffset": 2318, 
+            "EndOffset": 2326
+        }, 
+        {
+            "Text": "multiple deployments", 
+            "Score": 0.9913743138313293, 
+            "BeginOffset": 2336, 
+            "EndOffset": 2356
+        }, 
+        {
+            "Text": "the user interface", 
+            "Score": 0.9943141341209412, 
+            "BeginOffset": 2368, 
+            "EndOffset": 2386
+        }, 
+        {
+            "Text": "the best changes", 
+            "Score": 0.9836284518241882, 
+            "BeginOffset": 2434, 
+            "EndOffset": 2450
+        }, 
+        {
+            "Text": "a box/container specific", 
+            "Score": 0.998485803604126, 
+            "BeginOffset": 2487, 
+            "EndOffset": 2511
+        }, 
+        {
+            "Text": "a step", 
+            "Score": 0.8225444555282593, 
+            "BeginOffset": 2516, 
+            "EndOffset": 2522
+        }, 
+        {
+            "Text": "The advantage", 
+            "Score": 0.9988651275634766, 
+            "BeginOffset": 2524, 
+            "EndOffset": 2537
+        }, 
+        {
+            "Text": "a Docker container", 
+            "Score": 0.986903965473175, 
+            "BeginOffset": 2587, 
+            "EndOffset": 2605
+        }, 
+        {
+            "Text": "either a scratch container", 
+            "Score": 0.8692141771316528, 
+            "BeginOffset": 2662, 
+            "EndOffset": 2688
+        }, 
+        {
+            "Text": "container", 
+            "Score": 0.7624130249023438, 
+            "BeginOffset": 2703, 
+            "EndOffset": 2712
+        }, 
+        {
+            "Text": "your base", 
+            "Score": 0.9809662699699402, 
+            "BeginOffset": 2717, 
+            "EndOffset": 2726
+        }, 
+        {
+            "Text": "The new workflow", 
+            "Score": 0.9951127171516418, 
+            "BeginOffset": 2729, 
+            "EndOffset": 2745
+        }, 
+        {
+            "Text": "any base container", 
+            "Score": 0.9998846650123596, 
+            "BeginOffset": 2764, 
+            "EndOffset": 2782
+        }, 
+        {
+            "Text": "a specific step", 
+            "Score": 0.9964171051979065, 
+            "BeginOffset": 2803, 
+            "EndOffset": 2818
+        }, 
+        {
+            "Text": "theory", 
+            "Score": 0.9970284104347229, 
+            "BeginOffset": 2823, 
+            "EndOffset": 2829
+        }, 
+        {
+            "Text": "a Docker container", 
+            "Score": 0.9983678460121155, 
+            "BeginOffset": 2845, 
+            "EndOffset": 2863
+        }, 
+        {
+            "Text": "your application", 
+            "Score": 0.9978671669960022, 
+            "BeginOffset": 2888, 
+            "EndOffset": 2904
+        }, 
+        {
+            "Text": "de deploy step", 
+            "Score": 0.6966131925582886, 
+            "BeginOffset": 2929, 
+            "EndOffset": 2943
+        }, 
+        {
+            "Text": "the container", 
+            "Score": 0.9589651823043823, 
+            "BeginOffset": 2973, 
+            "EndOffset": 2986
+        }, 
+        {
+            "Text": "your application", 
+            "Score": 0.9579471945762634, 
+            "BeginOffset": 3023, 
+            "EndOffset": 3039
+        }, 
+        {
+            "Text": "This separation", 
+            "Score": 0.9988688230514526, 
+            "BeginOffset": 3041, 
+            "EndOffset": 3056
+        }, 
+        {
+            "Text": "build and deploy containers", 
+            "Score": 0.9978152513504028, 
+            "BeginOffset": 3060, 
+            "EndOffset": 3087
+        }, 
+        {
+            "Text": "far leaner containers", 
+            "Score": 0.8421652913093567, 
+            "BeginOffset": 3105, 
+            "EndOffset": 3126
+        }, 
+        {
+            "Text": "The new system", 
+            "Score": 0.9689561128616333, 
+            "BeginOffset": 3129, 
+            "EndOffset": 3143
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9994263648986816, 
+            "BeginOffset": 3163, 
+            "EndOffset": 3166
+        }, 
+        {
+            "Text": "a few things", 
+            "Score": 0.9358493089675903, 
+            "BeginOffset": 3167, 
+            "EndOffset": 3179
+        }, 
+        {
+            "Text": "the workflow", 
+            "Score": 0.9088772535324097, 
+            "BeginOffset": 3192, 
+            "EndOffset": 3204
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9984530806541443, 
+            "BeginOffset": 3208, 
+            "EndOffset": 3215
+        }, 
+        {
+            "Text": "the automatically adding", 
+            "Score": 0.995846688747406, 
+            "BeginOffset": 3233, 
+            "EndOffset": 3257
+        }, 
+        {
+            "Text": "projects", 
+            "Score": 0.9985131621360779, 
+            "BeginOffset": 3261, 
+            "EndOffset": 3269
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.853018045425415, 
+            "BeginOffset": 3275, 
+            "EndOffset": 3282
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.8428650498390198, 
+            "BeginOffset": 3283, 
+            "EndOffset": 3286
+        }, 
+        {
+            "Text": "an easy way", 
+            "Score": 0.9943487644195557, 
+            "BeginOffset": 3332, 
+            "EndOffset": 3343
+        }, 
+        {
+            "Text": "pipelines", 
+            "Score": 0.9975583553314209, 
+            "BeginOffset": 3366, 
+            "EndOffset": 3375
+        }, 
+        {
+            "Text": "branch code", 
+            "Score": 0.9847053289413452, 
+            "BeginOffset": 3401, 
+            "EndOffset": 3412
+        }, 
+        {
+            "Text": "your staging branch", 
+            "Score": 0.9784279465675354, 
+            "BeginOffset": 3490, 
+            "EndOffset": 3509
+        }, 
+        {
+            "Text": "your QA environment", 
+            "Score": 0.9992662668228149, 
+            "BeginOffset": 3513, 
+            "EndOffset": 3532
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.8297494053840637, 
+            "BeginOffset": 3639, 
+            "EndOffset": 3647
+        }, 
+        {
+            "Text": "articles", 
+            "Score": 0.9994121193885803, 
+            "BeginOffset": 3651, 
+            "EndOffset": 3659
+        }, 
+        {
+            "Text": "the Hugo tutorial", 
+            "Score": 0.9995383024215698, 
+            "BeginOffset": 3671, 
+            "EndOffset": 3688
+        }, 
+        {
+            "Text": "CERTBOT\n\n\nThe EFF", 
+            "Score": 0.9879254102706909, 
+            "BeginOffset": 3693, 
+            "EndOffset": 3710
+        }, 
+        {
+            "Text": "the ACME[4] client", 
+            "Score": 0.904827356338501, 
+            "BeginOffset": 3748, 
+            "EndOffset": 3766
+        }, 
+        {
+            "Text": "Encrypt", 
+            "Score": 0.9896941781044006, 
+            "BeginOffset": 3777, 
+            "EndOffset": 3784
+        }, 
+        {
+            "Text": "a standalone project", 
+            "Score": 0.9678437113761902, 
+            "BeginOffset": 3790, 
+            "EndOffset": 3810
+        }, 
+        {
+            "Text": "a new name", 
+            "Score": 0.9995914101600647, 
+            "BeginOffset": 3825, 
+            "EndOffset": 3835
+        }, 
+        {
+            "Text": "Certbot", 
+            "Score": 0.9997606873512268, 
+            "BeginOffset": 3837, 
+            "EndOffset": 3844
+        }, 
+        {
+            "Text": "this point", 
+            "Score": 0.9983941316604614, 
+            "BeginOffset": 3856, 
+            "EndOffset": 3866
+        }, 
+        {
+            "Text": "the final release", 
+            "Score": 0.8688116669654846, 
+            "BeginOffset": 3887, 
+            "EndOffset": 3904
+        }, 
+        {
+            "Text": "the official Let", 
+            "Score": 0.9554018974304199, 
+            "BeginOffset": 3915, 
+            "EndOffset": 3931
+        }, 
+        {
+            "Text": "Encrypt client", 
+            "Score": 0.9993370175361633, 
+            "BeginOffset": 3934, 
+            "EndOffset": 3948
+        }, 
+        {
+            "Text": "the advantage", 
+            "Score": 0.9955544471740723, 
+            "BeginOffset": 3991, 
+            "EndOffset": 4004
+        }, 
+        {
+            "Text": "The main reason", 
+            "Score": 0.9988564252853394, 
+            "BeginOffset": 4029, 
+            "EndOffset": 4044
+        }, 
+        {
+            "Text": "the clients", 
+            "Score": 0.9933292269706726, 
+            "BeginOffset": 4067, 
+            "EndOffset": 4078
+        }, 
+        {
+            "Text": "the service", 
+            "Score": 0.999031662940979, 
+            "BeginOffset": 4105, 
+            "EndOffset": 4116
+        }, 
+        {
+            "Text": "clarity", 
+            "Score": 0.9668015837669373, 
+            "BeginOffset": 4162, 
+            "EndOffset": 4169
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.999111533164978, 
+            "BeginOffset": 4173, 
+            "EndOffset": 4181
+        }, 
+        {
+            "Text": "the point", 
+            "Score": 0.940173864364624, 
+            "BeginOffset": 4199, 
+            "EndOffset": 4208
+        }, 
+        {
+            "Text": "a different client", 
+            "Score": 0.7749449014663696, 
+            "BeginOffset": 4273, 
+            "EndOffset": 4291
+        }, 
+        {
+            "Text": "default", 
+            "Score": 0.7567411661148071, 
+            "BeginOffset": 4295, 
+            "EndOffset": 4302
+        }, 
+        {
+            "Text": "this change", 
+            "Score": 0.9641473889350891, 
+            "BeginOffset": 4341, 
+            "EndOffset": 4352
+        }, 
+        {
+            "Text": "a significant impact", 
+            "Score": 0.9958651661872864, 
+            "BeginOffset": 4363, 
+            "EndOffset": 4383
+        }, 
+        {
+            "Text": "the usage", 
+            "Score": 0.995853841304779, 
+            "BeginOffset": 4387, 
+            "EndOffset": 4396
+        }, 
+        {
+            "Text": "some confusion", 
+            "Score": 0.9994667768478394, 
+            "BeginOffset": 4418, 
+            "EndOffset": 4432
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9958051443099976, 
+            "BeginOffset": 4460, 
+            "EndOffset": 4462
+        }, 
+        {
+            "Text": "ways", 
+            "Score": 0.9959473609924316, 
+            "BeginOffset": 4488, 
+            "EndOffset": 4492
+        }, 
+        {
+            "Text": "mail forwarding services", 
+            "Score": 0.7809166312217712, 
+            "BeginOffset": 4510, 
+            "EndOffset": 4534
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9891312122344971, 
+            "BeginOffset": 4537, 
+            "EndOffset": 4540
+        }, 
+        {
+            "Text": "beta access", 
+            "Score": 0.9125860333442688, 
+            "BeginOffset": 4592, 
+            "EndOffset": 4603
+        }, 
+        {
+            "Text": "other things", 
+            "Score": 0.9955596327781677, 
+            "BeginOffset": 4636, 
+            "EndOffset": 4648
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9725440740585327, 
+            "BeginOffset": 4651, 
+            "EndOffset": 4654
+        }, 
+        {
+            "Text": "the documentation", 
+            "Score": 0.7631139159202576, 
+            "BeginOffset": 4688, 
+            "EndOffset": 4705
+        }, 
+        {
+            "Text": "a little bit", 
+            "Score": 0.9659745097160339, 
+            "BeginOffset": 4711, 
+            "EndOffset": 4723
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9939568638801575, 
+            "BeginOffset": 4766, 
+            "EndOffset": 4772
+        }, 
+        {
+            "Text": "[4] ACME", 
+            "Score": 0.9245470762252808, 
+            "BeginOffset": 4775, 
+            "EndOffset": 4783
+        }, 
+        {
+            "Text": "the protocol", 
+            "Score": 0.9723598957061768, 
+            "BeginOffset": 4787, 
+            "EndOffset": 4799
+        }, 
+        {
+            "Text": "certificates", 
+            "Score": 0.9394183158874512, 
+            "BeginOffset": 4820, 
+            "EndOffset": 4832
+        }, 
+        {
+            "Text": "Encrypt", 
+            "Score": 0.9959056973457336, 
+            "BeginOffset": 4844, 
+            "EndOffset": 4851
+        }
+    ]
+}

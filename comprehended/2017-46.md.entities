@@ -1,0 +1,235 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.9273998737335205, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "C5", 
+            "Score": 0.7952762842178345, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 38, 
+            "EndOffset": 40
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9527702927589417, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 118, 
+            "EndOffset": 121
+        }, 
+        {
+            "Text": "a year", 
+            "Score": 0.6512727737426758, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 148, 
+            "EndOffset": 154
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9811030626296997, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 201, 
+            "EndOffset": 204
+        }, 
+        {
+            "Text": "C5", 
+            "Score": 0.9382102489471436, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 234, 
+            "EndOffset": 236
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9191957712173462, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 304, 
+            "EndOffset": 309
+        }, 
+        {
+            "Text": "Xeon", 
+            "Score": 0.8490455150604248, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 310, 
+            "EndOffset": 314
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9583832621574402, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 760, 
+            "EndOffset": 763
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9998838901519775, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 979, 
+            "EndOffset": 982
+        }, 
+        {
+            "Text": "RE:Invent", 
+            "Score": 0.9619760513305664, 
+            "Type": "EVENT", 
+            "BeginOffset": 1013, 
+            "EndOffset": 1022
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9998750686645508, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1167, 
+            "EndOffset": 1170
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999984502792358, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1242, 
+            "EndOffset": 1245
+        }, 
+        {
+            "Text": "a couple of years ago", 
+            "Score": 0.9274340867996216, 
+            "Type": "DATE", 
+            "BeginOffset": 1346, 
+            "EndOffset": 1367
+        }, 
+        {
+            "Text": "S3", 
+            "Score": 0.9998120069503784, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1372, 
+            "EndOffset": 1374
+        }, 
+        {
+            "Text": "earlier this year", 
+            "Score": 0.8300711512565613, 
+            "Type": "DATE", 
+            "BeginOffset": 1399, 
+            "EndOffset": 1416
+        }, 
+        {
+            "Text": "DynamoDB", 
+            "Score": 0.9997249245643616, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1421, 
+            "EndOffset": 1429
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999315738677979, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1491, 
+            "EndOffset": 1494
+        }, 
+        {
+            "Text": "PrivateLink", 
+            "Score": 0.9999657869338989, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1532, 
+            "EndOffset": 1543
+        }, 
+        {
+            "Text": "PrivateLinks", 
+            "Score": 0.9998152852058411, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1569, 
+            "EndOffset": 1581
+        }, 
+        {
+            "Text": "Both", 
+            "Score": 0.9999963045120239, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1637, 
+            "EndOffset": 1641
+        }, 
+        {
+            "Text": "PrivateLinks", 
+            "Score": 0.9999934434890747, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1675, 
+            "EndOffset": 1687
+        }, 
+        {
+            "Text": "Endpoint", 
+            "Score": 0.9999973773956299, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1810, 
+            "EndOffset": 1818
+        }, 
+        {
+            "Text": "2 things", 
+            "Score": 0.9989647269248962, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1891, 
+            "EndOffset": 1899
+        }, 
+        {
+            "Text": "Elasticsearch", 
+            "Score": 0.9999985694885254, 
+            "Type": "TITLE", 
+            "BeginOffset": 2060, 
+            "EndOffset": 2073
+        }, 
+        {
+            "Text": "ENIs", 
+            "Score": 0.9999716281890869, 
+            "Type": "TITLE", 
+            "BeginOffset": 2081, 
+            "EndOffset": 2085
+        }, 
+        {
+            "Text": "VPC", 
+            "Score": 0.9999743700027466, 
+            "Type": "TITLE", 
+            "BeginOffset": 2376, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9913716316223145, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2494, 
+            "EndOffset": 2500
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9999383687973022, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2517, 
+            "EndOffset": 2522
+        }, 
+        {
+            "Text": "DNSSEC", 
+            "Score": 0.999313473701477, 
+            "Type": "TITLE", 
+            "BeginOffset": 2555, 
+            "EndOffset": 2561
+        }, 
+        {
+            "Text": "each layer", 
+            "Score": 0.9999948740005493, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2822, 
+            "EndOffset": 2832
+        }, 
+        {
+            "Text": "CloudFlare", 
+            "Score": 0.9999909400939941, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2977, 
+            "EndOffset": 2987
+        }, 
+        {
+            "Text": "Xen", 
+            "Score": 0.9999992847442627, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3183, 
+            "EndOffset": 3186
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "Entities": [
+        {
+            "Text": "Docker", 
+            "Score": 0.34774234890937805, 
+            "Type": "PERSON", 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9576488137245178, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 30, 
+            "EndOffset": 36
+        }, 
+        {
+            "Text": "one this week", 
+            "Score": 0.7556192874908447, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 97, 
+            "EndOffset": 110
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9843855500221252, 
+            "Type": "DATE", 
+            "BeginOffset": 286, 
+            "EndOffset": 295
+        }, 
+        {
+            "Text": "Google Cloud", 
+            "Score": 0.8249080181121826, 
+            "Type": "TITLE", 
+            "BeginOffset": 344, 
+            "EndOffset": 356
+        }, 
+        {
+            "Text": "a couple days after", 
+            "Score": 0.7938664555549622, 
+            "Type": "DATE", 
+            "BeginOffset": 373, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "next week", 
+            "Score": 0.9744572043418884, 
+            "Type": "DATE", 
+            "BeginOffset": 421, 
+            "EndOffset": 430
+        }, 
+        {
+            "Text": "Melbourne", 
+            "Score": 0.9906687140464783, 
+            "Type": "LOCATION", 
+            "BeginOffset": 462, 
+            "EndOffset": 471
+        }, 
+        {
+            "Text": "2016", 
+            "Score": 0.9956366419792175, 
+            "Type": "DATE", 
+            "BeginOffset": 619, 
+            "EndOffset": 623
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.6210585832595825, 
+            "Type": "PERSON", 
+            "BeginOffset": 642, 
+            "EndOffset": 648
+        }, 
+        {
+            "Text": "Cloud Native Computing Foundation", 
+            "Score": 0.9895636439323425, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 771, 
+            "EndOffset": 804
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9906105995178223, 
+            "Type": "DATE", 
+            "BeginOffset": 1262, 
+            "EndOffset": 1271
+        }, 
+        {
+            "Text": "GOOGLE", 
+            "Score": 0.9999470710754395, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1379, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.5904220342636108, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1407, 
+            "EndOffset": 1413
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999781847000122, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1587, 
+            "EndOffset": 1593
+        }, 
+        {
+            "Text": "WebP", 
+            "Score": 0.9999960660934448, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1712, 
+            "EndOffset": 1716
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9999890327453613, 
+            "Type": "TITLE", 
+            "BeginOffset": 1846, 
+            "EndOffset": 1852
+        }, 
+        {
+            "Text": "Opera", 
+            "Score": 0.9819157123565674, 
+            "Type": "TITLE", 
+            "BeginOffset": 1857, 
+            "EndOffset": 1862
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9995793700218201, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2018, 
+            "EndOffset": 2024
+        }, 
+        {
+            "Text": "JPEG", 
+            "Score": 0.9996820688247681, 
+            "Type": "OTHER", 
+            "BeginOffset": 2070, 
+            "EndOffset": 2074
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999964237213135, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2338, 
+            "EndOffset": 2344
+        }, 
+        {
+            "Text": "Firefox", 
+            "Score": 0.9999977350234985, 
+            "Type": "TITLE", 
+            "BeginOffset": 2838, 
+            "EndOffset": 2845
+        }
+    ]
+}

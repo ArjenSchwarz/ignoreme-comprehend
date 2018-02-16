@@ -1,0 +1,724 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Google Cloud Platform", 
+            "Score": 0.995058000087738, 
+            "BeginOffset": 0, 
+            "EndOffset": 21
+        }, 
+        {
+            "Text": "new regions", 
+            "Score": 0.9994383454322815, 
+            "BeginOffset": 28, 
+            "EndOffset": 39
+        }, 
+        {
+            "Text": "Asia Pacific", 
+            "Score": 0.8369406461715698, 
+            "BeginOffset": 43, 
+            "EndOffset": 55
+        }, 
+        {
+            "Text": "Play", 
+            "Score": 0.7764540910720825, 
+            "BeginOffset": 60, 
+            "EndOffset": 64
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9957751631736755, 
+            "BeginOffset": 70, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "NEW GCP REGIONS", 
+            "Score": 0.8992916345596313, 
+            "BeginOffset": 93, 
+            "EndOffset": 108
+        }, 
+        {
+            "Text": "Last year", 
+            "Score": 0.9933720827102661, 
+            "BeginOffset": 111, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "a brief overview", 
+            "Score": 0.9992867708206177, 
+            "BeginOffset": 128, 
+            "EndOffset": 144
+        }, 
+        {
+            "Text": "the state", 
+            "Score": 0.9996672868728638, 
+            "BeginOffset": 148, 
+            "EndOffset": 157
+        }, 
+        {
+            "Text": "regions", 
+            "Score": 0.9998500943183899, 
+            "BeginOffset": 161, 
+            "EndOffset": 168
+        }, 
+        {
+            "Text": "the 3 best known cloud providers", 
+            "Score": 0.972575306892395, 
+            "BeginOffset": 173, 
+            "EndOffset": 205
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9981513619422913, 
+            "BeginOffset": 210, 
+            "EndOffset": 218
+        }, 
+        {
+            "Text": "Google Cloud Platform", 
+            "Score": 0.9899781942367554, 
+            "BeginOffset": 238, 
+            "EndOffset": 259
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9882679581642151, 
+            "BeginOffset": 261, 
+            "EndOffset": 264
+        }, 
+        {
+            "Text": "coverage", 
+            "Score": 0.8632605075836182, 
+            "BeginOffset": 284, 
+            "EndOffset": 292
+        }, 
+        {
+            "Text": "A situation", 
+            "Score": 0.9989989399909973, 
+            "BeginOffset": 294, 
+            "EndOffset": 305
+        }, 
+        {
+            "Text": "the market", 
+            "Score": 0.9992769956588745, 
+            "BeginOffset": 342, 
+            "EndOffset": 352
+        }, 
+        {
+            "Text": "the past 2 weeks", 
+            "Score": 0.92540043592453, 
+            "BeginOffset": 404, 
+            "EndOffset": 420
+        }, 
+        {
+            "Text": "2 new regions", 
+            "Score": 0.9705116748809814, 
+            "BeginOffset": 442, 
+            "EndOffset": 455
+        }, 
+        {
+            "Text": "The first one", 
+            "Score": 0.9921929240226746, 
+            "BeginOffset": 458, 
+            "EndOffset": 471
+        }, 
+        {
+            "Text": "the 14th", 
+            "Score": 0.9930799603462219, 
+            "BeginOffset": 483, 
+            "EndOffset": 491
+        }, 
+        {
+            "Text": "June", 
+            "Score": 0.9994727969169617, 
+            "BeginOffset": 495, 
+            "EndOffset": 499
+        }, 
+        {
+            "Text": "Singapore", 
+            "Score": 0.8822804689407349, 
+            "BeginOffset": 505, 
+            "EndOffset": 514
+        }, 
+        {
+            "Text": "the more interesting one", 
+            "Score": 0.9526855945587158, 
+            "BeginOffset": 530, 
+            "EndOffset": 554
+        }, 
+        {
+            "Text": "the 20th", 
+            "Score": 0.9945292472839355, 
+            "BeginOffset": 576, 
+            "EndOffset": 584
+        }, 
+        {
+            "Text": "Sydney", 
+            "Score": 0.9819089770317078, 
+            "BeginOffset": 588, 
+            "EndOffset": 594
+        }, 
+        {
+            "Text": "the new region", 
+            "Score": 0.9621658325195312, 
+            "BeginOffset": 608, 
+            "EndOffset": 622
+        }, 
+        {
+            "Text": "the GCP features", 
+            "Score": 0.996446430683136, 
+            "BeginOffset": 643, 
+            "EndOffset": 659
+        }, 
+        {
+            "Text": "the main items", 
+            "Score": 0.998955488204956, 
+            "BeginOffset": 665, 
+            "EndOffset": 679
+        }, 
+        {
+            "Text": "my opinion", 
+            "Score": 0.9986950755119324, 
+            "BeginOffset": 718, 
+            "EndOffset": 728
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9937876462936401, 
+            "BeginOffset": 735, 
+            "EndOffset": 738
+        }, 
+        {
+            "Text": "the OnBoard event", 
+            "Score": 0.9743407368659973, 
+            "BeginOffset": 745, 
+            "EndOffset": 762
+        }, 
+        {
+            "Text": "April", 
+            "Score": 0.9840430021286011, 
+            "BeginOffset": 772, 
+            "EndOffset": 777
+        }, 
+        {
+            "Text": "my opinion", 
+            "Score": 0.8676297664642334, 
+            "BeginOffset": 820, 
+            "EndOffset": 830
+        }, 
+        {
+            "Text": "certain things", 
+            "Score": 0.9963856339454651, 
+            "BeginOffset": 836, 
+            "EndOffset": 850
+        }, 
+        {
+            "Text": "especially Docker/Kubernetes", 
+            "Score": 0.7205098271369934, 
+            "BeginOffset": 852, 
+            "EndOffset": 880
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9468247294425964, 
+            "BeginOffset": 885, 
+            "EndOffset": 901
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.936920166015625, 
+            "BeginOffset": 931, 
+            "EndOffset": 934
+        }, 
+        {
+            "Text": "most other functionalities", 
+            "Score": 0.9855226278305054, 
+            "BeginOffset": 940, 
+            "EndOffset": 966
+        }, 
+        {
+            "Text": "the only advantage", 
+            "Score": 0.9934261441230774, 
+            "BeginOffset": 967, 
+            "EndOffset": 985
+        }, 
+        {
+            "Text": "price", 
+            "Score": 0.9910704493522644, 
+            "BeginOffset": 989, 
+            "EndOffset": 994
+        }, 
+        {
+            "Text": "price", 
+            "Score": 0.9985954165458679, 
+            "BeginOffset": 1000, 
+            "EndOffset": 1005
+        }, 
+        {
+            "Text": "your main motivation", 
+            "Score": 0.9908429980278015, 
+            "BeginOffset": 1020, 
+            "EndOffset": 1040
+        }, 
+        {
+            "Text": "the cloud[1]", 
+            "Score": 0.9326008558273315, 
+            "BeginOffset": 1058, 
+            "EndOffset": 1070
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9976667761802673, 
+            "BeginOffset": 1111, 
+            "EndOffset": 1117
+        }, 
+        {
+            "Text": "demand", 
+            "Score": 0.9814935326576233, 
+            "BeginOffset": 1121, 
+            "EndOffset": 1127
+        }, 
+        {
+            "Text": "the new regions", 
+            "Score": 0.9989227056503296, 
+            "BeginOffset": 1132, 
+            "EndOffset": 1147
+        }, 
+        {
+            "Text": "One other interesting tidbit", 
+            "Score": 0.9828478693962097, 
+            "BeginOffset": 1150, 
+            "EndOffset": 1178
+        }, 
+        {
+            "Text": "the Sydney announcement", 
+            "Score": 0.9964278340339661, 
+            "BeginOffset": 1182, 
+            "EndOffset": 1205
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9993104934692383, 
+            "BeginOffset": 1214, 
+            "EndOffset": 1220
+        }, 
+        {
+            "Text": "new network infrastructure", 
+            "Score": 0.9962881803512573, 
+            "BeginOffset": 1235, 
+            "EndOffset": 1261
+        }, 
+        {
+            "Text": "all the data centers", 
+            "Score": 0.9926232695579529, 
+            "BeginOffset": 1269, 
+            "EndOffset": 1289
+        }, 
+        {
+            "Text": "an area", 
+            "Score": 0.9975152611732483, 
+            "BeginOffset": 1308, 
+            "EndOffset": 1315
+        }, 
+        {
+            "Text": "the advantage", 
+            "Score": 0.9995249509811401, 
+            "BeginOffset": 1334, 
+            "EndOffset": 1347
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9995943307876587, 
+            "BeginOffset": 1351, 
+            "EndOffset": 1354
+        }, 
+        {
+            "Text": "the same data centers", 
+            "Score": 0.9818320870399475, 
+            "BeginOffset": 1364, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "the \"regular\" Google services", 
+            "Score": 0.9472853541374207, 
+            "BeginOffset": 1389, 
+            "EndOffset": 1418
+        }, 
+        {
+            "Text": "this infrastructure", 
+            "Score": 0.9998334646224976, 
+            "BeginOffset": 1429, 
+            "EndOffset": 1448
+        }, 
+        {
+            "Text": "advantages", 
+            "Score": 0.9985832571983337, 
+            "BeginOffset": 1459, 
+            "EndOffset": 1469
+        }, 
+        {
+            "Text": "that part", 
+            "Score": 0.9969720840454102, 
+            "BeginOffset": 1474, 
+            "EndOffset": 1483
+        }, 
+        {
+            "Text": "the business", 
+            "Score": 0.9959323406219482, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1499
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.7677955031394958, 
+            "BeginOffset": 1504, 
+            "EndOffset": 1507
+        }, 
+        {
+            "Text": "the ride", 
+            "Score": 0.9544960260391235, 
+            "BeginOffset": 1521, 
+            "EndOffset": 1529
+        }, 
+        {
+            "Text": "sea cables", 
+            "Score": 0.9890588521957397, 
+            "BeginOffset": 1553, 
+            "EndOffset": 1563
+        }, 
+        {
+            "Text": "exactly a cheap thing", 
+            "Score": 0.8559653759002686, 
+            "BeginOffset": 1570, 
+            "EndOffset": 1591
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9607000350952148, 
+            "BeginOffset": 1609, 
+            "EndOffset": 1612
+        }, 
+        {
+            "Text": "an advantage", 
+            "Score": 0.9725465178489685, 
+            "BeginOffset": 1613, 
+            "EndOffset": 1625
+        }, 
+        {
+            "Text": "PLAY WITH MOBY\n\n\nPlay", 
+            "Score": 0.777651846408844, 
+            "BeginOffset": 1630, 
+            "EndOffset": 1651
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9197174906730652, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1663
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9700856804847717, 
+            "BeginOffset": 1684, 
+            "EndOffset": 1691
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9741146564483643, 
+            "BeginOffset": 1695, 
+            "EndOffset": 1700
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9992913603782654, 
+            "BeginOffset": 1712, 
+            "EndOffset": 1718
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9868245720863342, 
+            "BeginOffset": 1724, 
+            "EndOffset": 1730
+        }, 
+        {
+            "Text": "a free temporary environment", 
+            "Score": 0.9867879748344421, 
+            "BeginOffset": 1753, 
+            "EndOffset": 1781
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9996896982192993, 
+            "BeginOffset": 1800, 
+            "EndOffset": 1808
+        }, 
+        {
+            "Text": "instances", 
+            "Score": 0.9993077516555786, 
+            "BeginOffset": 1812, 
+            "EndOffset": 1821
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.7319783568382263, 
+            "BeginOffset": 1822, 
+            "EndOffset": 1824
+        }, 
+        {
+            "Text": "Docker containers", 
+            "Score": 0.9803934097290039, 
+            "BeginOffset": 1830, 
+            "EndOffset": 1847
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.999060869216919, 
+            "BeginOffset": 1935, 
+            "EndOffset": 1941
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.964924156665802, 
+            "BeginOffset": 1957, 
+            "EndOffset": 1960
+        }, 
+        {
+            "Text": "Play", 
+            "Score": 0.9961169362068176, 
+            "BeginOffset": 1984, 
+            "EndOffset": 1988
+        }, 
+        {
+            "Text": "Docker and alternatives", 
+            "Score": 0.9773542284965515, 
+            "BeginOffset": 1994, 
+            "EndOffset": 2017
+        }, 
+        {
+            "Text": "Katacoda", 
+            "Score": 0.8933380842208862, 
+            "BeginOffset": 2023, 
+            "EndOffset": 2031
+        }, 
+        {
+            "Text": "training purposes", 
+            "Score": 0.9546941518783569, 
+            "BeginOffset": 2047, 
+            "EndOffset": 2064
+        }, 
+        {
+            "Text": "the least", 
+            "Score": 0.9805757999420166, 
+            "BeginOffset": 2073, 
+            "EndOffset": 2082
+        }, 
+        {
+            "Text": "the various images", 
+            "Score": 0.995043933391571, 
+            "BeginOffset": 2137, 
+            "EndOffset": 2155
+        }, 
+        {
+            "Text": "the usual", 
+            "Score": 0.9981943964958191, 
+            "BeginOffset": 2159, 
+            "EndOffset": 2168
+        }, 
+        {
+            "Text": "their local environment", 
+            "Score": 0.8685135841369629, 
+            "BeginOffset": 2183, 
+            "EndOffset": 2206
+        }, 
+        {
+            "Text": "a new player", 
+            "Score": 0.995611846446991, 
+            "BeginOffset": 2242, 
+            "EndOffset": 2254
+        }, 
+        {
+            "Text": "this space", 
+            "Score": 0.9998048543930054, 
+            "BeginOffset": 2258, 
+            "EndOffset": 2268
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9991288781166077, 
+            "BeginOffset": 2288, 
+            "EndOffset": 2292
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.788440465927124, 
+            "BeginOffset": 2297, 
+            "EndOffset": 2305
+        }, 
+        {
+            "Text": "Play", 
+            "Score": 0.9996764063835144, 
+            "BeginOffset": 2315, 
+            "EndOffset": 2319
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9969102740287781, 
+            "BeginOffset": 2325, 
+            "EndOffset": 2329
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.8723554611206055, 
+            "BeginOffset": 2353, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9974506497383118, 
+            "BeginOffset": 2369, 
+            "EndOffset": 2375
+        }, 
+        {
+            "Text": "the whole set", 
+            "Score": 0.9992338418960571, 
+            "BeginOffset": 2418, 
+            "EndOffset": 2431
+        }, 
+        {
+            "Text": "Moby functionalities", 
+            "Score": 0.9985787868499756, 
+            "BeginOffset": 2435, 
+            "EndOffset": 2455
+        }, 
+        {
+            "Text": "the yaml format", 
+            "Score": 0.9904624819755554, 
+            "BeginOffset": 2459, 
+            "EndOffset": 2474
+        }, 
+        {
+            "Text": "the goal", 
+            "Score": 0.9983776807785034, 
+            "BeginOffset": 2491, 
+            "EndOffset": 2499
+        }, 
+        {
+            "Text": "the project", 
+            "Score": 0.9593257308006287, 
+            "BeginOffset": 2503, 
+            "EndOffset": 2514
+        }, 
+        {
+            "Text": "its parts", 
+            "Score": 0.999488890171051, 
+            "BeginOffset": 2526, 
+            "EndOffset": 2535
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.8385268449783325, 
+            "BeginOffset": 2620, 
+            "EndOffset": 2622
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.8439897894859314, 
+            "BeginOffset": 2642, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "your systems", 
+            "Score": 0.9984314441680908, 
+            "BeginOffset": 2673, 
+            "EndOffset": 2685
+        }, 
+        {
+            "Text": "demand", 
+            "Score": 0.9521094560623169, 
+            "BeginOffset": 2695, 
+            "EndOffset": 2701
+        }, 
+        {
+            "Text": "your use case", 
+            "Score": 0.9856722950935364, 
+            "BeginOffset": 2705, 
+            "EndOffset": 2718
+        }, 
+        {
+            "Text": "general", 
+            "Score": 0.9972190260887146, 
+            "BeginOffset": 2742, 
+            "EndOffset": 2749
+        }, 
+        {
+            "Text": "your winnings", 
+            "Score": 0.9657036662101746, 
+            "BeginOffset": 2750, 
+            "EndOffset": 2763
+        }, 
+        {
+            "Text": "flexibility", 
+            "Score": 0.965039849281311, 
+            "BeginOffset": 2774, 
+            "EndOffset": 2785
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9948354959487915, 
+            "BeginOffset": 2788, 
+            "EndOffset": 2791
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.8887414932250977, 
+            "BeginOffset": 2811, 
+            "EndOffset": 2821
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.79585862159729, 
+            "BeginOffset": 2828, 
+            "EndOffset": 2834
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.825543224811554, 
+            "BeginOffset": 2838, 
+            "EndOffset": 2844
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9898713827133179, 
+            "BeginOffset": 2864, 
+            "EndOffset": 2867
+        }, 
+        {
+            "Text": "my iPad", 
+            "Score": 0.9980199337005615, 
+            "BeginOffset": 2906, 
+            "EndOffset": 2913
+        }, 
+        {
+            "Text": "a session", 
+            "Score": 0.9977992177009583, 
+            "BeginOffset": 2931, 
+            "EndOffset": 2940
+        }, 
+        {
+            "Text": "this running", 
+            "Score": 0.9991894364356995, 
+            "BeginOffset": 2944, 
+            "EndOffset": 2956
+        }, 
+        {
+            "Text": "the other side", 
+            "Score": 0.9999408721923828, 
+            "BeginOffset": 2960, 
+            "EndOffset": 2974
+        }, 
+        {
+            "Text": "my screen", 
+            "Score": 0.8355868458747864, 
+            "BeginOffset": 2978, 
+            "EndOffset": 2987
+        }
+    ]
+}

@@ -1,0 +1,664 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "My feature request", 
+            "Score": 0.9152068495750427, 
+            "BeginOffset": 0, 
+            "EndOffset": 18
+        }, 
+        {
+            "Text": "Bitbucket Pipelines", 
+            "Score": 0.9897099137306213, 
+            "BeginOffset": 23, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.977389931678772, 
+            "BeginOffset": 60, 
+            "EndOffset": 70
+        }, 
+        {
+            "Text": "several good announcements", 
+            "Score": 0.9968228936195374, 
+            "BeginOffset": 75, 
+            "EndOffset": 101
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9706464409828186, 
+            "BeginOffset": 107, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "new Echos", 
+            "Score": 0.991977870464325, 
+            "BeginOffset": 123, 
+            "EndOffset": 132
+        }, 
+        {
+            "Text": "BITBUCKET PIPELINES MULTIPLE STEPS", 
+            "Score": 0.9322500824928284, 
+            "BeginOffset": 137, 
+            "EndOffset": 171
+        }, 
+        {
+            "Text": "my initial review", 
+            "Score": 0.9986072182655334, 
+            "BeginOffset": 185, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "Bitbucket Pipelines", 
+            "Score": 0.9983123540878296, 
+            "BeginOffset": 206, 
+            "EndOffset": 225
+        }, 
+        {
+            "Text": "several feature requests", 
+            "Score": 0.995441198348999, 
+            "BeginOffset": 235, 
+            "EndOffset": 259
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.9990513920783997, 
+            "BeginOffset": 279, 
+            "EndOffset": 286
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.995090126991272, 
+            "BeginOffset": 297, 
+            "EndOffset": 306
+        }, 
+        {
+            "Text": "a single step", 
+            "Score": 0.961218535900116, 
+            "BeginOffset": 400, 
+            "EndOffset": 413
+        }, 
+        {
+            "Text": "the form", 
+            "Score": 0.9995718598365784, 
+            "BeginOffset": 417, 
+            "EndOffset": 425
+        }, 
+        {
+            "Text": "a bash script", 
+            "Score": 0.9977440237998962, 
+            "BeginOffset": 429, 
+            "EndOffset": 442
+        }, 
+        {
+            "Text": "multiple steps", 
+            "Score": 0.8685281872749329, 
+            "BeginOffset": 485, 
+            "EndOffset": 499
+        }, 
+        {
+            "Text": "each step", 
+            "Score": 0.99827641248703, 
+            "BeginOffset": 506, 
+            "EndOffset": 515
+        }, 
+        {
+            "Text": "its own Docker image", 
+            "Score": 0.9933043718338013, 
+            "BeginOffset": 554, 
+            "EndOffset": 574
+        }, 
+        {
+            "Text": "a huge win", 
+            "Score": 0.996372401714325, 
+            "BeginOffset": 585, 
+            "EndOffset": 595
+        }, 
+        {
+            "Text": "readability and reusability", 
+            "Score": 0.9849423170089722, 
+            "BeginOffset": 600, 
+            "EndOffset": 627
+        }, 
+        {
+            "Text": "your pipelines config", 
+            "Score": 0.9609071612358093, 
+            "BeginOffset": 631, 
+            "EndOffset": 652
+        }, 
+        {
+            "Text": "one more feature request", 
+            "Score": 0.8686431050300598, 
+            "BeginOffset": 724, 
+            "EndOffset": 748
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.6665871143341064, 
+            "BeginOffset": 749, 
+            "EndOffset": 751
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.954630970954895, 
+            "BeginOffset": 761, 
+            "EndOffset": 772
+        }, 
+        {
+            "Text": "reusable steps", 
+            "Score": 0.9947742223739624, 
+            "BeginOffset": 781, 
+            "EndOffset": 795
+        }, 
+        {
+            "Text": "as much traction", 
+            "Score": 0.9156277775764465, 
+            "BeginOffset": 826, 
+            "EndOffset": 842
+        }, 
+        {
+            "Text": "some point", 
+            "Score": 0.9962929487228394, 
+            "BeginOffset": 886, 
+            "EndOffset": 896
+        }, 
+        {
+            "Text": "the meantime", 
+            "Score": 0.9814416766166687, 
+            "BeginOffset": 913, 
+            "EndOffset": 925
+        }, 
+        {
+            "Text": "Pipelines", 
+            "Score": 0.9968310594558716, 
+            "BeginOffset": 948, 
+            "EndOffset": 957
+        }, 
+        {
+            "Text": "CLOUDFLARE UNMETERED AND AT THE EDGE", 
+            "Score": 0.9417168498039246, 
+            "BeginOffset": 978, 
+            "EndOffset": 1014
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.7894335389137268, 
+            "BeginOffset": 1020, 
+            "EndOffset": 1024
+        }, 
+        {
+            "Text": "their 7th birthday celebration", 
+            "Score": 0.9913350939750671, 
+            "BeginOffset": 1028, 
+            "EndOffset": 1058
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9987320303916931, 
+            "BeginOffset": 1060, 
+            "EndOffset": 1070
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9904881119728088, 
+            "BeginOffset": 1080, 
+            "EndOffset": 1088
+        }, 
+        {
+            "Text": "new features", 
+            "Score": 0.9995297789573669, 
+            "BeginOffset": 1092, 
+            "EndOffset": 1104
+        }, 
+        {
+            "Text": "the week", 
+            "Score": 0.9987130761146545, 
+            "BeginOffset": 1116, 
+            "EndOffset": 1124
+        }, 
+        {
+            "Text": "Cloudflare[2]", 
+            "Score": 0.8521245718002319, 
+            "BeginOffset": 1202, 
+            "EndOffset": 1215
+        }, 
+        {
+            "Text": "the industry standard", 
+            "Score": 0.8732490539550781, 
+            "BeginOffset": 1216, 
+            "EndOffset": 1237
+        }, 
+        {
+            "Text": "bills", 
+            "Score": 0.9822246432304382, 
+            "BeginOffset": 1250, 
+            "EndOffset": 1255
+        }, 
+        {
+            "Text": "these mitigations", 
+            "Score": 0.9985527992248535, 
+            "BeginOffset": 1260, 
+            "EndOffset": 1277
+        }, 
+        {
+            "Text": "big attacks", 
+            "Score": 0.9986473321914673, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1320
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9988605976104736, 
+            "BeginOffset": 1322, 
+            "EndOffset": 1332
+        }, 
+        {
+            "Text": "other customers", 
+            "Score": 0.97295081615448, 
+            "BeginOffset": 1389, 
+            "EndOffset": 1404
+        }, 
+        {
+            "Text": "unmetered mitigation", 
+            "Score": 0.9438844323158264, 
+            "BeginOffset": 1527, 
+            "EndOffset": 1547
+        }, 
+        {
+            "Text": "your site", 
+            "Score": 0.9996163845062256, 
+            "BeginOffset": 1566, 
+            "EndOffset": 1575
+        }, 
+        {
+            "Text": "the plan", 
+            "Score": 0.9969855546951294, 
+            "BeginOffset": 1609, 
+            "EndOffset": 1617
+        }, 
+        {
+            "Text": "a good thing", 
+            "Score": 0.9949252605438232, 
+            "BeginOffset": 1656, 
+            "EndOffset": 1668
+        }, 
+        {
+            "Text": "many sites", 
+            "Score": 0.9967194199562073, 
+            "BeginOffset": 1693, 
+            "EndOffset": 1703
+        }, 
+        {
+            "Text": "an interesting article", 
+            "Score": 0.987804114818573, 
+            "BeginOffset": 1741, 
+            "EndOffset": 1763
+        }, 
+        {
+            "Text": "their infrastructure", 
+            "Score": 0.9955751895904541, 
+            "BeginOffset": 1774, 
+            "EndOffset": 1794
+        }, 
+        {
+            "Text": "The other new feature", 
+            "Score": 0.9983586668968201, 
+            "BeginOffset": 1817, 
+            "EndOffset": 1838
+        }, 
+        {
+            "Text": "Cloudflare Workers", 
+            "Score": 0.9962180852890015, 
+            "BeginOffset": 1842, 
+            "EndOffset": 1860
+        }, 
+        {
+            "Text": "These workers", 
+            "Score": 0.9995518326759338, 
+            "BeginOffset": 1862, 
+            "EndOffset": 1875
+        }, 
+        {
+            "Text": "idea", 
+            "Score": 0.9983223676681519, 
+            "BeginOffset": 1891, 
+            "EndOffset": 1895
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9971824884414673, 
+            "BeginOffset": 1899, 
+            "EndOffset": 1902
+        }, 
+        {
+            "Text": "' Lambda@Edge", 
+            "Score": 0.926736056804657, 
+            "BeginOffset": 1902, 
+            "EndOffset": 1915
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9972493648529053, 
+            "BeginOffset": 1922, 
+            "EndOffset": 1933
+        }, 
+        {
+            "Text": "JavaScript code", 
+            "Score": 0.9959484934806824, 
+            "BeginOffset": 1941, 
+            "EndOffset": 1956
+        }, 
+        {
+            "Text": "the endpoints", 
+            "Score": 0.995373010635376, 
+            "BeginOffset": 1960, 
+            "EndOffset": 1973
+        }, 
+        {
+            "Text": "the Cloudflare network", 
+            "Score": 0.9995188117027283, 
+            "BeginOffset": 1977, 
+            "EndOffset": 1999
+        }, 
+        {
+            "Text": "the actual implementation", 
+            "Score": 0.9990050792694092, 
+            "BeginOffset": 2011, 
+            "EndOffset": 2036
+        }, 
+        {
+            "Text": "great effect", 
+            "Score": 0.9957207441329956, 
+            "BeginOffset": 2087, 
+            "EndOffset": 2099
+        }, 
+        {
+            "Text": "some things", 
+            "Score": 0.9810720682144165, 
+            "BeginOffset": 2104, 
+            "EndOffset": 2115
+        }, 
+        {
+            "Text": "An obvious example", 
+            "Score": 0.9968536496162415, 
+            "BeginOffset": 2117, 
+            "EndOffset": 2135
+        }, 
+        {
+            "Text": "a script", 
+            "Score": 0.9998096227645874, 
+            "BeginOffset": 2139, 
+            "EndOffset": 2147
+        }, 
+        {
+            "Text": "the cache", 
+            "Score": 0.9985153675079346, 
+            "BeginOffset": 2158, 
+            "EndOffset": 2167
+        }, 
+        {
+            "Text": "certain headers", 
+            "Score": 0.9973359704017639, 
+            "BeginOffset": 2177, 
+            "EndOffset": 2192
+        }, 
+        {
+            "Text": "better debugging", 
+            "Score": 0.9490699172019958, 
+            "BeginOffset": 2197, 
+            "EndOffset": 2213
+        }, 
+        {
+            "Text": "use cases", 
+            "Score": 0.9980275630950928, 
+            "BeginOffset": 2245, 
+            "EndOffset": 2254
+        }, 
+        {
+            "Text": "your own situation or application", 
+            "Score": 0.9957672953605652, 
+            "BeginOffset": 2259, 
+            "EndOffset": 2292
+        }, 
+        {
+            "Text": "NEW AMAZON ECHO\n\n\nAmazon", 
+            "Score": 0.8850400447845459, 
+            "BeginOffset": 2297, 
+            "EndOffset": 2321
+        }, 
+        {
+            "Text": "several new models", 
+            "Score": 0.9874879121780396, 
+            "BeginOffset": 2332, 
+            "EndOffset": 2350
+        }, 
+        {
+            "Text": "their Echo line", 
+            "Score": 0.9991766810417175, 
+            "BeginOffset": 2354, 
+            "EndOffset": 2369
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9972665905952454, 
+            "BeginOffset": 2371, 
+            "EndOffset": 2380
+        }, 
+        {
+            "Text": "a new version", 
+            "Score": 0.9976197481155396, 
+            "BeginOffset": 2391, 
+            "EndOffset": 2404
+        }, 
+        {
+            "Text": "the regular Echo", 
+            "Score": 0.9981676936149597, 
+            "BeginOffset": 2408, 
+            "EndOffset": 2424
+        }, 
+        {
+            "Text": "more luxury Plus", 
+            "Score": 0.9826214909553528, 
+            "BeginOffset": 2436, 
+            "EndOffset": 2452
+        }, 
+        {
+            "Text": "Spot versions", 
+            "Score": 0.9360066652297974, 
+            "BeginOffset": 2457, 
+            "EndOffset": 2470
+        }, 
+        {
+            "Text": "A couple", 
+            "Score": 0.9740445613861084, 
+            "BeginOffset": 2473, 
+            "EndOffset": 2481
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.998447835445404, 
+            "BeginOffset": 2485, 
+            "EndOffset": 2491
+        }, 
+        {
+            "Text": "the Google Home", 
+            "Score": 0.9877474308013916, 
+            "BeginOffset": 2536, 
+            "EndOffset": 2551
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9917729496955872, 
+            "BeginOffset": 2565, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "more different cases", 
+            "Score": 0.8675960898399353, 
+            "BeginOffset": 2571, 
+            "EndOffset": 2591
+        }, 
+        {
+            "Text": "your house", 
+            "Score": 0.9531373977661133, 
+            "BeginOffset": 2607, 
+            "EndOffset": 2617
+        }, 
+        {
+            "Text": "the sound", 
+            "Score": 0.9983127117156982, 
+            "BeginOffset": 2641, 
+            "EndOffset": 2650
+        }, 
+        {
+            "Text": "the price", 
+            "Score": 0.999162495136261, 
+            "BeginOffset": 2660, 
+            "EndOffset": 2669
+        }, 
+        {
+            "Text": "the Plus model", 
+            "Score": 0.9949831366539001, 
+            "BeginOffset": 2675, 
+            "EndOffset": 2689
+        }, 
+        {
+            "Text": "a built-in smart hub", 
+            "Score": 0.9956594705581665, 
+            "BeginOffset": 2701, 
+            "EndOffset": 2721
+        }, 
+        {
+            "Text": "your Philips Hue Hub[3]", 
+            "Score": 0.9894416928291321, 
+            "BeginOffset": 2763, 
+            "EndOffset": 2786
+        }, 
+        {
+            "Text": "one less device", 
+            "Score": 0.9281997680664062, 
+            "BeginOffset": 2802, 
+            "EndOffset": 2817
+        }, 
+        {
+            "Text": "your home automation", 
+            "Score": 0.9608160257339478, 
+            "BeginOffset": 2822, 
+            "EndOffset": 2842
+        }, 
+        {
+            "Text": "The Spot", 
+            "Score": 0.9982476830482483, 
+            "BeginOffset": 2845, 
+            "EndOffset": 2853
+        }, 
+        {
+            "Text": "another attempt", 
+            "Score": 0.9966553449630737, 
+            "BeginOffset": 2865, 
+            "EndOffset": 2880
+        }, 
+        {
+            "Text": "a screen", 
+            "Score": 0.9137946367263794, 
+            "BeginOffset": 2888, 
+            "EndOffset": 2896
+        }, 
+        {
+            "Text": "the Echo", 
+            "Score": 0.998526394367218, 
+            "BeginOffset": 2900, 
+            "EndOffset": 2908
+        }, 
+        {
+            "Text": "a smaller and better", 
+            "Score": 0.997643232345581, 
+            "BeginOffset": 2917, 
+            "EndOffset": 2937
+        }, 
+        {
+            "Text": "its main selling point", 
+            "Score": 0.997554361820221, 
+            "BeginOffset": 2972, 
+            "EndOffset": 2994
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9972370862960815, 
+            "BeginOffset": 3000, 
+            "EndOffset": 3006
+        }, 
+        {
+            "Text": "YouTube", 
+            "Score": 0.9977850317955017, 
+            "BeginOffset": 3014, 
+            "EndOffset": 3021
+        }, 
+        {
+            "Text": "the Echo Show", 
+            "Score": 0.9928306937217712, 
+            "BeginOffset": 3027, 
+            "EndOffset": 3040
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9882082939147949, 
+            "BeginOffset": 3043, 
+            "EndOffset": 3045
+        }, 
+        {
+            "Text": "the third feature request", 
+            "Score": 0.8459582328796387, 
+            "BeginOffset": 3062, 
+            "EndOffset": 3087
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.9991103410720825, 
+            "BeginOffset": 3102, 
+            "EndOffset": 3111
+        }, 
+        {
+            "Text": "the week", 
+            "Score": 0.9694285988807678, 
+            "BeginOffset": 3112, 
+            "EndOffset": 3120
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9855753779411316, 
+            "BeginOffset": 3143, 
+            "EndOffset": 3146
+        }, 
+        {
+            "Text": "Cloudflare", 
+            "Score": 0.9990663528442383, 
+            "BeginOffset": 3160, 
+            "EndOffset": 3170
+        }, 
+        {
+            "Text": "[3", 
+            "Score": 0.7268305420875549, 
+            "BeginOffset": 3182, 
+            "EndOffset": 3184
+        }, 
+        {
+            "Text": "The square white thing", 
+            "Score": 0.9304812550544739, 
+            "BeginOffset": 3186, 
+            "EndOffset": 3208
+        }, 
+        {
+            "Text": "the starter pack", 
+            "Score": 0.8319187164306641, 
+            "BeginOffset": 3212, 
+            "EndOffset": 3228
+        }, 
+        {
+            "Text": "your lightbulbs", 
+            "Score": 0.9925326108932495, 
+            "BeginOffset": 3257, 
+            "EndOffset": 3272
+        }
+    ]
+}

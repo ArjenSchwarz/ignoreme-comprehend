@@ -1,0 +1,221 @@
+{
+    "Entities": [
+        {
+            "Text": "two weeks", 
+            "Score": 0.9449313282966614, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 143, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.6323463320732117, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 351, 
+            "EndOffset": 356
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.8845738172531128, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 363, 
+            "EndOffset": 369
+        }, 
+        {
+            "Text": "OCI", 
+            "Score": 0.4748610854148865, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 383, 
+            "EndOffset": 386
+        }, 
+        {
+            "Text": "OCI", 
+            "Score": 0.6945465207099915, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 416, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.5313149094581604, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 501, 
+            "EndOffset": 505
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9854571223258972, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 541, 
+            "EndOffset": 547
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.5203232169151306, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 663, 
+            "EndOffset": 669
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9802879095077515, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 773, 
+            "EndOffset": 779
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.7095152139663696, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 893, 
+            "EndOffset": 900
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9999958276748657, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1023, 
+            "EndOffset": 1029
+        }, 
+        {
+            "Text": "OCI", 
+            "Score": 0.9999781847000122, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1255, 
+            "EndOffset": 1258
+        }, 
+        {
+            "Text": "2 weeks", 
+            "Score": 0.6753567457199097, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1266, 
+            "EndOffset": 1273
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9701064825057983, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1280, 
+            "EndOffset": 1286
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9952604174613953, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1316, 
+            "EndOffset": 1320
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.7542005181312561, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1521, 
+            "EndOffset": 1524
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9965204000473022, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1558, 
+            "EndOffset": 1564
+        }, 
+        {
+            "Text": "CNCF", 
+            "Score": 0.999990701675415, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1603, 
+            "EndOffset": 1607
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.815930187702179, 
+            "Type": "OTHER", 
+            "BeginOffset": 1624, 
+            "EndOffset": 1627
+        }, 
+        {
+            "Text": "2 alpha releases", 
+            "Score": 0.8762165904045105, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1667, 
+            "EndOffset": 1683
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9971649050712585, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1763, 
+            "EndOffset": 1769
+        }, 
+        {
+            "Text": "September", 
+            "Score": 0.9999195337295532, 
+            "Type": "DATE", 
+            "BeginOffset": 1792, 
+            "EndOffset": 1801
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.5318490862846375, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2228, 
+            "EndOffset": 2231
+        }, 
+        {
+            "Text": "version 2.0", 
+            "Score": 0.9999822974205017, 
+            "Type": "OTHER", 
+            "BeginOffset": 2679, 
+            "EndOffset": 2690
+        }, 
+        {
+            "Text": "1.x releases", 
+            "Score": 0.9999954700469971, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2763, 
+            "EndOffset": 2775
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.9999781250953674, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2819, 
+            "EndOffset": 2822
+        }, 
+        {
+            "Text": "Tim Berners-Lee", 
+            "Score": 0.9999992251396179, 
+            "Type": "PERSON", 
+            "BeginOffset": 3505, 
+            "EndOffset": 3520
+        }, 
+        {
+            "Text": "EFF", 
+            "Score": 0.9676497578620911, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3701, 
+            "EndOffset": 3704
+        }, 
+        {
+            "Text": "EFF", 
+            "Score": 0.9999231100082397, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4249, 
+            "EndOffset": 4252
+        }, 
+        {
+            "Text": "OCI", 
+            "Score": 0.9999861717224121, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4473, 
+            "EndOffset": 4476
+        }, 
+        {
+            "Text": "RunC", 
+            "Score": 0.9997126460075378, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4519, 
+            "EndOffset": 4523
+        }
+    ]
+}

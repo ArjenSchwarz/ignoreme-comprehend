@@ -1,0 +1,326 @@
+{
+    "Entities": [
+        {
+            "Text": "2017", 
+            "Score": 0.999711811542511, 
+            "Type": "DATE", 
+            "BeginOffset": 29, 
+            "EndOffset": 33
+        }, 
+        {
+            "Text": "2018", 
+            "Score": 0.9981168508529663, 
+            "Type": "DATE", 
+            "BeginOffset": 74, 
+            "EndOffset": 78
+        }, 
+        {
+            "Text": "2017", 
+            "Score": 0.6425695419311523, 
+            "Type": "DATE", 
+            "BeginOffset": 99, 
+            "EndOffset": 103
+        }, 
+        {
+            "Text": "Last year", 
+            "Score": 0.9885578751564026, 
+            "Type": "DATE", 
+            "BeginOffset": 106, 
+            "EndOffset": 115
+        }, 
+        {
+            "Text": "first weekly note", 
+            "Score": 0.6428797245025635, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 127, 
+            "EndOffset": 144
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.43289586901664734, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 222, 
+            "EndOffset": 227
+        }, 
+        {
+            "Text": "January", 
+            "Score": 0.9941231608390808, 
+            "Type": "DATE", 
+            "BeginOffset": 231, 
+            "EndOffset": 238
+        }, 
+        {
+            "Text": "Christmas", 
+            "Score": 0.9161238670349121, 
+            "Type": "EVENT", 
+            "BeginOffset": 298, 
+            "EndOffset": 307
+        }, 
+        {
+            "Text": "49 articles", 
+            "Score": 0.995451033115387, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 377, 
+            "EndOffset": 388
+        }, 
+        {
+            "Text": "41", 
+            "Score": 0.5499996542930603, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 390, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "double", 
+            "Score": 0.6667233109474182, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 495, 
+            "EndOffset": 501
+        }, 
+        {
+            "Text": "end of August", 
+            "Score": 0.9280001521110535, 
+            "Type": "DATE", 
+            "BeginOffset": 581, 
+            "EndOffset": 594
+        }, 
+        {
+            "Text": "about 600 characters", 
+            "Score": 0.9330293536186218, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 644, 
+            "EndOffset": 664
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.6685047745704651, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 875, 
+            "EndOffset": 879
+        }, 
+        {
+            "Text": "September Apple", 
+            "Score": 0.8066665530204773, 
+            "Type": "EVENT", 
+            "BeginOffset": 884, 
+            "EndOffset": 899
+        }, 
+        {
+            "Text": "re:Invent", 
+            "Score": 0.9616261720657349, 
+            "Type": "EVENT", 
+            "BeginOffset": 914, 
+            "EndOffset": 923
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9998490214347839, 
+            "Type": "DATE", 
+            "BeginOffset": 970, 
+            "EndOffset": 979
+        }, 
+        {
+            "Text": "first half", 
+            "Score": 0.9994455575942993, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1003, 
+            "EndOffset": 1013
+        }, 
+        {
+            "Text": "Golang Melbourne meetup", 
+            "Score": 0.7522979974746704, 
+            "Type": "EVENT", 
+            "BeginOffset": 1099, 
+            "EndOffset": 1122
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9945020079612732, 
+            "Type": "DATE", 
+            "BeginOffset": 1239, 
+            "EndOffset": 1248
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1295, 
+            "EndOffset": 1301
+        }, 
+        {
+            "Text": "50", 
+            "Score": 0.6394627690315247, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1334, 
+            "EndOffset": 1336
+        }, 
+        {
+            "Text": "60%", 
+            "Score": 0.8357617259025574, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1337, 
+            "EndOffset": 1340
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9994078278541565, 
+            "Type": "DATE", 
+            "BeginOffset": 1713, 
+            "EndOffset": 1722
+        }, 
+        {
+            "Text": "First Babysteps", 
+            "Score": 0.9998798370361328, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1766, 
+            "EndOffset": 1781
+        }, 
+        {
+            "Text": "EBS", 
+            "Score": 0.9996343851089478, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1832, 
+            "EndOffset": 1835
+        }, 
+        {
+            "Text": "Two", 
+            "Score": 0.9988248944282532, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1854, 
+            "EndOffset": 1857
+        }, 
+        {
+            "Text": "2016", 
+            "Score": 0.9999761581420898, 
+            "Type": "DATE", 
+            "BeginOffset": 1861, 
+            "EndOffset": 1865
+        }, 
+        {
+            "Text": "top 5", 
+            "Score": 0.9999933242797852, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1893, 
+            "EndOffset": 1898
+        }, 
+        {
+            "Text": "Bitbucket Pipelines", 
+            "Score": 0.714914083480835, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1900, 
+            "EndOffset": 1919
+        }, 
+        {
+            "Text": "First Look", 
+            "Score": 0.7945813536643982, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1923, 
+            "EndOffset": 1933
+        }, 
+        {
+            "Text": "2018", 
+            "Score": 0.9999986886978149, 
+            "Type": "DATE", 
+            "BeginOffset": 2098, 
+            "EndOffset": 2102
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9999846816062927, 
+            "Type": "DATE", 
+            "BeginOffset": 2157, 
+            "EndOffset": 2166
+        }, 
+        {
+            "Text": "1 per week", 
+            "Score": 0.995120108127594, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2241, 
+            "EndOffset": 2251
+        }, 
+        {
+            "Text": "about 3 per week", 
+            "Score": 0.9380801916122437, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2255, 
+            "EndOffset": 2271
+        }, 
+        {
+            "Text": "later this week", 
+            "Score": 0.9999967217445374, 
+            "Type": "DATE", 
+            "BeginOffset": 2411, 
+            "EndOffset": 2426
+        }, 
+        {
+            "Text": "Monday", 
+            "Score": 0.6998872756958008, 
+            "Type": "DATE", 
+            "BeginOffset": 2511, 
+            "EndOffset": 2517
+        }, 
+        {
+            "Text": "Wednesday", 
+            "Score": 0.9756990671157837, 
+            "Type": "DATE", 
+            "BeginOffset": 2519, 
+            "EndOffset": 2528
+        }, 
+        {
+            "Text": "Friday", 
+            "Score": 0.9999301433563232, 
+            "Type": "DATE", 
+            "BeginOffset": 2534, 
+            "EndOffset": 2540
+        }, 
+        {
+            "Text": "third option", 
+            "Score": 0.9999934434890747, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2617, 
+            "EndOffset": 2629
+        }, 
+        {
+            "Text": "Twitter", 
+            "Score": 0.9999581575393677, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2661, 
+            "EndOffset": 2668
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9999986886978149, 
+            "Type": "DATE", 
+            "BeginOffset": 2748, 
+            "EndOffset": 2757
+        }, 
+        {
+            "Text": "2018", 
+            "Score": 0.9999215602874756, 
+            "Type": "DATE", 
+            "BeginOffset": 2796, 
+            "EndOffset": 2800
+        }, 
+        {
+            "Text": "first of January", 
+            "Score": 0.9999997615814209, 
+            "Type": "DATE", 
+            "BeginOffset": 2847, 
+            "EndOffset": 2863
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9999924898147583, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2916, 
+            "EndOffset": 2920
+        }, 
+        {
+            "Text": "iPhone X", 
+            "Score": 0.9999935030937195, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2953, 
+            "EndOffset": 2961
+        }
+    ]
+}

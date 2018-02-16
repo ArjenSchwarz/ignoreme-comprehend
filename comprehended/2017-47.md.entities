@@ -1,0 +1,242 @@
+{
+    "Entities": [
+        {
+            "Text": "Mozilla", 
+            "Score": 0.8930712938308716, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 7
+        }, 
+        {
+            "Text": "Firefox Quantum", 
+            "Score": 0.7728945016860962, 
+            "Type": "TITLE", 
+            "BeginOffset": 17, 
+            "EndOffset": 32
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.7571110725402832, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 39, 
+            "EndOffset": 43
+        }, 
+        {
+            "Text": "Visual Studio Code", 
+            "Score": 0.9019659161567688, 
+            "Type": "TITLE", 
+            "BeginOffset": 44, 
+            "EndOffset": 62
+        }, 
+        {
+            "Text": "Atom", 
+            "Score": 0.8406139612197876, 
+            "Type": "TITLE", 
+            "BeginOffset": 67, 
+            "EndOffset": 71
+        }, 
+        {
+            "Text": "FIREFOX", 
+            "Score": 0.8523622751235962, 
+            "Type": "TITLE", 
+            "BeginOffset": 110, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "Mozilla", 
+            "Score": 0.785511314868927, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 128, 
+            "EndOffset": 135
+        }, 
+        {
+            "Text": "Firefox", 
+            "Score": 0.9917148947715759, 
+            "Type": "TITLE", 
+            "BeginOffset": 166, 
+            "EndOffset": 173
+        }, 
+        {
+            "Text": "Firefox Quantum", 
+            "Score": 0.8211134672164917, 
+            "Type": "TITLE", 
+            "BeginOffset": 231, 
+            "EndOffset": 246
+        }, 
+        {
+            "Text": "Opera", 
+            "Score": 0.8285815715789795, 
+            "Type": "TITLE", 
+            "BeginOffset": 284, 
+            "EndOffset": 289
+        }, 
+        {
+            "Text": "over 30%", 
+            "Score": 0.8302744626998901, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 295, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "2009", 
+            "Score": 0.9948974251747131, 
+            "Type": "DATE", 
+            "BeginOffset": 327, 
+            "EndOffset": 331
+        }, 
+        {
+            "Text": "less than 10%", 
+            "Score": 0.9794734120368958, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 347, 
+            "EndOffset": 360
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9966359734535217, 
+            "Type": "TITLE", 
+            "BeginOffset": 386, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9983752965927124, 
+            "Type": "TITLE", 
+            "BeginOffset": 448, 
+            "EndOffset": 454
+        }, 
+        {
+            "Text": "Firefox", 
+            "Score": 0.9579645395278931, 
+            "Type": "TITLE", 
+            "BeginOffset": 569, 
+            "EndOffset": 576
+        }, 
+        {
+            "Text": "years ago", 
+            "Score": 0.8129547834396362, 
+            "Type": "DATE", 
+            "BeginOffset": 577, 
+            "EndOffset": 586
+        }, 
+        {
+            "Text": "twice", 
+            "Score": 0.8984172344207764, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 784, 
+            "EndOffset": 789
+        }, 
+        {
+            "Text": "30%", 
+            "Score": 0.9099354147911072, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 812, 
+            "EndOffset": 815
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9978464841842651, 
+            "Type": "TITLE", 
+            "BeginOffset": 833, 
+            "EndOffset": 839
+        }, 
+        {
+            "Text": "Safari", 
+            "Score": 0.9994756579399109, 
+            "Type": "TITLE", 
+            "BeginOffset": 1294, 
+            "EndOffset": 1300
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.8887380361557007, 
+            "Type": "TITLE", 
+            "BeginOffset": 1305, 
+            "EndOffset": 1311
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9998180270195007, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1367, 
+            "EndOffset": 1371
+        }, 
+        {
+            "Text": "both editors", 
+            "Score": 0.9999002814292908, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1650, 
+            "EndOffset": 1662
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.999997615814209, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1719, 
+            "EndOffset": 1723
+        }, 
+        {
+            "Text": "Visual Studio Live Share", 
+            "Score": 0.9990352988243103, 
+            "Type": "TITLE", 
+            "BeginOffset": 1863, 
+            "EndOffset": 1887
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999816417694092, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2018, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "Visual Studio", 
+            "Score": 0.9999752044677734, 
+            "Type": "TITLE", 
+            "BeginOffset": 2023, 
+            "EndOffset": 2036
+        }, 
+        {
+            "Text": "Visual Studio Code", 
+            "Score": 0.8100224733352661, 
+            "Type": "TITLE", 
+            "BeginOffset": 2041, 
+            "EndOffset": 2059
+        }, 
+        {
+            "Text": "Teletype", 
+            "Score": 0.9999982118606567, 
+            "Type": "TITLE", 
+            "BeginOffset": 2153, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "US", 
+            "Score": 0.9999487400054932, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2237, 
+            "EndOffset": 2239
+        }, 
+        {
+            "Text": "both editors", 
+            "Score": 0.9999926090240479, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2386, 
+            "EndOffset": 2398
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999943971633911, 
+            "Type": "TITLE", 
+            "BeginOffset": 2568, 
+            "EndOffset": 2573
+        }, 
+        {
+            "Text": "US", 
+            "Score": 0.9999397993087769, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3068, 
+            "EndOffset": 3070
+        }
+    ]
+}

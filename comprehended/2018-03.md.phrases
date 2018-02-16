@@ -1,0 +1,520 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Google Pay", 
+            "Score": 0.9924025535583496, 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9906920194625854, 
+            "BeginOffset": 14, 
+            "EndOffset": 20
+        }, 
+        {
+            "Text": "new payment solution", 
+            "Score": 0.9946903586387634, 
+            "BeginOffset": 23, 
+            "EndOffset": 43
+        }, 
+        {
+            "Text": "an initial X-Ray SDK", 
+            "Score": 0.9959052801132202, 
+            "BeginOffset": 53, 
+            "EndOffset": 73
+        }, 
+        {
+            "Text": "Ruby and Kubernetes", 
+            "Score": 0.9883663654327393, 
+            "BeginOffset": 78, 
+            "EndOffset": 97
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9961490035057068, 
+            "BeginOffset": 114, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.9886452555656433, 
+            "BeginOffset": 125, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "GOOGLE PAY\n\n\nGoogle", 
+            "Score": 0.9827992916107178, 
+            "BeginOffset": 133, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "Android Pay", 
+            "Score": 0.9866839051246643, 
+            "BeginOffset": 166, 
+            "EndOffset": 177
+        }, 
+        {
+            "Text": "the mobile phone", 
+            "Score": 0.9977254271507263, 
+            "BeginOffset": 185, 
+            "EndOffset": 201
+        }, 
+        {
+            "Text": "Google Pay", 
+            "Score": 0.9810912609100342, 
+            "BeginOffset": 220, 
+            "EndOffset": 230
+        }, 
+        {
+            "Text": "Apple Pay", 
+            "Score": 0.989591121673584, 
+            "BeginOffset": 283, 
+            "EndOffset": 292
+        }, 
+        {
+            "Text": "a potential one stop payment solution", 
+            "Score": 0.9142258167266846, 
+            "BeginOffset": 296, 
+            "EndOffset": 333
+        }, 
+        {
+            "Text": "stores", 
+            "Score": 0.9583008885383606, 
+            "BeginOffset": 354, 
+            "EndOffset": 360
+        }, 
+        {
+            "Text": "apps", 
+            "Score": 0.8717597723007202, 
+            "BeginOffset": 362, 
+            "EndOffset": 366
+        }, 
+        {
+            "Text": "the web", 
+            "Score": 0.9978914856910706, 
+            "BeginOffset": 371, 
+            "EndOffset": 378
+        }, 
+        {
+            "Text": "friends", 
+            "Score": 0.9099128842353821, 
+            "BeginOffset": 396, 
+            "EndOffset": 403
+        }, 
+        {
+            "Text": "this last one", 
+            "Score": 0.9383965730667114, 
+            "BeginOffset": 429, 
+            "EndOffset": 442
+        }, 
+        {
+            "Text": "Apple Pay", 
+            "Score": 0.9971053004264832, 
+            "BeginOffset": 458, 
+            "EndOffset": 467
+        }, 
+        {
+            "Text": "US-only land", 
+            "Score": 0.9639583230018616, 
+            "BeginOffset": 486, 
+            "EndOffset": 498
+        }, 
+        {
+            "Text": "private payments", 
+            "Score": 0.9982881546020508, 
+            "BeginOffset": 503, 
+            "EndOffset": 519
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9615849852561951, 
+            "BeginOffset": 526, 
+            "EndOffset": 532
+        }, 
+        {
+            "Text": "an important differentiator", 
+            "Score": 0.9982590079307556, 
+            "BeginOffset": 558, 
+            "EndOffset": 585
+        }, 
+        {
+            "Text": "the same", 
+            "Score": 0.9973730444908142, 
+            "BeginOffset": 591, 
+            "EndOffset": 599
+        }, 
+        {
+            "Text": "availability", 
+            "Score": 0.9930176138877869, 
+            "BeginOffset": 609, 
+            "EndOffset": 621
+        }, 
+        {
+            "Text": "different countries", 
+            "Score": 0.9996808767318726, 
+            "BeginOffset": 625, 
+            "EndOffset": 644
+        }, 
+        {
+            "Text": "the base functionality", 
+            "Score": 0.9572217464447021, 
+            "BeginOffset": 649, 
+            "EndOffset": 671
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9942342638969421, 
+            "BeginOffset": 698, 
+            "EndOffset": 704
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9961219429969788, 
+            "BeginOffset": 710, 
+            "EndOffset": 714
+        }, 
+        {
+            "Text": "deals and agreements", 
+            "Score": 0.9848020672798157, 
+            "BeginOffset": 720, 
+            "EndOffset": 740
+        }, 
+        {
+            "Text": "banks", 
+            "Score": 0.9987125396728516, 
+            "BeginOffset": 762, 
+            "EndOffset": 767
+        }, 
+        {
+            "Text": "useful things", 
+            "Score": 0.9957586526870728, 
+            "BeginOffset": 802, 
+            "EndOffset": 815
+        }, 
+        {
+            "Text": "yet[1]", 
+            "Score": 0.8694137334823608, 
+            "BeginOffset": 845, 
+            "EndOffset": 851
+        }, 
+        {
+            "Text": "any implementation details", 
+            "Score": 0.9912859201431274, 
+            "BeginOffset": 869, 
+            "EndOffset": 895
+        }, 
+        {
+            "Text": "Apple Pay", 
+            "Score": 0.9960740804672241, 
+            "BeginOffset": 934, 
+            "EndOffset": 943
+        }, 
+        {
+            "Text": "privacy", 
+            "Score": 0.9973540902137756, 
+            "BeginOffset": 960, 
+            "EndOffset": 967
+        }, 
+        {
+            "Text": "other words", 
+            "Score": 0.9894974827766418, 
+            "BeginOffset": 977, 
+            "EndOffset": 988
+        }, 
+        {
+            "Text": "sites", 
+            "Score": 0.9977356791496277, 
+            "BeginOffset": 995, 
+            "EndOffset": 1000
+        }, 
+        {
+            "Text": "your credit card details", 
+            "Score": 0.9801363348960876, 
+            "BeginOffset": 1056, 
+            "EndOffset": 1080
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.961091160774231, 
+            "BeginOffset": 1093, 
+            "EndOffset": 1098
+        }, 
+        {
+            "Text": "AWS X-RAY", 
+            "Score": 0.9749265909194946, 
+            "BeginOffset": 1109, 
+            "EndOffset": 1118
+        }, 
+        {
+            "Text": "RUBY\n\n\nA developer preview", 
+            "Score": 0.939182460308075, 
+            "BeginOffset": 1123, 
+            "EndOffset": 1149
+        }, 
+        {
+            "Text": "the AWS X-Ray SDK", 
+            "Score": 0.9334784746170044, 
+            "BeginOffset": 1154, 
+            "EndOffset": 1171
+        }, 
+        {
+            "Text": "Ruby", 
+            "Score": 0.9974417090415955, 
+            "BeginOffset": 1176, 
+            "EndOffset": 1180
+        }, 
+        {
+            "Text": "that Ruby", 
+            "Score": 0.8977582454681396, 
+            "BeginOffset": 1201, 
+            "EndOffset": 1210
+        }, 
+        {
+            "Text": "Rails", 
+            "Score": 0.9398752450942993, 
+            "BeginOffset": 1214, 
+            "EndOffset": 1219
+        }, 
+        {
+            "Text": "a big platform", 
+            "Score": 0.9965291023254395, 
+            "BeginOffset": 1229, 
+            "EndOffset": 1243
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9829812049865723, 
+            "BeginOffset": 1274, 
+            "EndOffset": 1279
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9996383786201477, 
+            "BeginOffset": 1283, 
+            "EndOffset": 1289
+        }, 
+        {
+            "Text": "their live environment", 
+            "Score": 0.9326622486114502, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1331
+        }, 
+        {
+            "Text": "no Ruby support", 
+            "Score": 0.9901960492134094, 
+            "BeginOffset": 1345, 
+            "EndOffset": 1360
+        }, 
+        {
+            "Text": "Lambda[2]", 
+            "Score": 0.8973321914672852, 
+            "BeginOffset": 1378, 
+            "EndOffset": 1387
+        }, 
+        {
+            "Text": "applications", 
+            "Score": 0.8846445679664612, 
+            "BeginOffset": 1412, 
+            "EndOffset": 1424
+        }, 
+        {
+            "Text": "EC2 or containers", 
+            "Score": 0.9128057956695557, 
+            "BeginOffset": 1436, 
+            "EndOffset": 1453
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9944741129875183, 
+            "BeginOffset": 1470, 
+            "EndOffset": 1475
+        }, 
+        {
+            "Text": "applications", 
+            "Score": 0.9995916485786438, 
+            "BeginOffset": 1479, 
+            "EndOffset": 1491
+        }, 
+        {
+            "Text": "a stack", 
+            "Score": 0.9592910408973694, 
+            "BeginOffset": 1521, 
+            "EndOffset": 1528
+        }, 
+        {
+            "Text": "KUBERNETES", 
+            "Score": 0.9875444173812866, 
+            "BeginOffset": 1570, 
+            "EndOffset": 1580
+        }, 
+        {
+            "Text": "DOCKER\n\n\nDocker", 
+            "Score": 0.90242600440979, 
+            "BeginOffset": 1584, 
+            "EndOffset": 1599
+        }, 
+        {
+            "Text": "the best time", 
+            "Score": 0.9947293996810913, 
+            "BeginOffset": 1613, 
+            "EndOffset": 1626
+        }, 
+        {
+            "Text": "the public beta", 
+            "Score": 0.9939790368080139, 
+            "BeginOffset": 1637, 
+            "EndOffset": 1652
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9949612617492676, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1667
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.994099497795105, 
+            "BeginOffset": 1671, 
+            "EndOffset": 1677
+        }, 
+        {
+            "Text": "Mac[3]", 
+            "Score": 0.9429927468299866, 
+            "BeginOffset": 1682, 
+            "EndOffset": 1688
+        }, 
+        {
+            "Text": "the day", 
+            "Score": 0.9817652106285095, 
+            "BeginOffset": 1693, 
+            "EndOffset": 1700
+        }, 
+        {
+            "Text": "holiday", 
+            "Score": 0.9961490631103516, 
+            "BeginOffset": 1718, 
+            "EndOffset": 1725
+        }, 
+        {
+            "Text": "my Mac", 
+            "Score": 0.9983152151107788, 
+            "BeginOffset": 1744, 
+            "EndOffset": 1750
+        }, 
+        {
+            "Text": "holidays", 
+            "Score": 0.9992740154266357, 
+            "BeginOffset": 1754, 
+            "EndOffset": 1762
+        }, 
+        {
+            "Text": "my experience", 
+            "Score": 0.995969295501709, 
+            "BeginOffset": 1775, 
+            "EndOffset": 1788
+        }, 
+        {
+            "Text": "this feature", 
+            "Score": 0.9940738677978516, 
+            "BeginOffset": 1794, 
+            "EndOffset": 1806
+        }, 
+        {
+            "Text": "the checkbox", 
+            "Score": 0.9564475417137146, 
+            "BeginOffset": 1830, 
+            "EndOffset": 1842
+        }, 
+        {
+            "Text": "this excellent writeup", 
+            "Score": 0.9997053742408752, 
+            "BeginOffset": 1964, 
+            "EndOffset": 1986
+        }, 
+        {
+            "Text": "Docker Captain Alex Ellis", 
+            "Score": 0.998350977897644, 
+            "BeginOffset": 1990, 
+            "EndOffset": 2015
+        }, 
+        {
+            "Text": "other articles", 
+            "Score": 0.992271900177002, 
+            "BeginOffset": 2036, 
+            "EndOffset": 2050
+        }, 
+        {
+            "Text": "the experience", 
+            "Score": 0.9947049617767334, 
+            "BeginOffset": 2052, 
+            "EndOffset": 2066
+        }, 
+        {
+            "Text": "the best thing", 
+            "Score": 0.9918044805526733, 
+            "BeginOffset": 2117, 
+            "EndOffset": 2131
+        }, 
+        {
+            "Text": "the Docker Edge release", 
+            "Score": 0.9989931583404541, 
+            "BeginOffset": 2154, 
+            "EndOffset": 2177
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9873299598693848, 
+            "BeginOffset": 2204, 
+            "EndOffset": 2207
+        }, 
+        {
+            "Text": "Apple and Android Pay", 
+            "Score": 0.9590687155723572, 
+            "BeginOffset": 2265, 
+            "EndOffset": 2286
+        }, 
+        {
+            "Text": "every store", 
+            "Score": 0.9778181314468384, 
+            "BeginOffset": 2304, 
+            "EndOffset": 2315
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.8897735476493835, 
+            "BeginOffset": 2339, 
+            "EndOffset": 2342
+        }, 
+        {
+            "Text": "my promised Go support", 
+            "Score": 0.9418991208076477, 
+            "BeginOffset": 2369, 
+            "EndOffset": 2391
+        }, 
+        {
+            "Text": "Ruby", 
+            "Score": 0.9553708434104919, 
+            "BeginOffset": 2395, 
+            "EndOffset": 2399
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.8379513025283813, 
+            "BeginOffset": 2438, 
+            "EndOffset": 2441
+        }, 
+        {
+            "Text": "a Windows user", 
+            "Score": 0.8802945017814636, 
+            "BeginOffset": 2452, 
+            "EndOffset": 2466
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9983361959457397, 
+            "BeginOffset": 2487, 
+            "EndOffset": 2492
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "Entities": [
+        {
+            "Text": "Google Cloud Platform", 
+            "Score": 0.6378511190414429, 
+            "Type": "TITLE", 
+            "BeginOffset": 0, 
+            "EndOffset": 21
+        }, 
+        {
+            "Text": "Asia Pacific", 
+            "Score": 0.8724780082702637, 
+            "Type": "LOCATION", 
+            "BeginOffset": 43, 
+            "EndOffset": 55
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.6231448650360107, 
+            "Type": "TITLE", 
+            "BeginOffset": 70, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "Last year", 
+            "Score": 0.9919639825820923, 
+            "Type": "DATE", 
+            "BeginOffset": 111, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "3 best known cloud providers", 
+            "Score": 0.9233181476593018, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 177, 
+            "EndOffset": 205
+        }, 
+        {
+            "Text": "Google Cloud Platform", 
+            "Score": 0.9450644254684448, 
+            "Type": "TITLE", 
+            "BeginOffset": 238, 
+            "EndOffset": 259
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.28732043504714966, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 261, 
+            "EndOffset": 264
+        }, 
+        {
+            "Text": "past 2 weeks", 
+            "Score": 0.8532423377037048, 
+            "Type": "DATE", 
+            "BeginOffset": 408, 
+            "EndOffset": 420
+        }, 
+        {
+            "Text": "2 new regions", 
+            "Score": 0.9312743544578552, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 442, 
+            "EndOffset": 455
+        }, 
+        {
+            "Text": "first one", 
+            "Score": 0.9110687375068665, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 462, 
+            "EndOffset": 471
+        }, 
+        {
+            "Text": "14th of June", 
+            "Score": 0.9965768456459045, 
+            "Type": "DATE", 
+            "BeginOffset": 487, 
+            "EndOffset": 499
+        }, 
+        {
+            "Text": "Singapore", 
+            "Score": 0.5384273529052734, 
+            "Type": "LOCATION", 
+            "BeginOffset": 505, 
+            "EndOffset": 514
+        }, 
+        {
+            "Text": "20th", 
+            "Score": 0.8577439188957214, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 580, 
+            "EndOffset": 584
+        }, 
+        {
+            "Text": "Sydney", 
+            "Score": 0.9977527260780334, 
+            "Type": "LOCATION", 
+            "BeginOffset": 588, 
+            "EndOffset": 594
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.5825481414794922, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 735, 
+            "EndOffset": 738
+        }, 
+        {
+            "Text": "April", 
+            "Score": 0.9993329644203186, 
+            "Type": "DATE", 
+            "BeginOffset": 772, 
+            "EndOffset": 777
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.639275074005127, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 931, 
+            "EndOffset": 934
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.9999332427978516, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1150, 
+            "EndOffset": 1153
+        }, 
+        {
+            "Text": "Sydney", 
+            "Score": 0.9999539852142334, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1186, 
+            "EndOffset": 1192
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999916553497314, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1214, 
+            "EndOffset": 1220
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9999397993087769, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1351, 
+            "EndOffset": 1354
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9987779259681702, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1403, 
+            "EndOffset": 1409
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9997283816337585, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1504, 
+            "EndOffset": 1507
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1609, 
+            "EndOffset": 1612
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9923502802848816, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1657, 
+            "EndOffset": 1663
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.999962568283081, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1724, 
+            "EndOffset": 1730
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 1.0, 
+            "Type": "PERSON", 
+            "BeginOffset": 1935, 
+            "EndOffset": 1941
+        }, 
+        {
+            "Text": "Katacoda", 
+            "Score": 0.4797690808773041, 
+            "Type": "PERSON", 
+            "BeginOffset": 2023, 
+            "EndOffset": 2031
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9997751116752625, 
+            "Type": "PERSON", 
+            "BeginOffset": 2325, 
+            "EndOffset": 2329
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.999993085861206, 
+            "Type": "PERSON", 
+            "BeginOffset": 2353, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9996626377105713, 
+            "Type": "PERSON", 
+            "BeginOffset": 2369, 
+            "EndOffset": 2375
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9999009370803833, 
+            "Type": "PERSON", 
+            "BeginOffset": 2435, 
+            "EndOffset": 2439
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999992847442627, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2828, 
+            "EndOffset": 2834
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999792575836182, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2838, 
+            "EndOffset": 2844
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9999833106994629, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2909, 
+            "EndOffset": 2913
+        }
+    ]
+}

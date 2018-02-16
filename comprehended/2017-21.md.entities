@@ -1,0 +1,305 @@
+{
+    "Entities": [
+        {
+            "Text": "Google", 
+            "Score": 0.8037397861480713, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 103, 
+            "EndOffset": 109
+        }, 
+        {
+            "Text": "I/O", 
+            "Score": 0.9519279599189758, 
+            "Type": "EVENT", 
+            "BeginOffset": 112, 
+            "EndOffset": 115
+        }, 
+        {
+            "Text": "Google Cloud Next", 
+            "Score": 0.6608782410621643, 
+            "Type": "TITLE", 
+            "BeginOffset": 206, 
+            "EndOffset": 223
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9350030422210693, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 297, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "ANDROID", 
+            "Score": 0.4436909854412079, 
+            "Type": "TITLE", 
+            "BeginOffset": 445, 
+            "EndOffset": 452
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9839149713516235, 
+            "Type": "TITLE", 
+            "BeginOffset": 499, 
+            "EndOffset": 506
+        }, 
+        {
+            "Text": "Android O", 
+            "Score": 0.8435777425765991, 
+            "Type": "TITLE", 
+            "BeginOffset": 508, 
+            "EndOffset": 517
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.915522038936615, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 829, 
+            "EndOffset": 835
+        }, 
+        {
+            "Text": "Android O", 
+            "Score": 0.9998957514762878, 
+            "Type": "TITLE", 
+            "BeginOffset": 1201, 
+            "EndOffset": 1210
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9996008276939392, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1212, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999426603317261, 
+            "Type": "TITLE", 
+            "BeginOffset": 1251, 
+            "EndOffset": 1258
+        }, 
+        {
+            "Text": "Android Go", 
+            "Score": 0.995704174041748, 
+            "Type": "TITLE", 
+            "BeginOffset": 1266, 
+            "EndOffset": 1276
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9998792409896851, 
+            "Type": "TITLE", 
+            "BeginOffset": 1328, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999234676361084, 
+            "Type": "TITLE", 
+            "BeginOffset": 1682, 
+            "EndOffset": 1689
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999969005584717, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1929, 
+            "EndOffset": 1935
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999841451644897, 
+            "Type": "TITLE", 
+            "BeginOffset": 2003, 
+            "EndOffset": 2010
+        }, 
+        {
+            "Text": "Google Play Protect", 
+            "Score": 0.9999617338180542, 
+            "Type": "TITLE", 
+            "BeginOffset": 2054, 
+            "EndOffset": 2073
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9999927878379822, 
+            "Type": "TITLE", 
+            "BeginOffset": 2121, 
+            "EndOffset": 2132
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9999780058860779, 
+            "Type": "TITLE", 
+            "BeginOffset": 2190, 
+            "EndOffset": 2201
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.99997878074646, 
+            "Type": "TITLE", 
+            "BeginOffset": 2285, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999970197677612, 
+            "Type": "TITLE", 
+            "BeginOffset": 2445, 
+            "EndOffset": 2452
+        }, 
+        {
+            "Text": "GOOGLE ASSISTANT", 
+            "Score": 0.9999189376831055, 
+            "Type": "TITLE", 
+            "BeginOffset": 2609, 
+            "EndOffset": 2625
+        }, 
+        {
+            "Text": "Google Assistant", 
+            "Score": 0.9997814297676086, 
+            "Type": "TITLE", 
+            "BeginOffset": 2657, 
+            "EndOffset": 2673
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9996400475502014, 
+            "Type": "DATE", 
+            "BeginOffset": 2691, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999743700027466, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2815, 
+            "EndOffset": 2821
+        }, 
+        {
+            "Text": "One interesting thing", 
+            "Score": 0.9940815567970276, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2855, 
+            "EndOffset": 2876
+        }, 
+        {
+            "Text": "Assistant", 
+            "Score": 0.999995231628418, 
+            "Type": "TITLE", 
+            "BeginOffset": 2907, 
+            "EndOffset": 2916
+        }, 
+        {
+            "Text": "5", 
+            "Score": 0.9999986886978149, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3042, 
+            "EndOffset": 3043
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.999997615814209, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3161, 
+            "EndOffset": 3167
+        }, 
+        {
+            "Text": "Siri", 
+            "Score": 0.99981290102005, 
+            "Type": "TITLE", 
+            "BeginOffset": 3203, 
+            "EndOffset": 3207
+        }, 
+        {
+            "Text": "Google Home", 
+            "Score": 0.9997886419296265, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3229, 
+            "EndOffset": 3240
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9994217157363892, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3287, 
+            "EndOffset": 3296
+        }, 
+        {
+            "Text": "6", 
+            "Score": 0.9995115995407104, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3297, 
+            "EndOffset": 3298
+        }, 
+        {
+            "Text": "Google Lens", 
+            "Score": 0.9986175298690796, 
+            "Type": "TITLE", 
+            "BeginOffset": 3346, 
+            "EndOffset": 3357
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9966810345649719, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3381, 
+            "EndOffset": 3387
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3976, 
+            "EndOffset": 3982
+        }, 
+        {
+            "Text": "Oculus", 
+            "Score": 0.999991774559021, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4212, 
+            "EndOffset": 4218
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9997885823249817, 
+            "Type": "TITLE", 
+            "BeginOffset": 4785, 
+            "EndOffset": 4792
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9997383952140808, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4847, 
+            "EndOffset": 4852
+        }, 
+        {
+            "Text": "Siri", 
+            "Score": 0.7750009298324585, 
+            "Type": "TITLE", 
+            "BeginOffset": 4883, 
+            "EndOffset": 4887
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4894, 
+            "EndOffset": 4900
+        }, 
+        {
+            "Text": "Echo", 
+            "Score": 0.9999903440475464, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 4936, 
+            "EndOffset": 4940
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999984502792358, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4958, 
+            "EndOffset": 4961
+        }
+    ]
+}

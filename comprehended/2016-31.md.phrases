@@ -1,0 +1,832 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "AWS", 
+            "Score": 0.9946923851966858, 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "a serverless framework", 
+            "Score": 0.9978947043418884, 
+            "BeginOffset": 17, 
+            "EndOffset": 39
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9901760220527649, 
+            "BeginOffset": 41, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "version 1.12", 
+            "Score": 0.9786058068275452, 
+            "BeginOffset": 57, 
+            "EndOffset": 69
+        }, 
+        {
+            "Text": "Google shows", 
+            "Score": 0.7648689150810242, 
+            "BeginOffset": 75, 
+            "EndOffset": 87
+        }, 
+        {
+            "Text": "its machine", 
+            "Score": 0.8621960282325745, 
+            "BeginOffset": 91, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "capabilities", 
+            "Score": 0.989641547203064, 
+            "BeginOffset": 112, 
+            "EndOffset": 124
+        }, 
+        {
+            "Text": "energy efficiency", 
+            "Score": 0.9978981614112854, 
+            "BeginOffset": 130, 
+            "EndOffset": 147
+        }, 
+        {
+            "Text": "my apologies", 
+            "Score": 0.995621383190155, 
+            "BeginOffset": 156, 
+            "EndOffset": 168
+        }, 
+        {
+            "Text": "updates", 
+            "Score": 0.9595069289207458, 
+            "BeginOffset": 185, 
+            "EndOffset": 192
+        }, 
+        {
+            "Text": "the past couple", 
+            "Score": 0.999261200428009, 
+            "BeginOffset": 196, 
+            "EndOffset": 211
+        }, 
+        {
+            "Text": "weeks", 
+            "Score": 0.9980720281600952, 
+            "BeginOffset": 215, 
+            "EndOffset": 220
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9823824763298035, 
+            "BeginOffset": 260, 
+            "EndOffset": 268
+        }, 
+        {
+            "Text": "a new house", 
+            "Score": 0.923742949962616, 
+            "BeginOffset": 319, 
+            "EndOffset": 330
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.999069333076477, 
+            "BeginOffset": 348, 
+            "EndOffset": 353
+        }, 
+        {
+            "Text": "quiet time", 
+            "Score": 0.9987149238586426, 
+            "BeginOffset": 357, 
+            "EndOffset": 367
+        }, 
+        {
+            "Text": "DEEPMIND", 
+            "Score": 0.48376980423927307, 
+            "BeginOffset": 389, 
+            "EndOffset": 397
+        }, 
+        {
+            "Text": "ENERGY EFFICIENCY", 
+            "Score": 0.9828460216522217, 
+            "BeginOffset": 402, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.792812705039978, 
+            "BeginOffset": 433, 
+            "EndOffset": 439
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9595335721969604, 
+            "BeginOffset": 480, 
+            "EndOffset": 496
+        }, 
+        {
+            "Text": "This time", 
+            "Score": 0.9688965082168579, 
+            "BeginOffset": 498, 
+            "EndOffset": 507
+        }, 
+        {
+            "Text": "the area", 
+            "Score": 0.9967283606529236, 
+            "BeginOffset": 516, 
+            "EndOffset": 524
+        }, 
+        {
+            "Text": "energy efficiency", 
+            "Score": 0.9974105954170227, 
+            "BeginOffset": 528, 
+            "EndOffset": 545
+        }, 
+        {
+            "Text": "their data centers", 
+            "Score": 0.9694237112998962, 
+            "BeginOffset": 561, 
+            "EndOffset": 579
+        }, 
+        {
+            "Text": "DeepMind", 
+            "Score": 0.841004490852356, 
+            "BeginOffset": 581, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "the underlying technology", 
+            "Score": 0.9979721307754517, 
+            "BeginOffset": 605, 
+            "EndOffset": 630
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.9936515688896179, 
+            "BeginOffset": 638, 
+            "EndOffset": 645
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8293823003768921, 
+            "BeginOffset": 666, 
+            "EndOffset": 672
+        }, 
+        {
+            "Text": "data centers", 
+            "Score": 0.9212006330490112, 
+            "BeginOffset": 675, 
+            "EndOffset": 687
+        }, 
+        {
+            "Text": "their overall energy usage", 
+            "Score": 0.8690117597579956, 
+            "BeginOffset": 710, 
+            "EndOffset": 736
+        }, 
+        {
+            "Text": "15%", 
+            "Score": 0.9962213635444641, 
+            "BeginOffset": 740, 
+            "EndOffset": 743
+        }, 
+        {
+            "Text": "a 40% reduction", 
+            "Score": 0.9732507467269897, 
+            "BeginOffset": 745, 
+            "EndOffset": 760
+        }, 
+        {
+            "Text": "the cooling requirements", 
+            "Score": 0.9980242848396301, 
+            "BeginOffset": 764, 
+            "EndOffset": 788
+        }, 
+        {
+            "Text": "the before linked post", 
+            "Score": 0.7723309993743896, 
+            "BeginOffset": 821, 
+            "EndOffset": 843
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.8006211519241333, 
+            "BeginOffset": 843, 
+            "EndOffset": 846
+        }, 
+        {
+            "Text": "the full details", 
+            "Score": 0.9927934408187866, 
+            "BeginOffset": 882, 
+            "EndOffset": 898
+        }, 
+        {
+            "Text": "my initial ideas", 
+            "Score": 0.9615224003791809, 
+            "BeginOffset": 1026, 
+            "EndOffset": 1042
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.9998432397842407, 
+            "BeginOffset": 1049, 
+            "EndOffset": 1056
+        }, 
+        {
+            "Text": "particular my belief", 
+            "Score": 0.8466165065765381, 
+            "BeginOffset": 1075, 
+            "EndOffset": 1095
+        }, 
+        {
+            "Text": "the work", 
+            "Score": 0.9926589131355286, 
+            "BeginOffset": 1101, 
+            "EndOffset": 1109
+        }, 
+        {
+            "Text": "AlphaGo and self-driving cars", 
+            "Score": 0.9557563066482544, 
+            "BeginOffset": 1113, 
+            "EndOffset": 1142
+        }, 
+        {
+            "Text": "only the beginning", 
+            "Score": 0.8959864377975464, 
+            "BeginOffset": 1154, 
+            "EndOffset": 1172
+        }, 
+        {
+            "Text": "other systems", 
+            "Score": 0.888898491859436, 
+            "BeginOffset": 1181, 
+            "EndOffset": 1194
+        }, 
+        {
+            "Text": "a similar toolset", 
+            "Score": 0.9977772235870361, 
+            "BeginOffset": 1201, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "the new/updated Google Assistant", 
+            "Score": 0.936142086982727, 
+            "BeginOffset": 1258, 
+            "EndOffset": 1290
+        }, 
+        {
+            "Text": "AWS AND SERVERLESS FRAMEWORKS", 
+            "Score": 0.9051599502563477, 
+            "BeginOffset": 1348, 
+            "EndOffset": 1377
+        }, 
+        {
+            "Text": "my way", 
+            "Score": 0.9962872862815857, 
+            "BeginOffset": 1400, 
+            "EndOffset": 1406
+        }, 
+        {
+            "Text": "my own tiny micro framework", 
+            "Score": 0.9961360692977905, 
+            "BeginOffset": 1416, 
+            "EndOffset": 1443
+        }, 
+        {
+            "Text": "serverless applications", 
+            "Score": 0.992239773273468, 
+            "BeginOffset": 1458, 
+            "EndOffset": 1481
+        }, 
+        {
+            "Text": "frameworks", 
+            "Score": 0.8583435416221619, 
+            "BeginOffset": 1512, 
+            "EndOffset": 1522
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.7818009853363037, 
+            "BeginOffset": 1534, 
+            "EndOffset": 1541
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9994074106216431, 
+            "BeginOffset": 1554, 
+            "EndOffset": 1557
+        }, 
+        {
+            "Text": "their own", 
+            "Score": 0.9545278549194336, 
+            "BeginOffset": 1607, 
+            "EndOffset": 1616
+        }, 
+        {
+            "Text": "Chalice", 
+            "Score": 0.9928678274154663, 
+            "BeginOffset": 1618, 
+            "EndOffset": 1625
+        }, 
+        {
+            "Text": "the first one", 
+            "Score": 0.9840946793556213, 
+            "BeginOffset": 1629, 
+            "EndOffset": 1642
+        }, 
+        {
+            "Text": "a Python CLI tool", 
+            "Score": 0.9948917627334595, 
+            "BeginOffset": 1660, 
+            "EndOffset": 1677
+        }, 
+        {
+            "Text": "your Lambda applications", 
+            "Score": 0.9658507108688354, 
+            "BeginOffset": 1712, 
+            "EndOffset": 1736
+        }, 
+        {
+            "Text": "a very similar way", 
+            "Score": 0.9899219870567322, 
+            "BeginOffset": 1755, 
+            "EndOffset": 1773
+        }, 
+        {
+            "Text": "Flask", 
+            "Score": 0.9996756911277771, 
+            "BeginOffset": 1777, 
+            "EndOffset": 1782
+        }, 
+        {
+            "Text": "a Python web framework", 
+            "Score": 0.9947595000267029, 
+            "BeginOffset": 1784, 
+            "EndOffset": 1806
+        }, 
+        {
+            "Text": "some additional tools", 
+            "Score": 0.9936789870262146, 
+            "BeginOffset": 1813, 
+            "EndOffset": 1834
+        }, 
+        {
+            "Text": "Chalice", 
+            "Score": 0.9994056224822998, 
+            "BeginOffset": 1859, 
+            "EndOffset": 1866
+        }, 
+        {
+            "Text": "Flourish", 
+            "Score": 0.9899500012397766, 
+            "BeginOffset": 1901, 
+            "EndOffset": 1909
+        }, 
+        {
+            "Text": "another serverless framework", 
+            "Score": 0.9636807441711426, 
+            "BeginOffset": 1911, 
+            "EndOffset": 1939
+        }, 
+        {
+            "Text": "2 different frameworks", 
+            "Score": 0.974303662776947, 
+            "BeginOffset": 1956, 
+            "EndOffset": 1978
+        }, 
+        {
+            "Text": "not much", 
+            "Score": 0.9939767122268677, 
+            "BeginOffset": 2007, 
+            "EndOffset": 2015
+        }, 
+        {
+            "Text": "Flourish", 
+            "Score": 0.6145933866500854, 
+            "BeginOffset": 2031, 
+            "EndOffset": 2039
+        }, 
+        {
+            "Text": "some mixed feelings", 
+            "Score": 0.9632127285003662, 
+            "BeginOffset": 2053, 
+            "EndOffset": 2072
+        }, 
+        {
+            "Text": "these frameworks", 
+            "Score": 0.9948234558105469, 
+            "BeginOffset": 2079, 
+            "EndOffset": 2095
+        }, 
+        {
+            "Text": "the one hand", 
+            "Score": 0.9894062280654907, 
+            "BeginOffset": 2108, 
+            "EndOffset": 2120
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9745780229568481, 
+            "BeginOffset": 2137, 
+            "EndOffset": 2140
+        }, 
+        {
+            "Text": "solutions", 
+            "Score": 0.9929012656211853, 
+            "BeginOffset": 2165, 
+            "EndOffset": 2174
+        }, 
+        {
+            "Text": "the pretty bad interface", 
+            "Score": 0.9384473562240601, 
+            "BeginOffset": 2190, 
+            "EndOffset": 2214
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9967267513275146, 
+            "BeginOffset": 2218, 
+            "EndOffset": 2224
+        }, 
+        {
+            "Text": "the API Gateway", 
+            "Score": 0.8889670968055725, 
+            "BeginOffset": 2240, 
+            "EndOffset": 2255
+        }, 
+        {
+            "Text": "these frameworks", 
+            "Score": 0.9990676641464233, 
+            "BeginOffset": 2266, 
+            "EndOffset": 2282
+        }, 
+        {
+            "Text": "existing solutions", 
+            "Score": 0.9988871812820435, 
+            "BeginOffset": 2303, 
+            "EndOffset": 2321
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.928466260433197, 
+            "BeginOffset": 2342, 
+            "EndOffset": 2345
+        }, 
+        {
+            "Text": "Chalice", 
+            "Score": 0.9983344674110413, 
+            "BeginOffset": 2363, 
+            "EndOffset": 2370
+        }, 
+        {
+            "Text": "an extension", 
+            "Score": 0.9979075789451599, 
+            "BeginOffset": 2392, 
+            "EndOffset": 2404
+        }, 
+        {
+            "Text": "Flask", 
+            "Score": 0.9947459101676941, 
+            "BeginOffset": 2408, 
+            "EndOffset": 2413
+        }, 
+        {
+            "Text": "a more developer friendly solution", 
+            "Score": 0.9829049706459045, 
+            "BeginOffset": 2433, 
+            "EndOffset": 2467
+        }, 
+        {
+            "Text": "a specific framework", 
+            "Score": 0.9973980784416199, 
+            "BeginOffset": 2495, 
+            "EndOffset": 2515
+        }, 
+        {
+            "Text": "a different way", 
+            "Score": 0.9980976581573486, 
+            "BeginOffset": 2555, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "your code", 
+            "Score": 0.9990764260292053, 
+            "BeginOffset": 2582, 
+            "EndOffset": 2591
+        }, 
+        {
+            "Text": "The reason", 
+            "Score": 0.9994704723358154, 
+            "BeginOffset": 2593, 
+            "EndOffset": 2603
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9985755085945129, 
+            "BeginOffset": 2608, 
+            "EndOffset": 2611
+        }, 
+        {
+            "Text": "not something", 
+            "Score": 0.9981713891029358, 
+            "BeginOffset": 2652, 
+            "EndOffset": 2665
+        }, 
+        {
+            "Text": "DOCKER 1.12 RELEASED\n\n\nDocker 1.12", 
+            "Score": 0.7852117419242859, 
+            "BeginOffset": 2686, 
+            "EndOffset": 2720
+        }, 
+        {
+            "Text": "the Mac and Windows clients", 
+            "Score": 0.9211039543151855, 
+            "BeginOffset": 2732, 
+            "EndOffset": 2759
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9168371558189392, 
+            "BeginOffset": 2831, 
+            "EndOffset": 2839
+        }, 
+        {
+            "Text": "][ignoredocker]", 
+            "Score": 0.9932664036750793, 
+            "BeginOffset": 2879, 
+            "EndOffset": 2894
+        }, 
+        {
+            "Text": "the beta", 
+            "Score": 0.9976694583892822, 
+            "BeginOffset": 2930, 
+            "EndOffset": 2938
+        }, 
+        {
+            "Text": "my general happiness", 
+            "Score": 0.976707398891449, 
+            "BeginOffset": 2999, 
+            "EndOffset": 3019
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9986007809638977, 
+            "BeginOffset": 3038, 
+            "EndOffset": 3046
+        }, 
+        {
+            "Text": "issues", 
+            "Score": 0.9973356127738953, 
+            "BeginOffset": 3050, 
+            "EndOffset": 3056
+        }, 
+        {
+            "Text": "web development", 
+            "Score": 0.9631476998329163, 
+            "BeginOffset": 3121, 
+            "EndOffset": 3136
+        }, 
+        {
+            "Text": "the Mac client", 
+            "Score": 0.8556196689605713, 
+            "BeginOffset": 3183, 
+            "EndOffset": 3197
+        }, 
+        {
+            "Text": "file systems", 
+            "Score": 0.997450590133667, 
+            "BeginOffset": 3207, 
+            "EndOffset": 3219
+        }, 
+        {
+            "Text": "the previous way", 
+            "Score": 0.9757216572761536, 
+            "BeginOffset": 3256, 
+            "EndOffset": 3272
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.8622379899024963, 
+            "BeginOffset": 3282, 
+            "EndOffset": 3288
+        }, 
+        {
+            "Text": "a forum post", 
+            "Score": 0.9981600046157837, 
+            "BeginOffset": 3307, 
+            "EndOffset": 3319
+        }, 
+        {
+            "Text": "the latency", 
+            "Score": 0.9625212550163269, 
+            "BeginOffset": 3339, 
+            "EndOffset": 3350
+        }, 
+        {
+            "Text": "the read speed", 
+            "Score": 0.8754669427871704, 
+            "BeginOffset": 3359, 
+            "EndOffset": 3373
+        }, 
+        {
+            "Text": "the disk", 
+            "Score": 0.7325225472450256, 
+            "BeginOffset": 3379, 
+            "EndOffset": 3387
+        }, 
+        {
+            "Text": "projects", 
+            "Score": 0.997472882270813, 
+            "BeginOffset": 3422, 
+            "EndOffset": 3430
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9910690188407898, 
+            "BeginOffset": 3436, 
+            "EndOffset": 3441
+        }, 
+        {
+            "Text": "small files", 
+            "Score": 0.9908663630485535, 
+            "BeginOffset": 3445, 
+            "EndOffset": 3456
+        }, 
+        {
+            "Text": "a common thing", 
+            "Score": 0.9997209310531616, 
+            "BeginOffset": 3458, 
+            "EndOffset": 3472
+        }, 
+        {
+            "Text": "web development", 
+            "Score": 0.9978107810020447, 
+            "BeginOffset": 3476, 
+            "EndOffset": 3491
+        }, 
+        {
+            "Text": "especially NodeJS and JavaScript frameworks", 
+            "Score": 0.9984501004219055, 
+            "BeginOffset": 3498, 
+            "EndOffset": 3541
+        }, 
+        {
+            "Text": "Ruby and PHP", 
+            "Score": 0.8021554946899414, 
+            "BeginOffset": 3552, 
+            "EndOffset": 3564
+        }, 
+        {
+            "Text": "many small files", 
+            "Score": 0.7727019786834717, 
+            "BeginOffset": 3579, 
+            "EndOffset": 3595
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9964587092399597, 
+            "BeginOffset": 3608, 
+            "EndOffset": 3614
+        }, 
+        {
+            "Text": "a solution", 
+            "Score": 0.9834864139556885, 
+            "BeginOffset": 3629, 
+            "EndOffset": 3639
+        }, 
+        {
+            "Text": "more test cases", 
+            "Score": 0.9979031085968018, 
+            "BeginOffset": 3658, 
+            "EndOffset": 3673
+        }, 
+        {
+            "Text": "one supply", 
+            "Score": 0.9893675446510315, 
+            "BeginOffset": 3689, 
+            "EndOffset": 3699
+        }, 
+        {
+            "Text": "an issue", 
+            "Score": 0.9225629568099976, 
+            "BeginOffset": 3730, 
+            "EndOffset": 3738
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9763563275337219, 
+            "BeginOffset": 3744, 
+            "EndOffset": 3751
+        }, 
+        {
+            "Text": "The Jenkins Docker plugin", 
+            "Score": 0.9926372170448303, 
+            "BeginOffset": 3761, 
+            "EndOffset": 3786
+        }, 
+        {
+            "Text": "a very useful plugin", 
+            "Score": 0.9693285822868347, 
+            "BeginOffset": 3788, 
+            "EndOffset": 3808
+        }, 
+        {
+            "Text": "Docker slaves", 
+            "Score": 0.9903193116188049, 
+            "BeginOffset": 3836, 
+            "EndOffset": 3849
+        }, 
+        {
+            "Text": "your CI/CD tasks", 
+            "Score": 0.994604766368866, 
+            "BeginOffset": 3862, 
+            "EndOffset": 3878
+        }, 
+        {
+            "Text": "some deprecated functionality", 
+            "Score": 0.9870372414588928, 
+            "BeginOffset": 3885, 
+            "EndOffset": 3914
+        }, 
+        {
+            "Text": "1.12", 
+            "Score": 0.9664836525917053, 
+            "BeginOffset": 3935, 
+            "EndOffset": 3939
+        }, 
+        {
+            "Text": "errors", 
+            "Score": 0.9977278709411621, 
+            "BeginOffset": 3953, 
+            "EndOffset": 3959
+        }, 
+        {
+            "Text": "a container", 
+            "Score": 0.9754754900932312, 
+            "BeginOffset": 3984, 
+            "EndOffset": 3995
+        }, 
+        {
+            "Text": "a ticket", 
+            "Score": 0.9975959658622742, 
+            "BeginOffset": 4020, 
+            "EndOffset": 4028
+        }, 
+        {
+            "Text": "your Jenkins server", 
+            "Score": 0.9631678462028503, 
+            "BeginOffset": 4084, 
+            "EndOffset": 4103
+        }, 
+        {
+            "Text": "1.12", 
+            "Score": 0.9995211362838745, 
+            "BeginOffset": 4107, 
+            "EndOffset": 4111
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9891138076782227, 
+            "BeginOffset": 4114, 
+            "EndOffset": 4117
+        }, 
+        {
+            "Text": "some reason", 
+            "Score": 0.9924713969230652, 
+            "BeginOffset": 4122, 
+            "EndOffset": 4133
+        }, 
+        {
+            "Text": "the DeepMind blog", 
+            "Score": 0.8220430016517639, 
+            "BeginOffset": 4134, 
+            "EndOffset": 4151
+        }, 
+        {
+            "Text": "individual articles", 
+            "Score": 0.9964741468429565, 
+            "BeginOffset": 4181, 
+            "EndOffset": 4200
+        }, 
+        {
+            "Text": "the top article", 
+            "Score": 0.9918226003646851, 
+            "BeginOffset": 4217, 
+            "EndOffset": 4232
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9972090125083923, 
+            "BeginOffset": 4266, 
+            "EndOffset": 4271
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9955214262008667, 
+            "BeginOffset": 4294, 
+            "EndOffset": 4300
+        }, 
+        {
+            "Text": "a search engine", 
+            "Score": 0.8674095273017883, 
+            "BeginOffset": 4326, 
+            "EndOffset": 4341
+        }
+    ]
+}

@@ -1,0 +1,646 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "More information", 
+            "Score": 0.9743406772613525, 
+            "BeginOffset": 0, 
+            "EndOffset": 16
+        }, 
+        {
+            "Text": "Mirai", 
+            "Score": 0.9225887656211853, 
+            "BeginOffset": 23, 
+            "EndOffset": 28
+        }, 
+        {
+            "Text": "Gitlab", 
+            "Score": 0.9948816299438477, 
+            "BeginOffset": 30, 
+            "EndOffset": 36
+        }, 
+        {
+            "Text": "dataloss", 
+            "Score": 0.9442639946937561, 
+            "BeginOffset": 39, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.8770925402641296, 
+            "BeginOffset": 53, 
+            "EndOffset": 59
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9704143404960632, 
+            "BeginOffset": 64, 
+            "EndOffset": 67
+        }, 
+        {
+            "Text": "MIRAI FOLLOW UP", 
+            "Score": 0.7850179672241211, 
+            "BeginOffset": 89, 
+            "EndOffset": 104
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9945652484893799, 
+            "BeginOffset": 110, 
+            "EndOffset": 119
+        }, 
+        {
+            "Text": "Enigma conference", 
+            "Score": 0.9639511704444885, 
+            "BeginOffset": 122, 
+            "EndOffset": 139
+        }, 
+        {
+            "Text": "a Google security engineer", 
+            "Score": 0.9951720237731934, 
+            "BeginOffset": 141, 
+            "EndOffset": 167
+        }, 
+        {
+            "Text": "Project Shield", 
+            "Score": 0.9833491444587708, 
+            "BeginOffset": 184, 
+            "EndOffset": 198
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.9994384050369263, 
+            "BeginOffset": 207, 
+            "EndOffset": 218
+        }, 
+        {
+            "Text": "KrebsOnSecurity", 
+            "Score": 0.9899713397026062, 
+            "BeginOffset": 222, 
+            "EndOffset": 237
+        }, 
+        {
+            "Text": "The short article", 
+            "Score": 0.9979046583175659, 
+            "BeginOffset": 239, 
+            "EndOffset": 256
+        }, 
+        {
+            "Text": "an interesting read", 
+            "Score": 0.9885209202766418, 
+            "BeginOffset": 269, 
+            "EndOffset": 288
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8784725666046143, 
+            "BeginOffset": 348, 
+            "EndOffset": 354
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.993480384349823, 
+            "BeginOffset": 386, 
+            "EndOffset": 397
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.995707631111145, 
+            "BeginOffset": 401, 
+            "EndOffset": 409
+        }, 
+        {
+            "Text": "only brief interruptions", 
+            "Score": 0.9941745400428772, 
+            "BeginOffset": 416, 
+            "EndOffset": 440
+        }, 
+        {
+            "Text": "the service", 
+            "Score": 0.9989519119262695, 
+            "BeginOffset": 444, 
+            "EndOffset": 455
+        }, 
+        {
+            "Text": "the attacks", 
+            "Score": 0.998186469078064, 
+            "BeginOffset": 462, 
+            "EndOffset": 473
+        }, 
+        {
+            "Text": "the height attacks", 
+            "Score": 0.9786069989204407, 
+            "BeginOffset": 498, 
+            "EndOffset": 516
+        }, 
+        {
+            "Text": "450.000 queries", 
+            "Score": 0.996360719203949, 
+            "BeginOffset": 520, 
+            "EndOffset": 535
+        }, 
+        {
+            "Text": "about 175.000 IPs", 
+            "Score": 0.987768828868866, 
+            "BeginOffset": 552, 
+            "EndOffset": 569
+        }, 
+        {
+            "Text": "more sophisticated attacks", 
+            "Score": 0.9773041605949402, 
+            "BeginOffset": 584, 
+            "EndOffset": 610
+        }, 
+        {
+            "Text": "the Art Technica article", 
+            "Score": 0.9965052604675293, 
+            "BeginOffset": 677, 
+            "EndOffset": 701
+        }, 
+        {
+            "Text": "a read", 
+            "Score": 0.9680269360542297, 
+            "BeginOffset": 725, 
+            "EndOffset": 731
+        }, 
+        {
+            "Text": "the Mirai bot", 
+            "Score": 0.9278372526168823, 
+            "BeginOffset": 783, 
+            "EndOffset": 796
+        }, 
+        {
+            "Text": "some more", 
+            "Score": 0.903998851776123, 
+            "BeginOffset": 797, 
+            "EndOffset": 806
+        }, 
+        {
+            "Text": "Krebs", 
+            "Score": 0.9521139860153198, 
+            "BeginOffset": 808, 
+            "EndOffset": 813
+        }, 
+        {
+            "Text": "the bot", 
+            "Score": 0.9942116737365723, 
+            "BeginOffset": 839, 
+            "EndOffset": 846
+        }, 
+        {
+            "Text": "his findings", 
+            "Score": 0.9990198612213135, 
+            "BeginOffset": 858, 
+            "EndOffset": 870
+        }, 
+        {
+            "Text": "a surprise", 
+            "Score": 0.9970933198928833, 
+            "BeginOffset": 889, 
+            "EndOffset": 899
+        }, 
+        {
+            "Text": "the person", 
+            "Score": 0.997394323348999, 
+            "BeginOffset": 905, 
+            "EndOffset": 915
+        }, 
+        {
+            "Text": "his involvement", 
+            "Score": 0.832587480545044, 
+            "BeginOffset": 934, 
+            "EndOffset": 949
+        }, 
+        {
+            "Text": "the security aspects", 
+            "Score": 0.9830386638641357, 
+            "BeginOffset": 967, 
+            "EndOffset": 987
+        }, 
+        {
+            "Text": "a read", 
+            "Score": 0.9870097041130066, 
+            "BeginOffset": 1009, 
+            "EndOffset": 1015
+        }, 
+        {
+            "Text": "GITLAB DATA LOSS\n\n\nGitlab", 
+            "Score": 0.8588110208511353, 
+            "BeginOffset": 1028, 
+            "EndOffset": 1053
+        }, 
+        {
+            "Text": "an outage", 
+            "Score": 0.9955753087997437, 
+            "BeginOffset": 1058, 
+            "EndOffset": 1067
+        }, 
+        {
+            "Text": "dataloss", 
+            "Score": 0.9992097020149231, 
+            "BeginOffset": 1078, 
+            "EndOffset": 1086
+        }, 
+        {
+            "Text": "the events", 
+            "Score": 0.8748297095298767, 
+            "BeginOffset": 1098, 
+            "EndOffset": 1108
+        }, 
+        {
+            "Text": "spammers", 
+            "Score": 0.9985076189041138, 
+            "BeginOffset": 1143, 
+            "EndOffset": 1151
+        }, 
+        {
+            "Text": "massive load", 
+            "Score": 0.9723131656646729, 
+            "BeginOffset": 1160, 
+            "EndOffset": 1172
+        }, 
+        {
+            "Text": "the db", 
+            "Score": 0.9986147880554199, 
+            "BeginOffset": 1186, 
+            "EndOffset": 1192
+        }, 
+        {
+            "Text": "a replication lag", 
+            "Score": 0.9977216124534607, 
+            "BeginOffset": 1200, 
+            "EndOffset": 1217
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9849182963371277, 
+            "BeginOffset": 1243, 
+            "EndOffset": 1249
+        }, 
+        {
+            "Text": "an engineer", 
+            "Score": 0.9998639225959778, 
+            "BeginOffset": 1251, 
+            "EndOffset": 1262
+        }, 
+        {
+            "Text": "a command", 
+            "Score": 0.9996488094329834, 
+            "BeginOffset": 1267, 
+            "EndOffset": 1276
+        }, 
+        {
+            "Text": "the wrong machine", 
+            "Score": 0.9983003735542297, 
+            "BeginOffset": 1280, 
+            "EndOffset": 1297
+        }, 
+        {
+            "Text": "the database", 
+            "Score": 0.9161776900291443, 
+            "BeginOffset": 1315, 
+            "EndOffset": 1327
+        }, 
+        {
+            "Text": "this sort", 
+            "Score": 0.9986989498138428, 
+            "BeginOffset": 1344, 
+            "EndOffset": 1353
+        }, 
+        {
+            "Text": "thing", 
+            "Score": 0.9920347929000854, 
+            "BeginOffset": 1357, 
+            "EndOffset": 1362
+        }, 
+        {
+            "Text": "this point", 
+            "Score": 0.9815052151679993, 
+            "BeginOffset": 1383, 
+            "EndOffset": 1393
+        }, 
+        {
+            "Text": "the story", 
+            "Score": 0.9988523721694946, 
+            "BeginOffset": 1399, 
+            "EndOffset": 1408
+        }, 
+        {
+            "Text": "Gitlab", 
+            "Score": 0.9981549978256226, 
+            "BeginOffset": 1438, 
+            "EndOffset": 1444
+        }, 
+        {
+            "Text": "various redundant types", 
+            "Score": 0.9935443997383118, 
+            "BeginOffset": 1456, 
+            "EndOffset": 1479
+        }, 
+        {
+            "Text": "backups", 
+            "Score": 0.9997240900993347, 
+            "BeginOffset": 1483, 
+            "EndOffset": 1490
+        }, 
+        {
+            "Text": "its own way", 
+            "Score": 0.961749255657196, 
+            "BeginOffset": 1539, 
+            "EndOffset": 1550
+        }, 
+        {
+            "Text": "the nightmare scenario", 
+            "Score": 0.9114002585411072, 
+            "BeginOffset": 1573, 
+            "EndOffset": 1595
+        }, 
+        {
+            "Text": "your system", 
+            "Score": 0.9853097200393677, 
+            "BeginOffset": 1601, 
+            "EndOffset": 1612
+        }, 
+        {
+            "Text": "fragile data", 
+            "Score": 0.9523459672927856, 
+            "BeginOffset": 1642, 
+            "EndOffset": 1654
+        }, 
+        {
+            "Text": "The second best thing", 
+            "Score": 0.9976546764373779, 
+            "BeginOffset": 1691, 
+            "EndOffset": 1712
+        }, 
+        {
+            "Text": "as much data", 
+            "Score": 0.8990609049797058, 
+            "BeginOffset": 1755, 
+            "EndOffset": 1767
+        }, 
+        {
+            "Text": "backups", 
+            "Score": 0.8842198252677917, 
+            "BeginOffset": 1785, 
+            "EndOffset": 1792
+        }, 
+        {
+            "Text": "this case", 
+            "Score": 0.9880290031433105, 
+            "BeginOffset": 1821, 
+            "EndOffset": 1830
+        }, 
+        {
+            "Text": "a backup", 
+            "Score": 0.997516930103302, 
+            "BeginOffset": 1831, 
+            "EndOffset": 1839
+        }, 
+        {
+            "Text": "testing", 
+            "Score": 0.9983199238777161, 
+            "BeginOffset": 1850, 
+            "EndOffset": 1857
+        }, 
+        {
+            "Text": "The best thing", 
+            "Score": 0.955315113067627, 
+            "BeginOffset": 1860, 
+            "EndOffset": 1874
+        }, 
+        {
+            "Text": "the first place", 
+            "Score": 0.9979201555252075, 
+            "BeginOffset": 1929, 
+            "EndOffset": 1944
+        }, 
+        {
+            "Text": "your database backups", 
+            "Score": 0.9972637295722961, 
+            "BeginOffset": 1956, 
+            "EndOffset": 1977
+        }, 
+        {
+            "Text": "CHROME", 
+            "Score": 0.9758227467536926, 
+            "BeginOffset": 1992, 
+            "EndOffset": 1998
+        }, 
+        {
+            "Text": "IOS OPEN SOURCED", 
+            "Score": 0.88196861743927, 
+            "BeginOffset": 2003, 
+            "EndOffset": 2019
+        }, 
+        {
+            "Text": "a debate", 
+            "Score": 0.8627947568893433, 
+            "BeginOffset": 2042, 
+            "EndOffset": 2050
+        }, 
+        {
+            "Text": "Android or iOS", 
+            "Score": 0.9952978491783142, 
+            "BeginOffset": 2062, 
+            "EndOffset": 2076
+        }, 
+        {
+            "Text": "better[1]", 
+            "Score": 0.9714342355728149, 
+            "BeginOffset": 2080, 
+            "EndOffset": 2089
+        }, 
+        {
+            "Text": "the limitations", 
+            "Score": 0.9732192754745483, 
+            "BeginOffset": 2098, 
+            "EndOffset": 2113
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9992610812187195, 
+            "BeginOffset": 2117, 
+            "EndOffset": 2120
+        }, 
+        {
+            "Text": "web browsers", 
+            "Score": 0.9995099902153015, 
+            "BeginOffset": 2129, 
+            "EndOffset": 2141
+        }, 
+        {
+            "Text": "their own rendering engine", 
+            "Score": 0.9917677640914917, 
+            "BeginOffset": 2152, 
+            "EndOffset": 2178
+        }, 
+        {
+            "Text": "a security requirement", 
+            "Score": 0.9990837574005127, 
+            "BeginOffset": 2188, 
+            "EndOffset": 2210
+        }, 
+        {
+            "Text": "a major concern", 
+            "Score": 0.9950615763664246, 
+            "BeginOffset": 2222, 
+            "EndOffset": 2237
+        }, 
+        {
+            "Text": "most things", 
+            "Score": 0.9986239671707153, 
+            "BeginOffset": 2242, 
+            "EndOffset": 2253
+        }, 
+        {
+            "Text": "the latest and greatest HTML 5 features", 
+            "Score": 0.9675468802452087, 
+            "BeginOffset": 2270, 
+            "EndOffset": 2309
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.9837274551391602, 
+            "BeginOffset": 2342, 
+            "EndOffset": 2344
+        }, 
+        {
+            "Text": "an open source project", 
+            "Score": 0.8477065563201904, 
+            "BeginOffset": 2351, 
+            "EndOffset": 2373
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9988958239555359, 
+            "BeginOffset": 2379, 
+            "EndOffset": 2385
+        }, 
+        {
+            "Text": "an extra disadvantage", 
+            "Score": 0.9952751994132996, 
+            "BeginOffset": 2404, 
+            "EndOffset": 2425
+        }, 
+        {
+            "Text": "the code", 
+            "Score": 0.9987604022026062, 
+            "BeginOffset": 2446, 
+            "EndOffset": 2454
+        }, 
+        {
+            "Text": "all their versions", 
+            "Score": 0.9998785853385925, 
+            "BeginOffset": 2458, 
+            "EndOffset": 2476
+        }, 
+        {
+            "Text": "a single repository", 
+            "Score": 0.9917533993721008, 
+            "BeginOffset": 2480, 
+            "EndOffset": 2499
+        }, 
+        {
+            "Text": "development", 
+            "Score": 0.9987056851387024, 
+            "BeginOffset": 2517, 
+            "EndOffset": 2528
+        }, 
+        {
+            "Text": "Chromium", 
+            "Score": 0.9939894676208496, 
+            "BeginOffset": 2573, 
+            "EndOffset": 2581
+        }, 
+        {
+            "Text": "the private repository", 
+            "Score": 0.9215208888053894, 
+            "BeginOffset": 2612, 
+            "EndOffset": 2634
+        }, 
+        {
+            "Text": "the iOS version", 
+            "Score": 0.9987081289291382, 
+            "BeginOffset": 2639, 
+            "EndOffset": 2654
+        }, 
+        {
+            "Text": "the iOS version", 
+            "Score": 0.8634009957313538, 
+            "BeginOffset": 2714, 
+            "EndOffset": 2729
+        }, 
+        {
+            "Text": "Chromium", 
+            "Score": 0.9886130690574646, 
+            "BeginOffset": 2749, 
+            "EndOffset": 2757
+        }, 
+        {
+            "Text": "the second most popular browser", 
+            "Score": 0.9841729402542114, 
+            "BeginOffset": 2767, 
+            "EndOffset": 2798
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9612135887145996, 
+            "BeginOffset": 2802, 
+            "EndOffset": 2805
+        }, 
+        {
+            "Text": "the default Safari", 
+            "Score": 0.9860965609550476, 
+            "BeginOffset": 2823, 
+            "EndOffset": 2841
+        }, 
+        {
+            "Text": "the latest features", 
+            "Score": 0.9989741444587708, 
+            "BeginOffset": 2893, 
+            "EndOffset": 2912
+        }, 
+        {
+            "Text": "the built-in rendering engine", 
+            "Score": 0.9436259865760803, 
+            "BeginOffset": 2959, 
+            "EndOffset": 2988
+        }, 
+        {
+            "Text": "[1] Short answer", 
+            "Score": 0.9939859509468079, 
+            "BeginOffset": 2991, 
+            "EndOffset": 3007
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9996897578239441, 
+            "BeginOffset": 3045, 
+            "EndOffset": 3048
+        }, 
+        {
+            "Text": "all accounts", 
+            "Score": 0.9912013411521912, 
+            "BeginOffset": 3054, 
+            "EndOffset": 3066
+        }, 
+        {
+            "Text": "the upcoming iOS 10.3", 
+            "Score": 0.9754226803779602, 
+            "BeginOffset": 3083, 
+            "EndOffset": 3104
+        }, 
+        {
+            "Text": "a fair number", 
+            "Score": 0.9692223072052002, 
+            "BeginOffset": 3128, 
+            "EndOffset": 3141
+        }, 
+        {
+            "Text": "these features", 
+            "Score": 0.9998820424079895, 
+            "BeginOffset": 3145, 
+            "EndOffset": 3159
+        }
+    ]
+}

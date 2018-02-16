@@ -1,0 +1,730 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "any doubt", 
+            "Score": 0.9434213042259216, 
+            "BeginOffset": 15, 
+            "EndOffset": 24
+        }, 
+        {
+            "Text": "the biggest news", 
+            "Score": 0.9952163100242615, 
+            "BeginOffset": 36, 
+            "EndOffset": 52
+        }, 
+        {
+            "Text": "tech", 
+            "Score": 0.9833970069885254, 
+            "BeginOffset": 56, 
+            "EndOffset": 60
+        }, 
+        {
+            "Text": "Meltdown and Spectre", 
+            "Score": 0.9710742235183716, 
+            "BeginOffset": 96, 
+            "EndOffset": 116
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.980987012386322, 
+            "BeginOffset": 145, 
+            "EndOffset": 150
+        }, 
+        {
+            "Text": "my head", 
+            "Score": 0.9987824559211731, 
+            "BeginOffset": 165, 
+            "EndOffset": 172
+        }, 
+        {
+            "Text": "any new insights", 
+            "Score": 0.9988852739334106, 
+            "BeginOffset": 234, 
+            "EndOffset": 250
+        }, 
+        {
+            "Text": "MELTDOWN VS SPECTRE", 
+            "Score": 0.8203718066215515, 
+            "BeginOffset": 255, 
+            "EndOffset": 274
+        }, 
+        {
+            "Text": "these vulnerabilities", 
+            "Score": 0.9994714856147766, 
+            "BeginOffset": 285, 
+            "EndOffset": 306
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9971400499343872, 
+            "BeginOffset": 323, 
+            "EndOffset": 332
+        }, 
+        {
+            "Text": "independent groups", 
+            "Score": 0.9279966950416565, 
+            "BeginOffset": 336, 
+            "EndOffset": 354
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.7441563010215759, 
+            "BeginOffset": 354, 
+            "EndOffset": 357
+        }, 
+        {
+            "Text": "Both Meltdown and Spectre", 
+            "Score": 0.8531719446182251, 
+            "BeginOffset": 385, 
+            "EndOffset": 410
+        }, 
+        {
+            "Text": "nature", 
+            "Score": 0.9964779019355774, 
+            "BeginOffset": 426, 
+            "EndOffset": 432
+        }, 
+        {
+            "Text": "Meltdown", 
+            "Score": 0.9899439811706543, 
+            "BeginOffset": 438, 
+            "EndOffset": 446
+        }, 
+        {
+            "Text": "Intel and high end ARM architectures", 
+            "Score": 0.8686237931251526, 
+            "BeginOffset": 468, 
+            "EndOffset": 504
+        }, 
+        {
+            "Text": "Spectre", 
+            "Score": 0.9685287475585938, 
+            "BeginOffset": 511, 
+            "EndOffset": 518
+        }, 
+        {
+            "Text": "most modern architectures", 
+            "Score": 0.9726112484931946, 
+            "BeginOffset": 527, 
+            "EndOffset": 552
+        }, 
+        {
+            "Text": "THE ATTACKS", 
+            "Score": 0.9695468544960022, 
+            "BeginOffset": 566, 
+            "EndOffset": 577
+        }, 
+        {
+            "Text": "speculative execution", 
+            "Score": 0.979057788848877, 
+            "BeginOffset": 615, 
+            "EndOffset": 636
+        }, 
+        {
+            "Text": "Speculative execution", 
+            "Score": 0.9955711364746094, 
+            "BeginOffset": 638, 
+            "EndOffset": 659
+        }, 
+        {
+            "Text": "the processor", 
+            "Score": 0.9924503564834595, 
+            "BeginOffset": 681, 
+            "EndOffset": 694
+        }, 
+        {
+            "Text": "possible paths", 
+            "Score": 0.9990079402923584, 
+            "BeginOffset": 718, 
+            "EndOffset": 732
+        }, 
+        {
+            "Text": "Spectre and Meltdown", 
+            "Score": 0.9578686952590942, 
+            "BeginOffset": 774, 
+            "EndOffset": 794
+        }, 
+        {
+            "Text": "3 ways", 
+            "Score": 0.9989504218101501, 
+            "BeginOffset": 800, 
+            "EndOffset": 806
+        }, 
+        {
+            "Text": "short descriptions", 
+            "Score": 0.972553014755249, 
+            "BeginOffset": 849, 
+            "EndOffset": 867
+        }, 
+        {
+            "Text": "the Project Google Zero whitepaper", 
+            "Score": 0.9706242084503174, 
+            "BeginOffset": 900, 
+            "EndOffset": 934
+        }, 
+        {
+            "Text": "an out", 
+            "Score": 0.915062665939331, 
+            "BeginOffset": 957, 
+            "EndOffset": 963
+        }, 
+        {
+            "Text": "bounds issue", 
+            "Score": 0.8861547708511353, 
+            "BeginOffset": 967, 
+            "EndOffset": 979
+        }, 
+        {
+            "Text": "vulnerable code", 
+            "Score": 0.9920135736465454, 
+            "BeginOffset": 1011, 
+            "EndOffset": 1026
+        }, 
+        {
+            "Text": "privileged memory", 
+            "Score": 0.9603320956230164, 
+            "BeginOffset": 1037, 
+            "EndOffset": 1054
+        }, 
+        {
+            "Text": "caching", 
+            "Score": 0.9998043775558472, 
+            "BeginOffset": 1064, 
+            "EndOffset": 1071
+        }, 
+        {
+            "Text": "The code", 
+            "Score": 0.9445775747299194, 
+            "BeginOffset": 1073, 
+            "EndOffset": 1081
+        }, 
+        {
+            "Text": "memory cache", 
+            "Score": 0.9979838728904724, 
+            "BeginOffset": 1102, 
+            "EndOffset": 1114
+        }, 
+        {
+            "Text": "the CPU run speculative paths", 
+            "Score": 0.92906254529953, 
+            "BeginOffset": 1138, 
+            "EndOffset": 1167
+        }, 
+        {
+            "Text": "unknown array sizes", 
+            "Score": 0.9941658973693848, 
+            "BeginOffset": 1173, 
+            "EndOffset": 1192
+        }, 
+        {
+            "Text": "the size", 
+            "Score": 0.9986575245857239, 
+            "BeginOffset": 1206, 
+            "EndOffset": 1214
+        }, 
+        {
+            "Text": "the array", 
+            "Score": 0.9997654557228088, 
+            "BeginOffset": 1218, 
+            "EndOffset": 1227
+        }, 
+        {
+            "Text": "The loaded data", 
+            "Score": 0.8994919657707214, 
+            "BeginOffset": 1244, 
+            "EndOffset": 1259
+        }, 
+        {
+            "Text": "the cache", 
+            "Score": 0.8404251337051392, 
+            "BeginOffset": 1284, 
+            "EndOffset": 1293
+        }, 
+        {
+            "Text": "a known place", 
+            "Score": 0.9982647895812988, 
+            "BeginOffset": 1297, 
+            "EndOffset": 1310
+        }, 
+        {
+            "Text": "This part", 
+            "Score": 0.9912035465240479, 
+            "BeginOffset": 1326, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "Spectre", 
+            "Score": 0.9968849420547485, 
+            "BeginOffset": 1339, 
+            "EndOffset": 1346
+        }, 
+        {
+            "Text": "the binary level", 
+            "Score": 0.9982074499130249, 
+            "BeginOffset": 1353, 
+            "EndOffset": 1369
+        }, 
+        {
+            "Text": "exploitation", 
+            "Score": 0.9481279850006104, 
+            "BeginOffset": 1397, 
+            "EndOffset": 1409
+        }, 
+        {
+            "Text": "JavaScript", 
+            "Score": 0.7557557225227356, 
+            "BeginOffset": 1423, 
+            "EndOffset": 1433
+        }, 
+        {
+            "Text": "a browser", 
+            "Score": 0.9755203723907471, 
+            "BeginOffset": 1445, 
+            "EndOffset": 1454
+        }, 
+        {
+            "Text": "The second part", 
+            "Score": 0.9978014826774597, 
+            "BeginOffset": 1457, 
+            "EndOffset": 1472
+        }, 
+        {
+            "Text": "Spectre", 
+            "Score": 0.9990516901016235, 
+            "BeginOffset": 1476, 
+            "EndOffset": 1483
+        }, 
+        {
+            "Text": "applications", 
+            "Score": 0.9983137249946594, 
+            "BeginOffset": 1493, 
+            "EndOffset": 1505
+        }, 
+        {
+            "Text": "the branch prediction tables", 
+            "Score": 0.9845763444900513, 
+            "BeginOffset": 1516, 
+            "EndOffset": 1544
+        }, 
+        {
+            "Text": "the speculative execution", 
+            "Score": 0.996086597442627, 
+            "BeginOffset": 1563, 
+            "EndOffset": 1588
+        }, 
+        {
+            "Text": "That way", 
+            "Score": 0.99957275390625, 
+            "BeginOffset": 1590, 
+            "EndOffset": 1598
+        }, 
+        {
+            "Text": "the exploiting code", 
+            "Score": 0.9547637701034546, 
+            "BeginOffset": 1599, 
+            "EndOffset": 1618
+        }, 
+        {
+            "Text": "the same", 
+            "Score": 0.999100387096405, 
+            "BeginOffset": 1627, 
+            "EndOffset": 1635
+        }, 
+        {
+            "Text": "bounds code", 
+            "Score": 0.9312921762466431, 
+            "BeginOffset": 1643, 
+            "EndOffset": 1654
+        }, 
+        {
+            "Text": "the first variant", 
+            "Score": 0.8710227608680725, 
+            "BeginOffset": 1658, 
+            "EndOffset": 1675
+        }, 
+        {
+            "Text": "a different application", 
+            "Score": 0.9996867775917053, 
+            "BeginOffset": 1679, 
+            "EndOffset": 1702
+        }, 
+        {
+            "Text": "even user level", 
+            "Score": 0.8479032516479492, 
+            "BeginOffset": 1706, 
+            "EndOffset": 1721
+        }, 
+        {
+            "Text": "shared hypervisors", 
+            "Score": 0.9918789863586426, 
+            "BeginOffset": 1765, 
+            "EndOffset": 1783
+        }, 
+        {
+            "Text": "virtual machines", 
+            "Score": 0.9857450723648071, 
+            "BeginOffset": 1795, 
+            "EndOffset": 1811
+        }, 
+        {
+            "Text": "data centers", 
+            "Score": 0.9976105093955994, 
+            "BeginOffset": 1823, 
+            "EndOffset": 1835
+        }, 
+        {
+            "Text": "cloud providers", 
+            "Score": 0.782187819480896, 
+            "BeginOffset": 1839, 
+            "EndOffset": 1854
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9973063468933105, 
+            "BeginOffset": 1878, 
+            "EndOffset": 1884
+        }, 
+        {
+            "Text": "the memory", 
+            "Score": 0.997163712978363, 
+            "BeginOffset": 1888, 
+            "EndOffset": 1898
+        }, 
+        {
+            "Text": "other VM owners", 
+            "Score": 0.9980707764625549, 
+            "BeginOffset": 1907, 
+            "EndOffset": 1922
+        }, 
+        {
+            "Text": "The last", 
+            "Score": 0.9980453252792358, 
+            "BeginOffset": 1925, 
+            "EndOffset": 1933
+        }, 
+        {
+            "Text": "Meltdown", 
+            "Score": 0.9273793697357178, 
+            "BeginOffset": 1944, 
+            "EndOffset": 1952
+        }, 
+        {
+            "Text": "a permission check issue", 
+            "Score": 0.9436549544334412, 
+            "BeginOffset": 1967, 
+            "EndOffset": 1991
+        }, 
+        {
+            "Text": "the CPU", 
+            "Score": 0.9960871338844299, 
+            "BeginOffset": 1998, 
+            "EndOffset": 2005
+        }, 
+        {
+            "Text": "the command", 
+            "Score": 0.9996424913406372, 
+            "BeginOffset": 2027, 
+            "EndOffset": 2038
+        }, 
+        {
+            "Text": "the caller", 
+            "Score": 0.9927451014518738, 
+            "BeginOffset": 2067, 
+            "EndOffset": 2077
+        }, 
+        {
+            "Text": "permissions", 
+            "Score": 0.9998167157173157, 
+            "BeginOffset": 2082, 
+            "EndOffset": 2093
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9620379209518433, 
+            "BeginOffset": 2107, 
+            "EndOffset": 2115
+        }, 
+        {
+            "Text": "the verification", 
+            "Score": 0.9976755976676941, 
+            "BeginOffset": 2116, 
+            "EndOffset": 2132
+        }, 
+        {
+            "Text": "the result", 
+            "Score": 0.9765402674674988, 
+            "BeginOffset": 2147, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "the command", 
+            "Score": 0.9995441436767578, 
+            "BeginOffset": 2161, 
+            "EndOffset": 2172
+        }, 
+        {
+            "Text": "the next instructions", 
+            "Score": 0.935989499092102, 
+            "BeginOffset": 2189, 
+            "EndOffset": 2210
+        }, 
+        {
+            "Text": "a possible privilege escalation", 
+            "Score": 0.9974827766418457, 
+            "BeginOffset": 2228, 
+            "EndOffset": 2259
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9971728920936584, 
+            "BeginOffset": 2283, 
+            "EndOffset": 2289
+        }, 
+        {
+            "Text": "kernel level memory", 
+            "Score": 0.9935411214828491, 
+            "BeginOffset": 2293, 
+            "EndOffset": 2312
+        }, 
+        {
+            "Text": "RESOLUTIONS AND STATUS", 
+            "Score": 0.9861417412757874, 
+            "BeginOffset": 2317, 
+            "EndOffset": 2339
+        }, 
+        {
+            "Text": "the researchers", 
+            "Score": 0.8894281983375549, 
+            "BeginOffset": 2350, 
+            "EndOffset": 2365
+        }, 
+        {
+            "Text": "a good job", 
+            "Score": 0.931104302406311, 
+            "BeginOffset": 2370, 
+            "EndOffset": 2380
+        }, 
+        {
+            "Text": "disclosure", 
+            "Score": 0.9976337552070618, 
+            "BeginOffset": 2386, 
+            "EndOffset": 2396
+        }, 
+        {
+            "Text": "vendors", 
+            "Score": 0.9997217059135437, 
+            "BeginOffset": 2409, 
+            "EndOffset": 2416
+        }, 
+        {
+            "Text": "mitigations", 
+            "Score": 0.9614132046699524, 
+            "BeginOffset": 2424, 
+            "EndOffset": 2435
+        }, 
+        {
+            "Text": "most systems", 
+            "Score": 0.9409419894218445, 
+            "BeginOffset": 2436, 
+            "EndOffset": 2448
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9991731643676758, 
+            "BeginOffset": 2479, 
+            "EndOffset": 2487
+        }, 
+        {
+            "Text": "performance impact", 
+            "Score": 0.9946070909500122, 
+            "BeginOffset": 2491, 
+            "EndOffset": 2509
+        }, 
+        {
+            "Text": "these patches", 
+            "Score": 0.9902057647705078, 
+            "BeginOffset": 2522, 
+            "EndOffset": 2535
+        }, 
+        {
+            "Text": "some people", 
+            "Score": 0.9987456798553467, 
+            "BeginOffset": 2550, 
+            "EndOffset": 2561
+        }, 
+        {
+            "Text": "an up to 30% performance", 
+            "Score": 0.917824387550354, 
+            "BeginOffset": 2571, 
+            "EndOffset": 2595
+        }, 
+        {
+            "Text": "your workload", 
+            "Score": 0.9192172884941101, 
+            "BeginOffset": 2642, 
+            "EndOffset": 2655
+        }, 
+        {
+            "Text": "a big issue", 
+            "Score": 0.982303261756897, 
+            "BeginOffset": 2690, 
+            "EndOffset": 2701
+        }, 
+        {
+            "Text": "more attacks", 
+            "Score": 0.9879976511001587, 
+            "BeginOffset": 2727, 
+            "EndOffset": 2739
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9653655886650085, 
+            "BeginOffset": 2743, 
+            "EndOffset": 2753
+        }, 
+        {
+            "Text": "Spectre", 
+            "Score": 0.9976537823677063, 
+            "BeginOffset": 2772, 
+            "EndOffset": 2779
+        }, 
+        {
+            "Text": "the hardware", 
+            "Score": 0.9891798496246338, 
+            "BeginOffset": 2807, 
+            "EndOffset": 2819
+        }, 
+        {
+            "Text": "The major cloud vendors", 
+            "Score": 0.9972313642501831, 
+            "BeginOffset": 2821, 
+            "EndOffset": 2844
+        }, 
+        {
+            "Text": "a good job", 
+            "Score": 0.984824538230896, 
+            "BeginOffset": 2864, 
+            "EndOffset": 2874
+        }, 
+        {
+            "Text": "their own fixes", 
+            "Score": 0.9987382292747498, 
+            "BeginOffset": 2892, 
+            "EndOffset": 2907
+        }, 
+        {
+            "Text": "statements", 
+            "Score": 0.9987924098968506, 
+            "BeginOffset": 2923, 
+            "EndOffset": 2933
+        }, 
+        {
+            "Text": "AWS, Google, and Azure", 
+            "Score": 0.9690051674842834, 
+            "BeginOffset": 2939, 
+            "EndOffset": 2961
+        }, 
+        {
+            "Text": "action", 
+            "Score": 0.9898740649223328, 
+            "BeginOffset": 3021, 
+            "EndOffset": 3027
+        }, 
+        {
+            "Text": "LWN", 
+            "Score": 0.9999231100082397, 
+            "BeginOffset": 3039, 
+            "EndOffset": 3042
+        }, 
+        {
+            "Text": "a publicly available article", 
+            "Score": 0.9873184561729431, 
+            "BeginOffset": 3047, 
+            "EndOffset": 3075
+        }, 
+        {
+            "Text": "the impact", 
+            "Score": 0.9831732511520386, 
+            "BeginOffset": 3087, 
+            "EndOffset": 3097
+        }, 
+        {
+            "Text": "the Linux Kernel", 
+            "Score": 0.9982256889343262, 
+            "BeginOffset": 3101, 
+            "EndOffset": 3117
+        }, 
+        {
+            "Text": "an overview", 
+            "Score": 0.9991583824157715, 
+            "BeginOffset": 3123, 
+            "EndOffset": 3134
+        }, 
+        {
+            "Text": "other OS providers", 
+            "Score": 0.9916012287139893, 
+            "BeginOffset": 3143, 
+            "EndOffset": 3161
+        }, 
+        {
+            "Text": "chip makers", 
+            "Score": 0.8779247999191284, 
+            "BeginOffset": 3166, 
+            "EndOffset": 3177
+        }, 
+        {
+            "Text": "Ars Technica", 
+            "Score": 0.9720698595046997, 
+            "BeginOffset": 3204, 
+            "EndOffset": 3216
+        }, 
+        {
+            "Text": "the whitepaper", 
+            "Score": 0.9967953562736511, 
+            "BeginOffset": 3243, 
+            "EndOffset": 3257
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9834901094436646, 
+            "BeginOffset": 3259, 
+            "EndOffset": 3265
+        }, 
+        {
+            "Text": "security blog", 
+            "Score": 0.968700110912323, 
+            "BeginOffset": 3268, 
+            "EndOffset": 3281
+        }, 
+        {
+            "Text": "regular blog", 
+            "Score": 0.9979954361915588, 
+            "BeginOffset": 3286, 
+            "EndOffset": 3298
+        }, 
+        {
+            "Text": "some more information", 
+            "Score": 0.8961462378501892, 
+            "BeginOffset": 3304, 
+            "EndOffset": 3325
+        }, 
+        {
+            "Text": "the vulnerabilities", 
+            "Score": 0.9961996674537659, 
+            "BeginOffset": 3332, 
+            "EndOffset": 3351
+        }, 
+        {
+            "Text": "[1] Full disclosures", 
+            "Score": 0.9963369965553284, 
+            "BeginOffset": 3354, 
+            "EndOffset": 3374
+        }, 
+        {
+            "Text": "the website", 
+            "Score": 0.8342835903167725, 
+            "BeginOffset": 3382, 
+            "EndOffset": 3393
+        }
+    ]
+}

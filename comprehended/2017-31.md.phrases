@@ -1,0 +1,826 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "CloudFormation StackSets", 
+            "Score": 0.9743822813034058, 
+            "BeginOffset": 0, 
+            "EndOffset": 24
+        }, 
+        {
+            "Text": "AWS and Azure", 
+            "Score": 0.9631654620170593, 
+            "BeginOffset": 33, 
+            "EndOffset": 46
+        }, 
+        {
+            "Text": "Container Instances", 
+            "Score": 0.996282696723938, 
+            "BeginOffset": 58, 
+            "EndOffset": 77
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.8536782264709473, 
+            "BeginOffset": 121, 
+            "EndOffset": 126
+        }, 
+        {
+            "Text": "an end date", 
+            "Score": 0.9982435703277588, 
+            "BeginOffset": 140, 
+            "EndOffset": 151
+        }, 
+        {
+            "Text": "AWS CLOUDFORMATION STACKSETS", 
+            "Score": 0.8692349195480347, 
+            "BeginOffset": 156, 
+            "EndOffset": 184
+        }, 
+        {
+            "Text": "a presentation", 
+            "Score": 0.999209463596344, 
+            "BeginOffset": 202, 
+            "EndOffset": 216
+        }, 
+        {
+            "Text": "the latest Serverless meetup", 
+            "Score": 0.991563081741333, 
+            "BeginOffset": 220, 
+            "EndOffset": 248
+        }, 
+        {
+            "Text": "two AWS certification exams", 
+            "Score": 0.9848155975341797, 
+            "BeginOffset": 261, 
+            "EndOffset": 288
+        }, 
+        {
+            "Text": "the week", 
+            "Score": 0.9991369247436523, 
+            "BeginOffset": 292, 
+            "EndOffset": 300
+        }, 
+        {
+            "Text": "the latest note", 
+            "Score": 0.7668676376342773, 
+            "BeginOffset": 307, 
+            "EndOffset": 322
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.748993992805481, 
+            "BeginOffset": 322, 
+            "EndOffset": 325
+        }, 
+        {
+            "Text": "even more attention", 
+            "Score": 0.9582576155662537, 
+            "BeginOffset": 344, 
+            "EndOffset": 363
+        }, 
+        {
+            "Text": "cloud platforms", 
+            "Score": 0.976036012172699, 
+            "BeginOffset": 367, 
+            "EndOffset": 382
+        }, 
+        {
+            "Text": "the most interesting news", 
+            "Score": 0.991451621055603, 
+            "BeginOffset": 419, 
+            "EndOffset": 444
+        }, 
+        {
+            "Text": "This first bit", 
+            "Score": 0.9989653825759888, 
+            "BeginOffset": 468, 
+            "EndOffset": 482
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9984055757522583, 
+            "BeginOffset": 494, 
+            "EndOffset": 497
+        }, 
+        {
+            "Text": "a welcome improvement/addition", 
+            "Score": 0.9620001912117004, 
+            "BeginOffset": 505, 
+            "EndOffset": 535
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.996124804019928, 
+            "BeginOffset": 539, 
+            "EndOffset": 553
+        }, 
+        {
+            "Text": "StackSets", 
+            "Score": 0.9841991662979126, 
+            "BeginOffset": 555, 
+            "EndOffset": 564
+        }, 
+        {
+            "Text": "stacks", 
+            "Score": 0.9353983998298645, 
+            "BeginOffset": 585, 
+            "EndOffset": 591
+        }, 
+        {
+            "Text": "regions and accounts", 
+            "Score": 0.9519101977348328, 
+            "BeginOffset": 599, 
+            "EndOffset": 619
+        }, 
+        {
+            "Text": "The idea", 
+            "Score": 0.9989198446273804, 
+            "BeginOffset": 621, 
+            "EndOffset": 629
+        }, 
+        {
+            "Text": "the same things", 
+            "Score": 0.9984464049339294, 
+            "BeginOffset": 670, 
+            "EndOffset": 685
+        }, 
+        {
+            "Text": "all your regions", 
+            "Score": 0.9624342322349548, 
+            "BeginOffset": 689, 
+            "EndOffset": 705
+        }, 
+        {
+            "Text": "accounts", 
+            "Score": 0.7212879061698914, 
+            "BeginOffset": 713, 
+            "EndOffset": 721
+        }, 
+        {
+            "Text": "applications", 
+            "Score": 0.9842299818992615, 
+            "BeginOffset": 773, 
+            "EndOffset": 785
+        }, 
+        {
+            "Text": "this way", 
+            "Score": 0.9976044297218323, 
+            "BeginOffset": 786, 
+            "EndOffset": 794
+        }, 
+        {
+            "Text": "the underlying tooling", 
+            "Score": 0.9386597275733948, 
+            "BeginOffset": 835, 
+            "EndOffset": 857
+        }, 
+        {
+            "Text": "the sample templates", 
+            "Score": 0.9738443493843079, 
+            "BeginOffset": 892, 
+            "EndOffset": 912
+        }, 
+        {
+            "Text": "AWS supplies", 
+            "Score": 0.7669209837913513, 
+            "BeginOffset": 918, 
+            "EndOffset": 930
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9899040460586548, 
+            "BeginOffset": 953, 
+            "EndOffset": 959
+        }, 
+        {
+            "Text": "CloudTrail and AWS Config", 
+            "Score": 0.9276593327522278, 
+            "BeginOffset": 974, 
+            "EndOffset": 999
+        }, 
+        {
+            "Text": "config rules", 
+            "Score": 0.980578601360321, 
+            "BeginOffset": 1010, 
+            "EndOffset": 1022
+        }, 
+        {
+            "Text": "other things", 
+            "Score": 0.8582818508148193, 
+            "BeginOffset": 1034, 
+            "EndOffset": 1046
+        }, 
+        {
+            "Text": "a great case", 
+            "Score": 0.9959200620651245, 
+            "BeginOffset": 1093, 
+            "EndOffset": 1105
+        }, 
+        {
+            "Text": "various helper Lambda functions", 
+            "Score": 0.9847738742828369, 
+            "BeginOffset": 1110, 
+            "EndOffset": 1141
+        }, 
+        {
+            "Text": "base level infrastructure", 
+            "Score": 0.8751525282859802, 
+            "BeginOffset": 1145, 
+            "EndOffset": 1170
+        }, 
+        {
+            "Text": "VPCs", 
+            "Score": 0.9867960810661316, 
+            "BeginOffset": 1179, 
+            "EndOffset": 1183
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9553908705711365, 
+            "BeginOffset": 1217, 
+            "EndOffset": 1222
+        }, 
+        {
+            "Text": "fun", 
+            "Score": 0.9996569752693176, 
+            "BeginOffset": 1226, 
+            "EndOffset": 1229
+        }, 
+        {
+            "Text": "a complete application", 
+            "Score": 0.9838190674781799, 
+            "BeginOffset": 1240, 
+            "EndOffset": 1262
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9994871616363525, 
+            "BeginOffset": 1270, 
+            "EndOffset": 1275
+        }, 
+        {
+            "Text": "regions", 
+            "Score": 0.9998789429664612, 
+            "BeginOffset": 1279, 
+            "EndOffset": 1286
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.9994687438011169, 
+            "BeginOffset": 1290, 
+            "EndOffset": 1303
+        }, 
+        {
+            "Text": "a single command", 
+            "Score": 0.9996011257171631, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1325
+        }, 
+        {
+            "Text": "MICROSOFT CONTAINER", 
+            "Score": 0.9994641542434692, 
+            "BeginOffset": 1330, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "The most interesting cloud", 
+            "Score": 0.8810719847679138, 
+            "BeginOffset": 1362, 
+            "EndOffset": 1388
+        }, 
+        {
+            "Text": "related news", 
+            "Score": 0.824278712272644, 
+            "BeginOffset": 1389, 
+            "EndOffset": 1401
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.885029137134552, 
+            "BeginOffset": 1419, 
+            "EndOffset": 1422
+        }, 
+        {
+            "Text": "that honor", 
+            "Score": 0.9824402332305908, 
+            "BeginOffset": 1436, 
+            "EndOffset": 1446
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9516661167144775, 
+            "BeginOffset": 1455, 
+            "EndOffset": 1460
+        }, 
+        {
+            "Text": "their new Container Instances", 
+            "Score": 0.9420780539512634, 
+            "BeginOffset": 1466, 
+            "EndOffset": 1495
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9976837635040283, 
+            "BeginOffset": 1497, 
+            "EndOffset": 1502
+        }, 
+        {
+            "Text": "their Docker support", 
+            "Score": 0.9936574101448059, 
+            "BeginOffset": 1534, 
+            "EndOffset": 1554
+        }, 
+        {
+            "Text": "their regular container service", 
+            "Score": 0.9608708620071411, 
+            "BeginOffset": 1565, 
+            "EndOffset": 1596
+        }, 
+        {
+            "Text": "various orchestration methods", 
+            "Score": 0.9988162517547607, 
+            "BeginOffset": 1612, 
+            "EndOffset": 1641
+        }, 
+        {
+            "Text": "this Container Instances", 
+            "Score": 0.9911295175552368, 
+            "BeginOffset": 1647, 
+            "EndOffset": 1671
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9775018692016602, 
+            "BeginOffset": 1715, 
+            "EndOffset": 1718
+        }, 
+        {
+            "Text": "serverless Docker", 
+            "Score": 0.9948931932449341, 
+            "BeginOffset": 1762, 
+            "EndOffset": 1779
+        }, 
+        {
+            "Text": "The only thing", 
+            "Score": 0.9986181855201721, 
+            "BeginOffset": 1781, 
+            "EndOffset": 1795
+        }, 
+        {
+            "Text": "the Docker container", 
+            "Score": 0.9868656396865845, 
+            "BeginOffset": 1820, 
+            "EndOffset": 1840
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.8639820218086243, 
+            "BeginOffset": 1845, 
+            "EndOffset": 1850
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.9850937128067017, 
+            "BeginOffset": 1856, 
+            "EndOffset": 1864
+        }, 
+        {
+            "Text": "no virtual machine", 
+            "Score": 0.9791243672370911, 
+            "BeginOffset": 1893, 
+            "EndOffset": 1911
+        }, 
+        {
+            "Text": "no security", 
+            "Score": 0.9968754053115845, 
+            "BeginOffset": 1923, 
+            "EndOffset": 1934
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.8057377934455872, 
+            "BeginOffset": 1943, 
+            "EndOffset": 1949
+        }, 
+        {
+            "Text": "the resources", 
+            "Score": 0.9979928135871887, 
+            "BeginOffset": 1991, 
+            "EndOffset": 2004
+        }, 
+        {
+            "Text": "your container", 
+            "Score": 0.994138240814209, 
+            "BeginOffset": 2005, 
+            "EndOffset": 2019
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.938583493232727, 
+            "BeginOffset": 2029, 
+            "EndOffset": 2036
+        }, 
+        {
+            "Text": "cores and RAM", 
+            "Score": 0.9995344877243042, 
+            "BeginOffset": 2040, 
+            "EndOffset": 2053
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9942489862442017, 
+            "BeginOffset": 2081, 
+            "EndOffset": 2086
+        }, 
+        {
+            "Text": "standalone, simple Docker containers", 
+            "Score": 0.9722235798835754, 
+            "BeginOffset": 2101, 
+            "EndOffset": 2137
+        }, 
+        {
+            "Text": "addition", 
+            "Score": 0.9821288585662842, 
+            "BeginOffset": 2143, 
+            "EndOffset": 2151
+        }, 
+        {
+            "Text": "a Kubernetes connector", 
+            "Score": 0.9994987845420837, 
+            "BeginOffset": 2169, 
+            "EndOffset": 2191
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.8368607759475708, 
+            "BeginOffset": 2227, 
+            "EndOffset": 2237
+        }, 
+        {
+            "Text": "Container Instances", 
+            "Score": 0.9178988933563232, 
+            "BeginOffset": 2268, 
+            "EndOffset": 2287
+        }, 
+        {
+            "Text": "any single containers", 
+            "Score": 0.9942653179168701, 
+            "BeginOffset": 2299, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "this YouTube video", 
+            "Score": 0.9815115928649902, 
+            "BeginOffset": 2363, 
+            "EndOffset": 2381
+        }, 
+        {
+            "Text": "else the container team", 
+            "Score": 0.9072657227516174, 
+            "BeginOffset": 2461, 
+            "EndOffset": 2484
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9105085134506226, 
+            "BeginOffset": 2488, 
+            "EndOffset": 2493
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.951515257358551, 
+            "BeginOffset": 2538, 
+            "EndOffset": 2544
+        }, 
+        {
+            "Text": "this show", 
+            "Score": 0.9992337226867676, 
+            "BeginOffset": 2550, 
+            "EndOffset": 2559
+        }, 
+        {
+            "Text": "different cloud platforms", 
+            "Score": 0.7937212586402893, 
+            "BeginOffset": 2566, 
+            "EndOffset": 2591
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.8669216632843018, 
+            "BeginOffset": 2600, 
+            "EndOffset": 2602
+        }, 
+        {
+            "Text": "FLASH END", 
+            "Score": 0.6985794305801392, 
+            "BeginOffset": 2607, 
+            "EndOffset": 2616
+        }, 
+        {
+            "Text": "LIFE", 
+            "Score": 0.9991861581802368, 
+            "BeginOffset": 2620, 
+            "EndOffset": 2624
+        }, 
+        {
+            "Text": "My history", 
+            "Score": 0.7969813942909241, 
+            "BeginOffset": 2627, 
+            "EndOffset": 2637
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.8079468607902527, 
+            "BeginOffset": 2643, 
+            "EndOffset": 2648
+        }, 
+        {
+            "Text": "a happy one", 
+            "Score": 0.9982127547264099, 
+            "BeginOffset": 2655, 
+            "EndOffset": 2666
+        }, 
+        {
+            "Text": "friends", 
+            "Score": 0.9934476613998413, 
+            "BeginOffset": 2703, 
+            "EndOffset": 2710
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9981569647789001, 
+            "BeginOffset": 2758, 
+            "EndOffset": 2764
+        }, 
+        {
+            "Text": "my desktop[4]", 
+            "Score": 0.9694333076477051, 
+            "BeginOffset": 2768, 
+            "EndOffset": 2781
+        }, 
+        {
+            "Text": "case", 
+            "Score": 0.9215185046195984, 
+            "BeginOffset": 2786, 
+            "EndOffset": 2790
+        }, 
+        {
+            "Text": "your hands", 
+            "Score": 0.9927929043769836, 
+            "BeginOffset": 2814, 
+            "EndOffset": 2824
+        }, 
+        {
+            "Text": "your back", 
+            "Score": 0.9974802732467651, 
+            "BeginOffset": 2832, 
+            "EndOffset": 2841
+        }, 
+        {
+            "Text": "that time", 
+            "Score": 0.9818927049636841, 
+            "BeginOffset": 2845, 
+            "EndOffset": 2854
+        }, 
+        {
+            "Text": "streaming videos", 
+            "Score": 0.9973979592323303, 
+            "BeginOffset": 2872, 
+            "EndOffset": 2888
+        }, 
+        {
+            "Text": "no support", 
+            "Score": 0.9973310232162476, 
+            "BeginOffset": 2929, 
+            "EndOffset": 2939
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.9985623955726624, 
+            "BeginOffset": 2944, 
+            "EndOffset": 2949
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9844284653663635, 
+            "BeginOffset": 2953, 
+            "EndOffset": 2958
+        }, 
+        {
+            "Text": "the only people", 
+            "Score": 0.7192744612693787, 
+            "BeginOffset": 3014, 
+            "EndOffset": 3029
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.7843334674835205, 
+            "BeginOffset": 3051, 
+            "EndOffset": 3056
+        }, 
+        {
+            "Text": "the smartphone", 
+            "Score": 0.8881213068962097, 
+            "BeginOffset": 3068, 
+            "EndOffset": 3082
+        }, 
+        {
+            "Text": "the world", 
+            "Score": 0.9872664213180542, 
+            "BeginOffset": 3096, 
+            "EndOffset": 3105
+        }, 
+        {
+            "Text": "First iOS", 
+            "Score": 0.9630639553070068, 
+            "BeginOffset": 3107, 
+            "EndOffset": 3116
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9990901350975037, 
+            "BeginOffset": 3133, 
+            "EndOffset": 3140
+        }, 
+        {
+            "Text": "Flash", 
+            "Score": 0.9887274503707886, 
+            "BeginOffset": 3145, 
+            "EndOffset": 3150
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9986403584480286, 
+            "BeginOffset": 3161, 
+            "EndOffset": 3169
+        }, 
+        {
+            "Text": "years", 
+            "Score": 0.997300922870636, 
+            "BeginOffset": 3173, 
+            "EndOffset": 3178
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.7788358926773071, 
+            "BeginOffset": 3179, 
+            "EndOffset": 3186
+        }, 
+        {
+            "Text": "your battery", 
+            "Score": 0.9987689256668091, 
+            "BeginOffset": 3226, 
+            "EndOffset": 3238
+        }, 
+        {
+            "Text": "a 5 minute video", 
+            "Score": 0.8464602828025818, 
+            "BeginOffset": 3243, 
+            "EndOffset": 3259
+        }, 
+        {
+            "Text": "the world", 
+            "Score": 0.9976643323898315, 
+            "BeginOffset": 3273, 
+            "EndOffset": 3282
+        }, 
+        {
+            "Text": "other video standards", 
+            "Score": 0.9967092275619507, 
+            "BeginOffset": 3309, 
+            "EndOffset": 3330
+        }, 
+        {
+            "Text": "their own issues", 
+            "Score": 0.9986857175827026, 
+            "BeginOffset": 3343, 
+            "EndOffset": 3359
+        }, 
+        {
+            "Text": "some reason", 
+            "Score": 0.8694257140159607, 
+            "BeginOffset": 3411, 
+            "EndOffset": 3422
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9876257181167603, 
+            "BeginOffset": 3449, 
+            "EndOffset": 3455
+        }, 
+        {
+            "Text": "Flash support", 
+            "Score": 0.9985374212265015, 
+            "BeginOffset": 3473, 
+            "EndOffset": 3486
+        }, 
+        {
+            "Text": "the desktop version", 
+            "Score": 0.8950161337852478, 
+            "BeginOffset": 3501, 
+            "EndOffset": 3520
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.990695595741272, 
+            "BeginOffset": 3524, 
+            "EndOffset": 3530
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9876770377159119, 
+            "BeginOffset": 3567, 
+            "EndOffset": 3577
+        }, 
+        {
+            "Text": "Adobe", 
+            "Score": 0.972064197063446, 
+            "BeginOffset": 3584, 
+            "EndOffset": 3589
+        }, 
+        {
+            "Text": "the towel", 
+            "Score": 0.9991960525512695, 
+            "BeginOffset": 3604, 
+            "EndOffset": 3613
+        }, 
+        {
+            "Text": "2020", 
+            "Score": 0.94439297914505, 
+            "BeginOffset": 3647, 
+            "EndOffset": 3651
+        }, 
+        {
+            "Text": "this common attack vector", 
+            "Score": 0.9664897918701172, 
+            "BeginOffset": 3668, 
+            "EndOffset": 3693
+        }, 
+        {
+            "Text": "security issues", 
+            "Score": 0.6597260236740112, 
+            "BeginOffset": 3698, 
+            "EndOffset": 3713
+        }, 
+        {
+            "Text": "[1] SysOps Administrator Associate and Solution Architect Pro", 
+            "Score": 0.897296130657196, 
+            "BeginOffset": 3746, 
+            "EndOffset": 3807
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9368574023246765, 
+            "BeginOffset": 3830, 
+            "EndOffset": 3833
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9917628169059753, 
+            "BeginOffset": 3890, 
+            "EndOffset": 3893
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8719481825828552, 
+            "BeginOffset": 3925, 
+            "EndOffset": 3928
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.998235285282135, 
+            "BeginOffset": 3967, 
+            "EndOffset": 3970
+        }, 
+        {
+            "Text": "the first place", 
+            "Score": 0.972495973110199, 
+            "BeginOffset": 3974, 
+            "EndOffset": 3989
+        }, 
+        {
+            "Text": "[4] Warty", 
+            "Score": 0.985787570476532, 
+            "BeginOffset": 3992, 
+            "EndOffset": 4001
+        }, 
+        {
+            "Text": "the first beta version", 
+            "Score": 0.9271787405014038, 
+            "BeginOffset": 4048, 
+            "EndOffset": 4070
+        }, 
+        {
+            "Text": "Hoary", 
+            "Score": 0.9814869165420532, 
+            "BeginOffset": 4074, 
+            "EndOffset": 4079
+        }, 
+        {
+            "Text": "my laptops wireless card", 
+            "Score": 0.9117971062660217, 
+            "BeginOffset": 4095, 
+            "EndOffset": 4119
+        }
+    ]
+}

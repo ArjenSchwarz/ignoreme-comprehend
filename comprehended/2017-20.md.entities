@@ -1,0 +1,403 @@
+{
+    "Entities": [
+        {
+            "Text": "first note", 
+            "Score": 0.7652105689048767, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4, 
+            "EndOffset": 14
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.5468024611473083, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 44, 
+            "EndOffset": 53
+        }, 
+        {
+            "Text": "WannaCry", 
+            "Score": 0.4493619501590729, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 109, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.5312743186950684, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 122, 
+            "EndOffset": 131
+        }, 
+        {
+            "Text": "Build 2017", 
+            "Score": 0.808295726776123, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 132, 
+            "EndOffset": 142
+        }, 
+        {
+            "Text": "WANNACRY", 
+            "Score": 0.4728994369506836, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 173, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9626616835594177, 
+            "Type": "DATE", 
+            "BeginOffset": 245, 
+            "EndOffset": 254
+        }, 
+        {
+            "Text": "NSA", 
+            "Score": 0.9868147373199463, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 460, 
+            "EndOffset": 463
+        }, 
+        {
+            "Text": "first instance", 
+            "Score": 0.8294128775596619, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 495, 
+            "EndOffset": 509
+        }, 
+        {
+            "Text": "WannaCry", 
+            "Score": 0.23387087881565094, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 680, 
+            "EndOffset": 688
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.6644570231437683, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 767, 
+            "EndOffset": 776
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.8753752112388611, 
+            "Type": "TITLE", 
+            "BeginOffset": 863, 
+            "EndOffset": 870
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9746736884117126, 
+            "Type": "TITLE", 
+            "BeginOffset": 985, 
+            "EndOffset": 992
+        }, 
+        {
+            "Text": "NSA", 
+            "Score": 0.9999963045120239, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1072, 
+            "EndOffset": 1075
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999740123748779, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1166, 
+            "EndOffset": 1175
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9985224604606628, 
+            "Type": "DATE", 
+            "BeginOffset": 1391, 
+            "EndOffset": 1400
+        }, 
+        {
+            "Text": "FBI", 
+            "Score": 0.9999781847000122, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1411, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999799728393555, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1429, 
+            "EndOffset": 1434
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9908876419067383, 
+            "Type": "TITLE", 
+            "BeginOffset": 1457, 
+            "EndOffset": 1460
+        }, 
+        {
+            "Text": "FBI", 
+            "Score": 0.999991774559021, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1537, 
+            "EndOffset": 1540
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9996644258499146, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1587, 
+            "EndOffset": 1591
+        }, 
+        {
+            "Text": "CIA", 
+            "Score": 0.7730216383934021, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1596, 
+            "EndOffset": 1599
+        }, 
+        {
+            "Text": "NSA", 
+            "Score": 0.9956747889518738, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1604, 
+            "EndOffset": 1607
+        }, 
+        {
+            "Text": "MICROSOFT", 
+            "Score": 0.9999186992645264, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1838, 
+            "EndOffset": 1847
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.998865008354187, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1879, 
+            "EndOffset": 1888
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9999915361404419, 
+            "Type": "DATE", 
+            "BeginOffset": 2013, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9851102828979492, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2131, 
+            "EndOffset": 2136
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9995536208152771, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2196, 
+            "EndOffset": 2201
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999675750732422, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2222, 
+            "EndOffset": 2226
+        }, 
+        {
+            "Text": "MySQL", 
+            "Score": 0.9999614953994751, 
+            "Type": "TITLE", 
+            "BeginOffset": 2227, 
+            "EndOffset": 2232
+        }, 
+        {
+            "Text": "Postgres", 
+            "Score": 0.9999873638153076, 
+            "Type": "TITLE", 
+            "BeginOffset": 2237, 
+            "EndOffset": 2245
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999991655349731, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2333, 
+            "EndOffset": 2337
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9997473359107971, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2359, 
+            "EndOffset": 2362
+        }, 
+        {
+            "Text": "Postgres", 
+            "Score": 0.9999250173568726, 
+            "Type": "TITLE", 
+            "BeginOffset": 2363, 
+            "EndOffset": 2371
+        }, 
+        {
+            "Text": "earlier this year", 
+            "Score": 0.8133100271224976, 
+            "Type": "DATE", 
+            "BeginOffset": 2425, 
+            "EndOffset": 2442
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999841451644897, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2457, 
+            "EndOffset": 2463
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9999164342880249, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2491, 
+            "EndOffset": 2494
+        }, 
+        {
+            "Text": "second database", 
+            "Score": 0.9999828338623047, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2615, 
+            "EndOffset": 2630
+        }, 
+        {
+            "Text": "Cosmos DB", 
+            "Score": 0.9999985098838806, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2736, 
+            "EndOffset": 2745
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999972581863403, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2829, 
+            "EndOffset": 2834
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999985694885254, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3108, 
+            "EndOffset": 3117
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.6854174137115479, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3254, 
+            "EndOffset": 3257
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9880096316337585, 
+            "Type": "TITLE", 
+            "BeginOffset": 3660, 
+            "EndOffset": 3667
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.999994158744812, 
+            "Type": "TITLE", 
+            "BeginOffset": 3682, 
+            "EndOffset": 3687
+        }, 
+        {
+            "Text": "WSL", 
+            "Score": 0.9999701976776123, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3689, 
+            "EndOffset": 3692
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.978208065032959, 
+            "Type": "DATE", 
+            "BeginOffset": 3710, 
+            "EndOffset": 3719
+        }, 
+        {
+            "Text": "Build conference", 
+            "Score": 0.9993345141410828, 
+            "Type": "EVENT", 
+            "BeginOffset": 3722, 
+            "EndOffset": 3738
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9999091625213623, 
+            "Type": "TITLE", 
+            "BeginOffset": 3801, 
+            "EndOffset": 3806
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9998076558113098, 
+            "Type": "TITLE", 
+            "BeginOffset": 3855, 
+            "EndOffset": 3861
+        }, 
+        {
+            "Text": "WannaCry", 
+            "Score": 0.9999963045120239, 
+            "Type": "TITLE", 
+            "BeginOffset": 4288, 
+            "EndOffset": 4296
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4327, 
+            "EndOffset": 4336
+        }, 
+        {
+            "Text": "WannaCry", 
+            "Score": 0.9999531507492065, 
+            "Type": "TITLE", 
+            "BeginOffset": 4370, 
+            "EndOffset": 4378
+        }, 
+        {
+            "Text": "WannaCrypt", 
+            "Score": 1.0, 
+            "Type": "TITLE", 
+            "BeginOffset": 4397, 
+            "EndOffset": 4407
+        }, 
+        {
+            "Text": "RDS", 
+            "Score": 0.997283935546875, 
+            "Type": "TITLE", 
+            "BeginOffset": 4481, 
+            "EndOffset": 4484
+        }, 
+        {
+            "Text": "Aurora", 
+            "Score": 0.9999866485595703, 
+            "Type": "TITLE", 
+            "BeginOffset": 4536, 
+            "EndOffset": 4542
+        }, 
+        {
+            "Text": "iTunes", 
+            "Score": 0.98232102394104, 
+            "Type": "TITLE", 
+            "BeginOffset": 4727, 
+            "EndOffset": 4733
+        }, 
+        {
+            "Text": "App Store", 
+            "Score": 0.999992311000824, 
+            "Type": "TITLE", 
+            "BeginOffset": 4757, 
+            "EndOffset": 4766
+        }
+    ]
+}

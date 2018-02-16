@@ -1,0 +1,123 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.6504708528518677, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "Google Cloud Platform", 
+            "Score": 0.6906300187110901, 
+            "Type": "TITLE", 
+            "BeginOffset": 44, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "Cloud Warrior", 
+            "Score": 0.7976267337799072, 
+            "Type": "TITLE", 
+            "BeginOffset": 131, 
+            "EndOffset": 144
+        }, 
+        {
+            "Text": "a day before", 
+            "Score": 0.7845997214317322, 
+            "Type": "DATE", 
+            "BeginOffset": 177, 
+            "EndOffset": 189
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.5889348387718201, 
+            "Type": "TITLE", 
+            "BeginOffset": 228, 
+            "EndOffset": 231
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.6849023699760437, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 233, 
+            "EndOffset": 236
+        }, 
+        {
+            "Text": "60%", 
+            "Score": 0.9966159462928772, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 870, 
+            "EndOffset": 873
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.5318424701690674, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 987, 
+            "EndOffset": 993
+        }, 
+        {
+            "Text": "Cloud Platform", 
+            "Score": 0.6868719458580017, 
+            "Type": "TITLE", 
+            "BeginOffset": 994, 
+            "EndOffset": 1008
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9978522062301636, 
+            "Type": "DATE", 
+            "BeginOffset": 1504, 
+            "EndOffset": 1513
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1526, 
+            "EndOffset": 1529
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999920129776001, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1663, 
+            "EndOffset": 1666
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9999548196792603, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1961, 
+            "EndOffset": 1970
+        }, 
+        {
+            "Text": "New Zealand", 
+            "Score": 0.9998171925544739, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1975, 
+            "EndOffset": 1986
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999934434890747, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2143, 
+            "EndOffset": 2146
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2349, 
+            "EndOffset": 2352
+        }, 
+        {
+            "Text": "1 warrior per company", 
+            "Score": 0.9995464086532593, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2525, 
+            "EndOffset": 2546
+        }
+    ]
+}

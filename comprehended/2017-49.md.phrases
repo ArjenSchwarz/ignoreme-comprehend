@@ -1,0 +1,802 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Invent week", 
+            "Score": 0.8661291599273682, 
+            "BeginOffset": 10, 
+            "EndOffset": 21
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9952393174171448, 
+            "BeginOffset": 39, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "many new toys", 
+            "Score": 0.9986574053764343, 
+            "BeginOffset": 53, 
+            "EndOffset": 66
+        }, 
+        {
+            "Text": "the containers", 
+            "Score": 0.8707249760627747, 
+            "BeginOffset": 110, 
+            "EndOffset": 124
+        }, 
+        {
+            "Text": "serverless parts", 
+            "Score": 0.8873669505119324, 
+            "BeginOffset": 129, 
+            "EndOffset": 145
+        }, 
+        {
+            "Text": "today", 
+            "Score": 0.992716372013092, 
+            "BeginOffset": 146, 
+            "EndOffset": 151
+        }, 
+        {
+            "Text": "a major security issue", 
+            "Score": 0.9961438775062561, 
+            "BeginOffset": 171, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "macOS", 
+            "Score": 0.993427574634552, 
+            "BeginOffset": 197, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "CONTAINERS", 
+            "Score": 0.5524836778640747, 
+            "BeginOffset": 207, 
+            "EndOffset": 217
+        }, 
+        {
+            "Text": "the obvious one", 
+            "Score": 0.9971455931663513, 
+            "BeginOffset": 237, 
+            "EndOffset": 252
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7598599195480347, 
+            "BeginOffset": 264, 
+            "EndOffset": 267
+        }, 
+        {
+            "Text": "the CNCF", 
+            "Score": 0.980137288570404, 
+            "BeginOffset": 276, 
+            "EndOffset": 284
+        }, 
+        {
+            "Text": "earlier this year", 
+            "Score": 0.994488000869751, 
+            "BeginOffset": 285, 
+            "EndOffset": 302
+        }, 
+        {
+            "Text": "a Kubernetes service", 
+            "Score": 0.9957560896873474, 
+            "BeginOffset": 346, 
+            "EndOffset": 366
+        }, 
+        {
+            "Text": "the Elastic Container Service", 
+            "Score": 0.9957574605941772, 
+            "BeginOffset": 421, 
+            "EndOffset": 450
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9885864853858948, 
+            "BeginOffset": 455, 
+            "EndOffset": 465
+        }, 
+        {
+            "Text": "EKS", 
+            "Score": 0.9886448383331299, 
+            "BeginOffset": 467, 
+            "EndOffset": 470
+        }, 
+        {
+            "Text": "preview", 
+            "Score": 0.8919476866722107, 
+            "BeginOffset": 506, 
+            "EndOffset": 513
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9904271364212036, 
+            "BeginOffset": 542, 
+            "EndOffset": 548
+        }, 
+        {
+            "Text": "the pretty sparse product description", 
+            "Score": 0.9947398900985718, 
+            "BeginOffset": 605, 
+            "EndOffset": 642
+        }, 
+        {
+            "Text": "pricing", 
+            "Score": 0.8693796396255493, 
+            "BeginOffset": 673, 
+            "EndOffset": 680
+        }, 
+        {
+            "Text": "a little", 
+            "Score": 0.9233914017677307, 
+            "BeginOffset": 696, 
+            "EndOffset": 704
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.8991623520851135, 
+            "BeginOffset": 742, 
+            "EndOffset": 745
+        }, 
+        {
+            "Text": "the cluster management fees", 
+            "Score": 0.9709532260894775, 
+            "BeginOffset": 759, 
+            "EndOffset": 786
+        }, 
+        {
+            "Text": "the latest version", 
+            "Score": 0.9996393322944641, 
+            "BeginOffset": 833, 
+            "EndOffset": 851
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.988669216632843, 
+            "BeginOffset": 855, 
+            "EndOffset": 865
+        }, 
+        {
+            "Text": "1.7", 
+            "Score": 0.9613052606582642, 
+            "BeginOffset": 885, 
+            "EndOffset": 888
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9980289936065674, 
+            "BeginOffset": 892, 
+            "EndOffset": 902
+        }, 
+        {
+            "Text": "the other hand", 
+            "Score": 0.9986197352409363, 
+            "BeginOffset": 907, 
+            "EndOffset": 921
+        }, 
+        {
+            "Text": "a vanilla version", 
+            "Score": 0.9978089928627014, 
+            "BeginOffset": 937, 
+            "EndOffset": 954
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9826390743255615, 
+            "BeginOffset": 958, 
+            "EndOffset": 968
+        }, 
+        {
+            "Text": "good integration", 
+            "Score": 0.9568372964859009, 
+            "BeginOffset": 980, 
+            "EndOffset": 996
+        }, 
+        {
+            "Text": "AWS services", 
+            "Score": 0.9987348318099976, 
+            "BeginOffset": 1002, 
+            "EndOffset": 1014
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9990536570549011, 
+            "BeginOffset": 1019, 
+            "EndOffset": 1025
+        }, 
+        {
+            "Text": "access control", 
+            "Score": 0.9944515824317932, 
+            "BeginOffset": 1031, 
+            "EndOffset": 1045
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9931605458259583, 
+            "BeginOffset": 1058, 
+            "EndOffset": 1064
+        }, 
+        {
+            "Text": "a closer look", 
+            "Score": 0.9986397624015808, 
+            "BeginOffset": 1076, 
+            "EndOffset": 1089
+        }, 
+        {
+            "Text": "EKS", 
+            "Score": 0.998362123966217, 
+            "BeginOffset": 1125, 
+            "EndOffset": 1128
+        }, 
+        {
+            "Text": "the only thing", 
+            "Score": 0.9788144826889038, 
+            "BeginOffset": 1137, 
+            "EndOffset": 1151
+        }, 
+        {
+            "Text": "Fargate[1]", 
+            "Score": 0.8995367884635925, 
+            "BeginOffset": 1177, 
+            "EndOffset": 1187
+        }, 
+        {
+            "Text": "Similar", 
+            "Score": 0.9973950386047363, 
+            "BeginOffset": 1189, 
+            "EndOffset": 1196
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.7666518688201904, 
+            "BeginOffset": 1200, 
+            "EndOffset": 1205
+        }, 
+        {
+            "Text": "Container Instances", 
+            "Score": 0.9775790572166443, 
+            "BeginOffset": 1208, 
+            "EndOffset": 1227
+        }, 
+        {
+            "Text": "a managed container instance", 
+            "Score": 0.9986358880996704, 
+            "BeginOffset": 1237, 
+            "EndOffset": 1265
+        }, 
+        {
+            "Text": "the underlying EC2 instances", 
+            "Score": 0.9885686039924622, 
+            "BeginOffset": 1302, 
+            "EndOffset": 1330
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.9576451182365417, 
+            "BeginOffset": 1343, 
+            "EndOffset": 1351
+        }, 
+        {
+            "Text": "a brief spin", 
+            "Score": 0.9661790132522583, 
+            "BeginOffset": 1352, 
+            "EndOffset": 1364
+        }, 
+        {
+            "Text": "us-east-1", 
+            "Score": 0.8770748376846313, 
+            "BeginOffset": 1398, 
+            "EndOffset": 1407
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9993590116500854, 
+            "BeginOffset": 1411, 
+            "EndOffset": 1421
+        }, 
+        {
+            "Text": "a public IP", 
+            "Score": 0.7814092636108398, 
+            "BeginOffset": 1518, 
+            "EndOffset": 1529
+        }, 
+        {
+            "Text": "the ENI", 
+            "Score": 0.9894697666168213, 
+            "BeginOffset": 1559, 
+            "EndOffset": 1566
+        }, 
+        {
+            "Text": "the container", 
+            "Score": 0.9958927035331726, 
+            "BeginOffset": 1582, 
+            "EndOffset": 1595
+        }, 
+        {
+            "Text": "2]", 
+            "Score": 0.6815191507339478, 
+            "BeginOffset": 1596, 
+            "EndOffset": 1598
+        }, 
+        {
+            "Text": "an ALB or NLB", 
+            "Score": 0.9839070439338684, 
+            "BeginOffset": 1609, 
+            "EndOffset": 1622
+        }, 
+        {
+            "Text": "The pricing", 
+            "Score": 0.9932198524475098, 
+            "BeginOffset": 1625, 
+            "EndOffset": 1636
+        }, 
+        {
+            "Text": "per-second billing[3]", 
+            "Score": 0.8600570559501648, 
+            "BeginOffset": 1662, 
+            "EndOffset": 1683
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9926578402519226, 
+            "BeginOffset": 1718, 
+            "EndOffset": 1724
+        }, 
+        {
+            "Text": "CI/CD builds", 
+            "Score": 0.900445818901062, 
+            "BeginOffset": 1738, 
+            "EndOffset": 1750
+        }, 
+        {
+            "Text": "stateless micro services", 
+            "Score": 0.9500300884246826, 
+            "BeginOffset": 1752, 
+            "EndOffset": 1776
+        }, 
+        {
+            "Text": "a temporary bastion instance", 
+            "Score": 0.7943102121353149, 
+            "BeginOffset": 1789, 
+            "EndOffset": 1817
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9762066006660461, 
+            "BeginOffset": 1847, 
+            "EndOffset": 1853
+        }, 
+        {
+            "Text": "the underlying infrastructure", 
+            "Score": 0.9948245286941528, 
+            "BeginOffset": 1857, 
+            "EndOffset": 1886
+        }, 
+        {
+            "Text": "some limitations", 
+            "Score": 0.9994314908981323, 
+            "BeginOffset": 1897, 
+            "EndOffset": 1913
+        }, 
+        {
+            "Text": "general", 
+            "Score": 0.9984201788902283, 
+            "BeginOffset": 1941, 
+            "EndOffset": 1948
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9495190382003784, 
+            "BeginOffset": 2011, 
+            "EndOffset": 2020
+        }, 
+        {
+            "Text": "projects", 
+            "Score": 0.9990206956863403, 
+            "BeginOffset": 2040, 
+            "EndOffset": 2048
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9360697865486145, 
+            "BeginOffset": 2081, 
+            "EndOffset": 2087
+        }, 
+        {
+            "Text": "the product page", 
+            "Score": 0.9962766170501709, 
+            "BeginOffset": 2091, 
+            "EndOffset": 2107
+        }, 
+        {
+            "Text": "a spin", 
+            "Score": 0.7212449908256531, 
+            "BeginOffset": 2125, 
+            "EndOffset": 2131
+        }, 
+        {
+            "Text": "SERVERLESS\n\n\nSeveral new features", 
+            "Score": 0.9964567422866821, 
+            "BeginOffset": 2136, 
+            "EndOffset": 2169
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.6963479518890381, 
+            "BeginOffset": 2174, 
+            "EndOffset": 2180
+        }, 
+        {
+            "Text": "the API Gateway", 
+            "Score": 0.9901124835014343, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2200
+        }, 
+        {
+            "Text": "personally the most important", 
+            "Score": 0.9915887713432312, 
+            "BeginOffset": 2222, 
+            "EndOffset": 2251
+        }, 
+        {
+            "Text": "the slides", 
+            "Score": 0.9863572120666504, 
+            "BeginOffset": 2286, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9999542236328125, 
+            "BeginOffset": 2298, 
+            "EndOffset": 2305
+        }, 
+        {
+            "Text": "2018", 
+            "Score": 0.9973269104957581, 
+            "BeginOffset": 2358, 
+            "EndOffset": 2362
+        }, 
+        {
+            "Text": "VPC endpoints", 
+            "Score": 0.9909918308258057, 
+            "BeginOffset": 2436, 
+            "EndOffset": 2449
+        }, 
+        {
+            "Text": "API Gateways", 
+            "Score": 0.9510136246681213, 
+            "BeginOffset": 2454, 
+            "EndOffset": 2466
+        }, 
+        {
+            "Text": "another big change", 
+            "Score": 0.9894100427627563, 
+            "BeginOffset": 2470, 
+            "EndOffset": 2488
+        }, 
+        {
+            "Text": "private calls", 
+            "Score": 0.9968406558036804, 
+            "BeginOffset": 2523, 
+            "EndOffset": 2536
+        }, 
+        {
+            "Text": "your API Gateways", 
+            "Score": 0.9977938532829285, 
+            "BeginOffset": 2540, 
+            "EndOffset": 2557
+        }, 
+        {
+            "Text": "a Network Load Balancer", 
+            "Score": 0.8081492185592651, 
+            "BeginOffset": 2628, 
+            "EndOffset": 2651
+        }, 
+        {
+            "Text": "this functionality", 
+            "Score": 0.9921790957450867, 
+            "BeginOffset": 2669, 
+            "EndOffset": 2687
+        }, 
+        {
+            "Text": "a minor hurdle", 
+            "Score": 0.9589893221855164, 
+            "BeginOffset": 2695, 
+            "EndOffset": 2709
+        }, 
+        {
+            "Text": "concurrency limits", 
+            "Score": 0.9978452324867249, 
+            "BeginOffset": 2740, 
+            "EndOffset": 2758
+        }, 
+        {
+            "Text": "functions", 
+            "Score": 0.9985780715942383, 
+            "BeginOffset": 2762, 
+            "EndOffset": 2771
+        }, 
+        {
+            "Text": "a new Serverless Application Repository", 
+            "Score": 0.969253659248352, 
+            "BeginOffset": 2776, 
+            "EndOffset": 2815
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9474484324455261, 
+            "BeginOffset": 2840, 
+            "EndOffset": 2845
+        }, 
+        {
+            "Text": "the serverless equivalent", 
+            "Score": 0.9994521141052246, 
+            "BeginOffset": 2851, 
+            "EndOffset": 2876
+        }, 
+        {
+            "Text": "the EC2 marketplace", 
+            "Score": 0.9364030361175537, 
+            "BeginOffset": 2880, 
+            "EndOffset": 2899
+        }, 
+        {
+            "Text": "preview", 
+            "Score": 0.997443437576294, 
+            "BeginOffset": 2918, 
+            "EndOffset": 2925
+        }, 
+        {
+            "Text": "action", 
+            "Score": 0.8235007524490356, 
+            "BeginOffset": 2958, 
+            "EndOffset": 2964
+        }, 
+        {
+            "Text": "Cloud9", 
+            "Score": 0.9996675848960876, 
+            "BeginOffset": 2971, 
+            "EndOffset": 2977
+        }, 
+        {
+            "Text": "the only other thing", 
+            "Score": 0.9833340644836426, 
+            "BeginOffset": 2981, 
+            "EndOffset": 3001
+        }, 
+        {
+            "Text": "their new cloud", 
+            "Score": 0.9980686902999878, 
+            "BeginOffset": 3037, 
+            "EndOffset": 3052
+        }, 
+        {
+            "Text": "IDE", 
+            "Score": 0.9997374415397644, 
+            "BeginOffset": 3059, 
+            "EndOffset": 3062
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9995731711387634, 
+            "BeginOffset": 3108, 
+            "EndOffset": 3114
+        }, 
+        {
+            "Text": "a proper editor", 
+            "Score": 0.9891906380653381, 
+            "BeginOffset": 3135, 
+            "EndOffset": 3150
+        }, 
+        {
+            "Text": "a big improvement", 
+            "Score": 0.9539855122566223, 
+            "BeginOffset": 3191, 
+            "EndOffset": 3208
+        }, 
+        {
+            "Text": "an iPad[4]", 
+            "Score": 0.9822316765785217, 
+            "BeginOffset": 3258, 
+            "EndOffset": 3268
+        }, 
+        {
+            "Text": "MACOS ROOT BUG", 
+            "Score": 0.9218578338623047, 
+            "BeginOffset": 3273, 
+            "EndOffset": 3287
+        }, 
+        {
+            "Text": "Invent", 
+            "Score": 0.9999959468841553, 
+            "BeginOffset": 3335, 
+            "EndOffset": 3341
+        }, 
+        {
+            "Text": "this bug", 
+            "Score": 0.932931125164032, 
+            "BeginOffset": 3347, 
+            "EndOffset": 3355
+        }, 
+        {
+            "Text": "some criticism", 
+            "Score": 0.9974165558815002, 
+            "BeginOffset": 3379, 
+            "EndOffset": 3393
+        }, 
+        {
+            "Text": "High Sierra", 
+            "Score": 0.999866783618927, 
+            "BeginOffset": 3398, 
+            "EndOffset": 3409
+        }, 
+        {
+            "Text": "root", 
+            "Score": 0.9981646537780762, 
+            "BeginOffset": 3440, 
+            "EndOffset": 3444
+        }, 
+        {
+            "Text": "an empty password", 
+            "Score": 0.8272806406021118, 
+            "BeginOffset": 3451, 
+            "EndOffset": 3468
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9945616722106934, 
+            "BeginOffset": 3479, 
+            "EndOffset": 3484
+        }, 
+        {
+            "Text": "24 hours", 
+            "Score": 0.8678175806999207, 
+            "BeginOffset": 3501, 
+            "EndOffset": 3509
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.998424768447876, 
+            "BeginOffset": 3539, 
+            "EndOffset": 3542
+        }, 
+        {
+            "Text": "the fix", 
+            "Score": 0.5784359574317932, 
+            "BeginOffset": 3554, 
+            "EndOffset": 3561
+        }, 
+        {
+            "Text": "the kind", 
+            "Score": 0.995450496673584, 
+            "BeginOffset": 3587, 
+            "EndOffset": 3595
+        }, 
+        {
+            "Text": "bug", 
+            "Score": 0.9932194352149963, 
+            "BeginOffset": 3599, 
+            "EndOffset": 3602
+        }, 
+        {
+            "Text": "the first place", 
+            "Score": 0.9961367249488831, 
+            "BeginOffset": 3643, 
+            "EndOffset": 3658
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9992399215698242, 
+            "BeginOffset": 3661, 
+            "EndOffset": 3664
+        }, 
+        {
+            "Text": "the only one", 
+            "Score": 0.8558305501937866, 
+            "BeginOffset": 3676, 
+            "EndOffset": 3688
+        }, 
+        {
+            "Text": "a fanfic", 
+            "Score": 0.9972662329673767, 
+            "BeginOffset": 3717, 
+            "EndOffset": 3725
+        }, 
+        {
+            "Text": "John Crichton", 
+            "Score": 0.9999229907989502, 
+            "BeginOffset": 3732, 
+            "EndOffset": 3745
+        }, 
+        {
+            "Text": "a Chappa'ai", 
+            "Score": 0.8943113088607788, 
+            "BeginOffset": 3756, 
+            "EndOffset": 3767
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9997435808181763, 
+            "BeginOffset": 3770, 
+            "EndOffset": 3773
+        }, 
+        {
+            "Text": "that particular feature", 
+            "Score": 0.9242426156997681, 
+            "BeginOffset": 3818, 
+            "EndOffset": 3841
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9988847374916077, 
+            "BeginOffset": 3844, 
+            "EndOffset": 3847
+        }, 
+        {
+            "Text": "a minimum", 
+            "Score": 0.9647424817085266, 
+            "BeginOffset": 3853, 
+            "EndOffset": 3862
+        }, 
+        {
+            "Text": "1 minute", 
+            "Score": 0.8704501986503601, 
+            "BeginOffset": 3866, 
+            "EndOffset": 3874
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9940229654312134, 
+            "BeginOffset": 3877, 
+            "EndOffset": 3880
+        }, 
+        {
+            "Text": "code", 
+            "Score": 0.9783262014389038, 
+            "BeginOffset": 3893, 
+            "EndOffset": 3897
+        }, 
+        {
+            "Text": "either the onscreen keyboard", 
+            "Score": 0.8758633732795715, 
+            "BeginOffset": 3908, 
+            "EndOffset": 3936
+        }, 
+        {
+            "Text": "a separate one", 
+            "Score": 0.8390440940856934, 
+            "BeginOffset": 3940, 
+            "EndOffset": 3954
+        }, 
+        {
+            "Text": "the top", 
+            "Score": 0.9880609512329102, 
+            "BeginOffset": 3970, 
+            "EndOffset": 3977
+        }, 
+        {
+            "Text": "the page", 
+            "Score": 0.9991614818572998, 
+            "BeginOffset": 3981, 
+            "EndOffset": 3989
+        }, 
+        {
+            "Text": "a character", 
+            "Score": 0.9979680180549622, 
+            "BeginOffset": 4002, 
+            "EndOffset": 4013
+        }, 
+        {
+            "Text": "the editor", 
+            "Score": 0.9981433749198914, 
+            "BeginOffset": 4033, 
+            "EndOffset": 4043
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.9915281534194946, 
+            "BeginOffset": 4046, 
+            "EndOffset": 4049
+        }
+    ]
+}

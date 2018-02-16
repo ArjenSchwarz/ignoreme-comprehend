@@ -1,0 +1,375 @@
+{
+    "Entities": [
+        {
+            "Text": "Microsoft", 
+            "Score": 0.8826221823692322, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 9
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9077988862991333, 
+            "Type": "TITLE", 
+            "BeginOffset": 27, 
+            "EndOffset": 32
+        }, 
+        {
+            "Text": "SQL", 
+            "Score": 0.3429805040359497, 
+            "Type": "TITLE", 
+            "BeginOffset": 99, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "LINUX", 
+            "Score": 0.9049282670021057, 
+            "Type": "TITLE", 
+            "BeginOffset": 113, 
+            "EndOffset": 118
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9698498845100403, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 170, 
+            "EndOffset": 179
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9632655382156372, 
+            "Type": "DATE", 
+            "BeginOffset": 246, 
+            "EndOffset": 255
+        }, 
+        {
+            "Text": "SQL", 
+            "Score": 0.7869535684585571, 
+            "Type": "TITLE", 
+            "BeginOffset": 340, 
+            "EndOffset": 343
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9704918265342712, 
+            "Type": "TITLE", 
+            "BeginOffset": 355, 
+            "EndOffset": 360
+        }, 
+        {
+            "Text": "SQL", 
+            "Score": 0.8794912695884705, 
+            "Type": "TITLE", 
+            "BeginOffset": 522, 
+            "EndOffset": 525
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9176784753799438, 
+            "Type": "TITLE", 
+            "BeginOffset": 583, 
+            "EndOffset": 590
+        }, 
+        {
+            "Text": "next year", 
+            "Score": 0.8749464750289917, 
+            "Type": "DATE", 
+            "BeginOffset": 617, 
+            "EndOffset": 626
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9406382441520691, 
+            "Type": "TITLE", 
+            "BeginOffset": 742, 
+            "EndOffset": 747
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.932202935218811, 
+            "Type": "TITLE", 
+            "BeginOffset": 889, 
+            "EndOffset": 896
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9996694326400757, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1014, 
+            "EndOffset": 1018
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999127388000488, 
+            "Type": "TITLE", 
+            "BeginOffset": 1019, 
+            "EndOffset": 1026
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9803880453109741, 
+            "Type": "TITLE", 
+            "BeginOffset": 1031, 
+            "EndOffset": 1036
+        }, 
+        {
+            "Text": "one side", 
+            "Score": 0.9851219058036804, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1074, 
+            "EndOffset": 1082
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1116, 
+            "EndOffset": 1125
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9998345375061035, 
+            "Type": "TITLE", 
+            "BeginOffset": 1259, 
+            "EndOffset": 1264
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9998846054077148, 
+            "Type": "TITLE", 
+            "BeginOffset": 1305, 
+            "EndOffset": 1310
+        }, 
+        {
+            "Text": "SQL", 
+            "Score": 0.9999724626541138, 
+            "Type": "TITLE", 
+            "BeginOffset": 1349, 
+            "EndOffset": 1352
+        }, 
+        {
+            "Text": "first time", 
+            "Score": 0.9999018907546997, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1565, 
+            "EndOffset": 1575
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9995334148406982, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1581, 
+            "EndOffset": 1590
+        }, 
+        {
+            "Text": "Several weeks ago", 
+            "Score": 0.9638478755950928, 
+            "Type": "DATE", 
+            "BeginOffset": 1738, 
+            "EndOffset": 1755
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.9999957084655762, 
+            "Type": "TITLE", 
+            "BeginOffset": 1772, 
+            "EndOffset": 1779
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.5413690805435181, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1781, 
+            "EndOffset": 1787
+        }, 
+        {
+            "Text": "Go AI", 
+            "Score": 0.6636983156204224, 
+            "Type": "TITLE", 
+            "BeginOffset": 1790, 
+            "EndOffset": 1795
+        }, 
+        {
+            "Text": "European", 
+            "Score": 0.9999598264694214, 
+            "Type": "OTHER", 
+            "BeginOffset": 1811, 
+            "EndOffset": 1819
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9999430775642395, 
+            "Type": "DATE", 
+            "BeginOffset": 1836, 
+            "EndOffset": 1845
+        }, 
+        {
+            "Text": "one step", 
+            "Score": 0.9648268222808838, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1856, 
+            "EndOffset": 1864
+        }, 
+        {
+            "Text": "Lee Sedol", 
+            "Score": 0.9060554504394531, 
+            "Type": "PERSON", 
+            "BeginOffset": 1882, 
+            "EndOffset": 1891
+        }, 
+        {
+            "Text": "one of the top Go players", 
+            "Score": 0.8608137965202332, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1893, 
+            "EndOffset": 1918
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999791383743286, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1963, 
+            "EndOffset": 1966
+        }, 
+        {
+            "Text": "5 matches", 
+            "Score": 0.849822998046875, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1974, 
+            "EndOffset": 1983
+        }, 
+        {
+            "Text": "AlphaGo", 
+            "Score": 0.9999386072158813, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2002, 
+            "EndOffset": 2009
+        }, 
+        {
+            "Text": "first 3 matches", 
+            "Score": 0.8573461174964905, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2018, 
+            "EndOffset": 2033
+        }, 
+        {
+            "Text": "Lee Sedol", 
+            "Score": 0.9999488592147827, 
+            "Type": "PERSON", 
+            "BeginOffset": 2059, 
+            "EndOffset": 2068
+        }, 
+        {
+            "Text": "fourth game", 
+            "Score": 0.9980758428573608, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2077, 
+            "EndOffset": 2088
+        }, 
+        {
+            "Text": "1", 
+            "Score": 0.9998378753662109, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2089, 
+            "EndOffset": 2090
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2263, 
+            "EndOffset": 2269
+        }, 
+        {
+            "Text": "Wired", 
+            "Score": 0.9999986886978149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2456, 
+            "EndOffset": 2461
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2520, 
+            "EndOffset": 2525
+        }, 
+        {
+            "Text": "FBI", 
+            "Score": 0.9999933242797852, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2529, 
+            "EndOffset": 2532
+        }, 
+        {
+            "Text": "FBI", 
+            "Score": 0.9784829616546631, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2671, 
+            "EndOffset": 2674
+        }, 
+        {
+            "Text": "FBI", 
+            "Score": 0.9980442523956299, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2783, 
+            "EndOffset": 2786
+        }, 
+        {
+            "Text": "FBI", 
+            "Score": 0.9999960660934448, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2856, 
+            "EndOffset": 2859
+        }, 
+        {
+            "Text": "Next week", 
+            "Score": 0.9947044253349304, 
+            "Type": "DATE", 
+            "BeginOffset": 3037, 
+            "EndOffset": 3046
+        }, 
+        {
+            "Text": "22nd", 
+            "Score": 0.9511368274688721, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3055, 
+            "EndOffset": 3059
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.5760312080383301, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3075, 
+            "EndOffset": 3080
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.99994957447052, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3124, 
+            "EndOffset": 3129
+        }, 
+        {
+            "Text": "78", 
+            "Score": 0.9999988079071045, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3341, 
+            "EndOffset": 3343
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9999958276748657, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3456, 
+            "EndOffset": 3465
+        }, 
+        {
+            "Text": "next day", 
+            "Score": 0.9988776445388794, 
+            "Type": "DATE", 
+            "BeginOffset": 3486, 
+            "EndOffset": 3494
+        }
+    ]
+}

@@ -1,0 +1,730 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "GitHub", 
+            "Score": 0.5900305509567261, 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "dependencies", 
+            "Score": 0.9785509705543518, 
+            "BeginOffset": 13, 
+            "EndOffset": 25
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9960513710975647, 
+            "BeginOffset": 27, 
+            "EndOffset": 30
+        }, 
+        {
+            "Text": "multiple SSL certificates", 
+            "Score": 0.987328290939331, 
+            "BeginOffset": 46, 
+            "EndOffset": 71
+        }, 
+        {
+            "Text": "AWS and Microsoft", 
+            "Score": 0.9416547417640686, 
+            "BeginOffset": 73, 
+            "EndOffset": 90
+        }, 
+        {
+            "Text": "Gluon", 
+            "Score": 0.8953134417533875, 
+            "BeginOffset": 108, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "a new Kindle Oasis", 
+            "Score": 0.9883975386619568, 
+            "BeginOffset": 119, 
+            "EndOffset": 137
+        }, 
+        {
+            "Text": "GITHUB DEPENDENCIES", 
+            "Score": 0.9157699942588806, 
+            "BeginOffset": 142, 
+            "EndOffset": 161
+        }, 
+        {
+            "Text": "their Universe event GitHub", 
+            "Score": 0.978599488735199, 
+            "BeginOffset": 167, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9995778799057007, 
+            "BeginOffset": 206, 
+            "EndOffset": 214
+        }, 
+        {
+            "Text": "new features", 
+            "Score": 0.9959635734558105, 
+            "BeginOffset": 218, 
+            "EndOffset": 230
+        }, 
+        {
+            "Text": "The most interesting", 
+            "Score": 0.9517080187797546, 
+            "BeginOffset": 232, 
+            "EndOffset": 252
+        }, 
+        {
+            "Text": "the new Dependency Graph", 
+            "Score": 0.9949889183044434, 
+            "BeginOffset": 265, 
+            "EndOffset": 289
+        }, 
+        {
+            "Text": "This graph", 
+            "Score": 0.9946880340576172, 
+            "BeginOffset": 291, 
+            "EndOffset": 301
+        }, 
+        {
+            "Text": "the dependency", 
+            "Score": 0.9981229901313782, 
+            "BeginOffset": 308, 
+            "EndOffset": 322
+        }, 
+        {
+            "Text": "your project", 
+            "Score": 0.8032357692718506, 
+            "BeginOffset": 326, 
+            "EndOffset": 338
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7427980303764343, 
+            "BeginOffset": 339, 
+            "EndOffset": 341
+        }, 
+        {
+            "Text": "Ruby and JavaScript", 
+            "Score": 0.7612619400024414, 
+            "BeginOffset": 361, 
+            "EndOffset": 380
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.927910566329956, 
+            "BeginOffset": 389, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "The choice", 
+            "Score": 0.999233067035675, 
+            "BeginOffset": 394, 
+            "EndOffset": 404
+        }, 
+        {
+            "Text": "the dependencies", 
+            "Score": 0.9886073470115662, 
+            "BeginOffset": 430, 
+            "EndOffset": 446
+        }, 
+        {
+            "Text": "either a Gemfile", 
+            "Score": 0.9682877063751221, 
+            "BeginOffset": 470, 
+            "EndOffset": 486
+        }, 
+        {
+            "Text": "a package", 
+            "Score": 0.9942412376403809, 
+            "BeginOffset": 490, 
+            "EndOffset": 499
+        }, 
+        {
+            "Text": "json", 
+            "Score": 0.655057430267334, 
+            "BeginOffset": 500, 
+            "EndOffset": 504
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.9937915205955505, 
+            "BeginOffset": 513, 
+            "EndOffset": 517
+        }, 
+        {
+            "Text": "your project", 
+            "Score": 0.9987921714782715, 
+            "BeginOffset": 522, 
+            "EndOffset": 534
+        }, 
+        {
+            "Text": "dependencies", 
+            "Score": 0.920721709728241, 
+            "BeginOffset": 539, 
+            "EndOffset": 551
+        }, 
+        {
+            "Text": "the graph", 
+            "Score": 0.9910323619842529, 
+            "BeginOffset": 582, 
+            "EndOffset": 591
+        }, 
+        {
+            "Text": "a pretty overview", 
+            "Score": 0.9797577857971191, 
+            "BeginOffset": 622, 
+            "EndOffset": 639
+        }, 
+        {
+            "Text": "your dependencies", 
+            "Score": 0.999228298664093, 
+            "BeginOffset": 643, 
+            "EndOffset": 660
+        }, 
+        {
+            "Text": "the really interesting part", 
+            "Score": 0.9859727025032043, 
+            "BeginOffset": 674, 
+            "EndOffset": 701
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9880051016807556, 
+            "BeginOffset": 747, 
+            "EndOffset": 753
+        }, 
+        {
+            "Text": "one useful upcoming feature", 
+            "Score": 0.966362476348877, 
+            "BeginOffset": 768, 
+            "EndOffset": 795
+        }, 
+        {
+            "Text": "security alerts", 
+            "Score": 0.9834714531898499, 
+            "BeginOffset": 814, 
+            "EndOffset": 829
+        }, 
+        {
+            "Text": "an automatic notification", 
+            "Score": 0.8804317712783813, 
+            "BeginOffset": 853, 
+            "EndOffset": 878
+        }, 
+        {
+            "Text": "your dependencies", 
+            "Score": 0.9991679191589355, 
+            "BeginOffset": 889, 
+            "EndOffset": 906
+        }, 
+        {
+            "Text": "a security issue", 
+            "Score": 0.9978468418121338, 
+            "BeginOffset": 911, 
+            "EndOffset": 927
+        }, 
+        {
+            "Text": "even a suggested fix", 
+            "Score": 0.7305526733398438, 
+            "BeginOffset": 942, 
+            "EndOffset": 962
+        }, 
+        {
+            "Text": "MULTIPLE CERTIFICATES", 
+            "Score": 0.8935962319374084, 
+            "BeginOffset": 967, 
+            "EndOffset": 988
+        }, 
+        {
+            "Text": "ALBS", 
+            "Score": 0.9370156526565552, 
+            "BeginOffset": 992, 
+            "EndOffset": 996
+        }, 
+        {
+            "Text": "the category", 
+            "Score": 0.9992605447769165, 
+            "BeginOffset": 1004, 
+            "EndOffset": 1016
+        }, 
+        {
+            "Text": "\"finally", 
+            "Score": 0.9995906949043274, 
+            "BeginOffset": 1020, 
+            "EndOffset": 1028
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9916898608207703, 
+            "BeginOffset": 1036, 
+            "EndOffset": 1047
+        }, 
+        {
+            "Text": "multiple certificates", 
+            "Score": 0.9990332722663879, 
+            "BeginOffset": 1058, 
+            "EndOffset": 1079
+        }, 
+        {
+            "Text": "a loadbalancer", 
+            "Score": 0.9990999698638916, 
+            "BeginOffset": 1083, 
+            "EndOffset": 1097
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9988539218902588, 
+            "BeginOffset": 1101, 
+            "EndOffset": 1104
+        }, 
+        {
+            "Text": "different ports", 
+            "Score": 0.9979904294013977, 
+            "BeginOffset": 1174, 
+            "EndOffset": 1189
+        }, 
+        {
+            "Text": "multiple certificates", 
+            "Score": 0.9860126376152039, 
+            "BeginOffset": 1239, 
+            "EndOffset": 1260
+        }, 
+        {
+            "Text": "the standard https port", 
+            "Score": 0.9960528016090393, 
+            "BeginOffset": 1264, 
+            "EndOffset": 1287
+        }, 
+        {
+            "Text": "this means", 
+            "Score": 0.908890962600708, 
+            "BeginOffset": 1295, 
+            "EndOffset": 1305
+        }, 
+        {
+            "Text": "26 certificates", 
+            "Score": 0.9889111518859863, 
+            "BeginOffset": 1336, 
+            "EndOffset": 1351
+        }, 
+        {
+            "Text": "a single ALB", 
+            "Score": 0.9978963732719421, 
+            "BeginOffset": 1355, 
+            "EndOffset": 1367
+        }, 
+        {
+            "Text": "your backend instance", 
+            "Score": 0.9916154146194458, 
+            "BeginOffset": 1376, 
+            "EndOffset": 1397
+        }, 
+        {
+            "Text": "which site", 
+            "Score": 0.8732559084892273, 
+            "BeginOffset": 1410, 
+            "EndOffset": 1420
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9997084140777588, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1492
+        }, 
+        {
+            "Text": "websites", 
+            "Score": 0.999853253364563, 
+            "BeginOffset": 1496, 
+            "EndOffset": 1504
+        }, 
+        {
+            "Text": "a single server", 
+            "Score": 0.9996652603149414, 
+            "BeginOffset": 1508, 
+            "EndOffset": 1523
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9990954399108887, 
+            "BeginOffset": 1553, 
+            "EndOffset": 1558
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9989309310913086, 
+            "BeginOffset": 1562, 
+            "EndOffset": 1567
+        }, 
+        {
+            "Text": "a separate loadbalancer", 
+            "Score": 0.9993175864219666, 
+            "BeginOffset": 1587, 
+            "EndOffset": 1610
+        }, 
+        {
+            "Text": "each SSL", 
+            "Score": 0.993297278881073, 
+            "BeginOffset": 1615, 
+            "EndOffset": 1623
+        }, 
+        {
+            "Text": "a loadbalancer", 
+            "Score": 0.9994722008705139, 
+            "BeginOffset": 1667, 
+            "EndOffset": 1681
+        }, 
+        {
+            "Text": "those sites", 
+            "Score": 0.9887728691101074, 
+            "BeginOffset": 1731, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.998779833316803, 
+            "BeginOffset": 1757, 
+            "EndOffset": 1762
+        }, 
+        {
+            "Text": "the security benefits", 
+            "Score": 0.9995169639587402, 
+            "BeginOffset": 1798, 
+            "EndOffset": 1819
+        }, 
+        {
+            "Text": "GLUON", 
+            "Score": 0.9813541173934937, 
+            "BeginOffset": 1848, 
+            "EndOffset": 1853
+        }, 
+        {
+            "Text": "my opinion", 
+            "Score": 0.8592962026596069, 
+            "BeginOffset": 1859, 
+            "EndOffset": 1869
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9948294758796692, 
+            "BeginOffset": 1871, 
+            "EndOffset": 1877
+        }, 
+        {
+            "Text": "every other cloud provider", 
+            "Score": 0.9939927458763123, 
+            "BeginOffset": 1890, 
+            "EndOffset": 1916
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9989202618598938, 
+            "BeginOffset": 1934, 
+            "EndOffset": 1950
+        }, 
+        {
+            "Text": "sense", 
+            "Score": 0.8545015454292297, 
+            "BeginOffset": 1977, 
+            "EndOffset": 1982
+        }, 
+        {
+            "Text": "Amazon and Microsoft[3]", 
+            "Score": 0.9276631474494934, 
+            "BeginOffset": 1987, 
+            "EndOffset": 2010
+        }, 
+        {
+            "Text": "team", 
+            "Score": 0.8526110053062439, 
+            "BeginOffset": 2014, 
+            "EndOffset": 2018
+        }, 
+        {
+            "Text": "an effort", 
+            "Score": 0.8471622467041016, 
+            "BeginOffset": 2025, 
+            "EndOffset": 2034
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.9988589882850647, 
+            "BeginOffset": 2067, 
+            "EndOffset": 2077
+        }, 
+        {
+            "Text": "Gluon", 
+            "Score": 0.46648964285850525, 
+            "BeginOffset": 2079, 
+            "EndOffset": 2084
+        }, 
+        {
+            "Text": "a tool", 
+            "Score": 0.9902695417404175, 
+            "BeginOffset": 2088, 
+            "EndOffset": 2094
+        }, 
+        {
+            "Text": "machine learning models", 
+            "Score": 0.992080807685852, 
+            "BeginOffset": 2108, 
+            "EndOffset": 2131
+        }, 
+        {
+            "Text": "Apache MXNet", 
+            "Score": 0.9697238206863403, 
+            "BeginOffset": 2153, 
+            "EndOffset": 2165
+        }, 
+        {
+            "Text": "support", 
+            "Score": 0.9983441233634949, 
+            "BeginOffset": 2172, 
+            "EndOffset": 2179
+        }, 
+        {
+            "Text": "other frameworks", 
+            "Score": 0.9970874190330505, 
+            "BeginOffset": 2184, 
+            "EndOffset": 2200
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9941394329071045, 
+            "BeginOffset": 2207, 
+            "EndOffset": 2210
+        }, 
+        {
+            "Text": "the actual advantages", 
+            "Score": 0.995948076248169, 
+            "BeginOffset": 2261, 
+            "EndOffset": 2282
+        }, 
+        {
+            "Text": "the above links", 
+            "Score": 0.9957970976829529, 
+            "BeginOffset": 2312, 
+            "EndOffset": 2327
+        }, 
+        {
+            "Text": "Some time", 
+            "Score": 0.9733426570892334, 
+            "BeginOffset": 2329, 
+            "EndOffset": 2338
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9369161128997803, 
+            "BeginOffset": 2366, 
+            "EndOffset": 2371
+        }, 
+        {
+            "Text": "this sort", 
+            "Score": 0.9638333916664124, 
+            "BeginOffset": 2382, 
+            "EndOffset": 2391
+        }, 
+        {
+            "Text": "thing", 
+            "Score": 0.7079135775566101, 
+            "BeginOffset": 2395, 
+            "EndOffset": 2400
+        }, 
+        {
+            "Text": "KINDLE OASIS 2.0", 
+            "Score": 0.9388481974601746, 
+            "BeginOffset": 2443, 
+            "EndOffset": 2459
+        }, 
+        {
+            "Text": "an avid Kindle reader", 
+            "Score": 0.8522754907608032, 
+            "BeginOffset": 2465, 
+            "EndOffset": 2486
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9987220764160156, 
+            "BeginOffset": 2503, 
+            "EndOffset": 2514
+        }, 
+        {
+            "Text": "a new Kindle", 
+            "Score": 0.999860405921936, 
+            "BeginOffset": 2518, 
+            "EndOffset": 2530
+        }, 
+        {
+            "Text": "a mention", 
+            "Score": 0.9950676560401917, 
+            "BeginOffset": 2545, 
+            "EndOffset": 2554
+        }, 
+        {
+            "Text": "About 1.5 year", 
+            "Score": 0.9673087000846863, 
+            "BeginOffset": 2556, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9568675756454468, 
+            "BeginOffset": 2577, 
+            "EndOffset": 2588
+        }, 
+        {
+            "Text": "the Oasis", 
+            "Score": 0.9941155910491943, 
+            "BeginOffset": 2592, 
+            "EndOffset": 2601
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999752044677734, 
+            "BeginOffset": 2603, 
+            "EndOffset": 2609
+        }, 
+        {
+            "Text": "a new version", 
+            "Score": 0.9943122267723083, 
+            "BeginOffset": 2623, 
+            "EndOffset": 2636
+        }, 
+        {
+            "Text": "their fanciest e-reader", 
+            "Score": 0.9992855191230774, 
+            "BeginOffset": 2640, 
+            "EndOffset": 2663
+        }, 
+        {
+            "Text": "a bigger screen", 
+            "Score": 0.9955986142158508, 
+            "BeginOffset": 2670, 
+            "EndOffset": 2685
+        }, 
+        {
+            "Text": "the same form factor", 
+            "Score": 0.8664897680282593, 
+            "BeginOffset": 2703, 
+            "EndOffset": 2723
+        }, 
+        {
+            "Text": "the return", 
+            "Score": 0.9450007677078247, 
+            "BeginOffset": 2726, 
+            "EndOffset": 2736
+        }, 
+        {
+            "Text": "features", 
+            "Score": 0.9992421865463257, 
+            "BeginOffset": 2740, 
+            "EndOffset": 2748
+        }, 
+        {
+            "Text": "the adaptive lighting", 
+            "Score": 0.9986705183982849, 
+            "BeginOffset": 2757, 
+            "EndOffset": 2778
+        }, 
+        {
+            "Text": "audio support", 
+            "Score": 0.9943349361419678, 
+            "BeginOffset": 2783, 
+            "EndOffset": 2796
+        }, 
+        {
+            "Text": "waterproof", 
+            "Score": 0.9946426153182983, 
+            "BeginOffset": 2811, 
+            "EndOffset": 2821
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.9978808164596558, 
+            "BeginOffset": 2822, 
+            "EndOffset": 2830
+        }, 
+        {
+            "Text": "the 250 dollar", 
+            "Score": 0.9512192010879517, 
+            "BeginOffset": 2874, 
+            "EndOffset": 2888
+        }, 
+        {
+            "Text": "price", 
+            "Score": 0.9939368963241577, 
+            "BeginOffset": 2898, 
+            "EndOffset": 2903
+        }, 
+        {
+            "Text": "more than 3 times", 
+            "Score": 0.762219250202179, 
+            "BeginOffset": 2905, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "the basic Kindle", 
+            "Score": 0.9863477349281311, 
+            "BeginOffset": 2931, 
+            "EndOffset": 2947
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9767881631851196, 
+            "BeginOffset": 2950, 
+            "EndOffset": 2953
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.8270427584648132, 
+            "BeginOffset": 2990, 
+            "EndOffset": 2998
+        }, 
+        {
+            "Text": "[2] Python support", 
+            "Score": 0.9966838955879211, 
+            "BeginOffset": 3001, 
+            "EndOffset": 3019
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.8912955522537231, 
+            "BeginOffset": 3026, 
+            "EndOffset": 3033
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9917795658111572, 
+            "BeginOffset": 3071, 
+            "EndOffset": 3074
+        }, 
+        {
+            "Text": "these links", 
+            "Score": 0.8367956876754761, 
+            "BeginOffset": 3080, 
+            "EndOffset": 3091
+        }, 
+        {
+            "Text": "similar announcements", 
+            "Score": 0.7415989637374878, 
+            "BeginOffset": 3096, 
+            "EndOffset": 3117
+        }, 
+        {
+            "Text": "their own platform", 
+            "Score": 0.924370527267456, 
+            "BeginOffset": 3159, 
+            "EndOffset": 3177
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9994858503341675, 
+            "BeginOffset": 3180, 
+            "EndOffset": 3183
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.9996832609176636, 
+            "BeginOffset": 3203, 
+            "EndOffset": 3213
+        }
+    ]
+}

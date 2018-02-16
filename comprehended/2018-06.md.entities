@@ -1,0 +1,172 @@
+{
+    "Entities": [
+        {
+            "Text": "Windows", 
+            "Score": 0.7418650388717651, 
+            "Type": "TITLE", 
+            "BeginOffset": 33, 
+            "EndOffset": 40
+        }, 
+        {
+            "Text": "CoreOS", 
+            "Score": 0.7368002533912659, 
+            "Type": "TITLE", 
+            "BeginOffset": 59, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "Nintendo", 
+            "Score": 0.9024612307548523, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 71, 
+            "EndOffset": 79
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.7400044202804565, 
+            "Type": "TITLE", 
+            "BeginOffset": 174, 
+            "EndOffset": 180
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.6158789992332458, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 185, 
+            "EndOffset": 188
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.3247312307357788, 
+            "Type": "TITLE", 
+            "BeginOffset": 198, 
+            "EndOffset": 204
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9007419347763062, 
+            "Type": "TITLE", 
+            "BeginOffset": 252, 
+            "EndOffset": 258
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.7417330741882324, 
+            "Type": "TITLE", 
+            "BeginOffset": 263, 
+            "EndOffset": 270
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9319251775741577, 
+            "Type": "TITLE", 
+            "BeginOffset": 415, 
+            "EndOffset": 422
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.32259637117385864, 
+            "Type": "TITLE", 
+            "BeginOffset": 593, 
+            "EndOffset": 603
+        }, 
+        {
+            "Text": "CoreOS", 
+            "Score": 0.5228466391563416, 
+            "Type": "TITLE", 
+            "BeginOffset": 778, 
+            "EndOffset": 784
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.958061158657074, 
+            "Type": "TITLE", 
+            "BeginOffset": 821, 
+            "EndOffset": 826
+        }, 
+        {
+            "Text": "both sides", 
+            "Score": 0.7575758099555969, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 964, 
+            "EndOffset": 974
+        }, 
+        {
+            "Text": "CoreOS", 
+            "Score": 0.9999985694885254, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 983, 
+            "EndOffset": 989
+        }, 
+        {
+            "Text": "Red Hat", 
+            "Score": 0.9999988675117493, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1378, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "Nintendo", 
+            "Score": 0.999988317489624, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1795, 
+            "EndOffset": 1803
+        }, 
+        {
+            "Text": "September", 
+            "Score": 0.9999908208847046, 
+            "Type": "DATE", 
+            "BeginOffset": 2020, 
+            "EndOffset": 2029
+        }, 
+        {
+            "Text": "4 US dollar", 
+            "Score": 0.99969881772995, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2094, 
+            "EndOffset": 2105
+        }, 
+        {
+            "Text": "20 dollar", 
+            "Score": 0.7416990995407104, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2119, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "Nintendo", 
+            "Score": 0.9853755831718445, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2375, 
+            "EndOffset": 2383
+        }, 
+        {
+            "Text": "Bloomberg", 
+            "Score": 0.9999996423721313, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2630, 
+            "EndOffset": 2639
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.999970555305481, 
+            "Type": "TITLE", 
+            "BeginOffset": 2647, 
+            "EndOffset": 2652
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999701976776123, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2672, 
+            "EndOffset": 2678
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9999943971633911, 
+            "Type": "DATE", 
+            "BeginOffset": 2879, 
+            "EndOffset": 2888
+        }
+    ]
+}

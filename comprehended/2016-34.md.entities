@@ -1,0 +1,340 @@
+{
+    "Entities": [
+        {
+            "Text": "1.7", 
+            "Score": 0.9186515808105469, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.5887298583984375, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 21, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.8226228952407837, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 79, 
+            "EndOffset": 88
+        }, 
+        {
+            "Text": "Powershell", 
+            "Score": 0.39906299114227295, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 102, 
+            "EndOffset": 112
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.8905521035194397, 
+            "Type": "TITLE", 
+            "BeginOffset": 128, 
+            "EndOffset": 133
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.8151008486747742, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 142, 
+            "EndOffset": 145
+        }, 
+        {
+            "Text": "1.7", 
+            "Score": 0.8950692415237427, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 153, 
+            "EndOffset": 156
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9847109913825989, 
+            "Type": "DATE", 
+            "BeginOffset": 159, 
+            "EndOffset": 168
+        }, 
+        {
+            "Text": "Go 1.7", 
+            "Score": 0.7993826866149902, 
+            "Type": "TITLE", 
+            "BeginOffset": 188, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.42886456847190857, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 211, 
+            "EndOffset": 214
+        }, 
+        {
+            "Text": "Golang Melbourne", 
+            "Score": 0.5543428659439087, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 240, 
+            "EndOffset": 256
+        }, 
+        {
+            "Text": "1.7", 
+            "Score": 0.7558185458183289, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 474, 
+            "EndOffset": 477
+        }, 
+        {
+            "Text": "Igor", 
+            "Score": 0.999998927116394, 
+            "Type": "PERSON", 
+            "BeginOffset": 985, 
+            "EndOffset": 989
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999967813491821, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1692, 
+            "EndOffset": 1696
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999679327011108, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1740, 
+            "EndOffset": 1744
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9999537467956543, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2104, 
+            "EndOffset": 2109
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9999253749847412, 
+            "Type": "DATE", 
+            "BeginOffset": 2110, 
+            "EndOffset": 2119
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9992992877960205, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2233, 
+            "EndOffset": 2238
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9999850988388062, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2466, 
+            "EndOffset": 2471
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2629, 
+            "EndOffset": 2634
+        }, 
+        {
+            "Text": "LG", 
+            "Score": 0.9999951124191284, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2800, 
+            "EndOffset": 2802
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9999830722808838, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2874, 
+            "EndOffset": 2879
+        }, 
+        {
+            "Text": "10 nanometer", 
+            "Score": 0.9999809265136719, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2882, 
+            "EndOffset": 2894
+        }, 
+        {
+            "Text": "7 nanometer", 
+            "Score": 0.9862891435623169, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2925, 
+            "EndOffset": 2936
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9976164102554321, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3002, 
+            "EndOffset": 3007
+        }, 
+        {
+            "Text": "two things", 
+            "Score": 0.9970455765724182, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3082, 
+            "EndOffset": 3092
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999940395355225, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3118, 
+            "EndOffset": 3123
+        }, 
+        {
+            "Text": "Oculus", 
+            "Score": 0.9999758005142212, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3401, 
+            "EndOffset": 3407
+        }, 
+        {
+            "Text": "Rift", 
+            "Score": 0.9998844861984253, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3408, 
+            "EndOffset": 3412
+        }, 
+        {
+            "Text": "HTC", 
+            "Score": 0.9998975992202759, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3416, 
+            "EndOffset": 3419
+        }, 
+        {
+            "Text": "Vive", 
+            "Score": 0.9999862909317017, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3420, 
+            "EndOffset": 3424
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.9999878406524658, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3492, 
+            "EndOffset": 3497
+        }, 
+        {
+            "Text": "second half", 
+            "Score": 0.9999925494194031, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3570, 
+            "EndOffset": 3581
+        }, 
+        {
+            "Text": "next year", 
+            "Score": 0.9999541640281677, 
+            "Type": "DATE", 
+            "BeginOffset": 3585, 
+            "EndOffset": 3594
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999333620071411, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3732, 
+            "EndOffset": 3741
+        }, 
+        {
+            "Text": "Powershell", 
+            "Score": 0.9999572038650513, 
+            "Type": "TITLE", 
+            "BeginOffset": 3866, 
+            "EndOffset": 3876
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9998794794082642, 
+            "Type": "TITLE", 
+            "BeginOffset": 3882, 
+            "EndOffset": 3889
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999693632125854, 
+            "Type": "TITLE", 
+            "BeginOffset": 4029, 
+            "EndOffset": 4036
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999996423721313, 
+            "Type": "TITLE", 
+            "BeginOffset": 4182, 
+            "EndOffset": 4189
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9998719692230225, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4454, 
+            "EndOffset": 4459
+        }, 
+        {
+            "Text": "Tuesday", 
+            "Score": 0.9999116659164429, 
+            "Type": "DATE", 
+            "BeginOffset": 4460, 
+            "EndOffset": 4467
+        }, 
+        {
+            "Text": "Melbourne", 
+            "Score": 0.9998026490211487, 
+            "Type": "LOCATION", 
+            "BeginOffset": 4507, 
+            "EndOffset": 4516
+        }, 
+        {
+            "Text": "two", 
+            "Score": 0.9999784231185913, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4581, 
+            "EndOffset": 4584
+        }, 
+        {
+            "Text": "10MB", 
+            "Score": 0.9621199369430542, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4607, 
+            "EndOffset": 4611
+        }, 
+        {
+            "Text": "350GB", 
+            "Score": 0.9433567523956299, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4657, 
+            "EndOffset": 4662
+        }, 
+        {
+            "Text": "20%", 
+            "Score": 0.9997147917747498, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4671, 
+            "EndOffset": 4674
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9991068243980408, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4934, 
+            "EndOffset": 4939
+        }, 
+        {
+            "Text": "MacBook", 
+            "Score": 0.9999980926513672, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 4942, 
+            "EndOffset": 4949
+        }
+    ]
+}

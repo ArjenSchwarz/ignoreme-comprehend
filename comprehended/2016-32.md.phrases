@@ -1,0 +1,676 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Improvements and changes", 
+            "Score": 0.8883410096168518, 
+            "BeginOffset": 0, 
+            "EndOffset": 24
+        }, 
+        {
+            "Text": "password managers", 
+            "Score": 0.9372655153274536, 
+            "BeginOffset": 28, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "a new way", 
+            "Score": 0.994392991065979, 
+            "BeginOffset": 57, 
+            "EndOffset": 66
+        }, 
+        {
+            "Text": "date", 
+            "Score": 0.9937540292739868, 
+            "BeginOffset": 81, 
+            "EndOffset": 85
+        }, 
+        {
+            "Text": "Docker news", 
+            "Score": 0.9817231893539429, 
+            "BeginOffset": 91, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "PASSWORD MANAGER", 
+            "Score": 0.7524667382240295, 
+            "BeginOffset": 107, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "news", 
+            "Score": 0.9509605169296265, 
+            "BeginOffset": 144, 
+            "EndOffset": 148
+        }, 
+        {
+            "Text": "two password manager applications", 
+            "Score": 0.9423477649688721, 
+            "BeginOffset": 160, 
+            "EndOffset": 193
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9969863891601562, 
+            "BeginOffset": 194, 
+            "EndOffset": 203
+        }, 
+        {
+            "Text": "The first one", 
+            "Score": 0.9976353645324707, 
+            "BeginOffset": 206, 
+            "EndOffset": 219
+        }, 
+        {
+            "Text": "1Password", 
+            "Score": 0.9649059772491455, 
+            "BeginOffset": 240, 
+            "EndOffset": 249
+        }, 
+        {
+            "Text": "the subscription types", 
+            "Score": 0.994667649269104, 
+            "BeginOffset": 265, 
+            "EndOffset": 287
+        }, 
+        {
+            "Text": "a personal subscription plan", 
+            "Score": 0.992233157157898, 
+            "BeginOffset": 323, 
+            "EndOffset": 351
+        }, 
+        {
+            "Text": "team and family plans", 
+            "Score": 0.9575135111808777, 
+            "BeginOffset": 391, 
+            "EndOffset": 412
+        }, 
+        {
+            "Text": "the pro features", 
+            "Score": 0.9862319231033325, 
+            "BeginOffset": 432, 
+            "EndOffset": 448
+        }, 
+        {
+            "Text": "a single purchase", 
+            "Score": 0.9865332245826721, 
+            "BeginOffset": 452, 
+            "EndOffset": 469
+        }, 
+        {
+            "Text": "TextExpander", 
+            "Score": 0.9416421055793762, 
+            "BeginOffset": 516, 
+            "EndOffset": 528
+        }, 
+        {
+            "Text": "disastrous rollout", 
+            "Score": 0.993861734867096, 
+            "BeginOffset": 531, 
+            "EndOffset": 549
+        }, 
+        {
+            "Text": "completely optional while", 
+            "Score": 0.7566362619400024, 
+            "BeginOffset": 570, 
+            "EndOffset": 595
+        }, 
+        {
+            "Text": "your licenses", 
+            "Score": 0.9967640042304993, 
+            "BeginOffset": 627, 
+            "EndOffset": 640
+        }, 
+        {
+            "Text": "the old way", 
+            "Score": 0.9981802105903625, 
+            "BeginOffset": 641, 
+            "EndOffset": 652
+        }, 
+        {
+            "Text": "fact", 
+            "Score": 0.9991148114204407, 
+            "BeginOffset": 657, 
+            "EndOffset": 661
+        }, 
+        {
+            "Text": "a hosted service", 
+            "Score": 0.965369462966919, 
+            "BeginOffset": 704, 
+            "EndOffset": 720
+        }, 
+        {
+            "Text": "the need", 
+            "Score": 0.9878960847854614, 
+            "BeginOffset": 737, 
+            "EndOffset": 745
+        }, 
+        {
+            "Text": "all application licenses", 
+            "Score": 0.9843789935112, 
+            "BeginOffset": 764, 
+            "EndOffset": 788
+        }, 
+        {
+            "Text": "the subscription fee", 
+            "Score": 0.9901553988456726, 
+            "BeginOffset": 803, 
+            "EndOffset": 823
+        }, 
+        {
+            "Text": "price", 
+            "Score": 0.9921346306800842, 
+            "BeginOffset": 844, 
+            "EndOffset": 849
+        }, 
+        {
+            "Text": "$2.99 US", 
+            "Score": 0.941290557384491, 
+            "BeginOffset": 851, 
+            "EndOffset": 859
+        }, 
+        {
+            "Text": "your subscription", 
+            "Score": 0.8272406458854675, 
+            "BeginOffset": 915, 
+            "EndOffset": 932
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9979045987129211, 
+            "BeginOffset": 971, 
+            "EndOffset": 977
+        }, 
+        {
+            "Text": "your data", 
+            "Score": 0.9994080066680908, 
+            "BeginOffset": 981, 
+            "EndOffset": 990
+        }, 
+        {
+            "Text": "the subscription service", 
+            "Score": 0.8839385509490967, 
+            "BeginOffset": 1043, 
+            "EndOffset": 1067
+        }, 
+        {
+            "Text": "offering", 
+            "Score": 0.822951078414917, 
+            "BeginOffset": 1108, 
+            "EndOffset": 1116
+        }, 
+        {
+            "Text": "a hosted service", 
+            "Score": 0.8720721006393433, 
+            "BeginOffset": 1118, 
+            "EndOffset": 1134
+        }, 
+        {
+            "Text": "the pros and cons", 
+            "Score": 0.9913459420204163, 
+            "BeginOffset": 1184, 
+            "EndOffset": 1201
+        }, 
+        {
+            "Text": "developers and consumers", 
+            "Score": 0.9741424918174744, 
+            "BeginOffset": 1206, 
+            "EndOffset": 1230
+        }, 
+        {
+            "Text": "the past", 
+            "Score": 0.8338199257850647, 
+            "BeginOffset": 1241, 
+            "EndOffset": 1249
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9166966080665588, 
+            "BeginOffset": 1269, 
+            "EndOffset": 1278
+        }, 
+        {
+            "Text": "licenses", 
+            "Score": 0.9906067252159119, 
+            "BeginOffset": 1296, 
+            "EndOffset": 1304
+        }, 
+        {
+            "Text": "all your different devices", 
+            "Score": 0.9746137857437134, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "a good option", 
+            "Score": 0.9892217516899109, 
+            "BeginOffset": 1352, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "the next 3-4 months", 
+            "Score": 0.9631571769714355, 
+            "BeginOffset": 1414, 
+            "EndOffset": 1433
+        }, 
+        {
+            "Text": "a new version", 
+            "Score": 0.9988453984260559, 
+            "BeginOffset": 1456, 
+            "EndOffset": 1469
+        }, 
+        {
+            "Text": "a new license", 
+            "Score": 0.9966460466384888, 
+            "BeginOffset": 1484, 
+            "EndOffset": 1497
+        }, 
+        {
+            "Text": "your Pro features", 
+            "Score": 0.99739670753479, 
+            "BeginOffset": 1502, 
+            "EndOffset": 1519
+        }, 
+        {
+            "Text": "my invoices", 
+            "Score": 0.9863982200622559, 
+            "BeginOffset": 1537, 
+            "EndOffset": 1548
+        }, 
+        {
+            "Text": "the last 2 major updates", 
+            "Score": 0.960598349571228, 
+            "BeginOffset": 1595, 
+            "EndOffset": 1619
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7596830129623413, 
+            "BeginOffset": 1620, 
+            "EndOffset": 1622
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9826542139053345, 
+            "BeginOffset": 1648, 
+            "EndOffset": 1652
+        }, 
+        {
+            "Text": "the cheaper route", 
+            "Score": 0.9959993362426758, 
+            "BeginOffset": 1702, 
+            "EndOffset": 1719
+        }, 
+        {
+            "Text": "a family subscription", 
+            "Score": 0.9995567798614502, 
+            "BeginOffset": 1729, 
+            "EndOffset": 1750
+        }, 
+        {
+            "Text": "The second news", 
+            "Score": 0.998987078666687, 
+            "BeginOffset": 1753, 
+            "EndOffset": 1768
+        }, 
+        {
+            "Text": "the team-up", 
+            "Score": 0.9872205853462219, 
+            "BeginOffset": 1790, 
+            "EndOffset": 1801
+        }, 
+        {
+            "Text": "Google and Dashlane", 
+            "Score": 0.9905779361724854, 
+            "BeginOffset": 1805, 
+            "EndOffset": 1824
+        }, 
+        {
+            "Text": "the unfortunately named", 
+            "Score": 0.9572474956512451, 
+            "BeginOffset": 1835, 
+            "EndOffset": 1858
+        }, 
+        {
+            "Text": "Open YOLO", 
+            "Score": 0.7174893021583557, 
+            "BeginOffset": 1860, 
+            "EndOffset": 1869
+        }, 
+        {
+            "Text": "YOLO", 
+            "Score": 0.9963407516479492, 
+            "BeginOffset": 1878, 
+            "EndOffset": 1882
+        }, 
+        {
+            "Text": "Only Login", 
+            "Score": 0.97699373960495, 
+            "BeginOffset": 1899, 
+            "EndOffset": 1909
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.6251563429832458, 
+            "BeginOffset": 1915, 
+            "EndOffset": 1918
+        }, 
+        {
+            "Text": "the horrendous name", 
+            "Score": 0.7472230195999146, 
+            "BeginOffset": 1928, 
+            "EndOffset": 1947
+        }, 
+        {
+            "Text": "the project", 
+            "Score": 0.9969503283500671, 
+            "BeginOffset": 1949, 
+            "EndOffset": 1960
+        }, 
+        {
+            "Text": "a good one", 
+            "Score": 0.9996653199195862, 
+            "BeginOffset": 1972, 
+            "EndOffset": 1982
+        }, 
+        {
+            "Text": "1Password", 
+            "Score": 0.9970524311065674, 
+            "BeginOffset": 2028, 
+            "EndOffset": 2037
+        }, 
+        {
+            "Text": "iOS applications", 
+            "Score": 0.9436448812484741, 
+            "BeginOffset": 2047, 
+            "EndOffset": 2063
+        }, 
+        {
+            "Text": "your app", 
+            "Score": 0.9995757937431335, 
+            "BeginOffset": 2100, 
+            "EndOffset": 2108
+        }, 
+        {
+            "Text": "your password manager", 
+            "Score": 0.9916499257087708, 
+            "BeginOffset": 2124, 
+            "EndOffset": 2145
+        }, 
+        {
+            "Text": "an extension", 
+            "Score": 0.9977694153785706, 
+            "BeginOffset": 2154, 
+            "EndOffset": 2166
+        }, 
+        {
+            "Text": "this solution", 
+            "Score": 0.9981774091720581, 
+            "BeginOffset": 2179, 
+            "EndOffset": 2192
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9845575094223022, 
+            "BeginOffset": 2215, 
+            "EndOffset": 2222
+        }, 
+        {
+            "Text": "plans", 
+            "Score": 0.9968104958534241, 
+            "BeginOffset": 2238, 
+            "EndOffset": 2243
+        }, 
+        {
+            "Text": "other platforms", 
+            "Score": 0.9958871603012085, 
+            "BeginOffset": 2257, 
+            "EndOffset": 2272
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9987643361091614, 
+            "BeginOffset": 2290, 
+            "EndOffset": 2293
+        }, 
+        {
+            "Text": "even other password managers", 
+            "Score": 0.899456262588501, 
+            "BeginOffset": 2299, 
+            "EndOffset": 2327
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9785794615745544, 
+            "BeginOffset": 2343, 
+            "EndOffset": 2348
+        }, 
+        {
+            "Text": "the 1Password solution", 
+            "Score": 0.9987728595733643, 
+            "BeginOffset": 2368, 
+            "EndOffset": 2390
+        }, 
+        {
+            "Text": "the most interesting part", 
+            "Score": 0.9866092801094055, 
+            "BeginOffset": 2396, 
+            "EndOffset": 2421
+        }, 
+        {
+            "Text": "other password managers", 
+            "Score": 0.9908176064491272, 
+            "BeginOffset": 2467, 
+            "EndOffset": 2490
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.9993830323219299, 
+            "BeginOffset": 2516, 
+            "EndOffset": 2524
+        }, 
+        {
+            "Text": "the 1Password extension", 
+            "Score": 0.9970318675041199, 
+            "BeginOffset": 2529, 
+            "EndOffset": 2552
+        }, 
+        {
+            "Text": "a user", 
+            "Score": 0.9683667421340942, 
+            "BeginOffset": 2561, 
+            "EndOffset": 2567
+        }, 
+        {
+            "Text": "this project", 
+            "Score": 0.9994155168533325, 
+            "BeginOffset": 2599, 
+            "EndOffset": 2611
+        }, 
+        {
+            "Text": "any code", 
+            "Score": 0.9605445265769958, 
+            "BeginOffset": 2657, 
+            "EndOffset": 2665
+        }, 
+        {
+            "Text": "documentation", 
+            "Score": 0.7249650359153748, 
+            "BeginOffset": 2670, 
+            "EndOffset": 2683
+        }, 
+        {
+            "Text": "the project[3]", 
+            "Score": 0.8850171566009521, 
+            "BeginOffset": 2698, 
+            "EndOffset": 2712
+        }, 
+        {
+            "Text": "no way", 
+            "Score": 0.9387053847312927, 
+            "BeginOffset": 2725, 
+            "EndOffset": 2731
+        }, 
+        {
+            "Text": "DOCKER PODCAST", 
+            "Score": 0.7965336441993713, 
+            "BeginOffset": 2799, 
+            "EndOffset": 2813
+        }, 
+        {
+            "Text": "the wake", 
+            "Score": 0.9985373616218567, 
+            "BeginOffset": 2819, 
+            "EndOffset": 2827
+        }, 
+        {
+            "Text": "Dockercon", 
+            "Score": 0.8967786431312561, 
+            "BeginOffset": 2831, 
+            "EndOffset": 2840
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9989489912986755, 
+            "BeginOffset": 2842, 
+            "EndOffset": 2848
+        }, 
+        {
+            "Text": "the videos", 
+            "Score": 0.9674261808395386, 
+            "BeginOffset": 2865, 
+            "EndOffset": 2875
+        }, 
+        {
+            "Text": "YouTube", 
+            "Score": 0.9892438650131226, 
+            "BeginOffset": 2888, 
+            "EndOffset": 2895
+        }, 
+        {
+            "Text": "a podcast", 
+            "Score": 0.8585250377655029, 
+            "BeginOffset": 2913, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9785139560699463, 
+            "BeginOffset": 2944, 
+            "EndOffset": 2948
+        }, 
+        {
+            "Text": "the sessions", 
+            "Score": 0.9100728631019592, 
+            "BeginOffset": 2994, 
+            "EndOffset": 3006
+        }, 
+        {
+            "Text": "The plan", 
+            "Score": 0.999530017375946, 
+            "BeginOffset": 3025, 
+            "EndOffset": 3033
+        }, 
+        {
+            "Text": "the podcast", 
+            "Score": 0.9953672289848328, 
+            "BeginOffset": 3039, 
+            "EndOffset": 3050
+        }, 
+        {
+            "Text": "new episodes", 
+            "Score": 0.9829757809638977, 
+            "BeginOffset": 3091, 
+            "EndOffset": 3103
+        }, 
+        {
+            "Text": "events", 
+            "Score": 0.9926433563232422, 
+            "BeginOffset": 3124, 
+            "EndOffset": 3130
+        }, 
+        {
+            "Text": "Dockercon", 
+            "Score": 0.965084433555603, 
+            "BeginOffset": 3136, 
+            "EndOffset": 3145
+        }, 
+        {
+            "Text": "podcasts", 
+            "Score": 0.9931830763816833, 
+            "BeginOffset": 3198, 
+            "EndOffset": 3206
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9989370107650757, 
+            "BeginOffset": 3226, 
+            "EndOffset": 3228
+        }, 
+        {
+            "Text": "The last time", 
+            "Score": 0.9965230226516724, 
+            "BeginOffset": 3230, 
+            "EndOffset": 3243
+        }, 
+        {
+            "Text": "any money", 
+            "Score": 0.997886061668396, 
+            "BeginOffset": 3256, 
+            "EndOffset": 3265
+        }, 
+        {
+            "Text": "2013", 
+            "Score": 0.9997878670692444, 
+            "BeginOffset": 3273, 
+            "EndOffset": 3277
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9969552159309387, 
+            "BeginOffset": 3280, 
+            "EndOffset": 3283
+        }, 
+        {
+            "Text": "Even this part", 
+            "Score": 0.998124897480011, 
+            "BeginOffset": 3284, 
+            "EndOffset": 3298
+        }, 
+        {
+            "Text": "the tongue", 
+            "Score": 0.7732969522476196, 
+            "BeginOffset": 3316, 
+            "EndOffset": 3326
+        }, 
+        {
+            "Text": "an attempt", 
+            "Score": 0.9880263209342957, 
+            "BeginOffset": 3357, 
+            "EndOffset": 3367
+        }, 
+        {
+            "Text": "a terrible name", 
+            "Score": 0.8918824791908264, 
+            "BeginOffset": 3405, 
+            "EndOffset": 3420
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9996269941329956, 
+            "BeginOffset": 3423, 
+            "EndOffset": 3426
+        }, 
+        {
+            "Text": "my way", 
+            "Score": 0.7396252751350403, 
+            "BeginOffset": 3449, 
+            "EndOffset": 3455
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.994845986366272, 
+            "BeginOffset": 3468, 
+            "EndOffset": 3476
+        }
+    ]
+}

@@ -1,0 +1,826 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "This past week", 
+            "Score": 0.9896485209465027, 
+            "BeginOffset": 0, 
+            "EndOffset": 14
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9048455357551575, 
+            "BeginOffset": 38, 
+            "EndOffset": 43
+        }, 
+        {
+            "Text": "more talk", 
+            "Score": 0.6937471628189087, 
+            "BeginOffset": 44, 
+            "EndOffset": 53
+        }, 
+        {
+            "Text": "the iPhone 7", 
+            "Score": 0.8340721130371094, 
+            "BeginOffset": 60, 
+            "EndOffset": 72
+        }, 
+        {
+            "Text": "iOS 10 reviews", 
+            "Score": 0.9190099239349365, 
+            "BeginOffset": 77, 
+            "EndOffset": 91
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9981533885002136, 
+            "BeginOffset": 108, 
+            "EndOffset": 116
+        }, 
+        {
+            "Text": "unrelated software releases", 
+            "Score": 0.9441156387329102, 
+            "BeginOffset": 120, 
+            "EndOffset": 147
+        }, 
+        {
+            "Text": "APPLE OS RELEASES\n\n\nLet", 
+            "Score": 0.8846194744110107, 
+            "BeginOffset": 169, 
+            "EndOffset": 192
+        }, 
+        {
+            "Text": "the boring ones", 
+            "Score": 0.9944392442703247, 
+            "BeginOffset": 199, 
+            "EndOffset": 214
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.8888029456138611, 
+            "BeginOffset": 222, 
+            "EndOffset": 229
+        }, 
+        {
+            "Text": "iOS 10", 
+            "Score": 0.981350839138031, 
+            "BeginOffset": 277, 
+            "EndOffset": 283
+        }, 
+        {
+            "Text": "some days", 
+            "Score": 0.9904206395149231, 
+            "BeginOffset": 314, 
+            "EndOffset": 323
+        }, 
+        {
+            "Text": "my initial ideas", 
+            "Score": 0.9982433915138245, 
+            "BeginOffset": 324, 
+            "EndOffset": 340
+        }, 
+        {
+            "Text": "a decent OS update", 
+            "Score": 0.9911616444587708, 
+            "BeginOffset": 363, 
+            "EndOffset": 381
+        }, 
+        {
+            "Text": "all the messages", 
+            "Score": 0.7873413562774658, 
+            "BeginOffset": 387, 
+            "EndOffset": 403
+        }, 
+        {
+            "Text": "stuff", 
+            "Score": 0.9384159445762634, 
+            "BeginOffset": 404, 
+            "EndOffset": 409
+        }, 
+        {
+            "Text": "The best and most comprehensive review", 
+            "Score": 0.912539541721344, 
+            "BeginOffset": 454, 
+            "EndOffset": 492
+        }, 
+        {
+            "Text": "the one", 
+            "Score": 0.9920872449874878, 
+            "BeginOffset": 505, 
+            "EndOffset": 512
+        }, 
+        {
+            "Text": "Macstories", 
+            "Score": 0.9985844492912292, 
+            "BeginOffset": 516, 
+            "EndOffset": 526
+        }, 
+        {
+            "Text": "Frederick Vittici", 
+            "Score": 0.9949474930763245, 
+            "BeginOffset": 539, 
+            "EndOffset": 556
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.7914555072784424, 
+            "BeginOffset": 597, 
+            "EndOffset": 600
+        }, 
+        {
+            "Text": "a good position", 
+            "Score": 0.9964491128921509, 
+            "BeginOffset": 609, 
+            "EndOffset": 624
+        }, 
+        {
+            "Text": "both the improvements and shortcomings", 
+            "Score": 0.9171673655509949, 
+            "BeginOffset": 633, 
+            "EndOffset": 671
+        }, 
+        {
+            "Text": "a very big review", 
+            "Score": 0.9941543936729431, 
+            "BeginOffset": 719, 
+            "EndOffset": 736
+        }, 
+        {
+            "Text": "Similar things", 
+            "Score": 0.9982773661613464, 
+            "BeginOffset": 739, 
+            "EndOffset": 753
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.9948685765266418, 
+            "BeginOffset": 758, 
+            "EndOffset": 766
+        }, 
+        {
+            "Text": "the new versions", 
+            "Score": 0.9978882670402527, 
+            "BeginOffset": 771, 
+            "EndOffset": 787
+        }, 
+        {
+            "Text": "watchOS and tvOS", 
+            "Score": 0.9354674816131592, 
+            "BeginOffset": 791, 
+            "EndOffset": 807
+        }, 
+        {
+            "Text": "the Macstories reviews", 
+            "Score": 0.9148439764976501, 
+            "BeginOffset": 892, 
+            "EndOffset": 914
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9974306225776672, 
+            "BeginOffset": 945, 
+            "EndOffset": 950
+        }, 
+        {
+            "Text": "VIM 8.0", 
+            "Score": 0.9713777899742126, 
+            "BeginOffset": 963, 
+            "EndOffset": 970
+        }, 
+        {
+            "Text": "less expected news", 
+            "Score": 0.9604668021202087, 
+            "BeginOffset": 976, 
+            "EndOffset": 994
+        }, 
+        {
+            "Text": "the first new major version", 
+            "Score": 0.9960376620292664, 
+            "BeginOffset": 996, 
+            "EndOffset": 1023
+        }, 
+        {
+            "Text": "Vim", 
+            "Score": 0.9984577298164368, 
+            "BeginOffset": 1027, 
+            "EndOffset": 1030
+        }, 
+        {
+            "Text": "10 years", 
+            "Score": 0.9911884069442749, 
+            "BeginOffset": 1034, 
+            "EndOffset": 1042
+        }, 
+        {
+            "Text": "a very long time", 
+            "Score": 0.995894730091095, 
+            "BeginOffset": 1071, 
+            "EndOffset": 1087
+        }, 
+        {
+            "Text": "Vim", 
+            "Score": 0.995752215385437, 
+            "BeginOffset": 1088, 
+            "EndOffset": 1091
+        }, 
+        {
+            "Text": "my editor", 
+            "Score": 0.8740853071212769, 
+            "BeginOffset": 1096, 
+            "EndOffset": 1105
+        }, 
+        {
+            "Text": "choice", 
+            "Score": 0.9992897510528564, 
+            "BeginOffset": 1109, 
+            "EndOffset": 1115
+        }, 
+        {
+            "Text": "recent years", 
+            "Score": 0.9792512655258179, 
+            "BeginOffset": 1129, 
+            "EndOffset": 1141
+        }, 
+        {
+            "Text": "that path", 
+            "Score": 0.9994841814041138, 
+            "BeginOffset": 1160, 
+            "EndOffset": 1169
+        }, 
+        {
+            "Text": "the newcomers Sublime Text", 
+            "Score": 0.9186966419219971, 
+            "BeginOffset": 1190, 
+            "EndOffset": 1216
+        }, 
+        {
+            "Text": "Atom", 
+            "Score": 0.7248889207839966, 
+            "BeginOffset": 1221, 
+            "EndOffset": 1225
+        }, 
+        {
+            "Text": "my main editors", 
+            "Score": 0.9719536304473877, 
+            "BeginOffset": 1229, 
+            "EndOffset": 1244
+        }, 
+        {
+            "Text": "Vim", 
+            "Score": 0.9973188638687134, 
+            "BeginOffset": 1251, 
+            "EndOffset": 1254
+        }, 
+        {
+            "Text": "quick things", 
+            "Score": 0.9728214740753174, 
+            "BeginOffset": 1271, 
+            "EndOffset": 1283
+        }, 
+        {
+            "Text": "the command line", 
+            "Score": 0.9980200529098511, 
+            "BeginOffset": 1304, 
+            "EndOffset": 1320
+        }, 
+        {
+            "Text": "a server", 
+            "Score": 0.9893831014633179, 
+            "BeginOffset": 1327, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "A complete list", 
+            "Score": 0.9961385726928711, 
+            "BeginOffset": 1338, 
+            "EndOffset": 1353
+        }, 
+        {
+            "Text": "the updates", 
+            "Score": 0.9996210336685181, 
+            "BeginOffset": 1357, 
+            "EndOffset": 1368
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9989935755729675, 
+            "BeginOffset": 1385, 
+            "EndOffset": 1391
+        }, 
+        {
+            "Text": "general", 
+            "Score": 0.8351916074752808, 
+            "BeginOffset": 1400, 
+            "EndOffset": 1407
+        }, 
+        {
+            "Text": "a pretty good release", 
+            "Score": 0.9949864745140076, 
+            "BeginOffset": 1423, 
+            "EndOffset": 1444
+        }, 
+        {
+            "Text": "a bunch", 
+            "Score": 0.9936603903770447, 
+            "BeginOffset": 1454, 
+            "EndOffset": 1461
+        }, 
+        {
+            "Text": "new features", 
+            "Score": 0.9995096325874329, 
+            "BeginOffset": 1465, 
+            "EndOffset": 1477
+        }, 
+        {
+            "Text": "power users", 
+            "Score": 0.9964422583580017, 
+            "BeginOffset": 1482, 
+            "EndOffset": 1493
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7539753317832947, 
+            "BeginOffset": 1494, 
+            "EndOffset": 1496
+        }, 
+        {
+            "Text": "the one", 
+            "Score": 0.996645987033844, 
+            "BeginOffset": 1527, 
+            "EndOffset": 1534
+        }, 
+        {
+            "Text": "most people", 
+            "Score": 0.9925662279129028, 
+            "BeginOffset": 1558, 
+            "EndOffset": 1569
+        }, 
+        {
+            "Text": "the package manager", 
+            "Score": 0.9964689016342163, 
+            "BeginOffset": 1573, 
+            "EndOffset": 1592
+        }, 
+        {
+            "Text": "plugins", 
+            "Score": 0.9882373213768005, 
+            "BeginOffset": 1597, 
+            "EndOffset": 1604
+        }, 
+        {
+            "Text": "the years", 
+            "Score": 0.9921519160270691, 
+            "BeginOffset": 1611, 
+            "EndOffset": 1620
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9965319633483887, 
+            "BeginOffset": 1621, 
+            "EndOffset": 1629
+        }, 
+        {
+            "Text": "package managers", 
+            "Score": 0.9989434480667114, 
+            "BeginOffset": 1633, 
+            "EndOffset": 1649
+        }, 
+        {
+            "Text": "Vim", 
+            "Score": 0.9919483661651611, 
+            "BeginOffset": 1654, 
+            "EndOffset": 1657
+        }, 
+        {
+            "Text": "the main application[2]", 
+            "Score": 0.9030618071556091, 
+            "BeginOffset": 1727, 
+            "EndOffset": 1750
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9182162284851074, 
+            "BeginOffset": 1778, 
+            "EndOffset": 1781
+        }, 
+        {
+            "Text": "this new version", 
+            "Score": 0.9643862843513489, 
+            "BeginOffset": 1800, 
+            "EndOffset": 1816
+        }, 
+        {
+            "Text": "the site", 
+            "Score": 0.9992673397064209, 
+            "BeginOffset": 1822, 
+            "EndOffset": 1830
+        }, 
+        {
+            "Text": "GITHUB UPDATES\n\n\nGitHub", 
+            "Score": 0.9967241287231445, 
+            "BeginOffset": 1835, 
+            "EndOffset": 1858
+        }, 
+        {
+            "Text": "some nice changes", 
+            "Score": 0.995169460773468, 
+            "BeginOffset": 1863, 
+            "EndOffset": 1880
+        }, 
+        {
+            "Text": "the updating", 
+            "Score": 0.9802899956703186, 
+            "BeginOffset": 1896, 
+            "EndOffset": 1908
+        }, 
+        {
+            "Text": "review system", 
+            "Score": 0.8975099921226501, 
+            "BeginOffset": 1924, 
+            "EndOffset": 1937
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9156355261802673, 
+            "BeginOffset": 1961, 
+            "EndOffset": 1967
+        }, 
+        {
+            "Text": "Bitbucket", 
+            "Score": 0.9954507946968079, 
+            "BeginOffset": 1982, 
+            "EndOffset": 1991
+        }, 
+        {
+            "Text": "first glance", 
+            "Score": 0.9910598993301392, 
+            "BeginOffset": 1996, 
+            "EndOffset": 2008
+        }, 
+        {
+            "Text": "the project management tools", 
+            "Score": 0.974716305732727, 
+            "BeginOffset": 2081, 
+            "EndOffset": 2109
+        }, 
+        {
+            "Text": "some good potential", 
+            "Score": 0.9561486840248108, 
+            "BeginOffset": 2138, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9989168643951416, 
+            "BeginOffset": 2180, 
+            "EndOffset": 2185
+        }, 
+        {
+            "Text": "bigger projects", 
+            "Score": 0.9931293725967407, 
+            "BeginOffset": 2189, 
+            "EndOffset": 2204
+        }, 
+        {
+            "Text": "some kind", 
+            "Score": 0.9989068508148193, 
+            "BeginOffset": 2222, 
+            "EndOffset": 2231
+        }, 
+        {
+            "Text": "project management tool", 
+            "Score": 0.998132586479187, 
+            "BeginOffset": 2235, 
+            "EndOffset": 2258
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.9986369609832764, 
+            "BeginOffset": 2290, 
+            "EndOffset": 2298
+        }, 
+        {
+            "Text": "a pretty standard KANBAN setup", 
+            "Score": 0.9967454671859741, 
+            "BeginOffset": 2315, 
+            "EndOffset": 2345
+        }, 
+        {
+            "Text": "your tickets", 
+            "Score": 0.996543288230896, 
+            "BeginOffset": 2364, 
+            "EndOffset": 2376
+        }, 
+        {
+            "Text": "more changes", 
+            "Score": 0.7008371949195862, 
+            "BeginOffset": 2399, 
+            "EndOffset": 2411
+        }, 
+        {
+            "Text": "an enterprise GitHub account", 
+            "Score": 0.9937525391578674, 
+            "BeginOffset": 2435, 
+            "EndOffset": 2463
+        }, 
+        {
+            "Text": "these two", 
+            "Score": 0.9735927581787109, 
+            "BeginOffset": 2464, 
+            "EndOffset": 2473
+        }, 
+        {
+            "Text": "the most interesting", 
+            "Score": 0.9120016098022461, 
+            "BeginOffset": 2487, 
+            "EndOffset": 2507
+        }, 
+        {
+            "Text": "those enterprise accounts", 
+            "Score": 0.9967236518859863, 
+            "BeginOffset": 2520, 
+            "EndOffset": 2545
+        }, 
+        {
+            "Text": "two factor authentication", 
+            "Score": 0.9932157397270203, 
+            "BeginOffset": 2584, 
+            "EndOffset": 2609
+        }, 
+        {
+            "Text": "a great improvement", 
+            "Score": 0.9737652540206909, 
+            "BeginOffset": 2611, 
+            "EndOffset": 2630
+        }, 
+        {
+            "Text": "a security perspective", 
+            "Score": 0.9986680746078491, 
+            "BeginOffset": 2636, 
+            "EndOffset": 2658
+        }, 
+        {
+            "Text": "ANGULAR JS 2", 
+            "Score": 0.9926196336746216, 
+            "BeginOffset": 2663, 
+            "EndOffset": 2675
+        }, 
+        {
+            "Text": "The last thing", 
+            "Score": 0.8738731741905212, 
+            "BeginOffset": 2678, 
+            "EndOffset": 2692
+        }, 
+        {
+            "Text": "this short note", 
+            "Score": 0.9981968402862549, 
+            "BeginOffset": 2709, 
+            "EndOffset": 2724
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9864526987075806, 
+            "BeginOffset": 2728, 
+            "EndOffset": 2739
+        }, 
+        {
+            "Text": "Angular 2", 
+            "Score": 0.9964022040367126, 
+            "BeginOffset": 2743, 
+            "EndOffset": 2752
+        }, 
+        {
+            "Text": "Angular", 
+            "Score": 0.9854925274848938, 
+            "BeginOffset": 2783, 
+            "EndOffset": 2790
+        }, 
+        {
+            "Text": "My forays", 
+            "Score": 0.9987496137619019, 
+            "BeginOffset": 2792, 
+            "EndOffset": 2801
+        }, 
+        {
+            "Text": "JS frameworks", 
+            "Score": 0.9539190530776978, 
+            "BeginOffset": 2807, 
+            "EndOffset": 2820
+        }, 
+        {
+            "Text": "Ember", 
+            "Score": 0.9938757419586182, 
+            "BeginOffset": 2848, 
+            "EndOffset": 2853
+        }, 
+        {
+            "Text": "these two", 
+            "Score": 0.9837885499000549, 
+            "BeginOffset": 2862, 
+            "EndOffset": 2871
+        }, 
+        {
+            "Text": "React", 
+            "Score": 0.9019986987113953, 
+            "BeginOffset": 2876, 
+            "EndOffset": 2881
+        }, 
+        {
+            "Text": "the best-known frameworks", 
+            "Score": 0.837929904460907, 
+            "BeginOffset": 2895, 
+            "EndOffset": 2920
+        }, 
+        {
+            "Text": "a mention", 
+            "Score": 0.9991469383239746, 
+            "BeginOffset": 2939, 
+            "EndOffset": 2948
+        }, 
+        {
+            "Text": "4]", 
+            "Score": 0.8725579380989075, 
+            "BeginOffset": 2949, 
+            "EndOffset": 2951
+        }, 
+        {
+            "Text": "The change", 
+            "Score": 0.7226424217224121, 
+            "BeginOffset": 2954, 
+            "EndOffset": 2964
+        }, 
+        {
+            "Text": "1 to 2", 
+            "Score": 0.8923136591911316, 
+            "BeginOffset": 2970, 
+            "EndOffset": 2976
+        }, 
+        {
+            "Text": "a breaking change", 
+            "Score": 0.9828684329986572, 
+            "BeginOffset": 2980, 
+            "EndOffset": 2997
+        }, 
+        {
+            "Text": "the opportunity", 
+            "Score": 0.9953747391700745, 
+            "BeginOffset": 3016, 
+            "EndOffset": 3031
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9985741972923279, 
+            "BeginOffset": 3043, 
+            "EndOffset": 3048
+        }, 
+        {
+            "Text": "the 6 years", 
+            "Score": 0.9666889905929565, 
+            "BeginOffset": 3078, 
+            "EndOffset": 3089
+        }, 
+        {
+            "Text": "these two releases", 
+            "Score": 0.9939903616905212, 
+            "BeginOffset": 3098, 
+            "EndOffset": 3116
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9889240860939026, 
+            "BeginOffset": 3129, 
+            "EndOffset": 3134
+        }, 
+        {
+            "Text": "cleaner syntax", 
+            "Score": 0.9988793134689331, 
+            "BeginOffset": 3135, 
+            "EndOffset": 3149
+        }, 
+        {
+            "Text": "new users", 
+            "Score": 0.9946955442428589, 
+            "BeginOffset": 3196, 
+            "EndOffset": 3205
+        }, 
+        {
+            "Text": "some issues", 
+            "Score": 0.9973666667938232, 
+            "BeginOffset": 3228, 
+            "EndOffset": 3239
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.958932638168335, 
+            "BeginOffset": 3293, 
+            "EndOffset": 3301
+        }, 
+        {
+            "Text": "both old and new projects", 
+            "Score": 0.9995991587638855, 
+            "BeginOffset": 3316, 
+            "EndOffset": 3341
+        }, 
+        {
+            "Text": "a quick reference guide", 
+            "Score": 0.9945735931396484, 
+            "BeginOffset": 3352, 
+            "EndOffset": 3375
+        }, 
+        {
+            "Text": "the common syntax changes", 
+            "Score": 0.9965372085571289, 
+            "BeginOffset": 3379, 
+            "EndOffset": 3404
+        }, 
+        {
+            "Text": "an existing Angular user", 
+            "Score": 0.8588044047355652, 
+            "BeginOffset": 3428, 
+            "EndOffset": 3452
+        }, 
+        {
+            "Text": "version 2", 
+            "Score": 0.9962923526763916, 
+            "BeginOffset": 3464, 
+            "EndOffset": 3473
+        }, 
+        {
+            "Text": "a good place", 
+            "Score": 0.9883065819740295, 
+            "BeginOffset": 3488, 
+            "EndOffset": 3500
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9965318441390991, 
+            "BeginOffset": 3512, 
+            "EndOffset": 3514
+        }, 
+        {
+            "Text": "not everyone", 
+            "Score": 0.8914688229560852, 
+            "BeginOffset": 3520, 
+            "EndOffset": 3532
+        }, 
+        {
+            "Text": "Vim", 
+            "Score": 0.6215783357620239, 
+            "BeginOffset": 3542, 
+            "EndOffset": 3545
+        }, 
+        {
+            "Text": "a power user", 
+            "Score": 0.9245470762252808, 
+            "BeginOffset": 3549, 
+            "EndOffset": 3561
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.99801105260849, 
+            "BeginOffset": 3564, 
+            "EndOffset": 3567
+        }, 
+        {
+            "Text": "\"helpful\" comments", 
+            "Score": 0.8869850039482117, 
+            "BeginOffset": 3600, 
+            "EndOffset": 3618
+        }, 
+        {
+            "Text": "every other editor", 
+            "Score": 0.9600200653076172, 
+            "BeginOffset": 3629, 
+            "EndOffset": 3647
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9652936458587646, 
+            "BeginOffset": 3667, 
+            "EndOffset": 3670
+        }, 
+        {
+            "Text": "the small group", 
+            "Score": 0.8544145822525024, 
+            "BeginOffset": 3697, 
+            "EndOffset": 3712
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9993035793304443, 
+            "BeginOffset": 3716, 
+            "EndOffset": 3722
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9996813535690308, 
+            "BeginOffset": 3734, 
+            "EndOffset": 3737
+        }, 
+        {
+            "Text": "an even shorter note", 
+            "Score": 0.8744654059410095, 
+            "BeginOffset": 3783, 
+            "EndOffset": 3803
+        }
+    ]
+}

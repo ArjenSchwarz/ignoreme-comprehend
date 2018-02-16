@@ -1,0 +1,1036 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A catchup week", 
+            "Score": 0.9197947978973389, 
+            "BeginOffset": 0, 
+            "EndOffset": 14
+        }, 
+        {
+            "Text": "various container", 
+            "Score": 0.8008981943130493, 
+            "BeginOffset": 21, 
+            "EndOffset": 38
+        }, 
+        {
+            "Text": "subjects", 
+            "Score": 0.7152677774429321, 
+            "BeginOffset": 47, 
+            "EndOffset": 55
+        }, 
+        {
+            "Text": "the road", 
+            "Score": 0.9966750741004944, 
+            "BeginOffset": 57, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.9304438233375549, 
+            "BeginOffset": 72, 
+            "EndOffset": 75
+        }, 
+        {
+            "Text": "the W3C", 
+            "Score": 0.9797328114509583, 
+            "BeginOffset": 81, 
+            "EndOffset": 88
+        }, 
+        {
+            "Text": "DRM", 
+            "Score": 0.9707273840904236, 
+            "BeginOffset": 91, 
+            "EndOffset": 94
+        }, 
+        {
+            "Text": "videos", 
+            "Score": 0.9980905652046204, 
+            "BeginOffset": 99, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "My apologies", 
+            "Score": 0.9967816472053528, 
+            "BeginOffset": 107, 
+            "EndOffset": 119
+        }, 
+        {
+            "Text": "two weeks", 
+            "Score": 0.885899543762207, 
+            "BeginOffset": 143, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "house", 
+            "Score": 0.9670234322547913, 
+            "BeginOffset": 162, 
+            "EndOffset": 167
+        }, 
+        {
+            "Text": "my time", 
+            "Score": 0.8549908399581909, 
+            "BeginOffset": 199, 
+            "EndOffset": 206
+        }, 
+        {
+            "Text": "CONTAINER RUNTIMES", 
+            "Score": 0.8422423005104065, 
+            "BeginOffset": 227, 
+            "EndOffset": 245
+        }, 
+        {
+            "Text": "Just a couple", 
+            "Score": 0.902685821056366, 
+            "BeginOffset": 248, 
+            "EndOffset": 261
+        }, 
+        {
+            "Text": "news items", 
+            "Score": 0.9939931035041809, 
+            "BeginOffset": 265, 
+            "EndOffset": 275
+        }, 
+        {
+            "Text": "the container world", 
+            "Score": 0.9879796504974365, 
+            "BeginOffset": 281, 
+            "EndOffset": 300
+        }, 
+        {
+            "Text": "my eye", 
+            "Score": 0.9993529319763184, 
+            "BeginOffset": 313, 
+            "EndOffset": 319
+        }, 
+        {
+            "Text": "the past couple", 
+            "Score": 0.9976856112480164, 
+            "BeginOffset": 325, 
+            "EndOffset": 340
+        }, 
+        {
+            "Text": "weeks", 
+            "Score": 0.9982423782348633, 
+            "BeginOffset": 344, 
+            "EndOffset": 349
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.7517352104187012, 
+            "BeginOffset": 363, 
+            "EndOffset": 369
+        }, 
+        {
+            "Text": "an OCI-Based Container Runtime", 
+            "Score": 0.9858299493789673, 
+            "BeginOffset": 380, 
+            "EndOffset": 410
+        }, 
+        {
+            "Text": "The OCI", 
+            "Score": 0.9994351863861084, 
+            "BeginOffset": 412, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "the Open Container Initiative", 
+            "Score": 0.9945246577262878, 
+            "BeginOffset": 423, 
+            "EndOffset": 452
+        }, 
+        {
+            "Text": "the specifications", 
+            "Score": 0.9954382181167603, 
+            "BeginOffset": 478, 
+            "EndOffset": 496
+        }, 
+        {
+            "Text": "both runtimes and images", 
+            "Score": 0.9756295084953308, 
+            "BeginOffset": 501, 
+            "EndOffset": 525
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9969924688339233, 
+            "BeginOffset": 529, 
+            "EndOffset": 539
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9897657036781311, 
+            "BeginOffset": 541, 
+            "EndOffset": 547
+        }, 
+        {
+            "Text": "decision", 
+            "Score": 0.9078962802886963, 
+            "BeginOffset": 550, 
+            "EndOffset": 558
+        }, 
+        {
+            "Text": "their own runtime", 
+            "Score": 0.9868015646934509, 
+            "BeginOffset": 568, 
+            "EndOffset": 585
+        }, 
+        {
+            "Text": "this spec means", 
+            "Score": 0.9249085187911987, 
+            "BeginOffset": 596, 
+            "EndOffset": 611
+        }, 
+        {
+            "Text": "a compatible alternative", 
+            "Score": 0.9987005591392517, 
+            "BeginOffset": 635, 
+            "EndOffset": 659
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9699242115020752, 
+            "BeginOffset": 663, 
+            "EndOffset": 669
+        }, 
+        {
+            "Text": "Their reasoning", 
+            "Score": 0.9979472160339355, 
+            "BeginOffset": 671, 
+            "EndOffset": 686
+        }, 
+        {
+            "Text": "an alternative available[1]", 
+            "Score": 0.8682782053947449, 
+            "BeginOffset": 721, 
+            "EndOffset": 748
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9471293091773987, 
+            "BeginOffset": 773, 
+            "EndOffset": 779
+        }, 
+        {
+            "Text": "a company", 
+            "Score": 0.8631100058555603, 
+            "BeginOffset": 783, 
+            "EndOffset": 792
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9867021441459656, 
+            "BeginOffset": 803, 
+            "EndOffset": 813
+        }, 
+        {
+            "Text": "potentially good news", 
+            "Score": 0.7701283693313599, 
+            "BeginOffset": 837, 
+            "EndOffset": 858
+        }, 
+        {
+            "Text": "their purchase", 
+            "Score": 0.9995086789131165, 
+            "BeginOffset": 875, 
+            "EndOffset": 889
+        }, 
+        {
+            "Text": "Wercker[2]", 
+            "Score": 0.9079145193099976, 
+            "BeginOffset": 893, 
+            "EndOffset": 903
+        }, 
+        {
+            "Text": "a likely place", 
+            "Score": 0.9716896414756775, 
+            "BeginOffset": 922, 
+            "EndOffset": 936
+        }, 
+        {
+            "Text": "the runtime", 
+            "Score": 0.9959620833396912, 
+            "BeginOffset": 953, 
+            "EndOffset": 964
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9971131682395935, 
+            "BeginOffset": 994, 
+            "EndOffset": 999
+        }, 
+        {
+            "Text": "traction outside", 
+            "Score": 0.9995836019515991, 
+            "BeginOffset": 1003, 
+            "EndOffset": 1019
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.7777813076972961, 
+            "BeginOffset": 1023, 
+            "EndOffset": 1029
+        }, 
+        {
+            "Text": "another runtime", 
+            "Score": 0.9977714419364929, 
+            "BeginOffset": 1059, 
+            "EndOffset": 1074
+        }, 
+        {
+            "Text": "addition", 
+            "Score": 0.990331768989563, 
+            "BeginOffset": 1089, 
+            "EndOffset": 1097
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9984265565872192, 
+            "BeginOffset": 1112, 
+            "EndOffset": 1120
+        }, 
+        {
+            "Text": "helper tools", 
+            "Score": 0.9994089007377625, 
+            "BeginOffset": 1124, 
+            "EndOffset": 1136
+        }, 
+        {
+            "Text": "CI integration", 
+            "Score": 0.9975000619888306, 
+            "BeginOffset": 1141, 
+            "EndOffset": 1155
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9885023832321167, 
+            "BeginOffset": 1161, 
+            "EndOffset": 1171
+        }, 
+        {
+            "Text": "the above linked article", 
+            "Score": 0.9685181975364685, 
+            "BeginOffset": 1212, 
+            "EndOffset": 1236
+        }, 
+        {
+            "Text": "the OCI", 
+            "Score": 0.9684640765190125, 
+            "BeginOffset": 1251, 
+            "EndOffset": 1258
+        }, 
+        {
+            "Text": "about 2 weeks", 
+            "Score": 0.975541889667511, 
+            "BeginOffset": 1260, 
+            "EndOffset": 1273
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9980235695838928, 
+            "BeginOffset": 1280, 
+            "EndOffset": 1286
+        }, 
+        {
+            "Text": "their new runtime", 
+            "Score": 0.9534717202186584, 
+            "BeginOffset": 1297, 
+            "EndOffset": 1314
+        }, 
+        {
+            "Text": "their specifications", 
+            "Score": 0.9322451949119568, 
+            "BeginOffset": 1324, 
+            "EndOffset": 1344
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.9965393543243408, 
+            "BeginOffset": 1353, 
+            "EndOffset": 1356
+        }, 
+        {
+            "Text": "the specs", 
+            "Score": 0.9974963068962097, 
+            "BeginOffset": 1379, 
+            "EndOffset": 1388
+        }, 
+        {
+            "Text": "any sudden big changes", 
+            "Score": 0.9970583319664001, 
+            "BeginOffset": 1404, 
+            "EndOffset": 1426
+        }, 
+        {
+            "Text": "future improvements", 
+            "Score": 0.9948018789291382, 
+            "BeginOffset": 1462, 
+            "EndOffset": 1481
+        }, 
+        {
+            "Text": "the time", 
+            "Score": 0.9991369843482971, 
+            "BeginOffset": 1499, 
+            "EndOffset": 1507
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.9958481788635254, 
+            "BeginOffset": 1521, 
+            "EndOffset": 1524
+        }, 
+        {
+            "Text": "containerd", 
+            "Score": 0.9876688718795776, 
+            "BeginOffset": 1529, 
+            "EndOffset": 1539
+        }, 
+        {
+            "Text": "the runtime", 
+            "Score": 0.9768822193145752, 
+            "BeginOffset": 1541, 
+            "EndOffset": 1552
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9895646572113037, 
+            "BeginOffset": 1558, 
+            "EndOffset": 1564
+        }, 
+        {
+            "Text": "the CNCF", 
+            "Score": 0.9948248863220215, 
+            "BeginOffset": 1599, 
+            "EndOffset": 1607
+        }, 
+        {
+            "Text": "a 1.0 release", 
+            "Score": 0.995679497718811, 
+            "BeginOffset": 1622, 
+            "EndOffset": 1635
+        }, 
+        {
+            "Text": "2 alpha releases", 
+            "Score": 0.9126233458518982, 
+            "BeginOffset": 1667, 
+            "EndOffset": 1683
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9976897239685059, 
+            "BeginOffset": 1738, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "the next stable Docker release", 
+            "Score": 0.9931671619415283, 
+            "BeginOffset": 1747, 
+            "EndOffset": 1777
+        }, 
+        {
+            "Text": "September", 
+            "Score": 0.9913358688354492, 
+            "BeginOffset": 1792, 
+            "EndOffset": 1801
+        }, 
+        {
+            "Text": "Play", 
+            "Score": 0.9953868985176086, 
+            "BeginOffset": 1814, 
+            "EndOffset": 1818
+        }, 
+        {
+            "Text": "Docker and Play", 
+            "Score": 0.8239970803260803, 
+            "BeginOffset": 1824, 
+            "EndOffset": 1839
+        }, 
+        {
+            "Text": "Moby", 
+            "Score": 0.9978295564651489, 
+            "BeginOffset": 1845, 
+            "EndOffset": 1849
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.8634699583053589, 
+            "BeginOffset": 1851, 
+            "EndOffset": 1861
+        }, 
+        {
+            "Text": "a similar playground", 
+            "Score": 0.9605429768562317, 
+            "BeginOffset": 1870, 
+            "EndOffset": 1890
+        }, 
+        {
+            "Text": "Play", 
+            "Score": 0.9984121322631836, 
+            "BeginOffset": 1897, 
+            "EndOffset": 1901
+        }, 
+        {
+            "Text": "k8s", 
+            "Score": 0.9869239330291748, 
+            "BeginOffset": 1907, 
+            "EndOffset": 1910
+        }, 
+        {
+            "Text": "favor", 
+            "Score": 0.9984317421913147, 
+            "BeginOffset": 1948, 
+            "EndOffset": 1953
+        }, 
+        {
+            "Text": "these types", 
+            "Score": 0.8667822480201721, 
+            "BeginOffset": 1957, 
+            "EndOffset": 1968
+        }, 
+        {
+            "Text": "playground", 
+            "Score": 0.9995460510253906, 
+            "BeginOffset": 1972, 
+            "EndOffset": 1982
+        }, 
+        {
+            "Text": "easy experimentation", 
+            "Score": 0.9909738898277283, 
+            "BeginOffset": 1999, 
+            "EndOffset": 2019
+        }, 
+        {
+            "Text": "GO 2.0", 
+            "Score": 0.7858818173408508, 
+            "BeginOffset": 2045, 
+            "EndOffset": 2051
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.6414164304733276, 
+            "BeginOffset": 2057, 
+            "EndOffset": 2061
+        }, 
+        {
+            "Text": "Gophercon", 
+            "Score": 0.9934079647064209, 
+            "BeginOffset": 2065, 
+            "EndOffset": 2074
+        }, 
+        {
+            "Text": "a blogpost", 
+            "Score": 0.9987022876739502, 
+            "BeginOffset": 2168, 
+            "EndOffset": 2178
+        }, 
+        {
+            "Text": "the plans", 
+            "Score": 0.9906617999076843, 
+            "BeginOffset": 2190, 
+            "EndOffset": 2199
+        }, 
+        {
+            "Text": "version 2.0", 
+            "Score": 0.9721530079841614, 
+            "BeginOffset": 2214, 
+            "EndOffset": 2225
+        }, 
+        {
+            "Text": "the good things", 
+            "Score": 0.9954059720039368, 
+            "BeginOffset": 2235, 
+            "EndOffset": 2250
+        }, 
+        {
+            "Text": "the 1.0 release", 
+            "Score": 0.8384997248649597, 
+            "BeginOffset": 2279, 
+            "EndOffset": 2294
+        }, 
+        {
+            "Text": "backwards compatibility", 
+            "Score": 0.9810197353363037, 
+            "BeginOffset": 2311, 
+            "EndOffset": 2334
+        }, 
+        {
+            "Text": "their stated reason", 
+            "Score": 0.9132835865020752, 
+            "BeginOffset": 2350, 
+            "EndOffset": 2369
+        }, 
+        {
+            "Text": "a 2.0 release", 
+            "Score": 0.9862870573997498, 
+            "BeginOffset": 2391, 
+            "EndOffset": 2404
+        }, 
+        {
+            "Text": "The above blogpost", 
+            "Score": 0.8628502488136292, 
+            "BeginOffset": 2475, 
+            "EndOffset": 2493
+        }, 
+        {
+            "Text": "the plans", 
+            "Score": 0.9733110070228577, 
+            "BeginOffset": 2510, 
+            "EndOffset": 2519
+        }, 
+        {
+            "Text": "full", 
+            "Score": 0.9998340606689453, 
+            "BeginOffset": 2579, 
+            "EndOffset": 2583
+        }, 
+        {
+            "Text": "a short summary", 
+            "Score": 0.9163006544113159, 
+            "BeginOffset": 2596, 
+            "EndOffset": 2611
+        }, 
+        {
+            "Text": "The plan", 
+            "Score": 0.9778007864952087, 
+            "BeginOffset": 2628, 
+            "EndOffset": 2636
+        }, 
+        {
+            "Text": "a very smooth transitions", 
+            "Score": 0.9993985891342163, 
+            "BeginOffset": 2650, 
+            "EndOffset": 2675
+        }, 
+        {
+            "Text": "version 2.0", 
+            "Score": 0.9757239818572998, 
+            "BeginOffset": 2679, 
+            "EndOffset": 2690
+        }, 
+        {
+            "Text": "any non-breaking changes", 
+            "Score": 0.9788931012153625, 
+            "BeginOffset": 2708, 
+            "EndOffset": 2732
+        }, 
+        {
+            "Text": "1.x releases", 
+            "Score": 0.9969967007637024, 
+            "BeginOffset": 2763, 
+            "EndOffset": 2775
+        }, 
+        {
+            "Text": "any potential breakages", 
+            "Score": 0.9699823260307312, 
+            "BeginOffset": 2782, 
+            "EndOffset": 2805
+        }, 
+        {
+            "Text": "2.0", 
+            "Score": 0.9958351254463196, 
+            "BeginOffset": 2819, 
+            "EndOffset": 2822
+        }, 
+        {
+            "Text": "such a way", 
+            "Score": 0.9957395195960999, 
+            "BeginOffset": 2837, 
+            "EndOffset": 2847
+        }, 
+        {
+            "Text": "your old applications", 
+            "Score": 0.9883032441139221, 
+            "BeginOffset": 2901, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "This process", 
+            "Score": 0.9999136924743652, 
+            "BeginOffset": 2924, 
+            "EndOffset": 2936
+        }, 
+        {
+            "Text": "years", 
+            "Score": 0.9989757537841797, 
+            "BeginOffset": 2961, 
+            "EndOffset": 2966
+        }, 
+        {
+            "Text": "a call", 
+            "Score": 0.9979764223098755, 
+            "BeginOffset": 3000, 
+            "EndOffset": 3006
+        }, 
+        {
+            "Text": "experience reports", 
+            "Score": 0.999913215637207, 
+            "BeginOffset": 3011, 
+            "EndOffset": 3029
+        }, 
+        {
+            "Text": "These reports", 
+            "Score": 0.9984126687049866, 
+            "BeginOffset": 3031, 
+            "EndOffset": 3044
+        }, 
+        {
+            "Text": "real world examples", 
+            "Score": 0.9556712508201599, 
+            "BeginOffset": 3059, 
+            "EndOffset": 3078
+        }, 
+        {
+            "Text": "its current state", 
+            "Score": 0.9624800682067871, 
+            "BeginOffset": 3094, 
+            "EndOffset": 3111
+        }, 
+        {
+            "Text": "your expectations", 
+            "Score": 0.8535122871398926, 
+            "BeginOffset": 3127, 
+            "EndOffset": 3144
+        }, 
+        {
+            "Text": "the whole article", 
+            "Score": 0.9978688359260559, 
+            "BeginOffset": 3213, 
+            "EndOffset": 3230
+        }, 
+        {
+            "Text": "your issues", 
+            "Score": 0.9991515278816223, 
+            "BeginOffset": 3255, 
+            "EndOffset": 3266
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.8037427067756653, 
+            "BeginOffset": 3270, 
+            "EndOffset": 3277
+        }, 
+        {
+            "Text": "VIDEO DRM", 
+            "Score": 0.9962425827980042, 
+            "BeginOffset": 3292, 
+            "EndOffset": 3301
+        }, 
+        {
+            "Text": "a move", 
+            "Score": 0.9960897564888, 
+            "BeginOffset": 3307, 
+            "EndOffset": 3313
+        }, 
+        {
+            "Text": "DRM", 
+            "Score": 0.9566007852554321, 
+            "BeginOffset": 3329, 
+            "EndOffset": 3332
+        }, 
+        {
+            "Text": "the W3C", 
+            "Score": 0.9537926316261292, 
+            "BeginOffset": 3334, 
+            "EndOffset": 3341
+        }, 
+        {
+            "Text": "its Encrypted Media Extensions", 
+            "Score": 0.9922813177108765, 
+            "BeginOffset": 3372, 
+            "EndOffset": 3402
+        }, 
+        {
+            "Text": "a popular decision", 
+            "Score": 0.9971485137939453, 
+            "BeginOffset": 3423, 
+            "EndOffset": 3441
+        }, 
+        {
+            "Text": "all objections", 
+            "Score": 0.8253383636474609, 
+            "BeginOffset": 3457, 
+            "EndOffset": 3471
+        }, 
+        {
+            "Text": "Sir Tim Berners-Lee", 
+            "Score": 0.896226704120636, 
+            "BeginOffset": 3501, 
+            "EndOffset": 3520
+        }, 
+        {
+            "Text": "the Director", 
+            "Score": 0.9970601201057434, 
+            "BeginOffset": 3522, 
+            "EndOffset": 3534
+        }, 
+        {
+            "Text": "W3C", 
+            "Score": 0.9748263955116272, 
+            "BeginOffset": 3538, 
+            "EndOffset": 3541
+        }, 
+        {
+            "Text": "those people and companies", 
+            "Score": 0.9521283507347107, 
+            "BeginOffset": 3554, 
+            "EndOffset": 3580
+        }, 
+        {
+            "Text": "DRM", 
+            "Score": 0.9541414380073547, 
+            "BeginOffset": 3598, 
+            "EndOffset": 3601
+        }, 
+        {
+            "Text": "the only way", 
+            "Score": 0.9721220135688782, 
+            "BeginOffset": 3605, 
+            "EndOffset": 3617
+        }, 
+        {
+            "Text": "their content", 
+            "Score": 0.9958463907241821, 
+            "BeginOffset": 3635, 
+            "EndOffset": 3648
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9996426105499268, 
+            "BeginOffset": 3658, 
+            "EndOffset": 3663
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.9998547434806824, 
+            "BeginOffset": 3664, 
+            "EndOffset": 3666
+        }, 
+        {
+            "Text": "not many people", 
+            "Score": 0.9954112768173218, 
+            "BeginOffset": 3667, 
+            "EndOffset": 3682
+        }, 
+        {
+            "Text": "DRM", 
+            "Score": 0.8315690755844116, 
+            "BeginOffset": 3688, 
+            "EndOffset": 3691
+        }, 
+        {
+            "Text": "the EFF", 
+            "Score": 0.8646564483642578, 
+            "BeginOffset": 3697, 
+            "EndOffset": 3704
+        }, 
+        {
+            "Text": "their reaction", 
+            "Score": 0.9651205539703369, 
+            "BeginOffset": 3719, 
+            "EndOffset": 3733
+        }, 
+        {
+            "Text": "the news", 
+            "Score": 0.9808371663093567, 
+            "BeginOffset": 3737, 
+            "EndOffset": 3745
+        }, 
+        {
+            "Text": "an understanding", 
+            "Score": 0.999535083770752, 
+            "BeginOffset": 3764, 
+            "EndOffset": 3780
+        }, 
+        {
+            "Text": "many downsides", 
+            "Score": 0.9818187952041626, 
+            "BeginOffset": 3828, 
+            "EndOffset": 3842
+        }, 
+        {
+            "Text": "the spec", 
+            "Score": 0.9996094703674316, 
+            "BeginOffset": 3846, 
+            "EndOffset": 3854
+        }, 
+        {
+            "Text": "the least", 
+            "Score": 0.9847112894058228, 
+            "BeginOffset": 3886, 
+            "EndOffset": 3895
+        }, 
+        {
+            "Text": "security researchers", 
+            "Score": 0.9886711835861206, 
+            "BeginOffset": 3901, 
+            "EndOffset": 3921
+        }, 
+        {
+            "Text": "vulnerabilities", 
+            "Score": 0.8043043613433838, 
+            "BeginOffset": 3943, 
+            "EndOffset": 3958
+        }, 
+        {
+            "Text": "legitimate users", 
+            "Score": 0.9898499846458435, 
+            "BeginOffset": 3979, 
+            "EndOffset": 3995
+        }, 
+        {
+            "Text": "various laws", 
+            "Score": 0.9922829866409302, 
+            "BeginOffset": 4014, 
+            "EndOffset": 4026
+        }, 
+        {
+            "Text": "even people", 
+            "Score": 0.9995341897010803, 
+            "BeginOffset": 4031, 
+            "EndOffset": 4042
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9992465972900391, 
+            "BeginOffset": 4067, 
+            "EndOffset": 4073
+        }, 
+        {
+            "Text": "subtitles", 
+            "Score": 0.8466429710388184, 
+            "BeginOffset": 4088, 
+            "EndOffset": 4097
+        }, 
+        {
+            "Text": "these encrypted videos", 
+            "Score": 0.9979107975959778, 
+            "BeginOffset": 4102, 
+            "EndOffset": 4124
+        }, 
+        {
+            "Text": "attempts", 
+            "Score": 0.9915143251419067, 
+            "BeginOffset": 4147, 
+            "EndOffset": 4155
+        }, 
+        {
+            "Text": "alternatives", 
+            "Score": 0.9996586441993713, 
+            "BeginOffset": 4164, 
+            "EndOffset": 4176
+        }, 
+        {
+            "Text": "this work", 
+            "Score": 0.9970110058784485, 
+            "BeginOffset": 4180, 
+            "EndOffset": 4189
+        }, 
+        {
+            "Text": "a final attempt", 
+            "Score": 0.9990044236183167, 
+            "BeginOffset": 4215, 
+            "EndOffset": 4230
+        }, 
+        {
+            "Text": "the EFF", 
+            "Score": 0.9986583590507507, 
+            "BeginOffset": 4245, 
+            "EndOffset": 4252
+        }, 
+        {
+            "Text": "an appeal", 
+            "Score": 0.9991669058799744, 
+            "BeginOffset": 4271, 
+            "EndOffset": 4280
+        }, 
+        {
+            "Text": "a great situation", 
+            "Score": 0.9992523789405823, 
+            "BeginOffset": 4293, 
+            "EndOffset": 4310
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9998350739479065, 
+            "BeginOffset": 4323, 
+            "EndOffset": 4329
+        }, 
+        {
+            "Text": "these standards", 
+            "Score": 0.9976019263267517, 
+            "BeginOffset": 4343, 
+            "EndOffset": 4358
+        }, 
+        {
+            "Text": "the best solution", 
+            "Score": 0.9575261473655701, 
+            "BeginOffset": 4377, 
+            "EndOffset": 4394
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9409258365631104, 
+            "BeginOffset": 4443, 
+            "EndOffset": 4445
+        }, 
+        {
+            "Text": "Technically", 
+            "Score": 0.9998828768730164, 
+            "BeginOffset": 4447, 
+            "EndOffset": 4458
+        }, 
+        {
+            "Text": "the OCI", 
+            "Score": 0.9994874596595764, 
+            "BeginOffset": 4469, 
+            "EndOffset": 4476
+        }, 
+        {
+            "Text": "a reference design", 
+            "Score": 0.6409046053886414, 
+            "BeginOffset": 4493, 
+            "EndOffset": 4511
+        }, 
+        {
+            "Text": "RunC", 
+            "Score": 0.9985445141792297, 
+            "BeginOffset": 4519, 
+            "EndOffset": 4523
+        }, 
+        {
+            "Text": "one available", 
+            "Score": 0.9998835325241089, 
+            "BeginOffset": 4537, 
+            "EndOffset": 4550
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.992115318775177, 
+            "BeginOffset": 4561, 
+            "EndOffset": 4564
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9757885336875916, 
+            "BeginOffset": 4574, 
+            "EndOffset": 4579
+        }, 
+        {
+            "Text": "[3", 
+            "Score": 0.9993524551391602, 
+            "BeginOffset": 4635, 
+            "EndOffset": 4637
+        }, 
+        {
+            "Text": "A reference", 
+            "Score": 0.9937908053398132, 
+            "BeginOffset": 4639, 
+            "EndOffset": 4650
+        }, 
+        {
+            "Text": "grips and planets", 
+            "Score": 0.989579975605011, 
+            "BeginOffset": 4668, 
+            "EndOffset": 4685
+        }
+    ]
+}

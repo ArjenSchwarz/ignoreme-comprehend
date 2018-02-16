@@ -1,0 +1,700 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Google Cloud Network tiers", 
+            "Score": 0.9439355731010437, 
+            "BeginOffset": 0, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "Jenkins plugin", 
+            "Score": 0.9106535911560059, 
+            "BeginOffset": 28, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "ACI and ACS", 
+            "Score": 0.9813727140426636, 
+            "BeginOffset": 47, 
+            "EndOffset": 58
+        }, 
+        {
+            "Text": "the alliance", 
+            "Score": 0.9928778409957886, 
+            "BeginOffset": 64, 
+            "EndOffset": 76
+        }, 
+        {
+            "Text": "Alexa and Cortana", 
+            "Score": 0.992032527923584, 
+            "BeginOffset": 85, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "GOOGLE CLOUD NETWORKING\n\n\nGoogle", 
+            "Score": 0.9912019371986389, 
+            "BeginOffset": 107, 
+            "EndOffset": 139
+        }, 
+        {
+            "Text": "a second tier", 
+            "Score": 0.999649167060852, 
+            "BeginOffset": 151, 
+            "EndOffset": 164
+        }, 
+        {
+            "Text": "their GCP network layer", 
+            "Score": 0.9938367605209351, 
+            "BeginOffset": 169, 
+            "EndOffset": 192
+        }, 
+        {
+            "Text": "a premium offering", 
+            "Score": 0.9867404103279114, 
+            "BeginOffset": 248, 
+            "EndOffset": 266
+        }, 
+        {
+            "Text": "a lower level", 
+            "Score": 0.9855657815933228, 
+            "BeginOffset": 272, 
+            "EndOffset": 285
+        }, 
+        {
+            "Text": "the strengths", 
+            "Score": 0.9994410276412964, 
+            "BeginOffset": 294, 
+            "EndOffset": 307
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9983657002449036, 
+            "BeginOffset": 311, 
+            "EndOffset": 314
+        }, 
+        {
+            "Text": "networking", 
+            "Score": 0.9791614413261414, 
+            "BeginOffset": 317, 
+            "EndOffset": 327
+        }, 
+        {
+            "Text": "many times", 
+            "Score": 0.9561334252357483, 
+            "BeginOffset": 359, 
+            "EndOffset": 369
+        }, 
+        {
+            "Text": "traffic", 
+            "Score": 0.9507866501808167, 
+            "BeginOffset": 386, 
+            "EndOffset": 393
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9965122938156128, 
+            "BeginOffset": 407, 
+            "EndOffset": 413
+        }, 
+        {
+            "Text": "network", 
+            "Score": 0.996833324432373, 
+            "BeginOffset": 416, 
+            "EndOffset": 423
+        }, 
+        {
+            "Text": "the above article", 
+            "Score": 0.873281717300415, 
+            "BeginOffset": 461, 
+            "EndOffset": 478
+        }, 
+        {
+            "Text": "traffic", 
+            "Score": 0.9836763739585876, 
+            "BeginOffset": 480, 
+            "EndOffset": 487
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9979032278060913, 
+            "BeginOffset": 495, 
+            "EndOffset": 501
+        }, 
+        {
+            "Text": "network", 
+            "Score": 0.9964281320571899, 
+            "BeginOffset": 504, 
+            "EndOffset": 511
+        }, 
+        {
+            "Text": "the closest point", 
+            "Score": 0.9990047812461853, 
+            "BeginOffset": 515, 
+            "EndOffset": 532
+        }, 
+        {
+            "Text": "the user", 
+            "Score": 0.997367262840271, 
+            "BeginOffset": 536, 
+            "EndOffset": 544
+        }, 
+        {
+            "Text": "that network", 
+            "Score": 0.8606703281402588, 
+            "BeginOffset": 570, 
+            "EndOffset": 582
+        }, 
+        {
+            "Text": "your compute instances", 
+            "Score": 0.8024007081985474, 
+            "BeginOffset": 595, 
+            "EndOffset": 617
+        }, 
+        {
+            "Text": "certain features", 
+            "Score": 0.9978271126747131, 
+            "BeginOffset": 657, 
+            "EndOffset": 673
+        }, 
+        {
+            "Text": "a global level", 
+            "Score": 0.9996687173843384, 
+            "BeginOffset": 677, 
+            "EndOffset": 691
+        }, 
+        {
+            "Text": "a global load balancer", 
+            "Score": 0.9731497764587402, 
+            "BeginOffset": 698, 
+            "EndOffset": 720
+        }, 
+        {
+            "Text": "other cloud providers", 
+            "Score": 0.924217939376831, 
+            "BeginOffset": 727, 
+            "EndOffset": 748
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9995160102844238, 
+            "BeginOffset": 791, 
+            "EndOffset": 802
+        }, 
+        {
+            "Text": "traffic route", 
+            "Score": 0.9429847002029419, 
+            "BeginOffset": 810, 
+            "EndOffset": 823
+        }, 
+        {
+            "Text": "the public internet", 
+            "Score": 0.9992510080337524, 
+            "BeginOffset": 832, 
+            "EndOffset": 851
+        }, 
+        {
+            "Text": "the target region", 
+            "Score": 0.9977254271507263, 
+            "BeginOffset": 862, 
+            "EndOffset": 879
+        }, 
+        {
+            "Text": "a lower price", 
+            "Score": 0.9990315437316895, 
+            "BeginOffset": 892, 
+            "EndOffset": 905
+        }, 
+        {
+            "Text": "other cloud providers", 
+            "Score": 0.9927017092704773, 
+            "BeginOffset": 928, 
+            "EndOffset": 949
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9969627857208252, 
+            "BeginOffset": 993, 
+            "EndOffset": 996
+        }, 
+        {
+            "Text": "a cost", 
+            "Score": 0.9588226675987244, 
+            "BeginOffset": 1016, 
+            "EndOffset": 1022
+        }, 
+        {
+            "Text": "measure", 
+            "Score": 0.7382042407989502, 
+            "BeginOffset": 1030, 
+            "EndOffset": 1037
+        }, 
+        {
+            "Text": "regional clients", 
+            "Score": 0.9778587818145752, 
+            "BeginOffset": 1042, 
+            "EndOffset": 1058
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.797426700592041, 
+            "BeginOffset": 1058, 
+            "EndOffset": 1061
+        }, 
+        {
+            "Text": "the announcement", 
+            "Score": 0.9414708018302917, 
+            "BeginOffset": 1121, 
+            "EndOffset": 1137
+        }, 
+        {
+            "Text": "the feeling", 
+            "Score": 0.9991101026535034, 
+            "BeginOffset": 1144, 
+            "EndOffset": 1155
+        }, 
+        {
+            "Text": "an inferior solution", 
+            "Score": 0.9989683628082275, 
+            "BeginOffset": 1185, 
+            "EndOffset": 1205
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.7451112866401672, 
+            "BeginOffset": 1205, 
+            "EndOffset": 1208
+        }, 
+        {
+            "Text": "costs", 
+            "Score": 0.943688154220581, 
+            "BeginOffset": 1265, 
+            "EndOffset": 1270
+        }, 
+        {
+            "Text": "the most important thing", 
+            "Score": 0.9667900800704956, 
+            "BeginOffset": 1275, 
+            "EndOffset": 1299
+        }, 
+        {
+            "Text": "CONTAINERS", 
+            "Score": 0.8489404320716858, 
+            "BeginOffset": 1316, 
+            "EndOffset": 1326
+        }, 
+        {
+            "Text": "AZURE", 
+            "Score": 0.9815691709518433, 
+            "BeginOffset": 1330, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "a quick look", 
+            "Score": 0.9993115663528442, 
+            "BeginOffset": 1362, 
+            "EndOffset": 1374
+        }, 
+        {
+            "Text": "some Jenkins plugins", 
+            "Score": 0.9979895949363708, 
+            "BeginOffset": 1378, 
+            "EndOffset": 1398
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9971510767936707, 
+            "BeginOffset": 1421, 
+            "EndOffset": 1426
+        }, 
+        {
+            "Text": "The headline plugin", 
+            "Score": 0.9925059080123901, 
+            "BeginOffset": 1428, 
+            "EndOffset": 1447
+        }, 
+        {
+            "Text": "ACS", 
+            "Score": 0.9968026280403137, 
+            "BeginOffset": 1488, 
+            "EndOffset": 1491
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9033445119857788, 
+            "BeginOffset": 1532, 
+            "EndOffset": 1535
+        }, 
+        {
+            "Text": "the other plugin", 
+            "Score": 0.9809909462928772, 
+            "BeginOffset": 1561, 
+            "EndOffset": 1577
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.983404815196991, 
+            "BeginOffset": 1609, 
+            "EndOffset": 1614
+        }, 
+        {
+            "Text": "their Azure Container Instances", 
+            "Score": 0.9938225746154785, 
+            "BeginOffset": 1625, 
+            "EndOffset": 1656
+        }, 
+        {
+            "Text": "their potential", 
+            "Score": 0.9929701685905457, 
+            "BeginOffset": 1673, 
+            "EndOffset": 1688
+        }, 
+        {
+            "Text": "the new Agent Plugin", 
+            "Score": 0.9945673942565918, 
+            "BeginOffset": 1693, 
+            "EndOffset": 1713
+        }, 
+        {
+            "Text": "ACS and ACI", 
+            "Score": 0.9203018546104431, 
+            "BeginOffset": 1718, 
+            "EndOffset": 1729
+        }, 
+        {
+            "Text": "that potential", 
+            "Score": 0.9993612766265869, 
+            "BeginOffset": 1744, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "ACI[4]", 
+            "Score": 0.9640501141548157, 
+            "BeginOffset": 1803, 
+            "EndOffset": 1809
+        }, 
+        {
+            "Text": "your jobs", 
+            "Score": 0.9865262508392334, 
+            "BeginOffset": 1817, 
+            "EndOffset": 1826
+        }, 
+        {
+            "Text": "many others", 
+            "Score": 0.8515831828117371, 
+            "BeginOffset": 1834, 
+            "EndOffset": 1845
+        }, 
+        {
+            "Text": "my various", 
+            "Score": 0.9977405667304993, 
+            "BeginOffset": 1877, 
+            "EndOffset": 1887
+        }, 
+        {
+            "Text": "jobs", 
+            "Score": 0.9776734113693237, 
+            "BeginOffset": 1894, 
+            "EndOffset": 1898
+        }, 
+        {
+            "Text": "containers", 
+            "Score": 0.9265797138214111, 
+            "BeginOffset": 1902, 
+            "EndOffset": 1912
+        }, 
+        {
+            "Text": "this plugin", 
+            "Score": 0.9991134405136108, 
+            "BeginOffset": 1917, 
+            "EndOffset": 1928
+        }, 
+        {
+            "Text": "the underlying hardware", 
+            "Score": 0.998043954372406, 
+            "BeginOffset": 1965, 
+            "EndOffset": 1988
+        }, 
+        {
+            "Text": "effect", 
+            "Score": 0.9985259771347046, 
+            "BeginOffset": 1993, 
+            "EndOffset": 1999
+        }, 
+        {
+            "Text": "a low-powered master Jenkins instance", 
+            "Score": 0.9979733228683472, 
+            "BeginOffset": 2014, 
+            "EndOffset": 2051
+        }, 
+        {
+            "Text": "serverless", 
+            "Score": 0.8926156759262085, 
+            "BeginOffset": 2067, 
+            "EndOffset": 2077
+        }, 
+        {
+            "Text": "Docker containers", 
+            "Score": 0.7781026363372803, 
+            "BeginOffset": 2079, 
+            "EndOffset": 2096
+        }, 
+        {
+            "Text": "jobs", 
+            "Score": 0.6683325171470642, 
+            "BeginOffset": 2112, 
+            "EndOffset": 2116
+        }, 
+        {
+            "Text": "This solution", 
+            "Score": 0.9261707663536072, 
+            "BeginOffset": 2130, 
+            "EndOffset": 2143
+        }, 
+        {
+            "Text": "A perfect combination", 
+            "Score": 0.9883702397346497, 
+            "BeginOffset": 2174, 
+            "EndOffset": 2195
+        }, 
+        {
+            "Text": "jobs", 
+            "Score": 0.9657183289527893, 
+            "BeginOffset": 2243, 
+            "EndOffset": 2247
+        }, 
+        {
+            "Text": "CORTANA AND ALEXA\n\n\nMicrosoft", 
+            "Score": 0.9398974776268005, 
+            "BeginOffset": 2252, 
+            "EndOffset": 2281
+        }, 
+        {
+            "Text": "Cortana", 
+            "Score": 0.9251996874809265, 
+            "BeginOffset": 2284, 
+            "EndOffset": 2291
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9971340894699097, 
+            "BeginOffset": 2296, 
+            "EndOffset": 2302
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.7404113411903381, 
+            "BeginOffset": 2305, 
+            "EndOffset": 2310
+        }, 
+        {
+            "Text": "each other", 
+            "Score": 0.9969587326049805, 
+            "BeginOffset": 2340, 
+            "EndOffset": 2350
+        }, 
+        {
+            "Text": "assistants", 
+            "Score": 0.9944469332695007, 
+            "BeginOffset": 2374, 
+            "EndOffset": 2384
+        }, 
+        {
+            "Text": "their strengths", 
+            "Score": 0.9095971584320068, 
+            "BeginOffset": 2401, 
+            "EndOffset": 2416
+        }, 
+        {
+            "Text": "a step", 
+            "Score": 0.9529954195022583, 
+            "BeginOffset": 2429, 
+            "EndOffset": 2435
+        }, 
+        {
+            "Text": "the right direction", 
+            "Score": 0.9733123183250427, 
+            "BeginOffset": 2439, 
+            "EndOffset": 2458
+        }, 
+        {
+            "Text": "better results", 
+            "Score": 0.9987134337425232, 
+            "BeginOffset": 2463, 
+            "EndOffset": 2477
+        }, 
+        {
+            "Text": "each other", 
+            "Score": 0.9962894916534424, 
+            "BeginOffset": 2602, 
+            "EndOffset": 2612
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9972409009933472, 
+            "BeginOffset": 2642, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "open Cortana", 
+            "Score": 0.9271729588508606, 
+            "BeginOffset": 2649, 
+            "EndOffset": 2661
+        }, 
+        {
+            "Text": "the actual command", 
+            "Score": 0.9327316284179688, 
+            "BeginOffset": 2670, 
+            "EndOffset": 2688
+        }, 
+        {
+            "Text": "sense", 
+            "Score": 0.8706204295158386, 
+            "BeginOffset": 2702, 
+            "EndOffset": 2707
+        }, 
+        {
+            "Text": "a usage perspective", 
+            "Score": 0.9970992803573608, 
+            "BeginOffset": 2713, 
+            "EndOffset": 2732
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9950360059738159, 
+            "BeginOffset": 2747, 
+            "EndOffset": 2753
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9998140335083008, 
+            "BeginOffset": 2780, 
+            "EndOffset": 2785
+        }, 
+        {
+            "Text": "your Xbox", 
+            "Score": 0.9717914462089539, 
+            "BeginOffset": 2789, 
+            "EndOffset": 2798
+        }, 
+        {
+            "Text": "Cortana", 
+            "Score": 0.999347984790802, 
+            "BeginOffset": 2803, 
+            "EndOffset": 2810
+        }, 
+        {
+            "Text": "your Echo", 
+            "Score": 0.9957705140113831, 
+            "BeginOffset": 2814, 
+            "EndOffset": 2823
+        }, 
+        {
+            "Text": "a different matter", 
+            "Score": 0.9896030426025391, 
+            "BeginOffset": 2845, 
+            "EndOffset": 2863
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.984582245349884, 
+            "BeginOffset": 2944, 
+            "EndOffset": 2946
+        }, 
+        {
+            "Text": "Many Australian traditional companies", 
+            "Score": 0.9237935543060303, 
+            "BeginOffset": 2948, 
+            "EndOffset": 2985
+        }, 
+        {
+            "Text": "a presence", 
+            "Score": 0.9813080430030823, 
+            "BeginOffset": 3017, 
+            "EndOffset": 3027
+        }, 
+        {
+            "Text": "global traffic", 
+            "Score": 0.8797702193260193, 
+            "BeginOffset": 3078, 
+            "EndOffset": 3092
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9982790350914001, 
+            "BeginOffset": 3095, 
+            "EndOffset": 3098
+        }, 
+        {
+            "Text": "other cloud providers", 
+            "Score": 0.8848210573196411, 
+            "BeginOffset": 3119, 
+            "EndOffset": 3140
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9660243988037109, 
+            "BeginOffset": 3168, 
+            "EndOffset": 3171
+        }, 
+        {
+            "Text": "GCP or AWS", 
+            "Score": 0.8982632160186768, 
+            "BeginOffset": 3179, 
+            "EndOffset": 3189
+        }, 
+        {
+            "Text": "the Azure Container Service", 
+            "Score": 0.9845531582832336, 
+            "BeginOffset": 3191, 
+            "EndOffset": 3218
+        }, 
+        {
+            "Text": "the flexibility", 
+            "Score": 0.9972606897354126, 
+            "BeginOffset": 3229, 
+            "EndOffset": 3244
+        }, 
+        {
+            "Text": "either Docker Swarm", 
+            "Score": 0.9974620342254639, 
+            "BeginOffset": 3252, 
+            "EndOffset": 3271
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9898415207862854, 
+            "BeginOffset": 3273, 
+            "EndOffset": 3283
+        }, 
+        {
+            "Text": "DC/OS", 
+            "Score": 0.9506179690361023, 
+            "BeginOffset": 3288, 
+            "EndOffset": 3293
+        }, 
+        {
+            "Text": "orchestrator", 
+            "Score": 0.9853454232215881, 
+            "BeginOffset": 3297, 
+            "EndOffset": 3309
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.8973233699798584, 
+            "BeginOffset": 3312, 
+            "EndOffset": 3315
+        }, 
+        {
+            "Text": "ACS", 
+            "Score": 0.9909408688545227, 
+            "BeginOffset": 3320, 
+            "EndOffset": 3323
+        }, 
+        {
+            "Text": "this context", 
+            "Score": 0.9245089888572693, 
+            "BeginOffset": 3356, 
+            "EndOffset": 3368
+        }
+    ]
+}

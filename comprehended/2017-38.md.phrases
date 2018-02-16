@@ -1,0 +1,880 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "New Apple hardware", 
+            "Score": 0.9615913033485413, 
+            "BeginOffset": 0, 
+            "EndOffset": 18
+        }, 
+        {
+            "Text": "this opportunity", 
+            "Score": 0.999638020992279, 
+            "BeginOffset": 39, 
+            "EndOffset": 55
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9988225102424622, 
+            "BeginOffset": 64, 
+            "EndOffset": 70
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9978452920913696, 
+            "BeginOffset": 152, 
+            "EndOffset": 157
+        }, 
+        {
+            "Text": "3 new phones", 
+            "Score": 0.9949304461479187, 
+            "BeginOffset": 169, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9967719316482544, 
+            "BeginOffset": 182, 
+            "EndOffset": 191
+        }, 
+        {
+            "Text": "The iPhone 8, 8 Plus", 
+            "Score": 0.885613739490509, 
+            "BeginOffset": 193, 
+            "EndOffset": 213
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7115416526794434, 
+            "BeginOffset": 221, 
+            "EndOffset": 223
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9927431344985962, 
+            "BeginOffset": 234, 
+            "EndOffset": 239
+        }, 
+        {
+            "Text": "good stuff", 
+            "Score": 0.9984184503555298, 
+            "BeginOffset": 243, 
+            "EndOffset": 253
+        }, 
+        {
+            "Text": "the event", 
+            "Score": 0.9918554425239563, 
+            "BeginOffset": 302, 
+            "EndOffset": 311
+        }, 
+        {
+            "Text": "leaks", 
+            "Score": 0.999453067779541, 
+            "BeginOffset": 320, 
+            "EndOffset": 325
+        }, 
+        {
+            "Text": "just a couple", 
+            "Score": 0.8967580795288086, 
+            "BeginOffset": 351, 
+            "EndOffset": 364
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.99940025806427, 
+            "BeginOffset": 368, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "the silicon", 
+            "Score": 0.9972028136253357, 
+            "BeginOffset": 394, 
+            "EndOffset": 405
+        }, 
+        {
+            "Text": "the A11", 
+            "Score": 0.979666531085968, 
+            "BeginOffset": 418, 
+            "EndOffset": 425
+        }, 
+        {
+            "Text": "its predecessor", 
+            "Score": 0.8483099341392517, 
+            "BeginOffset": 447, 
+            "EndOffset": 462
+        }, 
+        {
+            "Text": "a point", 
+            "Score": 0.9943478107452393, 
+            "BeginOffset": 485, 
+            "EndOffset": 492
+        }, 
+        {
+            "Text": "the comparison", 
+            "Score": 0.9998869895935059, 
+            "BeginOffset": 499, 
+            "EndOffset": 513
+        }, 
+        {
+            "Text": "no longer standard ARM chips", 
+            "Score": 0.8864874243736267, 
+            "BeginOffset": 517, 
+            "EndOffset": 545
+        }, 
+        {
+            "Text": "Android phones", 
+            "Score": 0.9942366480827332, 
+            "BeginOffset": 554, 
+            "EndOffset": 568
+        }, 
+        {
+            "Text": "the current generation MacBook Pro", 
+            "Score": 0.9146571159362793, 
+            "BeginOffset": 573, 
+            "EndOffset": 607
+        }, 
+        {
+            "Text": "GeekBench", 
+            "Score": 0.9137697219848633, 
+            "BeginOffset": 614, 
+            "EndOffset": 623
+        }, 
+        {
+            "Text": "an artificial test", 
+            "Score": 0.998411238193512, 
+            "BeginOffset": 627, 
+            "EndOffset": 645
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9888291358947754, 
+            "BeginOffset": 660, 
+            "EndOffset": 666
+        }, 
+        {
+            "Text": "other factors", 
+            "Score": 0.9995701909065247, 
+            "BeginOffset": 670, 
+            "EndOffset": 683
+        }, 
+        {
+            "Text": "the A11", 
+            "Score": 0.9819900989532471, 
+            "BeginOffset": 735, 
+            "EndOffset": 742
+        }, 
+        {
+            "Text": "laptops", 
+            "Score": 0.9847546219825745, 
+            "BeginOffset": 753, 
+            "EndOffset": 760
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9258610606193542, 
+            "BeginOffset": 807, 
+            "EndOffset": 812
+        }, 
+        {
+            "Text": "its own designed GPU", 
+            "Score": 0.8836596012115479, 
+            "BeginOffset": 821, 
+            "EndOffset": 841
+        }, 
+        {
+            "Text": "Year", 
+            "Score": 0.9210997223854065, 
+            "BeginOffset": 852, 
+            "EndOffset": 856
+        }, 
+        {
+            "Text": "year improvement", 
+            "Score": 0.9809102416038513, 
+            "BeginOffset": 862, 
+            "EndOffset": 878
+        }, 
+        {
+            "Text": "30%", 
+            "Score": 0.7721799612045288, 
+            "BeginOffset": 890, 
+            "EndOffset": 893
+        }, 
+        {
+            "Text": "the GPU", 
+            "Score": 0.9657284021377563, 
+            "BeginOffset": 898, 
+            "EndOffset": 905
+        }, 
+        {
+            "Text": "energy savings", 
+            "Score": 0.9649738073348999, 
+            "BeginOffset": 934, 
+            "EndOffset": 948
+        }, 
+        {
+            "Text": "as many gains", 
+            "Score": 0.8983456492424011, 
+            "BeginOffset": 998, 
+            "EndOffset": 1011
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9987354278564453, 
+            "BeginOffset": 1015, 
+            "EndOffset": 1025
+        }, 
+        {
+            "Text": "the CPU", 
+            "Score": 0.8943057060241699, 
+            "BeginOffset": 1029, 
+            "EndOffset": 1036
+        }, 
+        {
+            "Text": "Qi wireless charging", 
+            "Score": 0.9924268126487732, 
+            "BeginOffset": 1043, 
+            "EndOffset": 1063
+        }, 
+        {
+            "Text": "a good addition", 
+            "Score": 0.9533923864364624, 
+            "BeginOffset": 1067, 
+            "EndOffset": 1082
+        }, 
+        {
+            "Text": "something many people", 
+            "Score": 0.937065601348877, 
+            "BeginOffset": 1088, 
+            "EndOffset": 1109
+        }, 
+        {
+            "Text": "The most important thing", 
+            "Score": 0.9926420450210571, 
+            "BeginOffset": 1118, 
+            "EndOffset": 1142
+        }, 
+        {
+            "Text": "the standard", 
+            "Score": 0.9918177723884583, 
+            "BeginOffset": 1194, 
+            "EndOffset": 1206
+        }, 
+        {
+            "Text": "their own solution", 
+            "Score": 0.9800857901573181, 
+            "BeginOffset": 1233, 
+            "EndOffset": 1251
+        }, 
+        {
+            "Text": "the standard", 
+            "Score": 0.9877854585647583, 
+            "BeginOffset": 1271, 
+            "EndOffset": 1283
+        }, 
+        {
+            "Text": "Bluetooth", 
+            "Score": 0.9554829597473145, 
+            "BeginOffset": 1312, 
+            "EndOffset": 1321
+        }, 
+        {
+            "Text": "the AirPods", 
+            "Score": 0.9987905025482178, 
+            "BeginOffset": 1326, 
+            "EndOffset": 1337
+        }, 
+        {
+            "Text": "the extension", 
+            "Score": 0.994904100894928, 
+            "BeginOffset": 1343, 
+            "EndOffset": 1356
+        }, 
+        {
+            "Text": "sensible[2]", 
+            "Score": 0.8264481425285339, 
+            "BeginOffset": 1364, 
+            "EndOffset": 1375
+        }, 
+        {
+            "Text": "the standards body", 
+            "Score": 0.9830809235572815, 
+            "BeginOffset": 1409, 
+            "EndOffset": 1427
+        }, 
+        {
+            "Text": "every device", 
+            "Score": 0.9397254586219788, 
+            "BeginOffset": 1431, 
+            "EndOffset": 1443
+        }, 
+        {
+            "Text": "ID", 
+            "Score": 0.998974084854126, 
+            "BeginOffset": 1462, 
+            "EndOffset": 1464
+        }, 
+        {
+            "Text": "The implementation", 
+            "Score": 0.9916291832923889, 
+            "BeginOffset": 1466, 
+            "EndOffset": 1484
+        }, 
+        {
+            "Text": "the wild", 
+            "Score": 0.9954566359519958, 
+            "BeginOffset": 1530, 
+            "EndOffset": 1538
+        }, 
+        {
+            "Text": "Windows Hello", 
+            "Score": 0.9989268183708191, 
+            "BeginOffset": 1540, 
+            "EndOffset": 1553
+        }, 
+        {
+            "Text": "stories", 
+            "Score": 0.9904951453208923, 
+            "BeginOffset": 1607, 
+            "EndOffset": 1614
+        }, 
+        {
+            "Text": "make-up", 
+            "Score": 0.8908458352088928, 
+            "BeginOffset": 1657, 
+            "EndOffset": 1664
+        }, 
+        {
+            "Text": "a security standpoint", 
+            "Score": 0.9968014359474182, 
+            "BeginOffset": 1671, 
+            "EndOffset": 1692
+        }, 
+        {
+            "Text": "most things", 
+            "Score": 0.9806547164916992, 
+            "BeginOffset": 1730, 
+            "EndOffset": 1741
+        }, 
+        {
+            "Text": "face recognition", 
+            "Score": 0.9983095526695251, 
+            "BeginOffset": 1794, 
+            "EndOffset": 1810
+        }, 
+        {
+            "Text": "Touch ID", 
+            "Score": 0.9589184522628784, 
+            "BeginOffset": 1816, 
+            "EndOffset": 1824
+        }, 
+        {
+            "Text": "fingerprint sensors", 
+            "Score": 0.9133367538452148, 
+            "BeginOffset": 1833, 
+            "EndOffset": 1852
+        }, 
+        {
+            "Text": "other words", 
+            "Score": 0.9922842979431152, 
+            "BeginOffset": 1857, 
+            "EndOffset": 1868
+        }, 
+        {
+            "Text": "that good implementations", 
+            "Score": 0.9987338781356812, 
+            "BeginOffset": 1870, 
+            "EndOffset": 1895
+        }, 
+        {
+            "Text": "most other phones", 
+            "Score": 0.920074999332428, 
+            "BeginOffset": 1912, 
+            "EndOffset": 1929
+        }, 
+        {
+            "Text": "The price", 
+            "Score": 0.9942672848701477, 
+            "BeginOffset": 1932, 
+            "EndOffset": 1941
+        }, 
+        {
+            "Text": "the last thing", 
+            "Score": 0.9996238946914673, 
+            "BeginOffset": 1945, 
+            "EndOffset": 1959
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9953463077545166, 
+            "BeginOffset": 1984, 
+            "EndOffset": 1992
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9880366921424866, 
+            "BeginOffset": 1996, 
+            "EndOffset": 2002
+        }, 
+        {
+            "Text": "prices", 
+            "Score": 0.9818722009658813, 
+            "BeginOffset": 2016, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "the board", 
+            "Score": 0.9894241094589233, 
+            "BeginOffset": 2043, 
+            "EndOffset": 2052
+        }, 
+        {
+            "Text": "the iPad Pro", 
+            "Score": 0.993346095085144, 
+            "BeginOffset": 2068, 
+            "EndOffset": 2080
+        }, 
+        {
+            "Text": "all reports", 
+            "Score": 0.9882248044013977, 
+            "BeginOffset": 2087, 
+            "EndOffset": 2098
+        }, 
+        {
+            "Text": "the prices", 
+            "Score": 0.9823980331420898, 
+            "BeginOffset": 2133, 
+            "EndOffset": 2143
+        }, 
+        {
+            "Text": "memory", 
+            "Score": 0.9999252557754517, 
+            "BeginOffset": 2147, 
+            "EndOffset": 2153
+        }, 
+        {
+            "Text": "RAM and storage", 
+            "Score": 0.8943941593170166, 
+            "BeginOffset": 2173, 
+            "EndOffset": 2188
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9924915432929993, 
+            "BeginOffset": 2194, 
+            "EndOffset": 2199
+        }, 
+        {
+            "Text": "unwillingness", 
+            "Score": 0.9994422793388367, 
+            "BeginOffset": 2202, 
+            "EndOffset": 2215
+        }, 
+        {
+            "Text": "that impact", 
+            "Score": 0.9787920713424683, 
+            "BeginOffset": 2223, 
+            "EndOffset": 2234
+        }, 
+        {
+            "Text": "their margins", 
+            "Score": 0.9974585175514221, 
+            "BeginOffset": 2235, 
+            "EndOffset": 2248
+        }, 
+        {
+            "Text": "the first time", 
+            "Score": 0.9983876347541809, 
+            "BeginOffset": 2265, 
+            "EndOffset": 2279
+        }, 
+        {
+            "Text": "the minimum storage", 
+            "Score": 0.9994663596153259, 
+            "BeginOffset": 2292, 
+            "EndOffset": 2311
+        }, 
+        {
+            "Text": "these phones", 
+            "Score": 0.8486452698707581, 
+            "BeginOffset": 2324, 
+            "EndOffset": 2336
+        }, 
+        {
+            "Text": "an adequate number", 
+            "Score": 0.938751220703125, 
+            "BeginOffset": 2355, 
+            "EndOffset": 2373
+        }, 
+        {
+            "Text": "64GB", 
+            "Score": 0.9948311448097229, 
+            "BeginOffset": 2375, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "the base model", 
+            "Score": 0.9867740869522095, 
+            "BeginOffset": 2402, 
+            "EndOffset": 2416
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9993807077407837, 
+            "BeginOffset": 2420, 
+            "EndOffset": 2426
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9853073954582214, 
+            "BeginOffset": 2443, 
+            "EndOffset": 2448
+        }, 
+        {
+            "Text": "The iPhone X", 
+            "Score": 0.9710474014282227, 
+            "BeginOffset": 2456, 
+            "EndOffset": 2468
+        }, 
+        {
+            "Text": "a higher price", 
+            "Score": 0.993005633354187, 
+            "BeginOffset": 2490, 
+            "EndOffset": 2504
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9923637509346008, 
+            "BeginOffset": 2525, 
+            "EndOffset": 2535
+        }, 
+        {
+            "Text": "the iPhone", 
+            "Score": 0.9958540201187134, 
+            "BeginOffset": 2539, 
+            "EndOffset": 2549
+        }, 
+        {
+            "Text": "different materials", 
+            "Score": 0.9957641959190369, 
+            "BeginOffset": 2559, 
+            "EndOffset": 2578
+        }, 
+        {
+            "Text": "better cameras", 
+            "Score": 0.998440682888031, 
+            "BeginOffset": 2591, 
+            "EndOffset": 2605
+        }, 
+        {
+            "Text": "Face ID", 
+            "Score": 0.9941604733467102, 
+            "BeginOffset": 2610, 
+            "EndOffset": 2617
+        }, 
+        {
+            "Text": "the edge-to-edge OLED screen", 
+            "Score": 0.9750930070877075, 
+            "BeginOffset": 2623, 
+            "EndOffset": 2651
+        }, 
+        {
+            "Text": "even more", 
+            "Score": 0.9986129999160767, 
+            "BeginOffset": 2657, 
+            "EndOffset": 2666
+        }, 
+        {
+            "Text": "price-conscious buyers", 
+            "Score": 0.8191304802894592, 
+            "BeginOffset": 2694, 
+            "EndOffset": 2716
+        }, 
+        {
+            "Text": "the phone people", 
+            "Score": 0.9796563982963562, 
+            "BeginOffset": 2735, 
+            "EndOffset": 2751
+        }, 
+        {
+            "Text": "most people", 
+            "Score": 0.9994543790817261, 
+            "BeginOffset": 2822, 
+            "EndOffset": 2833
+        }, 
+        {
+            "Text": "The iPhone 8", 
+            "Score": 0.9857965707778931, 
+            "BeginOffset": 2844, 
+            "EndOffset": 2856
+        }, 
+        {
+            "Text": "a good improvement", 
+            "Score": 0.9905243515968323, 
+            "BeginOffset": 2860, 
+            "EndOffset": 2878
+        }, 
+        {
+            "Text": "the screen", 
+            "Score": 0.9984245300292969, 
+            "BeginOffset": 2898, 
+            "EndOffset": 2908
+        }, 
+        {
+            "Text": "the 8 Plus", 
+            "Score": 0.9917529225349426, 
+            "BeginOffset": 2912, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "the X", 
+            "Score": 0.9937192797660828, 
+            "BeginOffset": 2944, 
+            "EndOffset": 2949
+        }, 
+        {
+            "Text": "APPLE WATCH", 
+            "Score": 0.9164987206459045, 
+            "BeginOffset": 2954, 
+            "EndOffset": 2965
+        }, 
+        {
+            "Text": "The introduction", 
+            "Score": 0.969912052154541, 
+            "BeginOffset": 2972, 
+            "EndOffset": 2988
+        }, 
+        {
+            "Text": "LTE", 
+            "Score": 0.9721258878707886, 
+            "BeginOffset": 2992, 
+            "EndOffset": 2995
+        }, 
+        {
+            "Text": "the Apple Watch", 
+            "Score": 0.8609034419059753, 
+            "BeginOffset": 2999, 
+            "EndOffset": 3014
+        }, 
+        {
+            "Text": "a good step", 
+            "Score": 0.9979979395866394, 
+            "BeginOffset": 3018, 
+            "EndOffset": 3029
+        }, 
+        {
+            "Text": "the path", 
+            "Score": 0.9967402815818787, 
+            "BeginOffset": 3041, 
+            "EndOffset": 3049
+        }, 
+        {
+            "Text": "a standalone device", 
+            "Score": 0.9995059370994568, 
+            "BeginOffset": 3063, 
+            "EndOffset": 3082
+        }, 
+        {
+            "Text": "the end goal", 
+            "Score": 0.997790515422821, 
+            "BeginOffset": 3099, 
+            "EndOffset": 3111
+        }, 
+        {
+            "Text": "the iPhone", 
+            "Score": 0.9726718068122864, 
+            "BeginOffset": 3151, 
+            "EndOffset": 3161
+        }, 
+        {
+            "Text": "the path", 
+            "Score": 0.9805773496627808, 
+            "BeginOffset": 3174, 
+            "EndOffset": 3182
+        }, 
+        {
+            "Text": "the iPhone", 
+            "Score": 0.9561409950256348, 
+            "BeginOffset": 3195, 
+            "EndOffset": 3205
+        }, 
+        {
+            "Text": "desktops", 
+            "Score": 0.9604038596153259, 
+            "BeginOffset": 3236, 
+            "EndOffset": 3244
+        }, 
+        {
+            "Text": "watchOS", 
+            "Score": 0.982292115688324, 
+            "BeginOffset": 3282, 
+            "EndOffset": 3289
+        }, 
+        {
+            "Text": "some[3] improvements", 
+            "Score": 0.7680703401565552, 
+            "BeginOffset": 3296, 
+            "EndOffset": 3316
+        }, 
+        {
+            "Text": "this independence", 
+            "Score": 0.9293082356452942, 
+            "BeginOffset": 3333, 
+            "EndOffset": 3350
+        }, 
+        {
+            "Text": "LTE", 
+            "Score": 0.9964132905006409, 
+            "BeginOffset": 3359, 
+            "EndOffset": 3362
+        }, 
+        {
+            "Text": "an improvement", 
+            "Score": 0.9981212019920349, 
+            "BeginOffset": 3374, 
+            "EndOffset": 3388
+        }, 
+        {
+            "Text": "cases", 
+            "Score": 0.9680154323577881, 
+            "BeginOffset": 3393, 
+            "EndOffset": 3398
+        }, 
+        {
+            "Text": "your phone", 
+            "Score": 0.9109044075012207, 
+            "BeginOffset": 3440, 
+            "EndOffset": 3450
+        }, 
+        {
+            "Text": "carriers", 
+            "Score": 0.9160566926002502, 
+            "BeginOffset": 3470, 
+            "EndOffset": 3478
+        }, 
+        {
+            "Text": "more money", 
+            "Score": 0.9003056287765503, 
+            "BeginOffset": 3506, 
+            "EndOffset": 3516
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9998564720153809, 
+            "BeginOffset": 3530, 
+            "EndOffset": 3535
+        }, 
+        {
+            "Text": "those costs", 
+            "Score": 0.998143196105957, 
+            "BeginOffset": 3544, 
+            "EndOffset": 3555
+        }, 
+        {
+            "Text": "mind", 
+            "Score": 0.9709005951881409, 
+            "BeginOffset": 3559, 
+            "EndOffset": 3563
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.9995770454406738, 
+            "BeginOffset": 3603, 
+            "EndOffset": 3611
+        }, 
+        {
+            "Text": "the update", 
+            "Score": 0.9992213249206543, 
+            "BeginOffset": 3615, 
+            "EndOffset": 3625
+        }, 
+        {
+            "Text": "more speed etc.", 
+            "Score": 0.9703493118286133, 
+            "BeginOffset": 3627, 
+            "EndOffset": 3642
+        }, 
+        {
+            "Text": "a reason", 
+            "Score": 0.875443696975708, 
+            "BeginOffset": 3676, 
+            "EndOffset": 3684
+        }, 
+        {
+            "Text": "the previous generation", 
+            "Score": 0.7675628066062927, 
+            "BeginOffset": 3701, 
+            "EndOffset": 3724
+        }, 
+        {
+            "Text": "mine", 
+            "Score": 0.9991560578346252, 
+            "BeginOffset": 3758, 
+            "EndOffset": 3762
+        }, 
+        {
+            "Text": "a real need", 
+            "Score": 0.9820117950439453, 
+            "BeginOffset": 3775, 
+            "EndOffset": 3786
+        }, 
+        {
+            "Text": "LTE", 
+            "Score": 0.9992184042930603, 
+            "BeginOffset": 3791, 
+            "EndOffset": 3794
+        }, 
+        {
+            "Text": "a need", 
+            "Score": 0.9473835825920105, 
+            "BeginOffset": 3807, 
+            "EndOffset": 3813
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.991237998008728, 
+            "BeginOffset": 3837, 
+            "EndOffset": 3840
+        }, 
+        {
+            "Text": "typical Apple style", 
+            "Score": 0.9799414873123169, 
+            "BeginOffset": 3850, 
+            "EndOffset": 3869
+        }, 
+        {
+            "Text": "10", 
+            "Score": 0.8784782290458679, 
+            "BeginOffset": 3904, 
+            "EndOffset": 3906
+        }, 
+        {
+            "Text": "the alternative sounding", 
+            "Score": 0.9962927103042603, 
+            "BeginOffset": 3916, 
+            "EndOffset": 3940
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9865335822105408, 
+            "BeginOffset": 3955, 
+            "EndOffset": 3958
+        }, 
+        {
+            "Text": "multiple devices", 
+            "Score": 0.7107415795326233, 
+            "BeginOffset": 3968, 
+            "EndOffset": 3984
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.925764262676239, 
+            "BeginOffset": 4002, 
+            "EndOffset": 4015
+        }, 
+        {
+            "Text": "[3] Read", 
+            "Score": 0.9978933334350586, 
+            "BeginOffset": 4018, 
+            "EndOffset": 4026
+        }
+    ]
+}

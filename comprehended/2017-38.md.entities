@@ -1,0 +1,249 @@
+{
+    "Entities": [
+        {
+            "Text": "Apple", 
+            "Score": 0.8362818956375122, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4, 
+            "EndOffset": 9
+        }, 
+        {
+            "Text": "IPHONES", 
+            "Score": 0.4974282383918762, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 116, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.6413896083831787, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 152, 
+            "EndOffset": 157
+        }, 
+        {
+            "Text": "3 new phones", 
+            "Score": 0.8765538334846497, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 169, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9719223976135254, 
+            "Type": "DATE", 
+            "BeginOffset": 182, 
+            "EndOffset": 191
+        }, 
+        {
+            "Text": "iPhone 8", 
+            "Score": 0.9992415904998779, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 197, 
+            "EndOffset": 205
+        }, 
+        {
+            "Text": "8 Plus", 
+            "Score": 0.9976668357849121, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 207, 
+            "EndOffset": 213
+        }, 
+        {
+            "Text": "X[1", 
+            "Score": 0.8090072274208069, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 219, 
+            "EndOffset": 222
+        }, 
+        {
+            "Text": "a couple of things", 
+            "Score": 0.863695502281189, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 356, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "A11", 
+            "Score": 0.9993884563446045, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 422, 
+            "EndOffset": 425
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9366055130958557, 
+            "Type": "TITLE", 
+            "BeginOffset": 554, 
+            "EndOffset": 561
+        }, 
+        {
+            "Text": "MacBook Pro", 
+            "Score": 0.998699426651001, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 596, 
+            "EndOffset": 607
+        }, 
+        {
+            "Text": "GeekBench", 
+            "Score": 0.6336297392845154, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 614, 
+            "EndOffset": 623
+        }, 
+        {
+            "Text": "A11", 
+            "Score": 0.9790533185005188, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 739, 
+            "EndOffset": 742
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.618109405040741, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 807, 
+            "EndOffset": 812
+        }, 
+        {
+            "Text": "30%", 
+            "Score": 0.9969149827957153, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 890, 
+            "EndOffset": 893
+        }, 
+        {
+            "Text": "AirPods", 
+            "Score": 0.9999788999557495, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1330, 
+            "EndOffset": 1337
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9979592561721802, 
+            "Type": "TITLE", 
+            "BeginOffset": 1540, 
+            "EndOffset": 1547
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999058246612549, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2009, 
+            "EndOffset": 2014
+        }, 
+        {
+            "Text": "iPad Pro", 
+            "Score": 0.9999973177909851, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2072, 
+            "EndOffset": 2080
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999606609344482, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2164, 
+            "EndOffset": 2168
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.999990701675415, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2194, 
+            "EndOffset": 2199
+        }, 
+        {
+            "Text": "first time", 
+            "Score": 0.9999807476997375, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2269, 
+            "EndOffset": 2279
+        }, 
+        {
+            "Text": "64GB", 
+            "Score": 0.9996321201324463, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2375, 
+            "EndOffset": 2379
+        }, 
+        {
+            "Text": "iPhone X", 
+            "Score": 0.9999111294746399, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2460, 
+            "EndOffset": 2468
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.9999964237213135, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2543, 
+            "EndOffset": 2549
+        }, 
+        {
+            "Text": "iPhone 8", 
+            "Score": 0.9694544672966003, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2848, 
+            "EndOffset": 2856
+        }, 
+        {
+            "Text": "8 Plus", 
+            "Score": 0.9999998211860657, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2916, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.9999984502792358, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2954, 
+            "EndOffset": 2959
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999229907989502, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3003, 
+            "EndOffset": 3008
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.9999992847442627, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3155, 
+            "EndOffset": 3161
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.9999995231628418, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3199, 
+            "EndOffset": 3205
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999947547912598, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3530, 
+            "EndOffset": 3535
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999532699584961, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3858, 
+            "EndOffset": 3863
+        }, 
+        {
+            "Text": "10", 
+            "Score": 0.9998225569725037, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3904, 
+            "EndOffset": 3906
+        }
+    ]
+}

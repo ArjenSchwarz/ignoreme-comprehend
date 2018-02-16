@@ -1,0 +1,179 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.9897698163986206, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 55, 
+            "EndOffset": 58
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.8696634769439697, 
+            "Type": "TITLE", 
+            "BeginOffset": 59, 
+            "EndOffset": 62
+        }, 
+        {
+            "Text": "1.8", 
+            "Score": 0.7456123232841492, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 80, 
+            "EndOffset": 83
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9342462420463562, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 101, 
+            "EndOffset": 104
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9753385186195374, 
+            "Type": "TITLE", 
+            "BeginOffset": 175, 
+            "EndOffset": 178
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9107264876365662, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 272, 
+            "EndOffset": 275
+        }, 
+        {
+            "Text": "EBS", 
+            "Score": 0.7000691294670105, 
+            "Type": "TITLE", 
+            "BeginOffset": 332, 
+            "EndOffset": 335
+        }, 
+        {
+            "Text": "EBS", 
+            "Score": 0.8989200592041016, 
+            "Type": "TITLE", 
+            "BeginOffset": 346, 
+            "EndOffset": 349
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9923718571662903, 
+            "Type": "TITLE", 
+            "BeginOffset": 391, 
+            "EndOffset": 394
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.999969482421875, 
+            "Type": "TITLE", 
+            "BeginOffset": 1220, 
+            "EndOffset": 1234
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9998148083686829, 
+            "Type": "TITLE", 
+            "BeginOffset": 1351, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "IAM", 
+            "Score": 0.9998143315315247, 
+            "Type": "TITLE", 
+            "BeginOffset": 1471, 
+            "EndOffset": 1474
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9999937415122986, 
+            "Type": "TITLE", 
+            "BeginOffset": 1508, 
+            "EndOffset": 1511
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9999690651893616, 
+            "Type": "TITLE", 
+            "BeginOffset": 1688, 
+            "EndOffset": 1691
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1822, 
+            "EndOffset": 1825
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9991747736930847, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2038, 
+            "EndOffset": 2043
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9999995231628418, 
+            "Type": "TITLE", 
+            "BeginOffset": 2908, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "1.8", 
+            "Score": 0.9999539256095886, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2930, 
+            "EndOffset": 2933
+        }, 
+        {
+            "Text": "six months", 
+            "Score": 0.9999943375587463, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3090, 
+            "EndOffset": 3100
+        }, 
+        {
+            "Text": "1.8", 
+            "Score": 0.9995585083961487, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3174, 
+            "EndOffset": 3177
+        }, 
+        {
+            "Text": "two things", 
+            "Score": 0.9999675750732422, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3402, 
+            "EndOffset": 3412
+        }, 
+        {
+            "Text": "two structs", 
+            "Score": 0.9999988079071045, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3523, 
+            "EndOffset": 3534
+        }, 
+        {
+            "Text": "Francesc Campoy", 
+            "Score": 0.9999997615814209, 
+            "Type": "PERSON", 
+            "BeginOffset": 3769, 
+            "EndOffset": 3784
+        }, 
+        {
+            "Text": "more than 16TiB", 
+            "Score": 0.9999859929084778, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3995, 
+            "EndOffset": 4010
+        }, 
+        {
+            "Text": "after March", 
+            "Score": 0.9999750852584839, 
+            "Type": "DATE", 
+            "BeginOffset": 4310, 
+            "EndOffset": 4321
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "Entities": [
+        {
+            "Text": "Google AutoDraw", 
+            "Score": 0.7090147137641907, 
+            "Type": "TITLE", 
+            "BeginOffset": 0, 
+            "EndOffset": 15
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.2516224682331085, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 194, 
+            "EndOffset": 201
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9609758257865906, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 218, 
+            "EndOffset": 224
+        }, 
+        {
+            "Text": "Easter", 
+            "Score": 0.43080028891563416, 
+            "Type": "EVENT", 
+            "BeginOffset": 235, 
+            "EndOffset": 241
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.9662578105926514, 
+            "Type": "DATE", 
+            "BeginOffset": 319, 
+            "EndOffset": 328
+        }, 
+        {
+            "Text": "every week", 
+            "Score": 0.7375051975250244, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 419, 
+            "EndOffset": 429
+        }, 
+        {
+            "Text": "GOOGLE AUTODRAW", 
+            "Score": 0.6525036096572876, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 481, 
+            "EndOffset": 496
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9965569972991943, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 583, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "AutoDraw", 
+            "Score": 0.32381412386894226, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 603, 
+            "EndOffset": 611
+        }, 
+        {
+            "Text": "AutoDraw", 
+            "Score": 0.6894451975822449, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 613, 
+            "EndOffset": 621
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9781474471092224, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 902, 
+            "EndOffset": 908
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999315738677979, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 981, 
+            "EndOffset": 987
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999979734420776, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1367, 
+            "EndOffset": 1373
+        }, 
+        {
+            "Text": "Wordpress", 
+            "Score": 0.9999837875366211, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1578, 
+            "EndOffset": 1587
+        }, 
+        {
+            "Text": "Algeria", 
+            "Score": 0.9996230602264404, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1628, 
+            "EndOffset": 1635
+        }, 
+        {
+            "Text": "Algeria", 
+            "Score": 0.9999878406524658, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1839, 
+            "EndOffset": 1846
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9997168183326721, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2440, 
+            "EndOffset": 2447
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9999986886978149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2491, 
+            "EndOffset": 2497
+        }, 
+        {
+            "Text": "next week", 
+            "Score": 0.9999977350234985, 
+            "Type": "DATE", 
+            "BeginOffset": 2531, 
+            "EndOffset": 2540
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.5296069979667664, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2665, 
+            "EndOffset": 2670
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2771, 
+            "EndOffset": 2777
+        }, 
+        {
+            "Text": "Hudson", 
+            "Score": 0.9396106600761414, 
+            "Type": "PERSON", 
+            "BeginOffset": 2801, 
+            "EndOffset": 2807
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.9999558925628662, 
+            "Type": "PERSON", 
+            "BeginOffset": 2848, 
+            "EndOffset": 2855
+        }, 
+        {
+            "Text": "Oracle", 
+            "Score": 0.8713819980621338, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2886, 
+            "EndOffset": 2892
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999984502792358, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2952, 
+            "EndOffset": 2959
+        }, 
+        {
+            "Text": "iOS", 
+            "Score": 0.9999997615814209, 
+            "Type": "TITLE", 
+            "BeginOffset": 3437, 
+            "EndOffset": 3440
+        }
+    ]
+}

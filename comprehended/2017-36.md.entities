@@ -1,0 +1,284 @@
+{
+    "Entities": [
+        {
+            "Text": "Google", 
+            "Score": 0.3400605320930481, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "Cloud Network", 
+            "Score": 0.6348658800125122, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 7, 
+            "EndOffset": 20
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.4868811070919037, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 28, 
+            "EndOffset": 35
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9744958877563477, 
+            "Type": "TITLE", 
+            "BeginOffset": 85, 
+            "EndOffset": 90
+        }, 
+        {
+            "Text": "Cortana", 
+            "Score": 0.9942240118980408, 
+            "Type": "TITLE", 
+            "BeginOffset": 95, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "GOOGLE", 
+            "Score": 0.4933566451072693, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 107, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.6098809838294983, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 133, 
+            "EndOffset": 139
+        }, 
+        {
+            "Text": "second tier", 
+            "Score": 0.7213837504386902, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 153, 
+            "EndOffset": 164
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.4291038513183594, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 287, 
+            "EndOffset": 290
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.5390934944152832, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 407, 
+            "EndOffset": 413
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.7434979677200317, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 495, 
+            "EndOffset": 501
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9999924898147583, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 993, 
+            "EndOffset": 996
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.999957799911499, 
+            "Type": "PERSON", 
+            "BeginOffset": 1383, 
+            "EndOffset": 1390
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.999998927116394, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1421, 
+            "EndOffset": 1426
+        }, 
+        {
+            "Text": "ACS", 
+            "Score": 0.9999936819076538, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1488, 
+            "EndOffset": 1491
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999997615814209, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1609, 
+            "EndOffset": 1614
+        }, 
+        {
+            "Text": "Azure Container Instances", 
+            "Score": 0.7572276592254639, 
+            "Type": "TITLE", 
+            "BeginOffset": 1631, 
+            "EndOffset": 1656
+        }, 
+        {
+            "Text": "ACS", 
+            "Score": 0.935928463935852, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1718, 
+            "EndOffset": 1721
+        }, 
+        {
+            "Text": "ACI", 
+            "Score": 0.7649539113044739, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1726, 
+            "EndOffset": 1729
+        }, 
+        {
+            "Text": "ACI", 
+            "Score": 0.999998927116394, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1803, 
+            "EndOffset": 1806
+        }, 
+        {
+            "Text": "CORTANA", 
+            "Score": 0.9999872446060181, 
+            "Type": "TITLE", 
+            "BeginOffset": 2252, 
+            "EndOffset": 2259
+        }, 
+        {
+            "Text": "ALEXA", 
+            "Score": 0.9999637603759766, 
+            "Type": "TITLE", 
+            "BeginOffset": 2264, 
+            "EndOffset": 2269
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9999774694442749, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2272, 
+            "EndOffset": 2281
+        }, 
+        {
+            "Text": "Cortana", 
+            "Score": 0.999975323677063, 
+            "Type": "TITLE", 
+            "BeginOffset": 2284, 
+            "EndOffset": 2291
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.7929536700248718, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2296, 
+            "EndOffset": 2302
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9937664270401001, 
+            "Type": "TITLE", 
+            "BeginOffset": 2305, 
+            "EndOffset": 2310
+        }, 
+        {
+            "Text": "each", 
+            "Score": 0.9998971223831177, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2393, 
+            "EndOffset": 2397
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9999996423721313, 
+            "Type": "TITLE", 
+            "BeginOffset": 2642, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "Cortana", 
+            "Score": 0.9998459815979004, 
+            "Type": "TITLE", 
+            "BeginOffset": 2654, 
+            "EndOffset": 2661
+        }, 
+        {
+            "Text": "Alexa", 
+            "Score": 0.9999794960021973, 
+            "Type": "TITLE", 
+            "BeginOffset": 2780, 
+            "EndOffset": 2785
+        }, 
+        {
+            "Text": "Xbox", 
+            "Score": 0.9983842372894287, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2794, 
+            "EndOffset": 2798
+        }, 
+        {
+            "Text": "Cortana", 
+            "Score": 0.9822714328765869, 
+            "Type": "TITLE", 
+            "BeginOffset": 2803, 
+            "EndOffset": 2810
+        }, 
+        {
+            "Text": "Echo", 
+            "Score": 0.9892628788948059, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2819, 
+            "EndOffset": 2823
+        }, 
+        {
+            "Text": "Australian", 
+            "Score": 0.9999157190322876, 
+            "Type": "OTHER", 
+            "BeginOffset": 2953, 
+            "EndOffset": 2963
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9998842477798462, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3179, 
+            "EndOffset": 3182
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9997345805168152, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3186, 
+            "EndOffset": 3189
+        }, 
+        {
+            "Text": "Azure Container Service", 
+            "Score": 0.7808254361152649, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3195, 
+            "EndOffset": 3218
+        }, 
+        {
+            "Text": "Docker Swarm", 
+            "Score": 0.9999963045120239, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3259, 
+            "EndOffset": 3271
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9999972581863403, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3273, 
+            "EndOffset": 3283
+        }, 
+        {
+            "Text": "DC/OS", 
+            "Score": 0.8126429319381714, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3288, 
+            "EndOffset": 3293
+        }
+    ]
+}

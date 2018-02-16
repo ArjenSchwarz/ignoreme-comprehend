@@ -1,0 +1,291 @@
+{
+    "Entities": [
+        {
+            "Text": "This week", 
+            "Score": 0.939238965511322, 
+            "Type": "DATE", 
+            "BeginOffset": 141, 
+            "EndOffset": 150
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9219034910202026, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 180, 
+            "EndOffset": 183
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9798276424407959, 
+            "Type": "DATE", 
+            "BeginOffset": 251, 
+            "EndOffset": 260
+        }, 
+        {
+            "Text": "Brendan Burns", 
+            "Score": 0.9961624145507812, 
+            "Type": "PERSON", 
+            "BeginOffset": 261, 
+            "EndOffset": 274
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.6220911741256714, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 280, 
+            "EndOffset": 289
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.5437246561050415, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 290, 
+            "EndOffset": 295
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.7558610439300537, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 315, 
+            "EndOffset": 325
+        }, 
+        {
+            "Text": "first containers", 
+            "Score": 0.7103196382522583, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 392, 
+            "EndOffset": 408
+        }, 
+        {
+            "Text": "About two weeks ago", 
+            "Score": 0.9127253890037537, 
+            "Type": "DATE", 
+            "BeginOffset": 501, 
+            "EndOffset": 520
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.43377068638801575, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 552, 
+            "EndOffset": 555
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.6584899425506592, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 725, 
+            "EndOffset": 730
+        }, 
+        {
+            "Text": "second point", 
+            "Score": 0.7096638083457947, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 790, 
+            "EndOffset": 802
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.999988317489624, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1614, 
+            "EndOffset": 1617
+        }, 
+        {
+            "Text": "CODESTAR", 
+            "Score": 0.9997450709342957, 
+            "Type": "TITLE", 
+            "BeginOffset": 1618, 
+            "EndOffset": 1626
+        }, 
+        {
+            "Text": "Kubernetes Draft", 
+            "Score": 0.9999662637710571, 
+            "Type": "TITLE", 
+            "BeginOffset": 1651, 
+            "EndOffset": 1667
+        }, 
+        {
+            "Text": "about a month and a half ago", 
+            "Score": 0.9583542943000793, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1669, 
+            "EndOffset": 1697
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.6585636138916016, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1698, 
+            "EndOffset": 1701
+        }, 
+        {
+            "Text": "CodeStar", 
+            "Score": 0.8264617919921875, 
+            "Type": "TITLE", 
+            "BeginOffset": 1711, 
+            "EndOffset": 1719
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999831914901733, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1941, 
+            "EndOffset": 1944
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9998409748077393, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2010, 
+            "EndOffset": 2013
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9709213376045227, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2014, 
+            "EndOffset": 2017
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9507890343666077, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2031, 
+            "EndOffset": 2041
+        }, 
+        {
+            "Text": "CodeStar", 
+            "Score": 0.9999969005584717, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2079, 
+            "EndOffset": 2087
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9996565580368042, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2118, 
+            "EndOffset": 2121
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9039401412010193, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2173, 
+            "EndOffset": 2183
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9999805688858032, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2346, 
+            "EndOffset": 2350
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999412298202515, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2621, 
+            "EndOffset": 2627
+        }, 
+        {
+            "Text": "one point", 
+            "Score": 0.9999754428863525, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3131, 
+            "EndOffset": 3140
+        }, 
+        {
+            "Text": "Pinboard", 
+            "Score": 0.9999998807907104, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3418, 
+            "EndOffset": 3426
+        }, 
+        {
+            "Text": "Pinboard", 
+            "Score": 0.9999992847442627, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3484, 
+            "EndOffset": 3492
+        }, 
+        {
+            "Text": "Yahoo", 
+            "Score": 0.7036296725273132, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3611, 
+            "EndOffset": 3616
+        }, 
+        {
+            "Text": "Pinboard", 
+            "Score": 0.9999667406082153, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3657, 
+            "EndOffset": 3665
+        }, 
+        {
+            "Text": "one person", 
+            "Score": 0.9999516606330872, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3671, 
+            "EndOffset": 3681
+        }, 
+        {
+            "Text": "Delicious", 
+            "Score": 0.9999909400939941, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3803, 
+            "EndOffset": 3812
+        }, 
+        {
+            "Text": "Container Camp", 
+            "Score": 0.9999330043792725, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4030, 
+            "EndOffset": 4044
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999878406524658, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4057, 
+            "EndOffset": 4060
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9998327493667603, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4122, 
+            "EndOffset": 4126
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9999840259552002, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4127, 
+            "EndOffset": 4130
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999979734420776, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4135, 
+            "EndOffset": 4140
+        }, 
+        {
+            "Text": "CodeCommit", 
+            "Score": 0.9999622106552124, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4169, 
+            "EndOffset": 4179
+        }, 
+        {
+            "Text": "CodeDeploy", 
+            "Score": 0.9999003410339355, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4181, 
+            "EndOffset": 4191
+        }
+    ]
+}

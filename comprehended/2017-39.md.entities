@@ -1,0 +1,165 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.8492649793624878, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "10 years ago", 
+            "Score": 0.9878912568092346, 
+            "Type": "DATE", 
+            "BeginOffset": 53, 
+            "EndOffset": 65
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7577492594718933, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 95, 
+            "EndOffset": 98
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.8065757155418396, 
+            "Type": "TITLE", 
+            "BeginOffset": 157, 
+            "EndOffset": 160
+        }, 
+        {
+            "Text": "EBS Volumes", 
+            "Score": 0.6457895636558533, 
+            "Type": "TITLE", 
+            "BeginOffset": 175, 
+            "EndOffset": 186
+        }, 
+        {
+            "Text": "third of October", 
+            "Score": 0.9350012540817261, 
+            "Type": "DATE", 
+            "BeginOffset": 218, 
+            "EndOffset": 234
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.8074609041213989, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 264, 
+            "EndOffset": 268
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.5989990830421448, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 269, 
+            "EndOffset": 278
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.5993458032608032, 
+            "Type": "TITLE", 
+            "BeginOffset": 279, 
+            "EndOffset": 284
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.6875189542770386, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 289, 
+            "EndOffset": 295
+        }, 
+        {
+            "Text": "Cloud Compute", 
+            "Score": 0.8803445100784302, 
+            "Type": "TITLE", 
+            "BeginOffset": 296, 
+            "EndOffset": 309
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.5748469233512878, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 317, 
+            "EndOffset": 321
+        }, 
+        {
+            "Text": "2 minute", 
+            "Score": 0.9461885690689087, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 642, 
+            "EndOffset": 650
+        }, 
+        {
+            "Text": "single machine", 
+            "Score": 0.967121422290802, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1080, 
+            "EndOffset": 1094
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9999780654907227, 
+            "Type": "TITLE", 
+            "BeginOffset": 1137, 
+            "EndOffset": 1143
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999243021011353, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1381, 
+            "EndOffset": 1384
+        }, 
+        {
+            "Text": "8:01", 
+            "Score": 0.9743220806121826, 
+            "Type": "DATE", 
+            "BeginOffset": 1595, 
+            "EndOffset": 1599
+        }, 
+        {
+            "Text": "10 YEARS", 
+            "Score": 0.997258722782135, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1671, 
+            "EndOffset": 1679
+        }, 
+        {
+            "Text": "10 years ago", 
+            "Score": 0.999972403049469, 
+            "Type": "DATE", 
+            "BeginOffset": 1849, 
+            "EndOffset": 1861
+        }, 
+        {
+            "Text": "2 years later", 
+            "Score": 0.9997720718383789, 
+            "Type": "DATE", 
+            "BeginOffset": 1929, 
+            "EndOffset": 1942
+        }, 
+        {
+            "Text": "2 hours", 
+            "Score": 0.9999632239341736, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2135, 
+            "EndOffset": 2142
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999324083328247, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2218, 
+            "EndOffset": 2221
+        }, 
+        {
+            "Text": "Wednesday", 
+            "Score": 0.9987678527832031, 
+            "Type": "DATE", 
+            "BeginOffset": 2232, 
+            "EndOffset": 2241
+        }
+    ]
+}

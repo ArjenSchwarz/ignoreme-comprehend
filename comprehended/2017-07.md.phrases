@@ -1,0 +1,280 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A very short one", 
+            "Score": 0.97606360912323, 
+            "BeginOffset": 0, 
+            "EndOffset": 16
+        }, 
+        {
+            "Text": "this week", 
+            "Score": 0.993791401386261, 
+            "BeginOffset": 17, 
+            "EndOffset": 26
+        }, 
+        {
+            "Text": "the new secret management feature", 
+            "Score": 0.9634135365486145, 
+            "BeginOffset": 42, 
+            "EndOffset": 75
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9825920462608337, 
+            "BeginOffset": 81, 
+            "EndOffset": 87
+        }, 
+        {
+            "Text": "DOCKER SECRETS", 
+            "Score": 0.825218141078949, 
+            "BeginOffset": 92, 
+            "EndOffset": 106
+        }, 
+        {
+            "Text": "one side Docker", 
+            "Score": 0.9607404470443726, 
+            "BeginOffset": 112, 
+            "EndOffset": 127
+        }, 
+        {
+            "Text": "its core functionalities", 
+            "Score": 0.9967406392097473, 
+            "BeginOffset": 152, 
+            "EndOffset": 176
+        }, 
+        {
+            "Text": "other projects", 
+            "Score": 0.995635986328125, 
+            "BeginOffset": 213, 
+            "EndOffset": 227
+        }, 
+        {
+            "Text": "the other", 
+            "Score": 0.9931894540786743, 
+            "BeginOffset": 236, 
+            "EndOffset": 245
+        }, 
+        {
+            "Text": "more features", 
+            "Score": 0.97340327501297, 
+            "BeginOffset": 268, 
+            "EndOffset": 281
+        }, 
+        {
+            "Text": "its own systems", 
+            "Score": 0.9994696974754333, 
+            "BeginOffset": 287, 
+            "EndOffset": 302
+        }, 
+        {
+            "Text": "The latest example", 
+            "Score": 0.9977686405181885, 
+            "BeginOffset": 304, 
+            "EndOffset": 322
+        }, 
+        {
+            "Text": "Docker secrets", 
+            "Score": 0.9712135195732117, 
+            "BeginOffset": 331, 
+            "EndOffset": 345
+        }, 
+        {
+            "Text": "A main concern", 
+            "Score": 0.9972599744796753, 
+            "BeginOffset": 348, 
+            "EndOffset": 362
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9957774877548218, 
+            "BeginOffset": 368, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "the management", 
+            "Score": 0.9992324709892273, 
+            "BeginOffset": 391, 
+            "EndOffset": 405
+        }, 
+        {
+            "Text": "passwords", 
+            "Score": 0.8246575593948364, 
+            "BeginOffset": 409, 
+            "EndOffset": 418
+        }, 
+        {
+            "Text": "other data", 
+            "Score": 0.9972822666168213, 
+            "BeginOffset": 423, 
+            "EndOffset": 433
+        }, 
+        {
+            "Text": "public", 
+            "Score": 0.8982410430908203, 
+            "BeginOffset": 457, 
+            "EndOffset": 463
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9941668510437012, 
+            "BeginOffset": 475, 
+            "EndOffset": 483
+        }, 
+        {
+            "Text": "existing solutions", 
+            "Score": 0.9989649653434753, 
+            "BeginOffset": 487, 
+            "EndOffset": 505
+        }, 
+        {
+            "Text": "etcd", 
+            "Score": 0.9424372911453247, 
+            "BeginOffset": 521, 
+            "EndOffset": 525
+        }, 
+        {
+            "Text": "the one", 
+            "Score": 0.9834815859794617, 
+            "BeginOffset": 532, 
+            "EndOffset": 539
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9935433268547058, 
+            "BeginOffset": 579, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9661034345626831, 
+            "BeginOffset": 594, 
+            "EndOffset": 600
+        }, 
+        {
+            "Text": "a complete solution", 
+            "Score": 0.9994598031044006, 
+            "BeginOffset": 616, 
+            "EndOffset": 635
+        }, 
+        {
+            "Text": "not a big surprise", 
+            "Score": 0.9522518515586853, 
+            "BeginOffset": 651, 
+            "EndOffset": 669
+        }, 
+        {
+            "Text": "their own secret management", 
+            "Score": 0.9982258677482605, 
+            "BeginOffset": 682, 
+            "EndOffset": 709
+        }, 
+        {
+            "Text": "swarm", 
+            "Score": 0.9813714027404785, 
+            "BeginOffset": 812, 
+            "EndOffset": 817
+        }, 
+        {
+            "Text": "your secrets", 
+            "Score": 0.9998553991317749, 
+            "BeginOffset": 830, 
+            "EndOffset": 842
+        }, 
+        {
+            "Text": "the swarm", 
+            "Score": 0.996741533279419, 
+            "BeginOffset": 846, 
+            "EndOffset": 855
+        }, 
+        {
+            "Text": "the containers", 
+            "Score": 0.9921793341636658, 
+            "BeginOffset": 891, 
+            "EndOffset": 905
+        }, 
+        {
+            "Text": "an in-memory volume", 
+            "Score": 0.9797828793525696, 
+            "BeginOffset": 909, 
+            "EndOffset": 928
+        }, 
+        {
+            "Text": "a certain secret", 
+            "Score": 0.9989056587219238, 
+            "BeginOffset": 999, 
+            "EndOffset": 1015
+        }, 
+        {
+            "Text": "the container", 
+            "Score": 0.9997531771659851, 
+            "BeginOffset": 1031, 
+            "EndOffset": 1044
+        }, 
+        {
+            "Text": "secret flag", 
+            "Score": 0.687238335609436, 
+            "BeginOffset": 1057, 
+            "EndOffset": 1068
+        }, 
+        {
+            "Text": "the swarm manager", 
+            "Score": 0.9920453429222107, 
+            "BeginOffset": 1090, 
+            "EndOffset": 1107
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.996487557888031, 
+            "BeginOffset": 1114, 
+            "EndOffset": 1119
+        }, 
+        {
+            "Text": "a separate system", 
+            "Score": 0.9956123232841492, 
+            "BeginOffset": 1141, 
+            "EndOffset": 1158
+        }, 
+        {
+            "Text": "etcd", 
+            "Score": 0.9998014569282532, 
+            "BeginOffset": 1164, 
+            "EndOffset": 1168
+        }, 
+        {
+            "Text": "advantages and disadvantages", 
+            "Score": 0.9863638281822205, 
+            "BeginOffset": 1180, 
+            "EndOffset": 1208
+        }, 
+        {
+            "Text": "some ways", 
+            "Score": 0.9830130338668823, 
+            "BeginOffset": 1231, 
+            "EndOffset": 1240
+        }, 
+        {
+            "Text": "an etcd cluster", 
+            "Score": 0.998161792755127, 
+            "BeginOffset": 1296, 
+            "EndOffset": 1311
+        }, 
+        {
+            "Text": "the other", 
+            "Score": 0.8553656339645386, 
+            "BeginOffset": 1332, 
+            "EndOffset": 1341
+        }, 
+        {
+            "Text": "your solution", 
+            "Score": 0.9982218742370605, 
+            "BeginOffset": 1355, 
+            "EndOffset": 1368
+        }, 
+        {
+            "Text": "an etcd solution", 
+            "Score": 0.9993124604225159, 
+            "BeginOffset": 1426, 
+            "EndOffset": 1442
+        }
+    ]
+}

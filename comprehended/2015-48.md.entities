@@ -1,0 +1,116 @@
+{
+    "Entities": [
+        {
+            "Text": "past week", 
+            "Score": 0.7420563101768494, 
+            "Type": "DATE", 
+            "BeginOffset": 114, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "90 days", 
+            "Score": 0.996282160282135, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 954, 
+            "EndOffset": 961
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999034404754639, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1188, 
+            "EndOffset": 1193
+        }, 
+        {
+            "Text": "Secondly", 
+            "Score": 0.9998923540115356, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1390, 
+            "EndOffset": 1398
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9959548115730286, 
+            "Type": "DATE", 
+            "BeginOffset": 1750, 
+            "EndOffset": 1759
+        }, 
+        {
+            "Text": "3rd of December", 
+            "Score": 0.9836878180503845, 
+            "Type": "DATE", 
+            "BeginOffset": 1806, 
+            "EndOffset": 1821
+        }, 
+        {
+            "Text": "first release", 
+            "Score": 0.9953856468200684, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1878, 
+            "EndOffset": 1891
+        }, 
+        {
+            "Text": "first version", 
+            "Score": 0.9999879002571106, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2073, 
+            "EndOffset": 2086
+        }, 
+        {
+            "Text": "first type", 
+            "Score": 0.9999863505363464, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2621, 
+            "EndOffset": 2631
+        }, 
+        {
+            "Text": "S3", 
+            "Score": 0.9999990463256836, 
+            "Type": "OTHER", 
+            "BeginOffset": 2720, 
+            "EndOffset": 2722
+        }, 
+        {
+            "Text": "second use", 
+            "Score": 0.9999998807907104, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2946, 
+            "EndOffset": 2956
+        }, 
+        {
+            "Text": "December", 
+            "Score": 0.9995324611663818, 
+            "Type": "DATE", 
+            "BeginOffset": 3459, 
+            "EndOffset": 3467
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.999996542930603, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3501, 
+            "EndOffset": 3504
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9995966553688049, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3571, 
+            "EndOffset": 3574
+        }, 
+        {
+            "Text": "1.0", 
+            "Score": 0.9999930262565613, 
+            "Type": "OTHER", 
+            "BeginOffset": 3593, 
+            "EndOffset": 3596
+        }, 
+        {
+            "Text": "Stripe", 
+            "Score": 0.9999353885650635, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3660, 
+            "EndOffset": 3666
+        }
+    ]
+}

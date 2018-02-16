@@ -1,0 +1,200 @@
+{
+    "Entities": [
+        {
+            "Text": "Both", 
+            "Score": 0.9320507645606995, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 0, 
+            "EndOffset": 4
+        }, 
+        {
+            "Text": "Android 8.0", 
+            "Score": 0.97777259349823, 
+            "Type": "TITLE", 
+            "BeginOffset": 5, 
+            "EndOffset": 16
+        }, 
+        {
+            "Text": "1.9", 
+            "Score": 0.8556337356567383, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 31, 
+            "EndOffset": 34
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.7882394194602966, 
+            "Type": "TITLE", 
+            "BeginOffset": 101, 
+            "EndOffset": 107
+        }, 
+        {
+            "Text": "ANDROID", 
+            "Score": 0.5294093489646912, 
+            "Type": "TITLE", 
+            "BeginOffset": 122, 
+            "EndOffset": 129
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.7558522820472717, 
+            "Type": "TITLE", 
+            "BeginOffset": 159, 
+            "EndOffset": 166
+        }, 
+        {
+            "Text": "8.0", 
+            "Score": 0.7589094638824463, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 168, 
+            "EndOffset": 171
+        }, 
+        {
+            "Text": "Google I/O", 
+            "Score": 0.992725133895874, 
+            "Type": "EVENT", 
+            "BeginOffset": 403, 
+            "EndOffset": 413
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.6233850121498108, 
+            "Type": "TITLE", 
+            "BeginOffset": 545, 
+            "EndOffset": 556
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.5116220712661743, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 565, 
+            "EndOffset": 569
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999927282333374, 
+            "Type": "TITLE", 
+            "BeginOffset": 996, 
+            "EndOffset": 1003
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999889135360718, 
+            "Type": "TITLE", 
+            "BeginOffset": 1024, 
+            "EndOffset": 1031
+        }, 
+        {
+            "Text": "half a year", 
+            "Score": 0.8490936756134033, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1234, 
+            "EndOffset": 1245
+        }, 
+        {
+            "Text": "SAM LOCAL", 
+            "Score": 0.9997152090072632, 
+            "Type": "PERSON", 
+            "BeginOffset": 1954, 
+            "EndOffset": 1963
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999725818634033, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1999, 
+            "EndOffset": 2002
+        }, 
+        {
+            "Text": "SAM", 
+            "Score": 0.999984860420227, 
+            "Type": "PERSON", 
+            "BeginOffset": 2041, 
+            "EndOffset": 2044
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.829121470451355, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2086, 
+            "EndOffset": 2089
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9999946355819702, 
+            "Type": "TITLE", 
+            "BeginOffset": 2205, 
+            "EndOffset": 2219
+        }, 
+        {
+            "Text": "API Gateway", 
+            "Score": 0.999945342540741, 
+            "Type": "TITLE", 
+            "BeginOffset": 2285, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "SAM Local", 
+            "Score": 0.9999547004699707, 
+            "Type": "TITLE", 
+            "BeginOffset": 2311, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9998217225074768, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2524, 
+            "EndOffset": 2530
+        }, 
+        {
+            "Text": "SAM", 
+            "Score": 0.9999996423721313, 
+            "Type": "TITLE", 
+            "BeginOffset": 2650, 
+            "EndOffset": 2653
+        }, 
+        {
+            "Text": "SAM Local", 
+            "Score": 0.9999863505363464, 
+            "Type": "PERSON", 
+            "BeginOffset": 2778, 
+            "EndOffset": 2787
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9999957084655762, 
+            "Type": "PERSON", 
+            "BeginOffset": 2814, 
+            "EndOffset": 2820
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9999858140945435, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2933, 
+            "EndOffset": 2939
+        }, 
+        {
+            "Text": "NPM", 
+            "Score": 0.9999394416809082, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3000, 
+            "EndOffset": 3003
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9999996423721313, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3137, 
+            "EndOffset": 3142
+        }, 
+        {
+            "Text": "iPhone", 
+            "Score": 0.9999637603759766, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3143, 
+            "EndOffset": 3149
+        }
+    ]
+}

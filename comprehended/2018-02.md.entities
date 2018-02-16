@@ -1,0 +1,130 @@
+{
+    "Entities": [
+        {
+            "Text": "Both", 
+            "Score": 0.7651407122612, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 277, 
+            "EndOffset": 281
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9425350427627563, 
+            "Type": "DATE", 
+            "BeginOffset": 323, 
+            "EndOffset": 332
+        }, 
+        {
+            "Text": "Both", 
+            "Score": 0.7094666361808777, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 385, 
+            "EndOffset": 389
+        }, 
+        {
+            "Text": "3 ways", 
+            "Score": 0.9697713255882263, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 800, 
+            "EndOffset": 806
+        }, 
+        {
+            "Text": "Google Zero", 
+            "Score": 0.6615484952926636, 
+            "Type": "TITLE", 
+            "BeginOffset": 912, 
+            "EndOffset": 923
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.8325744271278381, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 948, 
+            "EndOffset": 953
+        }, 
+        {
+            "Text": "JavaScript", 
+            "Score": 0.9999479055404663, 
+            "Type": "TITLE", 
+            "BeginOffset": 1423, 
+            "EndOffset": 1433
+        }, 
+        {
+            "Text": "second part", 
+            "Score": 0.9997267127037048, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1461, 
+            "EndOffset": 1472
+        }, 
+        {
+            "Text": "Spectre", 
+            "Score": 0.9938340187072754, 
+            "Type": "TITLE", 
+            "BeginOffset": 1476, 
+            "EndOffset": 1483
+        }, 
+        {
+            "Text": "first variant", 
+            "Score": 0.9998902678489685, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1662, 
+            "EndOffset": 1675
+        }, 
+        {
+            "Text": "30%", 
+            "Score": 0.9972385168075562, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2580, 
+            "EndOffset": 2583
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999973773956299, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2939, 
+            "EndOffset": 2942
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999920129776001, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2944, 
+            "EndOffset": 2950
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9998020529747009, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2956, 
+            "EndOffset": 2961
+        }, 
+        {
+            "Text": "LWN", 
+            "Score": 1.0, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3039, 
+            "EndOffset": 3042
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9999321699142456, 
+            "Type": "TITLE", 
+            "BeginOffset": 3105, 
+            "EndOffset": 3110
+        }, 
+        {
+            "Text": "Ars Technica", 
+            "Score": 0.9999971389770508, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3204, 
+            "EndOffset": 3216
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999963045120239, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3259, 
+            "EndOffset": 3265
+        }
+    ]
+}

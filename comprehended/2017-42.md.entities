@@ -1,0 +1,214 @@
+{
+    "Entities": [
+        {
+            "Text": "GitHub", 
+            "Score": 0.5495253801345825, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.5502945780754089, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 27, 
+            "EndOffset": 30
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8548367619514465, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 73, 
+            "EndOffset": 76
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.953072190284729, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 81, 
+            "EndOffset": 90
+        }, 
+        {
+            "Text": "Gluon", 
+            "Score": 1.0, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 108, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "Kindle Oasis", 
+            "Score": 0.8887214064598083, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 125, 
+            "EndOffset": 137
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.42831629514694214, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 188, 
+            "EndOffset": 194
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.6726815700531006, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 747, 
+            "EndOffset": 753
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.565072774887085, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 882, 
+            "EndOffset": 885
+        }, 
+        {
+            "Text": "ALBS", 
+            "Score": 0.5117247104644775, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 992, 
+            "EndOffset": 996
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9990561604499817, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1101, 
+            "EndOffset": 1104
+        }, 
+        {
+            "Text": "26 certificates", 
+            "Score": 0.8313424587249756, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1336, 
+            "EndOffset": 1351
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999299049377441, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1871, 
+            "EndOffset": 1877
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999856948852539, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1987, 
+            "EndOffset": 1993
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9997103810310364, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1998, 
+            "EndOffset": 2007
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 0.9999954700469971, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2067, 
+            "EndOffset": 2077
+        }, 
+        {
+            "Text": "Gluon", 
+            "Score": 0.9999908208847046, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2079, 
+            "EndOffset": 2084
+        }, 
+        {
+            "Text": "Apache MXNet", 
+            "Score": 0.9999997019767761, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2153, 
+            "EndOffset": 2165
+        }, 
+        {
+            "Text": "KINDLE OASIS 2.0", 
+            "Score": 0.92304527759552, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2443, 
+            "EndOffset": 2459
+        }, 
+        {
+            "Text": "Kindle", 
+            "Score": 0.9888814091682434, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2473, 
+            "EndOffset": 2479
+        }, 
+        {
+            "Text": "Kindle", 
+            "Score": 0.9999972581863403, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2524, 
+            "EndOffset": 2530
+        }, 
+        {
+            "Text": "About 1.5 year", 
+            "Score": 0.9528130888938904, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2556, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "Oasis", 
+            "Score": 0.9999878406524658, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2596, 
+            "EndOffset": 2601
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.999962329864502, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2603, 
+            "EndOffset": 2609
+        }, 
+        {
+            "Text": "250 dollar", 
+            "Score": 0.9999994039535522, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2878, 
+            "EndOffset": 2888
+        }, 
+        {
+            "Text": "more than 3 times", 
+            "Score": 0.9812000393867493, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2905, 
+            "EndOffset": 2922
+        }, 
+        {
+            "Text": "Kindle", 
+            "Score": 0.9974604845046997, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2941, 
+            "EndOffset": 2947
+        }, 
+        {
+            "Text": "Both", 
+            "Score": 0.9999948740005493, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3075, 
+            "EndOffset": 3079
+        }, 
+        {
+            "Text": "each", 
+            "Score": 0.9998018145561218, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3124, 
+            "EndOffset": 3128
+        }, 
+        {
+            "Text": "TensorFlow", 
+            "Score": 1.0, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3203, 
+            "EndOffset": 3213
+        }
+    ]
+}

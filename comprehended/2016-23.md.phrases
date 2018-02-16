@@ -1,0 +1,628 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "A new tool", 
+            "Score": 0.9995236396789551, 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "online development", 
+            "Score": 0.9904403686523438, 
+            "BeginOffset": 15, 
+            "EndOffset": 33
+        }, 
+        {
+            "Text": "AWS outage", 
+            "Score": 0.9940299987792969, 
+            "BeginOffset": 35, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9275162220001221, 
+            "BeginOffset": 51, 
+            "EndOffset": 54
+        }, 
+        {
+            "Text": "' interpretation", 
+            "Score": 0.9879299998283386, 
+            "BeginOffset": 54, 
+            "EndOffset": 70
+        }, 
+        {
+            "Text": "DevOps", 
+            "Score": 0.9936942458152771, 
+            "BeginOffset": 74, 
+            "EndOffset": 80
+        }, 
+        {
+            "Text": "HYPERDEV\n\n\nFog Creek", 
+            "Score": 0.967212975025177, 
+            "BeginOffset": 85, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "makers", 
+            "Score": 0.9929325580596924, 
+            "BeginOffset": 107, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "Trello", 
+            "Score": 0.7817482948303223, 
+            "BeginOffset": 130, 
+            "EndOffset": 136
+        }, 
+        {
+            "Text": "their latest project", 
+            "Score": 0.9858273863792419, 
+            "BeginOffset": 149, 
+            "EndOffset": 169
+        }, 
+        {
+            "Text": "an online editor/hosting service/everything else", 
+            "Score": 0.9123098850250244, 
+            "BeginOffset": 171, 
+            "EndOffset": 219
+        }, 
+        {
+            "Text": "HyperDev", 
+            "Score": 0.9343559741973877, 
+            "BeginOffset": 226, 
+            "EndOffset": 234
+        }, 
+        {
+            "Text": "The idea", 
+            "Score": 0.9993399381637573, 
+            "BeginOffset": 236, 
+            "EndOffset": 244
+        }, 
+        {
+            "Text": "this project", 
+            "Score": 0.9955773949623108, 
+            "BeginOffset": 252, 
+            "EndOffset": 264
+        }, 
+        {
+            "Text": "a complete and ready development stack", 
+            "Score": 0.9333750605583191, 
+            "BeginOffset": 286, 
+            "EndOffset": 324
+        }, 
+        {
+            "Text": "the HyperDev site", 
+            "Score": 0.9979193210601807, 
+            "BeginOffset": 414, 
+            "EndOffset": 431
+        }, 
+        {
+            "Text": "A small server", 
+            "Score": 0.9997245073318481, 
+            "BeginOffset": 448, 
+            "EndOffset": 462
+        }, 
+        {
+            "Text": "an example site", 
+            "Score": 0.9924571514129639, 
+            "BeginOffset": 486, 
+            "EndOffset": 501
+        }, 
+        {
+            "Text": "real time", 
+            "Score": 0.9994274973869324, 
+            "BeginOffset": 566, 
+            "EndOffset": 575
+        }, 
+        {
+            "Text": "the moment", 
+            "Score": 0.9932409524917603, 
+            "BeginOffset": 577, 
+            "EndOffset": 587
+        }, 
+        {
+            "Text": "potentially destructive code", 
+            "Score": 0.963243305683136, 
+            "BeginOffset": 674, 
+            "EndOffset": 702
+        }, 
+        {
+            "Text": "DELETE", 
+            "Score": 0.863092839717865, 
+            "BeginOffset": 724, 
+            "EndOffset": 730
+        }, 
+        {
+            "Text": "users", 
+            "Score": 0.828499972820282, 
+            "BeginOffset": 738, 
+            "EndOffset": 743
+        }, 
+        {
+            "Text": "the intention", 
+            "Score": 0.9995426535606384, 
+            "BeginOffset": 749, 
+            "EndOffset": 762
+        }, 
+        {
+            "Text": "the rest", 
+            "Score": 0.9998070597648621, 
+            "BeginOffset": 773, 
+            "EndOffset": 781
+        }, 
+        {
+            "Text": "the line", 
+            "Score": 0.9988329410552979, 
+            "BeginOffset": 785, 
+            "EndOffset": 793
+        }, 
+        {
+            "Text": "Your users table", 
+            "Score": 0.9718402028083801, 
+            "BeginOffset": 795, 
+            "EndOffset": 811
+        }, 
+        {
+            "Text": "Another interesting thing", 
+            "Score": 0.9900169968605042, 
+            "BeginOffset": 849, 
+            "EndOffset": 874
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9980514049530029, 
+            "BeginOffset": 887, 
+            "EndOffset": 898
+        }, 
+        {
+            "Text": "a project", 
+            "Score": 0.9991917014122009, 
+            "BeginOffset": 936, 
+            "EndOffset": 945
+        }, 
+        {
+            "Text": "an invite", 
+            "Score": 0.9833417534828186, 
+            "BeginOffset": 968, 
+            "EndOffset": 977
+        }, 
+        {
+            "Text": "your project", 
+            "Score": 0.8671591281890869, 
+            "BeginOffset": 982, 
+            "EndOffset": 994
+        }, 
+        {
+            "Text": "real time", 
+            "Score": 0.8847342133522034, 
+            "BeginOffset": 1027, 
+            "EndOffset": 1036
+        }, 
+        {
+            "Text": "the examples", 
+            "Score": 0.8731703758239746, 
+            "BeginOffset": 1099, 
+            "EndOffset": 1111
+        }, 
+        {
+            "Text": "site", 
+            "Score": 0.9545336961746216, 
+            "BeginOffset": 1118, 
+            "EndOffset": 1122
+        }, 
+        {
+            "Text": "shares updates", 
+            "Score": 0.8707681894302368, 
+            "BeginOffset": 1162, 
+            "EndOffset": 1176
+        }, 
+        {
+            "Text": "real time", 
+            "Score": 0.8292228579521179, 
+            "BeginOffset": 1180, 
+            "EndOffset": 1189
+        }, 
+        {
+            "Text": "many conflicts", 
+            "Score": 0.9741498231887817, 
+            "BeginOffset": 1209, 
+            "EndOffset": 1223
+        }, 
+        {
+            "Text": "other limitations", 
+            "Score": 0.9875329732894897, 
+            "BeginOffset": 1253, 
+            "EndOffset": 1270
+        }, 
+        {
+            "Text": "the backend language", 
+            "Score": 0.912730872631073, 
+            "BeginOffset": 1319, 
+            "EndOffset": 1339
+        }, 
+        {
+            "Text": "NodeJS", 
+            "Score": 0.9262645840644836, 
+            "BeginOffset": 1354, 
+            "EndOffset": 1360
+        }, 
+        {
+            "Text": "HyperDev", 
+            "Score": 0.9996561408042908, 
+            "BeginOffset": 1375, 
+            "EndOffset": 1383
+        }, 
+        {
+            "Text": "potential", 
+            "Score": 0.9869356751441956, 
+            "BeginOffset": 1388, 
+            "EndOffset": 1397
+        }, 
+        {
+            "Text": "a tool", 
+            "Score": 0.9553291201591492, 
+            "BeginOffset": 1401, 
+            "EndOffset": 1407
+        }, 
+        {
+            "Text": "quick mock ups and demos", 
+            "Score": 0.9506657719612122, 
+            "BeginOffset": 1421, 
+            "EndOffset": 1445
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9994636178016663, 
+            "BeginOffset": 1460, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "more than that", 
+            "Score": 0.9274834394454956, 
+            "BeginOffset": 1478, 
+            "EndOffset": 1492
+        }, 
+        {
+            "Text": "beta", 
+            "Score": 0.9936867952346802, 
+            "BeginOffset": 1508, 
+            "EndOffset": 1512
+        }, 
+        {
+            "Text": "more improvements", 
+            "Score": 0.9233992695808411, 
+            "BeginOffset": 1538, 
+            "EndOffset": 1555
+        }, 
+        {
+            "Text": "AWS SYDNEY", 
+            "Score": 0.9336758852005005, 
+            "BeginOffset": 1568, 
+            "EndOffset": 1578
+        }, 
+        {
+            "Text": "Sunday", 
+            "Score": 0.8155013918876648, 
+            "BeginOffset": 1595, 
+            "EndOffset": 1601
+        }, 
+        {
+            "Text": "the most important AWS region", 
+            "Score": 0.9629903435707092, 
+            "BeginOffset": 1602, 
+            "EndOffset": 1631
+        }, 
+        {
+            "Text": "my part", 
+            "Score": 0.9964866638183594, 
+            "BeginOffset": 1636, 
+            "EndOffset": 1643
+        }, 
+        {
+            "Text": "the world", 
+            "Score": 0.999559760093689, 
+            "BeginOffset": 1647, 
+            "EndOffset": 1656
+        }, 
+        {
+            "Text": "aka Sydney", 
+            "Score": 0.9990690350532532, 
+            "BeginOffset": 1658, 
+            "EndOffset": 1668
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.8181193470954895, 
+            "BeginOffset": 1692, 
+            "EndOffset": 1695
+        }, 
+        {
+            "Text": "a big thunderstorm", 
+            "Score": 0.9984662532806396, 
+            "BeginOffset": 1727, 
+            "EndOffset": 1745
+        }, 
+        {
+            "Text": "a data center", 
+            "Score": 0.8852629661560059, 
+            "BeginOffset": 1769, 
+            "EndOffset": 1782
+        }, 
+        {
+            "Text": "the loss", 
+            "Score": 0.9929762482643127, 
+            "BeginOffset": 1796, 
+            "EndOffset": 1804
+        }, 
+        {
+            "Text": "an availability zone", 
+            "Score": 0.9997940063476562, 
+            "BeginOffset": 1808, 
+            "EndOffset": 1828
+        }, 
+        {
+            "Text": "a long time people", 
+            "Score": 0.972908616065979, 
+            "BeginOffset": 1874, 
+            "EndOffset": 1892
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9985051155090332, 
+            "BeginOffset": 1900, 
+            "EndOffset": 1909
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9708507061004639, 
+            "BeginOffset": 1915, 
+            "EndOffset": 1921
+        }, 
+        {
+            "Text": "streaming services", 
+            "Score": 0.951371967792511, 
+            "BeginOffset": 1938, 
+            "EndOffset": 1956
+        }, 
+        {
+            "Text": "food deal[2]", 
+            "Score": 0.8076472282409668, 
+            "BeginOffset": 1961, 
+            "EndOffset": 1973
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.8793464303016663, 
+            "BeginOffset": 1985, 
+            "EndOffset": 1990
+        }, 
+        {
+            "Text": "these services", 
+            "Score": 0.9590200781822205, 
+            "BeginOffset": 1994, 
+            "EndOffset": 2008
+        }, 
+        {
+            "Text": "a single availability zone", 
+            "Score": 0.98321533203125, 
+            "BeginOffset": 2028, 
+            "EndOffset": 2054
+        }, 
+        {
+            "Text": "A lot", 
+            "Score": 0.996411144733429, 
+            "BeginOffset": 2056, 
+            "EndOffset": 2061
+        }, 
+        {
+            "Text": "the impacted services", 
+            "Score": 0.9988080859184265, 
+            "BeginOffset": 2065, 
+            "EndOffset": 2086
+        }, 
+        {
+            "Text": "another AZ", 
+            "Score": 0.9275506138801575, 
+            "BeginOffset": 2137, 
+            "EndOffset": 2147
+        }, 
+        {
+            "Text": "some reason", 
+            "Score": 0.9607614278793335, 
+            "BeginOffset": 2196, 
+            "EndOffset": 2207
+        }, 
+        {
+            "Text": "that reason", 
+            "Score": 0.9938164949417114, 
+            "BeginOffset": 2217, 
+            "EndOffset": 2228
+        }, 
+        {
+            "Text": "the sudden influx", 
+            "Score": 0.9484792947769165, 
+            "BeginOffset": 2244, 
+            "EndOffset": 2261
+        }, 
+        {
+            "Text": "new server requests", 
+            "Score": 0.9994626641273499, 
+            "BeginOffset": 2265, 
+            "EndOffset": 2284
+        }, 
+        {
+            "Text": "something else", 
+            "Score": 0.991893470287323, 
+            "BeginOffset": 2288, 
+            "EndOffset": 2302
+        }, 
+        {
+            "Text": "the results", 
+            "Score": 0.917961061000824, 
+            "BeginOffset": 2330, 
+            "EndOffset": 2341
+        }, 
+        {
+            "Text": "The idea", 
+            "Score": 0.9985324740409851, 
+            "BeginOffset": 2347, 
+            "EndOffset": 2355
+        }, 
+        {
+            "Text": "cross-AZ applications", 
+            "Score": 0.9416962265968323, 
+            "BeginOffset": 2364, 
+            "EndOffset": 2385
+        }, 
+        {
+            "Text": "ways", 
+            "Score": 0.9993144869804382, 
+            "BeginOffset": 2518, 
+            "EndOffset": 2522
+        }, 
+        {
+            "Text": "a post-mortem", 
+            "Score": 0.983054518699646, 
+            "BeginOffset": 2571, 
+            "EndOffset": 2584
+        }, 
+        {
+            "Text": "the least the ability", 
+            "Score": 0.9785040020942688, 
+            "BeginOffset": 2722, 
+            "EndOffset": 2743
+        }, 
+        {
+            "Text": "a copy", 
+            "Score": 0.9335273504257202, 
+            "BeginOffset": 2763, 
+            "EndOffset": 2769
+        }, 
+        {
+            "Text": "your system", 
+            "Score": 0.9982037544250488, 
+            "BeginOffset": 2773, 
+            "EndOffset": 2784
+        }, 
+        {
+            "Text": "a different region", 
+            "Score": 0.9987620115280151, 
+            "BeginOffset": 2788, 
+            "EndOffset": 2806
+        }, 
+        {
+            "Text": "The just", 
+            "Score": 0.9997274279594421, 
+            "BeginOffset": 2808, 
+            "EndOffset": 2816
+        }, 
+        {
+            "Text": "cross-region read-replicas", 
+            "Score": 0.8718698620796204, 
+            "BeginOffset": 2826, 
+            "EndOffset": 2852
+        }, 
+        {
+            "Text": "Aurora", 
+            "Score": 0.9790202975273132, 
+            "BeginOffset": 2856, 
+            "EndOffset": 2862
+        }, 
+        {
+            "Text": "DEVOPS AT AWS", 
+            "Score": 0.9989166259765625, 
+            "BeginOffset": 2895, 
+            "EndOffset": 2908
+        }, 
+        {
+            "Text": "a more positive light", 
+            "Score": 0.9718197584152222, 
+            "BeginOffset": 2914, 
+            "EndOffset": 2935
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9966955184936523, 
+            "BeginOffset": 2937, 
+            "EndOffset": 2940
+        }, 
+        {
+            "Text": "a dedicated DevOps section", 
+            "Score": 0.9943580031394958, 
+            "BeginOffset": 2950, 
+            "EndOffset": 2976
+        }, 
+        {
+            "Text": "their site", 
+            "Score": 0.9956035614013672, 
+            "BeginOffset": 2980, 
+            "EndOffset": 2990
+        }, 
+        {
+            "Text": "their services", 
+            "Score": 0.9766133427619934, 
+            "BeginOffset": 3041, 
+            "EndOffset": 3055
+        }, 
+        {
+            "Text": "a good overview and definition", 
+            "Score": 0.9992300868034363, 
+            "BeginOffset": 3070, 
+            "EndOffset": 3100
+        }, 
+        {
+            "Text": "DevOps", 
+            "Score": 0.9972721934318542, 
+            "BeginOffset": 3104, 
+            "EndOffset": 3110
+        }, 
+        {
+            "Text": "general", 
+            "Score": 0.7801429033279419, 
+            "BeginOffset": 3114, 
+            "EndOffset": 3121
+        }, 
+        {
+            "Text": "fits", 
+            "Score": 0.9790114760398865, 
+            "BeginOffset": 3146, 
+            "EndOffset": 3150
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.838614284992218, 
+            "BeginOffset": 3162, 
+            "EndOffset": 3165
+        }, 
+        {
+            "Text": "all unhappy", 
+            "Score": 0.8853176236152649, 
+            "BeginOffset": 3199, 
+            "EndOffset": 3210
+        }, 
+        {
+            "Text": "my new job", 
+            "Score": 0.7461090683937073, 
+            "BeginOffset": 3231, 
+            "EndOffset": 3241
+        }, 
+        {
+            "Text": "Monday", 
+            "Score": 0.999812662601471, 
+            "BeginOffset": 3248, 
+            "EndOffset": 3254
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9998126029968262, 
+            "BeginOffset": 3257, 
+            "EndOffset": 3260
+        }, 
+        {
+            "Text": "a stormy night", 
+            "Score": 0.9130410552024841, 
+            "BeginOffset": 3307, 
+            "EndOffset": 3321
+        }
+    ]
+}

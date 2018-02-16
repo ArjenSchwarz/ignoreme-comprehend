@@ -1,0 +1,249 @@
+{
+    "Entities": [
+        {
+            "Text": "this week", 
+            "Score": 0.970244824886322, 
+            "Type": "DATE", 
+            "BeginOffset": 36, 
+            "EndOffset": 45
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.6014050245285034, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 79, 
+            "EndOffset": 85
+        }, 
+        {
+            "Text": "Today", 
+            "Score": 0.9408981204032898, 
+            "Type": "DATE", 
+            "BeginOffset": 111, 
+            "EndOffset": 116
+        }, 
+        {
+            "Text": "Sunday", 
+            "Score": 0.9974328875541687, 
+            "Type": "DATE", 
+            "BeginOffset": 194, 
+            "EndOffset": 200
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9476714730262756, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 416, 
+            "EndOffset": 421
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.40540874004364014, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 423, 
+            "EndOffset": 428
+        }, 
+        {
+            "Text": "Intel", 
+            "Score": 0.687229335308075, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 760, 
+            "EndOffset": 765
+        }, 
+        {
+            "Text": "later this year", 
+            "Score": 0.8092175722122192, 
+            "Type": "DATE", 
+            "BeginOffset": 821, 
+            "EndOffset": 836
+        }, 
+        {
+            "Text": "AMAZON", 
+            "Score": 0.9999037981033325, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1228, 
+            "EndOffset": 1234
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9054141640663147, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1244, 
+            "EndOffset": 1249
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9983903169631958, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1250, 
+            "EndOffset": 1256
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999144077301025, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1343, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "Go", 
+            "Score": 0.9999854564666748, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1350, 
+            "EndOffset": 1352
+        }, 
+        {
+            "Text": "ReCode", 
+            "Score": 0.9999969005584717, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1448, 
+            "EndOffset": 1454
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999915361404419, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1772, 
+            "EndOffset": 1778
+        }, 
+        {
+            "Text": "APPLE", 
+            "Score": 0.4161979556083679, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1824, 
+            "EndOffset": 1829
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.5677692890167236, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1840, 
+            "EndOffset": 1845
+        }, 
+        {
+            "Text": "HomePod", 
+            "Score": 0.8013292551040649, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 1860, 
+            "EndOffset": 1867
+        }, 
+        {
+            "Text": "couple of reviews", 
+            "Score": 0.9950801134109497, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2036, 
+            "EndOffset": 2053
+        }, 
+        {
+            "Text": "about 1 hour", 
+            "Score": 0.9989170432090759, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2085, 
+            "EndOffset": 2097
+        }, 
+        {
+            "Text": "Siri", 
+            "Score": 0.9999971389770508, 
+            "Type": "TITLE", 
+            "BeginOffset": 2350, 
+            "EndOffset": 2354
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999005794525146, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2467, 
+            "EndOffset": 2473
+        }, 
+        {
+            "Text": "Echo", 
+            "Score": 0.9638099074363708, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2488, 
+            "EndOffset": 2492
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9999319314956665, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2520, 
+            "EndOffset": 2529
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.9999986886978149, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2567, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "3 countries", 
+            "Score": 0.7715021967887878, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2578, 
+            "EndOffset": 2589
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.9948586225509644, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2600, 
+            "EndOffset": 2604
+        }, 
+        {
+            "Text": "Google Home", 
+            "Score": 0.9999726414680481, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2629, 
+            "EndOffset": 2640
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9999995231628418, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2885, 
+            "EndOffset": 2891
+        }, 
+        {
+            "Text": "9th", 
+            "Score": 0.9999964833259583, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2927, 
+            "EndOffset": 2930
+        }, 
+        {
+            "Text": "US", 
+            "Score": 0.9999866485595703, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3036, 
+            "EndOffset": 3038
+        }, 
+        {
+            "Text": "UK", 
+            "Score": 0.9999384880065918, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3040, 
+            "EndOffset": 3042
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9909090399742126, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3048, 
+            "EndOffset": 3057
+        }, 
+        {
+            "Text": "50km", 
+            "Score": 0.9999954104423523, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3107, 
+            "EndOffset": 3111
+        }, 
+        {
+            "Text": "Australia Post", 
+            "Score": 0.9972419738769531, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3129, 
+            "EndOffset": 3143
+        }
+    ]
+}

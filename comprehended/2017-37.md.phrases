@@ -1,0 +1,646 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "The HipChat replacement Stride", 
+            "Score": 0.994874894618988, 
+            "BeginOffset": 0, 
+            "EndOffset": 30
+        }, 
+        {
+            "Text": "acronym bingo", 
+            "Score": 0.9531964659690857, 
+            "BeginOffset": 57, 
+            "EndOffset": 70
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9819613695144653, 
+            "BeginOffset": 76, 
+            "EndOffset": 79
+        }, 
+        {
+            "Text": "' load balancer updates", 
+            "Score": 0.8984211683273315, 
+            "BeginOffset": 79, 
+            "EndOffset": 102
+        }, 
+        {
+            "Text": "STRIDE\n\n\nHipChat", 
+            "Score": 0.9989746809005737, 
+            "BeginOffset": 107, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "Slack", 
+            "Score": 0.9277219176292419, 
+            "BeginOffset": 160, 
+            "EndOffset": 165
+        }, 
+        {
+            "Text": "some people", 
+            "Score": 0.9975413680076599, 
+            "BeginOffset": 186, 
+            "EndOffset": 197
+        }, 
+        {
+            "Text": "HipChat", 
+            "Score": 0.9768416285514832, 
+            "BeginOffset": 262, 
+            "EndOffset": 269
+        }, 
+        {
+            "Text": "many small annoyances", 
+            "Score": 0.9942290782928467, 
+            "BeginOffset": 301, 
+            "EndOffset": 322
+        }, 
+        {
+            "Text": "a room", 
+            "Score": 0.9360631704330444, 
+            "BeginOffset": 357, 
+            "EndOffset": 363
+        }, 
+        {
+            "Text": "updates", 
+            "Score": 0.9606103897094727, 
+            "BeginOffset": 395, 
+            "EndOffset": 402
+        }, 
+        {
+            "Text": "notifications", 
+            "Score": 0.5247857570648193, 
+            "BeginOffset": 428, 
+            "EndOffset": 441
+        }, 
+        {
+            "Text": "direct messages", 
+            "Score": 0.995933473110199, 
+            "BeginOffset": 448, 
+            "EndOffset": 463
+        }, 
+        {
+            "Text": "Atlassian", 
+            "Score": 0.9035643339157104, 
+            "BeginOffset": 513, 
+            "EndOffset": 522
+        }, 
+        {
+            "Text": "HipChat", 
+            "Score": 0.997209906578064, 
+            "BeginOffset": 542, 
+            "EndOffset": 549
+        }, 
+        {
+            "Text": "a completely new application", 
+            "Score": 0.9950181841850281, 
+            "BeginOffset": 555, 
+            "EndOffset": 583
+        }, 
+        {
+            "Text": "Stride", 
+            "Score": 0.9463825821876526, 
+            "BeginOffset": 591, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9993897676467896, 
+            "BeginOffset": 624, 
+            "EndOffset": 629
+        }, 
+        {
+            "Text": "marketing material", 
+            "Score": 0.9805344343185425, 
+            "BeginOffset": 633, 
+            "EndOffset": 651
+        }, 
+        {
+            "Text": "the above link", 
+            "Score": 0.9890939593315125, 
+            "BeginOffset": 655, 
+            "EndOffset": 669
+        }, 
+        {
+            "Text": "new words", 
+            "Score": 0.9986223578453064, 
+            "BeginOffset": 676, 
+            "EndOffset": 685
+        }, 
+        {
+            "Text": "features", 
+            "Score": 0.9832483530044556, 
+            "BeginOffset": 698, 
+            "EndOffset": 706
+        }, 
+        {
+            "Text": "other apps", 
+            "Score": 0.9207650423049927, 
+            "BeginOffset": 712, 
+            "EndOffset": 722
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7851617336273193, 
+            "BeginOffset": 723, 
+            "EndOffset": 725
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.8997209072113037, 
+            "BeginOffset": 748, 
+            "EndOffset": 759
+        }, 
+        {
+            "Text": "actions and decisions", 
+            "Score": 0.9839296936988831, 
+            "BeginOffset": 768, 
+            "EndOffset": 789
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.9772147536277771, 
+            "BeginOffset": 793, 
+            "EndOffset": 797
+        }, 
+        {
+            "Text": "the conversation", 
+            "Score": 0.9984588027000427, 
+            "BeginOffset": 801, 
+            "EndOffset": 817
+        }, 
+        {
+            "Text": "The ability", 
+            "Score": 0.9970629811286926, 
+            "BeginOffset": 819, 
+            "EndOffset": 830
+        }, 
+        {
+            "Text": "video chat", 
+            "Score": 0.9929114580154419, 
+            "BeginOffset": 851, 
+            "EndOffset": 861
+        }, 
+        {
+            "Text": "rooms", 
+            "Score": 0.821990966796875, 
+            "BeginOffset": 871, 
+            "EndOffset": 876
+        }, 
+        {
+            "Text": "a big difference", 
+            "Score": 0.9994499683380127, 
+            "BeginOffset": 937, 
+            "EndOffset": 953
+        }, 
+        {
+            "Text": "the blog post", 
+            "Score": 0.9984003305435181, 
+            "BeginOffset": 962, 
+            "EndOffset": 975
+        }, 
+        {
+            "Text": "reality", 
+            "Score": 0.6604037880897522, 
+            "BeginOffset": 980, 
+            "EndOffset": 987
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9996919631958008, 
+            "BeginOffset": 1011, 
+            "EndOffset": 1017
+        }, 
+        {
+            "Text": "AWS NETWORK LOAD BALANCER", 
+            "Score": 0.9875594973564148, 
+            "BeginOffset": 1028, 
+            "EndOffset": 1053
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7959674596786499, 
+            "BeginOffset": 1061, 
+            "EndOffset": 1064
+        }, 
+        {
+            "Text": "their new Application Load Balancer", 
+            "Score": 0.996713399887085, 
+            "BeginOffset": 1076, 
+            "EndOffset": 1111
+        }, 
+        {
+            "Text": "all the functionalities", 
+            "Score": 0.9969778656959534, 
+            "BeginOffset": 1128, 
+            "EndOffset": 1151
+        }, 
+        {
+            "Text": "Classic Load Balancer", 
+            "Score": 0.7636495232582092, 
+            "BeginOffset": 1169, 
+            "EndOffset": 1190
+        }, 
+        {
+            "Text": "only http", 
+            "Score": 0.9833779335021973, 
+            "BeginOffset": 1225, 
+            "EndOffset": 1234
+        }, 
+        {
+            "Text": "https connections", 
+            "Score": 0.8578782677650452, 
+            "BeginOffset": 1239, 
+            "EndOffset": 1256
+        }, 
+        {
+            "Text": "other types", 
+            "Score": 0.9472119212150574, 
+            "BeginOffset": 1281, 
+            "EndOffset": 1292
+        }, 
+        {
+            "Text": "connections", 
+            "Score": 0.9997702836990356, 
+            "BeginOffset": 1296, 
+            "EndOffset": 1307
+        }, 
+        {
+            "Text": "the introduction", 
+            "Score": 0.9956163763999939, 
+            "BeginOffset": 1340, 
+            "EndOffset": 1356
+        }, 
+        {
+            "Text": "the Network Load Balancer", 
+            "Score": 0.9980500936508179, 
+            "BeginOffset": 1360, 
+            "EndOffset": 1385
+        }, 
+        {
+            "Text": "This new load balancer", 
+            "Score": 0.999308705329895, 
+            "BeginOffset": 1388, 
+            "EndOffset": 1410
+        }, 
+        {
+            "Text": "very high numbers", 
+            "Score": 0.9708827137947083, 
+            "BeginOffset": 1434, 
+            "EndOffset": 1451
+        }, 
+        {
+            "Text": "traffic", 
+            "Score": 0.9997901320457458, 
+            "BeginOffset": 1455, 
+            "EndOffset": 1462
+        }, 
+        {
+            "Text": "a low latency", 
+            "Score": 0.9994789958000183, 
+            "BeginOffset": 1468, 
+            "EndOffset": 1481
+        }, 
+        {
+            "Text": "another feature", 
+            "Score": 0.9851829409599304, 
+            "BeginOffset": 1487, 
+            "EndOffset": 1502
+        }, 
+        {
+            "Text": "static IPs", 
+            "Score": 0.9332422018051147, 
+            "BeginOffset": 1525, 
+            "EndOffset": 1535
+        }, 
+        {
+            "Text": "times", 
+            "Score": 0.9937698841094971, 
+            "BeginOffset": 1547, 
+            "EndOffset": 1552
+        }, 
+        {
+            "Text": "a third-party", 
+            "Score": 0.9988394379615784, 
+            "BeginOffset": 1582, 
+            "EndOffset": 1595
+        }, 
+        {
+            "Text": "your application", 
+            "Score": 0.9442624449729919, 
+            "BeginOffset": 1607, 
+            "EndOffset": 1623
+        }, 
+        {
+            "Text": "IP address", 
+            "Score": 0.9992643594741821, 
+            "BeginOffset": 1627, 
+            "EndOffset": 1637
+        }, 
+        {
+            "Text": "a load balancer", 
+            "Score": 0.8709877729415894, 
+            "BeginOffset": 1695, 
+            "EndOffset": 1710
+        }, 
+        {
+            "Text": "The NLB[2]", 
+            "Score": 0.9840155243873596, 
+            "BeginOffset": 1712, 
+            "EndOffset": 1722
+        }, 
+        {
+            "Text": "an IP", 
+            "Score": 0.9937043190002441, 
+            "BeginOffset": 1732, 
+            "EndOffset": 1737
+        }, 
+        {
+            "Text": "Availability Zone", 
+            "Score": 0.9645635485649109, 
+            "BeginOffset": 1742, 
+            "EndOffset": 1759
+        }, 
+        {
+            "Text": "those use cases", 
+            "Score": 0.9797605872154236, 
+            "BeginOffset": 1796, 
+            "EndOffset": 1811
+        }, 
+        {
+            "Text": "course other features", 
+            "Score": 0.881405770778656, 
+            "BeginOffset": 1826, 
+            "EndOffset": 1847
+        }, 
+        {
+            "Text": "the other load balancers", 
+            "Score": 0.9941626787185669, 
+            "BeginOffset": 1876, 
+            "EndOffset": 1900
+        }, 
+        {
+            "Text": "the above article", 
+            "Score": 0.9990740418434143, 
+            "BeginOffset": 1958, 
+            "EndOffset": 1975
+        }, 
+        {
+            "Text": "this feature comparison", 
+            "Score": 0.9899994134902954, 
+            "BeginOffset": 1979, 
+            "EndOffset": 2002
+        }, 
+        {
+            "Text": "the different ELBs", 
+            "Score": 0.9946087598800659, 
+            "BeginOffset": 2006, 
+            "EndOffset": 2024
+        }, 
+        {
+            "Text": "AWS APPLICATION LOAD BALANCING VIA IP", 
+            "Score": 0.9874555468559265, 
+            "BeginOffset": 2029, 
+            "EndOffset": 2066
+        }, 
+        {
+            "Text": "ELBs", 
+            "Score": 0.8869113922119141, 
+            "BeginOffset": 2091, 
+            "EndOffset": 2095
+        }, 
+        {
+            "Text": "a good time", 
+            "Score": 0.9986251592636108, 
+            "BeginOffset": 2113, 
+            "EndOffset": 2124
+        }, 
+        {
+            "Text": "another feature", 
+            "Score": 0.9781960844993591, 
+            "BeginOffset": 2138, 
+            "EndOffset": 2153
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.990574300289154, 
+            "BeginOffset": 2164, 
+            "EndOffset": 2167
+        }, 
+        {
+            "Text": "The ability", 
+            "Score": 0.9821621775627136, 
+            "BeginOffset": 2189, 
+            "EndOffset": 2200
+        }, 
+        {
+            "Text": "your ALB[3] point", 
+            "Score": 0.9930816888809204, 
+            "BeginOffset": 2209, 
+            "EndOffset": 2226
+        }, 
+        {
+            "Text": "IP addresses", 
+            "Score": 0.9240188002586365, 
+            "BeginOffset": 2230, 
+            "EndOffset": 2242
+        }, 
+        {
+            "Text": "instances", 
+            "Score": 0.9584977626800537, 
+            "BeginOffset": 2254, 
+            "EndOffset": 2263
+        }, 
+        {
+            "Text": "a major change", 
+            "Score": 0.9968076944351196, 
+            "BeginOffset": 2290, 
+            "EndOffset": 2304
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9990949630737305, 
+            "BeginOffset": 2320, 
+            "EndOffset": 2328
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9998313188552856, 
+            "BeginOffset": 2332, 
+            "EndOffset": 2338
+        }, 
+        {
+            "Text": "dedicated ENIs[4]", 
+            "Score": 0.8558745384216309, 
+            "BeginOffset": 2358, 
+            "EndOffset": 2375
+        }, 
+        {
+            "Text": "your instances", 
+            "Score": 0.9726489782333374, 
+            "BeginOffset": 2395, 
+            "EndOffset": 2409
+        }, 
+        {
+            "Text": "the load balancer", 
+            "Score": 0.9992154836654663, 
+            "BeginOffset": 2435, 
+            "EndOffset": 2452
+        }, 
+        {
+            "Text": "automated this", 
+            "Score": 0.8974726796150208, 
+            "BeginOffset": 2519, 
+            "EndOffset": 2533
+        }, 
+        {
+            "Text": "an advantage", 
+            "Score": 0.9959213733673096, 
+            "BeginOffset": 2563, 
+            "EndOffset": 2575
+        }, 
+        {
+            "Text": "a big difference", 
+            "Score": 0.9300990104675293, 
+            "BeginOffset": 2592, 
+            "EndOffset": 2608
+        }, 
+        {
+            "Text": "your VPC", 
+            "Score": 0.922817587852478, 
+            "BeginOffset": 2645, 
+            "EndOffset": 2653
+        }, 
+        {
+            "Text": "The ALB", 
+            "Score": 0.9976463913917542, 
+            "BeginOffset": 2655, 
+            "EndOffset": 2662
+        }, 
+        {
+            "Text": "any IP reachable", 
+            "Score": 0.997558057308197, 
+            "BeginOffset": 2671, 
+            "EndOffset": 2687
+        }, 
+        {
+            "Text": "the VPC", 
+            "Score": 0.846875011920929, 
+            "BeginOffset": 2693, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "another VPC", 
+            "Score": 0.9973175525665283, 
+            "BeginOffset": 2713, 
+            "EndOffset": 2724
+        }, 
+        {
+            "Text": "VPC Peering", 
+            "Score": 0.9936742186546326, 
+            "BeginOffset": 2733, 
+            "EndOffset": 2744
+        }, 
+        {
+            "Text": "even machines", 
+            "Score": 0.9790074229240417, 
+            "BeginOffset": 2749, 
+            "EndOffset": 2762
+        }, 
+        {
+            "Text": "your own data center", 
+            "Score": 0.8945922255516052, 
+            "BeginOffset": 2766, 
+            "EndOffset": 2786
+        }, 
+        {
+            "Text": "VPN or Direct Connect", 
+            "Score": 0.9097916483879089, 
+            "BeginOffset": 2814, 
+            "EndOffset": 2835
+        }, 
+        {
+            "Text": "[1] Focus Mode", 
+            "Score": 0.9469254612922668, 
+            "BeginOffset": 2838, 
+            "EndOffset": 2852
+        }, 
+        {
+            "Text": "Do Not Disturb", 
+            "Score": 0.8206052780151367, 
+            "BeginOffset": 2864, 
+            "EndOffset": 2878
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9916090965270996, 
+            "BeginOffset": 2912, 
+            "EndOffset": 2915
+        }, 
+        {
+            "Text": "the new short name", 
+            "Score": 0.8428010940551758, 
+            "BeginOffset": 2925, 
+            "EndOffset": 2943
+        }, 
+        {
+            "Text": "this type", 
+            "Score": 0.9901794195175171, 
+            "BeginOffset": 2947, 
+            "EndOffset": 2956
+        }, 
+        {
+            "Text": "ELB", 
+            "Score": 0.9994256496429443, 
+            "BeginOffset": 2960, 
+            "EndOffset": 2963
+        }, 
+        {
+            "Text": "[3] Application Load Balancer", 
+            "Score": 0.9972640872001648, 
+            "BeginOffset": 2966, 
+            "EndOffset": 2995
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.8926752805709839, 
+            "BeginOffset": 2998, 
+            "EndOffset": 3001
+        }, 
+        {
+            "Text": "various reasons", 
+            "Score": 0.7982774972915649, 
+            "BeginOffset": 3015, 
+            "EndOffset": 3030
+        }, 
+        {
+            "Text": "Elastic Network Interfaces", 
+            "Score": 0.9877922534942627, 
+            "BeginOffset": 3038, 
+            "EndOffset": 3064
+        }, 
+        {
+            "Text": "licenses", 
+            "Score": 0.9837943315505981, 
+            "BeginOffset": 3083, 
+            "EndOffset": 3091
+        }, 
+        {
+            "Text": "network interfaces", 
+            "Score": 0.8130130171775818, 
+            "BeginOffset": 3103, 
+            "EndOffset": 3121
+        }, 
+        {
+            "Text": "EIPs", 
+            "Score": 0.9811959862709045, 
+            "BeginOffset": 3151, 
+            "EndOffset": 3155
+        }, 
+        {
+            "Text": "the ENI", 
+            "Score": 0.9656266570091248, 
+            "BeginOffset": 3159, 
+            "EndOffset": 3166
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "Entities": [
+        {
+            "Text": "GitHub", 
+            "Score": 0.8655712008476257, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.539472758769989, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 78, 
+            "EndOffset": 81
+        }, 
+        {
+            "Text": "re:Invent", 
+            "Score": 0.8952159881591797, 
+            "Type": "EVENT", 
+            "BeginOffset": 111, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "GITHUB", 
+            "Score": 0.44350534677505493, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 125, 
+            "EndOffset": 131
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.8130188584327698, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 151, 
+            "EndOffset": 157
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.8899999260902405, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 264, 
+            "EndOffset": 269
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9729889631271362, 
+            "Type": "DATE", 
+            "BeginOffset": 361, 
+            "EndOffset": 370
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.8361701965332031, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 670, 
+            "EndOffset": 676
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999814033508301, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1185, 
+            "EndOffset": 1188
+        }, 
+        {
+            "Text": "Route53", 
+            "Score": 0.9999991059303284, 
+            "Type": "TITLE", 
+            "BeginOffset": 1733, 
+            "EndOffset": 1740
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999939203262329, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2281, 
+            "EndOffset": 2284
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.8672119379043579, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2296, 
+            "EndOffset": 2302
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9347900748252869, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2641, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.9999995231628418, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2857, 
+            "EndOffset": 2860
+        }, 
+        {
+            "Text": "ENI", 
+            "Score": 0.9998464584350586, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3085, 
+            "EndOffset": 3088
+        }
+    ]
+}

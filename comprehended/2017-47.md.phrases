@@ -1,0 +1,676 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Mozilla", 
+            "Score": 0.9178422093391418, 
+            "BeginOffset": 0, 
+            "EndOffset": 7
+        }, 
+        {
+            "Text": "Firefox Quantum", 
+            "Score": 0.9836463332176208, 
+            "BeginOffset": 17, 
+            "EndOffset": 32
+        }, 
+        {
+            "Text": "both Visual Studio Code and Atom", 
+            "Score": 0.8140339851379395, 
+            "BeginOffset": 39, 
+            "EndOffset": 71
+        }, 
+        {
+            "Text": "live code collaboration", 
+            "Score": 0.9916983842849731, 
+            "BeginOffset": 82, 
+            "EndOffset": 105
+        }, 
+        {
+            "Text": "FIREFOX QUANTUM\n\n\nMozilla", 
+            "Score": 0.9962508678436279, 
+            "BeginOffset": 110, 
+            "EndOffset": 135
+        }, 
+        {
+            "Text": "a new version", 
+            "Score": 0.9998104572296143, 
+            "BeginOffset": 149, 
+            "EndOffset": 162
+        }, 
+        {
+            "Text": "Firefox", 
+            "Score": 0.9995076060295105, 
+            "BeginOffset": 166, 
+            "EndOffset": 173
+        }, 
+        {
+            "Text": "life", 
+            "Score": 0.9433223009109497, 
+            "BeginOffset": 202, 
+            "EndOffset": 206
+        }, 
+        {
+            "Text": "the platform", 
+            "Score": 0.8526557087898254, 
+            "BeginOffset": 217, 
+            "EndOffset": 229
+        }, 
+        {
+            "Text": "Firefox Quantum", 
+            "Score": 0.9781741499900818, 
+            "BeginOffset": 231, 
+            "EndOffset": 246
+        }, 
+        {
+            "Text": "Opera", 
+            "Score": 0.9893237948417664, 
+            "BeginOffset": 284, 
+            "EndOffset": 289
+        }, 
+        {
+            "Text": "the over 30% market", 
+            "Score": 0.7705265283584595, 
+            "BeginOffset": 291, 
+            "EndOffset": 310
+        }, 
+        {
+            "Text": "2009", 
+            "Score": 0.9794162511825562, 
+            "BeginOffset": 327, 
+            "EndOffset": 331
+        }, 
+        {
+            "Text": "less than 10%", 
+            "Score": 0.9874351024627686, 
+            "BeginOffset": 347, 
+            "EndOffset": 360
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.9705385565757751, 
+            "BeginOffset": 386, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "A big part", 
+            "Score": 0.9984711408615112, 
+            "BeginOffset": 394, 
+            "EndOffset": 404
+        }, 
+        {
+            "Text": "mobile usage", 
+            "Score": 0.8642656207084656, 
+            "BeginOffset": 429, 
+            "EndOffset": 441
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.998734176158905, 
+            "BeginOffset": 448, 
+            "EndOffset": 454
+        }, 
+        {
+            "Text": "the undisputed leader", 
+            "Score": 0.8906094431877136, 
+            "BeginOffset": 458, 
+            "EndOffset": 479
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.7180391550064087, 
+            "BeginOffset": 479, 
+            "EndOffset": 482
+        }, 
+        {
+            "Text": "the desktop", 
+            "Score": 0.9183731079101562, 
+            "BeginOffset": 496, 
+            "EndOffset": 507
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.9956247210502625, 
+            "BeginOffset": 516, 
+            "EndOffset": 524
+        }, 
+        {
+            "Text": "many others", 
+            "Score": 0.9571756720542908, 
+            "BeginOffset": 530, 
+            "EndOffset": 541
+        }, 
+        {
+            "Text": "Firefox years", 
+            "Score": 0.9896295666694641, 
+            "BeginOffset": 569, 
+            "EndOffset": 582
+        }, 
+        {
+            "Text": "far too much memory", 
+            "Score": 0.8912456035614014, 
+            "BeginOffset": 625, 
+            "EndOffset": 644
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.992884635925293, 
+            "BeginOffset": 651, 
+            "EndOffset": 655
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.999048113822937, 
+            "BeginOffset": 657, 
+            "EndOffset": 662
+        }, 
+        {
+            "Text": "the release", 
+            "Score": 0.9571974873542786, 
+            "BeginOffset": 690, 
+            "EndOffset": 701
+        }, 
+        {
+            "Text": "Quantum", 
+            "Score": 0.9986202120780945, 
+            "BeginOffset": 705, 
+            "EndOffset": 712
+        }, 
+        {
+            "Text": "Statements", 
+            "Score": 0.771928071975708, 
+            "BeginOffset": 759, 
+            "EndOffset": 769
+        }, 
+        {
+            "Text": "30%", 
+            "Score": 0.7554229497909546, 
+            "BeginOffset": 812, 
+            "EndOffset": 815
+        }, 
+        {
+            "Text": "less memory", 
+            "Score": 0.8902765512466431, 
+            "BeginOffset": 816, 
+            "EndOffset": 827
+        }, 
+        {
+            "Text": "Chrome", 
+            "Score": 0.7747631072998047, 
+            "BeginOffset": 833, 
+            "EndOffset": 839
+        }, 
+        {
+            "Text": "obvious attempts", 
+            "Score": 0.9053624868392944, 
+            "BeginOffset": 844, 
+            "EndOffset": 860
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9972702860832214, 
+            "BeginOffset": 868, 
+            "EndOffset": 874
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9962358474731445, 
+            "BeginOffset": 924, 
+            "EndOffset": 929
+        }, 
+        {
+            "Text": "a spin", 
+            "Score": 0.9988718628883362, 
+            "BeginOffset": 933, 
+            "EndOffset": 939
+        }, 
+        {
+            "Text": "the interface", 
+            "Score": 0.9990720748901367, 
+            "BeginOffset": 985, 
+            "EndOffset": 998
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.8712389469146729, 
+            "BeginOffset": 1041, 
+            "EndOffset": 1052
+        }, 
+        {
+            "Text": "any issues", 
+            "Score": 0.9984648823738098, 
+            "BeginOffset": 1097, 
+            "EndOffset": 1107
+        }, 
+        {
+            "Text": "the sites", 
+            "Score": 0.9940954446792603, 
+            "BeginOffset": 1126, 
+            "EndOffset": 1135
+        }, 
+        {
+            "Text": "anger", 
+            "Score": 0.9998761415481567, 
+            "BeginOffset": 1179, 
+            "EndOffset": 1184
+        }, 
+        {
+            "Text": "a good improvement", 
+            "Score": 0.9883859157562256, 
+            "BeginOffset": 1219, 
+            "EndOffset": 1237
+        }, 
+        {
+            "Text": "my existing combination", 
+            "Score": 0.9800384640693665, 
+            "BeginOffset": 1267, 
+            "EndOffset": 1290
+        }, 
+        {
+            "Text": "Safari and Chrome", 
+            "Score": 0.9818654656410217, 
+            "BeginOffset": 1294, 
+            "EndOffset": 1311
+        }, 
+        {
+            "Text": "LIVE CODE COLLABORATION", 
+            "Score": 0.9688429832458496, 
+            "BeginOffset": 1316, 
+            "EndOffset": 1339
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.8238722085952759, 
+            "BeginOffset": 1352, 
+            "EndOffset": 1365
+        }, 
+        {
+            "Text": "both Atom", 
+            "Score": 0.9976121783256531, 
+            "BeginOffset": 1367, 
+            "EndOffset": 1376
+        }, 
+        {
+            "Text": "Visual Studio Code", 
+            "Score": 0.8491320013999939, 
+            "BeginOffset": 1381, 
+            "EndOffset": 1399
+        }, 
+        {
+            "Text": "a way", 
+            "Score": 0.9990195631980896, 
+            "BeginOffset": 1411, 
+            "EndOffset": 1416
+        }, 
+        {
+            "Text": "code", 
+            "Score": 0.9967257976531982, 
+            "BeginOffset": 1435, 
+            "EndOffset": 1439
+        }, 
+        {
+            "Text": "your project", 
+            "Score": 0.9419419169425964, 
+            "BeginOffset": 1473, 
+            "EndOffset": 1485
+        }, 
+        {
+            "Text": "their own editor", 
+            "Score": 0.9990718364715576, 
+            "BeginOffset": 1489, 
+            "EndOffset": 1505
+        }, 
+        {
+            "Text": "remote teams", 
+            "Score": 0.9604974985122681, 
+            "BeginOffset": 1522, 
+            "EndOffset": 1534
+        }, 
+        {
+            "Text": "a very nice way", 
+            "Score": 0.9801148772239685, 
+            "BeginOffset": 1551, 
+            "EndOffset": 1566
+        }, 
+        {
+            "Text": "pair programming", 
+            "Score": 0.8309375047683716, 
+            "BeginOffset": 1583, 
+            "EndOffset": 1599
+        }, 
+        {
+            "Text": "each other", 
+            "Score": 0.9980995059013367, 
+            "BeginOffset": 1611, 
+            "EndOffset": 1621
+        }, 
+        {
+            "Text": "debugging", 
+            "Score": 0.8558093309402466, 
+            "BeginOffset": 1632, 
+            "EndOffset": 1641
+        }, 
+        {
+            "Text": "both editors", 
+            "Score": 0.8662623167037964, 
+            "BeginOffset": 1650, 
+            "EndOffset": 1662
+        }, 
+        {
+            "Text": "a solution", 
+            "Score": 0.9978901743888855, 
+            "BeginOffset": 1677, 
+            "EndOffset": 1687
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.9993672966957092, 
+            "BeginOffset": 1691, 
+            "EndOffset": 1704
+        }, 
+        {
+            "Text": "Electron", 
+            "Score": 0.7546584606170654, 
+            "BeginOffset": 1735, 
+            "EndOffset": 1743
+        }, 
+        {
+            "Text": "the solutions", 
+            "Score": 0.9988475441932678, 
+            "BeginOffset": 1745, 
+            "EndOffset": 1758
+        }, 
+        {
+            "Text": "Atom", 
+            "Score": 0.9987521171569824, 
+            "BeginOffset": 1780, 
+            "EndOffset": 1784
+        }, 
+        {
+            "Text": "a plugin", 
+            "Score": 0.9864304065704346, 
+            "BeginOffset": 1792, 
+            "EndOffset": 1800
+        }, 
+        {
+            "Text": "Teletype", 
+            "Score": 0.9807984828948975, 
+            "BeginOffset": 1808, 
+            "EndOffset": 1816
+        }, 
+        {
+            "Text": "Visual Studio Code", 
+            "Score": 0.9295661449432373, 
+            "BeginOffset": 1823, 
+            "EndOffset": 1841
+        }, 
+        {
+            "Text": "Visual Studio Live Share", 
+            "Score": 0.9750202298164368, 
+            "BeginOffset": 1863, 
+            "EndOffset": 1887
+        }, 
+        {
+            "Text": "Live Share", 
+            "Score": 0.9970996379852295, 
+            "BeginOffset": 1912, 
+            "EndOffset": 1922
+        }, 
+        {
+            "Text": "a plugin", 
+            "Score": 0.9970484375953674, 
+            "BeginOffset": 1931, 
+            "EndOffset": 1939
+        }, 
+        {
+            "Text": "a standard", 
+            "Score": 0.9852370023727417, 
+            "BeginOffset": 1943, 
+            "EndOffset": 1953
+        }, 
+        {
+            "Text": "functionality", 
+            "Score": 0.996070384979248, 
+            "BeginOffset": 1963, 
+            "EndOffset": 1976
+        }, 
+        {
+            "Text": "the demo", 
+            "Score": 0.8188842535018921, 
+            "BeginOffset": 1991, 
+            "EndOffset": 1999
+        }, 
+        {
+            "Text": "both Visual Studio", 
+            "Score": 0.9981808066368103, 
+            "BeginOffset": 2018, 
+            "EndOffset": 2036
+        }, 
+        {
+            "Text": "Visual Studio Code", 
+            "Score": 0.8187873959541321, 
+            "BeginOffset": 2041, 
+            "EndOffset": 2059
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9926757216453552, 
+            "BeginOffset": 2065, 
+            "EndOffset": 2076
+        }, 
+        {
+            "Text": "each other", 
+            "Score": 0.9959021806716919, 
+            "BeginOffset": 2088, 
+            "EndOffset": 2098
+        }, 
+        {
+            "Text": "Neither editor", 
+            "Score": 0.9757121801376343, 
+            "BeginOffset": 2100, 
+            "EndOffset": 2114
+        }, 
+        {
+            "Text": "their solution", 
+            "Score": 0.9594473838806152, 
+            "BeginOffset": 2124, 
+            "EndOffset": 2138
+        }, 
+        {
+            "Text": "Teletype", 
+            "Score": 0.9989060759544373, 
+            "BeginOffset": 2153, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "beta and Live Share", 
+            "Score": 0.968787431716919, 
+            "BeginOffset": 2185, 
+            "EndOffset": 2204
+        }, 
+        {
+            "Text": "a limited US-only preview[2]", 
+            "Score": 0.9676126837730408, 
+            "BeginOffset": 2227, 
+            "EndOffset": 2255
+        }, 
+        {
+            "Text": "Live Share", 
+            "Score": 0.8704624176025391, 
+            "BeginOffset": 2257, 
+            "EndOffset": 2267
+        }, 
+        {
+            "Text": "more capabilities", 
+            "Score": 0.9955131411552429, 
+            "BeginOffset": 2282, 
+            "EndOffset": 2299
+        }, 
+        {
+            "Text": "a matter", 
+            "Score": 0.9955578446388245, 
+            "BeginOffset": 2324, 
+            "EndOffset": 2332
+        }, 
+        {
+            "Text": "a better demo video", 
+            "Score": 0.9979733824729919, 
+            "BeginOffset": 2343, 
+            "EndOffset": 2362
+        }, 
+        {
+            "Text": "The way", 
+            "Score": 0.9963880777359009, 
+            "BeginOffset": 2365, 
+            "EndOffset": 2372
+        }, 
+        {
+            "Text": "both editors", 
+            "Score": 0.9973293542861938, 
+            "BeginOffset": 2386, 
+            "EndOffset": 2398
+        }, 
+        {
+            "Text": "a URL or code", 
+            "Score": 0.9991943836212158, 
+            "BeginOffset": 2422, 
+            "EndOffset": 2435
+        }, 
+        {
+            "Text": "sharing", 
+            "Score": 0.9113004803657532, 
+            "BeginOffset": 2440, 
+            "EndOffset": 2447
+        }, 
+        {
+            "Text": "direct connection", 
+            "Score": 0.934345543384552, 
+            "BeginOffset": 2469, 
+            "EndOffset": 2486
+        }, 
+        {
+            "Text": "the people", 
+            "Score": 0.9982859492301941, 
+            "BeginOffset": 2495, 
+            "EndOffset": 2505
+        }, 
+        {
+            "Text": "Live Share", 
+            "Score": 0.9711366295814514, 
+            "BeginOffset": 2527, 
+            "EndOffset": 2537
+        }, 
+        {
+            "Text": "an Azure relay[3]", 
+            "Score": 0.9973068833351135, 
+            "BeginOffset": 2565, 
+            "EndOffset": 2582
+        }, 
+        {
+            "Text": "Teletype", 
+            "Score": 0.7757935523986816, 
+            "BeginOffset": 2589, 
+            "EndOffset": 2597
+        }, 
+        {
+            "Text": "a peer-to-peer connection", 
+            "Score": 0.9777131676673889, 
+            "BeginOffset": 2606, 
+            "EndOffset": 2631
+        }, 
+        {
+            "Text": "the connection", 
+            "Score": 0.9987404346466064, 
+            "BeginOffset": 2638, 
+            "EndOffset": 2652
+        }, 
+        {
+            "Text": "all parties", 
+            "Score": 0.9918348789215088, 
+            "BeginOffset": 2664, 
+            "EndOffset": 2675
+        }, 
+        {
+            "Text": "the project", 
+            "Score": 0.9951242804527283, 
+            "BeginOffset": 2700, 
+            "EndOffset": 2711
+        }, 
+        {
+            "Text": "a chance", 
+            "Score": 0.9990435242652893, 
+            "BeginOffset": 2727, 
+            "EndOffset": 2735
+        }, 
+        {
+            "Text": "a good system", 
+            "Score": 0.9941983819007874, 
+            "BeginOffset": 2770, 
+            "EndOffset": 2783
+        }, 
+        {
+            "Text": "an advantage", 
+            "Score": 0.9841073155403137, 
+            "BeginOffset": 2809, 
+            "EndOffset": 2821
+        }, 
+        {
+            "Text": "the above links", 
+            "Score": 0.999538242816925, 
+            "BeginOffset": 2842, 
+            "EndOffset": 2857
+        }, 
+        {
+            "Text": "some demos", 
+            "Score": 0.9943891167640686, 
+            "BeginOffset": 2862, 
+            "EndOffset": 2872
+        }, 
+        {
+            "Text": "[1]", 
+            "Score": 0.9993152022361755, 
+            "BeginOffset": 2911, 
+            "EndOffset": 2914
+        }, 
+        {
+            "Text": "the default", 
+            "Score": 0.7025090456008911, 
+            "BeginOffset": 2932, 
+            "EndOffset": 2943
+        }, 
+        {
+            "Text": "the most popular platform", 
+            "Score": 0.9966442584991455, 
+            "BeginOffset": 2947, 
+            "EndOffset": 2972
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9120190739631653, 
+            "BeginOffset": 2999, 
+            "EndOffset": 3002
+        }, 
+        {
+            "Text": "a feature", 
+            "Score": 0.8827692270278931, 
+            "BeginOffset": 3035, 
+            "EndOffset": 3044
+        }, 
+        {
+            "Text": "a US-only preview", 
+            "Score": 0.9291563034057617, 
+            "BeginOffset": 3066, 
+            "EndOffset": 3083
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9881938695907593, 
+            "BeginOffset": 3086, 
+            "EndOffset": 3089
+        }, 
+        {
+            "Text": "any data", 
+            "Score": 0.8884623050689697, 
+            "BeginOffset": 3108, 
+            "EndOffset": 3116
+        }
+    ]
+}

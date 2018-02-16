@@ -1,0 +1,340 @@
+{
+    "Entities": [
+        {
+            "Text": "Blue Ocean", 
+            "Score": 0.8147151470184326, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 10
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.7328078150749207, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 25, 
+            "EndOffset": 31
+        }, 
+        {
+            "Text": "Unity8", 
+            "Score": 0.7916296720504761, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 34, 
+            "EndOffset": 40
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9897072315216064, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 56, 
+            "EndOffset": 62
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9290699362754822, 
+            "Type": "TITLE", 
+            "BeginOffset": 87, 
+            "EndOffset": 94
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.8001849055290222, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 109, 
+            "EndOffset": 114
+        }, 
+        {
+            "Text": "Blue Ocean", 
+            "Score": 0.6639710068702698, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 172, 
+            "EndOffset": 182
+        }, 
+        {
+            "Text": "Jenkins", 
+            "Score": 0.616416871547699, 
+            "Type": "PERSON", 
+            "BeginOffset": 920, 
+            "EndOffset": 927
+        }, 
+        {
+            "Text": "Several years ago", 
+            "Score": 0.693778932094574, 
+            "Type": "DATE", 
+            "BeginOffset": 1095, 
+            "EndOffset": 1112
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9999436140060425, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1114, 
+            "EndOffset": 1120
+        }, 
+        {
+            "Text": "Unity8", 
+            "Score": 0.9999141693115234, 
+            "Type": "TITLE", 
+            "BeginOffset": 1286, 
+            "EndOffset": 1292
+        }, 
+        {
+            "Text": "Gnome", 
+            "Score": 0.999942421913147, 
+            "Type": "TITLE", 
+            "BeginOffset": 1347, 
+            "EndOffset": 1352
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.999991774559021, 
+            "Type": "TITLE", 
+            "BeginOffset": 1390, 
+            "EndOffset": 1396
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9999465942382812, 
+            "Type": "TITLE", 
+            "BeginOffset": 1595, 
+            "EndOffset": 1600
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9265602827072144, 
+            "Type": "TITLE", 
+            "BeginOffset": 1711, 
+            "EndOffset": 1717
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9981762170791626, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1759, 
+            "EndOffset": 1768
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9999306201934814, 
+            "Type": "TITLE", 
+            "BeginOffset": 1793, 
+            "EndOffset": 1800
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.999082088470459, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1951, 
+            "EndOffset": 1957
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999954700469971, 
+            "Type": "TITLE", 
+            "BeginOffset": 2038, 
+            "EndOffset": 2045
+        }, 
+        {
+            "Text": "0.05%", 
+            "Score": 0.9971822500228882, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2128, 
+            "EndOffset": 2133
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9999215602874756, 
+            "Type": "TITLE", 
+            "BeginOffset": 2179, 
+            "EndOffset": 2190
+        }, 
+        {
+            "Text": "2015", 
+            "Score": 0.9999415874481201, 
+            "Type": "DATE", 
+            "BeginOffset": 2269, 
+            "EndOffset": 2273
+        }, 
+        {
+            "Text": "1 billion", 
+            "Score": 0.9973664879798889, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2385, 
+            "EndOffset": 2394
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9915844202041626, 
+            "Type": "TITLE", 
+            "BeginOffset": 2395, 
+            "EndOffset": 2402
+        }, 
+        {
+            "Text": "China", 
+            "Score": 0.9999868869781494, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2429, 
+            "EndOffset": 2434
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9999993443489075, 
+            "Type": "TITLE", 
+            "BeginOffset": 2480, 
+            "EndOffset": 2491
+        }, 
+        {
+            "Text": "500.000", 
+            "Score": 0.9999948143959045, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2513, 
+            "EndOffset": 2520
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999994039535522, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2638, 
+            "EndOffset": 2644
+        }, 
+        {
+            "Text": "Pixel", 
+            "Score": 0.9999760389328003, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2669, 
+            "EndOffset": 2674
+        }, 
+        {
+            "Text": "Nexus", 
+            "Score": 0.9996961355209351, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 2679, 
+            "EndOffset": 2684
+        }, 
+        {
+            "Text": "over half", 
+            "Score": 0.9999991655349731, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2753, 
+            "EndOffset": 2762
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9999970197677612, 
+            "Type": "TITLE", 
+            "BeginOffset": 2770, 
+            "EndOffset": 2777
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9930895566940308, 
+            "Type": "DATE", 
+            "BeginOffset": 2910, 
+            "EndOffset": 2919
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999994039535522, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3018, 
+            "EndOffset": 3023
+        }, 
+        {
+            "Text": "Mac Pro", 
+            "Score": 0.9994964003562927, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3073, 
+            "EndOffset": 3080
+        }, 
+        {
+            "Text": "MacBook Pro", 
+            "Score": 1.0, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3133, 
+            "EndOffset": 3144
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9998449087142944, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3168, 
+            "EndOffset": 3173
+        }, 
+        {
+            "Text": "Mac Pro", 
+            "Score": 0.9998940825462341, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3283, 
+            "EndOffset": 3290
+        }, 
+        {
+            "Text": "2017", 
+            "Score": 0.9999942779541016, 
+            "Type": "DATE", 
+            "BeginOffset": 3323, 
+            "EndOffset": 3327
+        }, 
+        {
+            "Text": "2013", 
+            "Score": 0.9999713897705078, 
+            "Type": "DATE", 
+            "BeginOffset": 3465, 
+            "EndOffset": 3469
+        }, 
+        {
+            "Text": "MacBook Pro", 
+            "Score": 0.9999725222587585, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3633, 
+            "EndOffset": 3644
+        }, 
+        {
+            "Text": "Mac Pro", 
+            "Score": 0.9999960064888, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3982, 
+            "EndOffset": 3989
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9999934434890747, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3991, 
+            "EndOffset": 3996
+        }, 
+        {
+            "Text": "iMac", 
+            "Score": 0.7218842506408691, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 4039, 
+            "EndOffset": 4043
+        }, 
+        {
+            "Text": "Pro", 
+            "Score": 0.9999836683273315, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 4059, 
+            "EndOffset": 4062
+        }, 
+        {
+            "Text": "Mac Pro", 
+            "Score": 0.9999976754188538, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 4146, 
+            "EndOffset": 4153
+        }, 
+        {
+            "Text": "iMac", 
+            "Score": 0.9999853372573853, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 4238, 
+            "EndOffset": 4242
+        }, 
+        {
+            "Text": "LG", 
+            "Score": 0.9928663969039917, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4458, 
+            "EndOffset": 4460
+        }
+    ]
+}

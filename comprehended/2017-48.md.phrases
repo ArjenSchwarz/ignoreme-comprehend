@@ -1,0 +1,622 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "GitHub", 
+            "Score": 0.975092887878418, 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "team discussions", 
+            "Score": 0.995488166809082, 
+            "BeginOffset": 18, 
+            "EndOffset": 34
+        }, 
+        {
+            "Text": "a roundup", 
+            "Score": 0.9992364048957825, 
+            "BeginOffset": 39, 
+            "EndOffset": 48
+        }, 
+        {
+            "Text": "the announcements", 
+            "Score": 0.9682449102401733, 
+            "BeginOffset": 60, 
+            "EndOffset": 77
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8956663608551025, 
+            "BeginOffset": 78, 
+            "EndOffset": 81
+        }, 
+        {
+            "Text": "the way", 
+            "Score": 0.9958373308181763, 
+            "BeginOffset": 96, 
+            "EndOffset": 103
+        }, 
+        {
+            "Text": "Invent", 
+            "Score": 0.7506139874458313, 
+            "BeginOffset": 114, 
+            "EndOffset": 120
+        }, 
+        {
+            "Text": "GITHUB TEAM DISCUSSIONS\n\n\nGitHub", 
+            "Score": 0.9823721051216125, 
+            "BeginOffset": 125, 
+            "EndOffset": 157
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9989616870880127, 
+            "BeginOffset": 179, 
+            "EndOffset": 187
+        }, 
+        {
+            "Text": "services", 
+            "Score": 0.9992855191230774, 
+            "BeginOffset": 191, 
+            "EndOffset": 199
+        }, 
+        {
+            "Text": "the platform", 
+            "Score": 0.9991686344146729, 
+            "BeginOffset": 219, 
+            "EndOffset": 231
+        }, 
+        {
+            "Text": "a basic code repository", 
+            "Score": 0.9604042172431946, 
+            "BeginOffset": 239, 
+            "EndOffset": 262
+        }, 
+        {
+            "Text": "the security alerts", 
+            "Score": 0.9153201580047607, 
+            "BeginOffset": 284, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "the dependency graph introduction", 
+            "Score": 0.9335833787918091, 
+            "BeginOffset": 326, 
+            "EndOffset": 359
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9957423806190491, 
+            "BeginOffset": 361, 
+            "EndOffset": 370
+        }, 
+        {
+            "Text": "a move", 
+            "Score": 0.9992669224739075, 
+            "BeginOffset": 389, 
+            "EndOffset": 395
+        }, 
+        {
+            "Text": "a more complete development platform", 
+            "Score": 0.9868685603141785, 
+            "BeginOffset": 407, 
+            "EndOffset": 443
+        }, 
+        {
+            "Text": "a discussions option", 
+            "Score": 0.9858152866363525, 
+            "BeginOffset": 454, 
+            "EndOffset": 474
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9996302723884583, 
+            "BeginOffset": 548, 
+            "EndOffset": 553
+        }, 
+        {
+            "Text": "discussions", 
+            "Score": 0.9993536472320557, 
+            "BeginOffset": 557, 
+            "EndOffset": 568
+        }, 
+        {
+            "Text": "some thoughts", 
+            "Score": 0.9566505551338196, 
+            "BeginOffset": 584, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "the current limitations", 
+            "Score": 0.9995139837265015, 
+            "BeginOffset": 601, 
+            "EndOffset": 624
+        }, 
+        {
+            "Text": "the idea", 
+            "Score": 0.9983590245246887, 
+            "BeginOffset": 632, 
+            "EndOffset": 640
+        }, 
+        {
+            "Text": "discussions", 
+            "Score": 0.9953758120536804, 
+            "BeginOffset": 651, 
+            "EndOffset": 662
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9989378452301025, 
+            "BeginOffset": 670, 
+            "EndOffset": 676
+        }, 
+        {
+            "Text": "quite limited", 
+            "Score": 0.783071756362915, 
+            "BeginOffset": 708, 
+            "EndOffset": 721
+        }, 
+        {
+            "Text": "the benefit", 
+            "Score": 0.9994112253189087, 
+            "BeginOffset": 743, 
+            "EndOffset": 754
+        }, 
+        {
+            "Text": "lengthy discussions", 
+            "Score": 0.9877172708511353, 
+            "BeginOffset": 770, 
+            "EndOffset": 789
+        }, 
+        {
+            "Text": "pull requests", 
+            "Score": 0.9947230815887451, 
+            "BeginOffset": 793, 
+            "EndOffset": 806
+        }, 
+        {
+            "Text": "the feature", 
+            "Score": 0.999552309513092, 
+            "BeginOffset": 812, 
+            "EndOffset": 823
+        }, 
+        {
+            "Text": "other members", 
+            "Score": 0.9318991899490356, 
+            "BeginOffset": 861, 
+            "EndOffset": 874
+        }, 
+        {
+            "Text": "your organization", 
+            "Score": 0.9989283680915833, 
+            "BeginOffset": 878, 
+            "EndOffset": 895
+        }, 
+        {
+            "Text": "wider use", 
+            "Score": 0.9893884658813477, 
+            "BeginOffset": 927, 
+            "EndOffset": 936
+        }, 
+        {
+            "Text": "some point", 
+            "Score": 0.9990976452827454, 
+            "BeginOffset": 940, 
+            "EndOffset": 950
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9818046689033508, 
+            "BeginOffset": 973, 
+            "EndOffset": 978
+        }, 
+        {
+            "Text": "existing systems", 
+            "Score": 0.9982658624649048, 
+            "BeginOffset": 1046, 
+            "EndOffset": 1062
+        }, 
+        {
+            "Text": "a powerful enough offering", 
+            "Score": 0.9917063117027283, 
+            "BeginOffset": 1090, 
+            "EndOffset": 1116
+        }, 
+        {
+            "Text": "PRE-RE", 
+            "Score": 0.9118754863739014, 
+            "BeginOffset": 1130, 
+            "EndOffset": 1136
+        }, 
+        {
+            "Text": "INVENT ROUNDUP", 
+            "Score": 0.9950955510139465, 
+            "BeginOffset": 1137, 
+            "EndOffset": 1151
+        }, 
+        {
+            "Text": "Invent", 
+            "Score": 0.9723296761512756, 
+            "BeginOffset": 1162, 
+            "EndOffset": 1168
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.7210357189178467, 
+            "BeginOffset": 1185, 
+            "EndOffset": 1188
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9947264194488525, 
+            "BeginOffset": 1198, 
+            "EndOffset": 1206
+        }, 
+        {
+            "Text": "features", 
+            "Score": 0.9994735717773438, 
+            "BeginOffset": 1210, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "the past couple", 
+            "Score": 0.7870850563049316, 
+            "BeginOffset": 1269, 
+            "EndOffset": 1284
+        }, 
+        {
+            "Text": "weeks", 
+            "Score": 0.9992390275001526, 
+            "BeginOffset": 1288, 
+            "EndOffset": 1293
+        }, 
+        {
+            "Text": "several new features", 
+            "Score": 0.9974253177642822, 
+            "BeginOffset": 1301, 
+            "EndOffset": 1321
+        }, 
+        {
+            "Text": "day", 
+            "Score": 0.9991001486778259, 
+            "BeginOffset": 1326, 
+            "EndOffset": 1329
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9405410885810852, 
+            "BeginOffset": 1394, 
+            "EndOffset": 1402
+        }, 
+        {
+            "Text": "ACM", 
+            "Score": 0.9890258312225342, 
+            "BeginOffset": 1436, 
+            "EndOffset": 1439
+        }, 
+        {
+            "Text": "a domain", 
+            "Score": 0.9981495141983032, 
+            "BeginOffset": 1470, 
+            "EndOffset": 1478
+        }, 
+        {
+            "Text": "DNS", 
+            "Score": 0.9959094524383545, 
+            "BeginOffset": 1485, 
+            "EndOffset": 1488
+        }, 
+        {
+            "Text": "email", 
+            "Score": 0.8968651294708252, 
+            "BeginOffset": 1542, 
+            "EndOffset": 1547
+        }, 
+        {
+            "Text": "a weak point", 
+            "Score": 0.9945459961891174, 
+            "BeginOffset": 1566, 
+            "EndOffset": 1578
+        }, 
+        {
+            "Text": "ACM", 
+            "Score": 0.9997081160545349, 
+            "BeginOffset": 1583, 
+            "EndOffset": 1586
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9984577894210815, 
+            "BeginOffset": 1603, 
+            "EndOffset": 1608
+        }, 
+        {
+            "Text": "the process", 
+            "Score": 0.9142259359359741, 
+            "BeginOffset": 1628, 
+            "EndOffset": 1639
+        }, 
+        {
+            "Text": "The way", 
+            "Score": 0.9992207288742065, 
+            "BeginOffset": 1641, 
+            "EndOffset": 1648
+        }, 
+        {
+            "Text": "a CNAME record", 
+            "Score": 0.9990698099136353, 
+            "BeginOffset": 1685, 
+            "EndOffset": 1699
+        }, 
+        {
+            "Text": "your DNS", 
+            "Score": 0.998812198638916, 
+            "BeginOffset": 1703, 
+            "EndOffset": 1711
+        }, 
+        {
+            "Text": "Route53", 
+            "Score": 0.9944119453430176, 
+            "BeginOffset": 1733, 
+            "EndOffset": 1740
+        }, 
+        {
+            "Text": "a big improvement", 
+            "Score": 0.9150829315185547, 
+            "BeginOffset": 1796, 
+            "EndOffset": 1813
+        }, 
+        {
+            "Text": "clients", 
+            "Score": 0.9986316561698914, 
+            "BeginOffset": 1840, 
+            "EndOffset": 1847
+        }, 
+        {
+            "Text": "an email", 
+            "Score": 0.9992778301239014, 
+            "BeginOffset": 1895, 
+            "EndOffset": 1903
+        }, 
+        {
+            "Text": "Encrypt", 
+            "Score": 0.9966988563537598, 
+            "BeginOffset": 1964, 
+            "EndOffset": 1971
+        }, 
+        {
+            "Text": "another weakness", 
+            "Score": 0.9581282734870911, 
+            "BeginOffset": 1983, 
+            "EndOffset": 1999
+        }, 
+        {
+            "Text": "a state machine", 
+            "Score": 0.9953237771987915, 
+            "BeginOffset": 2030, 
+            "EndOffset": 2045
+        }, 
+        {
+            "Text": "Step Functions", 
+            "Score": 0.9983845353126526, 
+            "BeginOffset": 2050, 
+            "EndOffset": 2064
+        }, 
+        {
+            "Text": "state machines", 
+            "Score": 0.9891077280044556, 
+            "BeginOffset": 2110, 
+            "EndOffset": 2124
+        }, 
+        {
+            "Text": "the development cycle", 
+            "Score": 0.9989853501319885, 
+            "BeginOffset": 2136, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9979907870292664, 
+            "BeginOffset": 2158, 
+            "EndOffset": 2163
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9724118709564209, 
+            "BeginOffset": 2226, 
+            "EndOffset": 2232
+        }, 
+        {
+            "Text": "extra steps", 
+            "Score": 0.9920126795768738, 
+            "BeginOffset": 2253, 
+            "EndOffset": 2264
+        }, 
+        {
+            "Text": "CodeCommit", 
+            "Score": 0.9999754428863525, 
+            "BeginOffset": 2267, 
+            "EndOffset": 2277
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9983507394790649, 
+            "BeginOffset": 2281, 
+            "EndOffset": 2284
+        }, 
+        {
+            "Text": "' answer", 
+            "Score": 0.9955043792724609, 
+            "BeginOffset": 2284, 
+            "EndOffset": 2292
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9349544048309326, 
+            "BeginOffset": 2296, 
+            "EndOffset": 2302
+        }, 
+        {
+            "Text": "a major feature", 
+            "Score": 0.9715811014175415, 
+            "BeginOffset": 2323, 
+            "EndOffset": 2338
+        }, 
+        {
+            "Text": "requests", 
+            "Score": 0.9959519505500793, 
+            "BeginOffset": 2370, 
+            "EndOffset": 2378
+        }, 
+        {
+            "Text": "pull requests", 
+            "Score": 0.9761531352996826, 
+            "BeginOffset": 2432, 
+            "EndOffset": 2445
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9602858424186707, 
+            "BeginOffset": 2452, 
+            "EndOffset": 2458
+        }, 
+        {
+            "Text": "the regular git workflow", 
+            "Score": 0.9100123047828674, 
+            "BeginOffset": 2501, 
+            "EndOffset": 2525
+        }, 
+        {
+            "Text": "The only thing", 
+            "Score": 0.9938035011291504, 
+            "BeginOffset": 2527, 
+            "EndOffset": 2541
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9766902327537537, 
+            "BeginOffset": 2553, 
+            "EndOffset": 2564
+        }, 
+        {
+            "Text": "a request", 
+            "Score": 0.8451317548751831, 
+            "BeginOffset": 2578, 
+            "EndOffset": 2587
+        }, 
+        {
+            "Text": "the UI", 
+            "Score": 0.9394015073776245, 
+            "BeginOffset": 2612, 
+            "EndOffset": 2618
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.999012291431427, 
+            "BeginOffset": 2641, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.7179407477378845, 
+            "BeginOffset": 2650, 
+            "EndOffset": 2653
+        }, 
+        {
+            "Text": "an ENI", 
+            "Score": 0.9814205765724182, 
+            "BeginOffset": 2676, 
+            "EndOffset": 2682
+        }, 
+        {
+            "Text": "tasks/containers", 
+            "Score": 0.995949923992157, 
+            "BeginOffset": 2686, 
+            "EndOffset": 2702
+        }, 
+        {
+            "Text": "a container", 
+            "Score": 0.9728335738182068, 
+            "BeginOffset": 2711, 
+            "EndOffset": 2722
+        }, 
+        {
+            "Text": "its own network adaptor", 
+            "Score": 0.9928292632102966, 
+            "BeginOffset": 2723, 
+            "EndOffset": 2746
+        }, 
+        {
+            "Text": "the additional startup time", 
+            "Score": 0.8706933856010437, 
+            "BeginOffset": 2770, 
+            "EndOffset": 2797
+        }, 
+        {
+            "Text": "certain cases", 
+            "Score": 0.9725027084350586, 
+            "BeginOffset": 2842, 
+            "EndOffset": 2855
+        }, 
+        {
+            "Text": "One such case", 
+            "Score": 0.9980393648147583, 
+            "BeginOffset": 2857, 
+            "EndOffset": 2870
+        }, 
+        {
+            "Text": "a service", 
+            "Score": 0.9994068741798401, 
+            "BeginOffset": 2892, 
+            "EndOffset": 2901
+        }, 
+        {
+            "Text": "a static endpoint", 
+            "Score": 0.9983313083648682, 
+            "BeginOffset": 2930, 
+            "EndOffset": 2947
+        }, 
+        {
+            "Text": "a loadbalancer", 
+            "Score": 0.9964979290962219, 
+            "BeginOffset": 2977, 
+            "EndOffset": 2991
+        }, 
+        {
+            "Text": "front", 
+            "Score": 0.9955032467842102, 
+            "BeginOffset": 2995, 
+            "EndOffset": 3000
+        }, 
+        {
+            "Text": "This way", 
+            "Score": 0.9987543225288391, 
+            "BeginOffset": 3002, 
+            "EndOffset": 3010
+        }, 
+        {
+            "Text": "a different underlying instance", 
+            "Score": 0.9855769276618958, 
+            "BeginOffset": 3031, 
+            "EndOffset": 3062
+        }, 
+        {
+            "Text": "the same ENI", 
+            "Score": 0.9987475872039795, 
+            "BeginOffset": 3076, 
+            "EndOffset": 3088
+        }, 
+        {
+            "Text": "the same availability zone", 
+            "Score": 0.9603593945503235, 
+            "BeginOffset": 3113, 
+            "EndOffset": 3139
+        }, 
+        {
+            "Text": "IP address", 
+            "Score": 0.9991607069969177, 
+            "BeginOffset": 3145, 
+            "EndOffset": 3155
+        }
+    ]
+}

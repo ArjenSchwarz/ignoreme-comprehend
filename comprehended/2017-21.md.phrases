@@ -1,0 +1,1054 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "that time", 
+            "Score": 0.9498572945594788, 
+            "BeginOffset": 15, 
+            "EndOffset": 24
+        }, 
+        {
+            "Text": "major conferences", 
+            "Score": 0.9978635311126709, 
+            "BeginOffset": 47, 
+            "EndOffset": 64
+        }, 
+        {
+            "Text": "big companies", 
+            "Score": 0.9992240071296692, 
+            "BeginOffset": 70, 
+            "EndOffset": 83
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9805643558502197, 
+            "BeginOffset": 88, 
+            "EndOffset": 97
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9577462077140808, 
+            "BeginOffset": 103, 
+            "EndOffset": 109
+        }, 
+        {
+            "Text": "I/O", 
+            "Score": 0.9656214118003845, 
+            "BeginOffset": 112, 
+            "EndOffset": 115
+        }, 
+        {
+            "Text": "All the interesting cloud", 
+            "Score": 0.8869659900665283, 
+            "BeginOffset": 142, 
+            "EndOffset": 167
+        }, 
+        {
+            "Text": "announcements", 
+            "Score": 0.777275800704956, 
+            "BeginOffset": 176, 
+            "EndOffset": 189
+        }, 
+        {
+            "Text": "Google Cloud Next", 
+            "Score": 0.974958062171936, 
+            "BeginOffset": 206, 
+            "EndOffset": 223
+        }, 
+        {
+            "Text": "this conference", 
+            "Score": 0.999283492565155, 
+            "BeginOffset": 228, 
+            "EndOffset": 243
+        }, 
+        {
+            "Text": "the consumer applications and platforms", 
+            "Score": 0.9507077932357788, 
+            "BeginOffset": 255, 
+            "EndOffset": 294
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.8524839282035828, 
+            "BeginOffset": 297, 
+            "EndOffset": 303
+        }, 
+        {
+            "Text": "their list", 
+            "Score": 0.9133474230766296, 
+            "BeginOffset": 320, 
+            "EndOffset": 330
+        }, 
+        {
+            "Text": "announcements", 
+            "Score": 0.9972565174102783, 
+            "BeginOffset": 334, 
+            "EndOffset": 347
+        }, 
+        {
+            "Text": "the more interesting items", 
+            "Score": 0.9959250688552856, 
+            "BeginOffset": 396, 
+            "EndOffset": 422
+        }, 
+        {
+            "Text": "a quick recap", 
+            "Score": 0.9988988041877747, 
+            "BeginOffset": 427, 
+            "EndOffset": 440
+        }, 
+        {
+            "Text": "ANDROID", 
+            "Score": 0.5184504985809326, 
+            "BeginOffset": 445, 
+            "EndOffset": 452
+        }, 
+        {
+            "Text": "details", 
+            "Score": 0.7967777848243713, 
+            "BeginOffset": 465, 
+            "EndOffset": 472
+        }, 
+        {
+            "Text": "the next version", 
+            "Score": 0.9970954656600952, 
+            "BeginOffset": 479, 
+            "EndOffset": 495
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.8875327706336975, 
+            "BeginOffset": 499, 
+            "EndOffset": 506
+        }, 
+        {
+            "Text": "Android O", 
+            "Score": 0.9925268888473511, 
+            "BeginOffset": 508, 
+            "EndOffset": 517
+        }, 
+        {
+            "Text": "now mature OS", 
+            "Score": 0.8218052387237549, 
+            "BeginOffset": 556, 
+            "EndOffset": 569
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9962201714515686, 
+            "BeginOffset": 584, 
+            "EndOffset": 589
+        }, 
+        {
+            "Text": "fancy new features", 
+            "Score": 0.9975488185882568, 
+            "BeginOffset": 593, 
+            "EndOffset": 611
+        }, 
+        {
+            "Text": "the OS level", 
+            "Score": 0.9984080195426941, 
+            "BeginOffset": 615, 
+            "EndOffset": 627
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9850658774375916, 
+            "BeginOffset": 660, 
+            "EndOffset": 666
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.737736165523529, 
+            "BeginOffset": 676, 
+            "EndOffset": 678
+        }, 
+        {
+            "Text": "The most interesting part", 
+            "Score": 0.9543656706809998, 
+            "BeginOffset": 691, 
+            "EndOffset": 716
+        }, 
+        {
+            "Text": "the Smart Copy feature", 
+            "Score": 0.9705254435539246, 
+            "BeginOffset": 729, 
+            "EndOffset": 751
+        }, 
+        {
+            "Text": "many times", 
+            "Score": 0.9979940056800842, 
+            "BeginOffset": 768, 
+            "EndOffset": 778
+        }, 
+        {
+            "Text": "data recognition", 
+            "Score": 0.7283231019973755, 
+            "BeginOffset": 784, 
+            "EndOffset": 800
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9677228331565857, 
+            "BeginOffset": 809, 
+            "EndOffset": 825
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9922811388969421, 
+            "BeginOffset": 829, 
+            "EndOffset": 835
+        }, 
+        {
+            "Text": "strength", 
+            "Score": 0.9948715567588806, 
+            "BeginOffset": 838, 
+            "EndOffset": 846
+        }, 
+        {
+            "Text": "a copy function", 
+            "Score": 0.9895420670509338, 
+            "BeginOffset": 894, 
+            "EndOffset": 909
+        }, 
+        {
+            "Text": "the context", 
+            "Score": 0.9988643527030945, 
+            "BeginOffset": 926, 
+            "EndOffset": 937
+        }, 
+        {
+            "Text": "The example", 
+            "Score": 0.98934006690979, 
+            "BeginOffset": 939, 
+            "EndOffset": 950
+        }, 
+        {
+            "Text": "an address", 
+            "Score": 0.9935119152069092, 
+            "BeginOffset": 993, 
+            "EndOffset": 1003
+        }, 
+        {
+            "Text": "the usual selection hassle", 
+            "Score": 0.9955004453659058, 
+            "BeginOffset": 1033, 
+            "EndOffset": 1059
+        }, 
+        {
+            "Text": "a small thing", 
+            "Score": 0.9952753186225891, 
+            "BeginOffset": 1080, 
+            "EndOffset": 1093
+        }, 
+        {
+            "Text": "the goal", 
+            "Score": 0.9744644165039062, 
+            "BeginOffset": 1105, 
+            "EndOffset": 1113
+        }, 
+        {
+            "Text": "the OS[2]", 
+            "Score": 0.9704535603523254, 
+            "BeginOffset": 1117, 
+            "EndOffset": 1126
+        }, 
+        {
+            "Text": "friction", 
+            "Score": 0.989657461643219, 
+            "BeginOffset": 1140, 
+            "EndOffset": 1148
+        }, 
+        {
+            "Text": "Android O", 
+            "Score": 0.8806523084640503, 
+            "BeginOffset": 1201, 
+            "EndOffset": 1210
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9613642692565918, 
+            "BeginOffset": 1212, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "a new version", 
+            "Score": 0.9906867146492004, 
+            "BeginOffset": 1234, 
+            "EndOffset": 1247
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9998798966407776, 
+            "BeginOffset": 1251, 
+            "EndOffset": 1258
+        }, 
+        {
+            "Text": "Android Go", 
+            "Score": 0.9708235263824463, 
+            "BeginOffset": 1266, 
+            "EndOffset": 1276
+        }, 
+        {
+            "Text": "a more lightweight version", 
+            "Score": 0.993645191192627, 
+            "BeginOffset": 1298, 
+            "EndOffset": 1324
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.999769389629364, 
+            "BeginOffset": 1328, 
+            "EndOffset": 1335
+        }, 
+        {
+            "Text": "less powerful phones", 
+            "Score": 0.9915744066238403, 
+            "BeginOffset": 1357, 
+            "EndOffset": 1377
+        }, 
+        {
+            "Text": "the \"next billion", 
+            "Score": 0.9083459973335266, 
+            "BeginOffset": 1397, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "users", 
+            "Score": 0.9909418821334839, 
+            "BeginOffset": 1419, 
+            "EndOffset": 1424
+        }, 
+        {
+            "Text": "developing countries", 
+            "Score": 0.9991065263748169, 
+            "BeginOffset": 1431, 
+            "EndOffset": 1451
+        }, 
+        {
+            "Text": "the number", 
+            "Score": 0.9704372882843018, 
+            "BeginOffset": 1469, 
+            "EndOffset": 1479
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9992942214012146, 
+            "BeginOffset": 1483, 
+            "EndOffset": 1489
+        }, 
+        {
+            "Text": "old hardware[3]", 
+            "Score": 0.8528300523757935, 
+            "BeginOffset": 1498, 
+            "EndOffset": 1513
+        }, 
+        {
+            "Text": "those phones", 
+            "Score": 0.9995568990707397, 
+            "BeginOffset": 1584, 
+            "EndOffset": 1596
+        }, 
+        {
+            "Text": "this update", 
+            "Score": 0.9995812177658081, 
+            "BeginOffset": 1607, 
+            "EndOffset": 1618
+        }, 
+        {
+            "Text": "the same old reasons", 
+            "Score": 0.9945944547653198, 
+            "BeginOffset": 1623, 
+            "EndOffset": 1643
+        }, 
+        {
+            "Text": "updates", 
+            "Score": 0.9995267391204834, 
+            "BeginOffset": 1659, 
+            "EndOffset": 1666
+        }, 
+        {
+            "Text": "the regular Android", 
+            "Score": 0.9930576086044312, 
+            "BeginOffset": 1670, 
+            "EndOffset": 1689
+        }, 
+        {
+            "Text": "no profit", 
+            "Score": 0.9889512658119202, 
+            "BeginOffset": 1699, 
+            "EndOffset": 1708
+        }, 
+        {
+            "Text": "the phone makers", 
+            "Score": 0.9963583946228027, 
+            "BeginOffset": 1719, 
+            "EndOffset": 1735
+        }, 
+        {
+            "Text": "the long run", 
+            "Score": 0.9964836835861206, 
+            "BeginOffset": 1786, 
+            "EndOffset": 1798
+        }, 
+        {
+            "Text": "app creators", 
+            "Score": 0.9413770437240601, 
+            "BeginOffset": 1821, 
+            "EndOffset": 1833
+        }, 
+        {
+            "Text": "this OS", 
+            "Score": 0.9945738315582275, 
+            "BeginOffset": 1853, 
+            "EndOffset": 1860
+        }, 
+        {
+            "Text": "the less profitable market", 
+            "Score": 0.9883893132209778, 
+            "BeginOffset": 1866, 
+            "EndOffset": 1892
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9221118092536926, 
+            "BeginOffset": 1929, 
+            "EndOffset": 1935
+        }, 
+        {
+            "Text": "own applications", 
+            "Score": 0.9649250507354736, 
+            "BeginOffset": 1938, 
+            "EndOffset": 1954
+        }, 
+        {
+            "Text": "the other major thing", 
+            "Score": 0.948294997215271, 
+            "BeginOffset": 1977, 
+            "EndOffset": 1998
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9946798086166382, 
+            "BeginOffset": 2003, 
+            "EndOffset": 2010
+        }, 
+        {
+            "Text": "a new effort", 
+            "Score": 0.9851545691490173, 
+            "BeginOffset": 2014, 
+            "EndOffset": 2026
+        }, 
+        {
+            "Text": "your devices", 
+            "Score": 0.9996505975723267, 
+            "BeginOffset": 2040, 
+            "EndOffset": 2052
+        }, 
+        {
+            "Text": "Google Play Protect", 
+            "Score": 0.9992241859436035, 
+            "BeginOffset": 2054, 
+            "EndOffset": 2073
+        }, 
+        {
+            "Text": "not part", 
+            "Score": 0.9914102554321289, 
+            "BeginOffset": 2089, 
+            "EndOffset": 2097
+        }, 
+        {
+            "Text": "the OS", 
+            "Score": 0.5668705105781555, 
+            "BeginOffset": 2101, 
+            "EndOffset": 2107
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.9921699166297913, 
+            "BeginOffset": 2113, 
+            "EndOffset": 2117
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.8614237904548645, 
+            "BeginOffset": 2121, 
+            "EndOffset": 2132
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.9772201776504517, 
+            "BeginOffset": 2190, 
+            "EndOffset": 2201
+        }, 
+        {
+            "Text": "Google Play", 
+            "Score": 0.8872705698013306, 
+            "BeginOffset": 2285, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "a constantly updated protection", 
+            "Score": 0.9234933257102966, 
+            "BeginOffset": 2315, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "a good job", 
+            "Score": 0.9972880482673645, 
+            "BeginOffset": 2361, 
+            "EndOffset": 2371
+        }, 
+        {
+            "Text": "the security issues", 
+            "Score": 0.9984700083732605, 
+            "BeginOffset": 2394, 
+            "EndOffset": 2413
+        }, 
+        {
+            "Text": "older versions", 
+            "Score": 0.9964122772216797, 
+            "BeginOffset": 2427, 
+            "EndOffset": 2441
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9959433078765869, 
+            "BeginOffset": 2445, 
+            "EndOffset": 2452
+        }, 
+        {
+            "Text": "a far safer environment", 
+            "Score": 0.9942915439605713, 
+            "BeginOffset": 2471, 
+            "EndOffset": 2494
+        }, 
+        {
+            "Text": "bad[4] apps", 
+            "Score": 0.8715561032295227, 
+            "BeginOffset": 2568, 
+            "EndOffset": 2579
+        }, 
+        {
+            "Text": "a good step", 
+            "Score": 0.9530453085899353, 
+            "BeginOffset": 2585, 
+            "EndOffset": 2596
+        }, 
+        {
+            "Text": "GOOGLE ASSISTANT\n\n\nLot", 
+            "Score": 0.9874783158302307, 
+            "BeginOffset": 2609, 
+            "EndOffset": 2631
+        }, 
+        {
+            "Text": "updates", 
+            "Score": 0.9728773236274719, 
+            "BeginOffset": 2637, 
+            "EndOffset": 2644
+        }, 
+        {
+            "Text": "Google Assistant", 
+            "Score": 0.877269446849823, 
+            "BeginOffset": 2657, 
+            "EndOffset": 2673
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9821332693099976, 
+            "BeginOffset": 2691, 
+            "EndOffset": 2700
+        }, 
+        {
+            "Text": "mostly upcoming devices", 
+            "Score": 0.9305946230888367, 
+            "BeginOffset": 2720, 
+            "EndOffset": 2743
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.8219479918479919, 
+            "BeginOffset": 2748, 
+            "EndOffset": 2756
+        }, 
+        {
+            "Text": "upcoming applications", 
+            "Score": 0.9969189167022705, 
+            "BeginOffset": 2760, 
+            "EndOffset": 2781
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9921633005142212, 
+            "BeginOffset": 2806, 
+            "EndOffset": 2811
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9907349944114685, 
+            "BeginOffset": 2815, 
+            "EndOffset": 2821
+        }, 
+        {
+            "Text": "lineup", 
+            "Score": 0.9970595240592957, 
+            "BeginOffset": 2824, 
+            "EndOffset": 2830
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9998506307601929, 
+            "BeginOffset": 2836, 
+            "EndOffset": 2841
+        }, 
+        {
+            "Text": "One interesting thing", 
+            "Score": 0.9907563924789429, 
+            "BeginOffset": 2855, 
+            "EndOffset": 2876
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.8342607021331787, 
+            "BeginOffset": 2880, 
+            "EndOffset": 2891
+        }, 
+        {
+            "Text": "type", 
+            "Score": 0.9963107705116272, 
+            "BeginOffset": 2895, 
+            "EndOffset": 2899
+        }, 
+        {
+            "Text": "the Assistant", 
+            "Score": 0.9954169392585754, 
+            "BeginOffset": 2903, 
+            "EndOffset": 2916
+        }, 
+        {
+            "Text": "plenty", 
+            "Score": 0.9989632368087769, 
+            "BeginOffset": 2955, 
+            "EndOffset": 2961
+        }, 
+        {
+            "Text": "situations", 
+            "Score": 0.996033251285553, 
+            "BeginOffset": 2965, 
+            "EndOffset": 2975
+        }, 
+        {
+            "Text": "a great improvement", 
+            "Score": 0.918057382106781, 
+            "BeginOffset": 3022, 
+            "EndOffset": 3041
+        }, 
+        {
+            "Text": "5]", 
+            "Score": 0.8954821228981018, 
+            "BeginOffset": 3042, 
+            "EndOffset": 3044
+        }, 
+        {
+            "Text": "Other improvements", 
+            "Score": 0.7616472244262695, 
+            "BeginOffset": 3047, 
+            "EndOffset": 3065
+        }, 
+        {
+            "Text": "new functionalities", 
+            "Score": 0.7299090027809143, 
+            "BeginOffset": 3070, 
+            "EndOffset": 3089
+        }, 
+        {
+            "Text": "a better conversation flow", 
+            "Score": 0.9922834634780884, 
+            "BeginOffset": 3094, 
+            "EndOffset": 3120
+        }, 
+        {
+            "Text": "the iPhone", 
+            "Score": 0.9831636548042297, 
+            "BeginOffset": 3157, 
+            "EndOffset": 3167
+        }, 
+        {
+            "Text": "an app", 
+            "Score": 0.9990864396095276, 
+            "BeginOffset": 3172, 
+            "EndOffset": 3178
+        }, 
+        {
+            "Text": "Siri", 
+            "Score": 0.9418228268623352, 
+            "BeginOffset": 3203, 
+            "EndOffset": 3207
+        }, 
+        {
+            "Text": "Google Home", 
+            "Score": 0.7947323322296143, 
+            "BeginOffset": 3229, 
+            "EndOffset": 3240
+        }, 
+        {
+            "Text": "several new countries", 
+            "Score": 0.9517191648483276, 
+            "BeginOffset": 3254, 
+            "EndOffset": 3275
+        }, 
+        {
+            "Text": "Australia[6]", 
+            "Score": 0.9928233623504639, 
+            "BeginOffset": 3287, 
+            "EndOffset": 3299
+        }, 
+        {
+            "Text": "The most interesting new feature", 
+            "Score": 0.9437594413757324, 
+            "BeginOffset": 3301, 
+            "EndOffset": 3333
+        }, 
+        {
+            "Text": "Google Lens", 
+            "Score": 0.9927153587341309, 
+            "BeginOffset": 3346, 
+            "EndOffset": 3357
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9804505705833435, 
+            "BeginOffset": 3381, 
+            "EndOffset": 3387
+        }, 
+        {
+            "Text": "strengths", 
+            "Score": 0.746258556842804, 
+            "BeginOffset": 3390, 
+            "EndOffset": 3399
+        }, 
+        {
+            "Text": "contextual information", 
+            "Score": 0.9996286630630493, 
+            "BeginOffset": 3428, 
+            "EndOffset": 3450
+        }, 
+        {
+            "Text": "your camera and location", 
+            "Score": 0.9985225200653076, 
+            "BeginOffset": 3460, 
+            "EndOffset": 3484
+        }, 
+        {
+            "Text": "Text", 
+            "Score": 0.9987422823905945, 
+            "BeginOffset": 3486, 
+            "EndOffset": 3490
+        }, 
+        {
+            "Text": "photos", 
+            "Score": 0.9397897720336914, 
+            "BeginOffset": 3504, 
+            "EndOffset": 3510
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9492479562759399, 
+            "BeginOffset": 3551, 
+            "EndOffset": 3556
+        }, 
+        {
+            "Text": "all the available data", 
+            "Score": 0.9731279015541077, 
+            "BeginOffset": 3579, 
+            "EndOffset": 3601
+        }, 
+        {
+            "Text": "extra information", 
+            "Score": 0.9812806248664856, 
+            "BeginOffset": 3621, 
+            "EndOffset": 3638
+        }, 
+        {
+            "Text": "MACHINE LEARNING AND VR", 
+            "Score": 0.8414288759231567, 
+            "BeginOffset": 3643, 
+            "EndOffset": 3666
+        }, 
+        {
+            "Text": "Some Cloud related news", 
+            "Score": 0.9825730919837952, 
+            "BeginOffset": 3669, 
+            "EndOffset": 3692
+        }, 
+        {
+            "Text": "the announcement", 
+            "Score": 0.9103878140449524, 
+            "BeginOffset": 3713, 
+            "EndOffset": 3729
+        }, 
+        {
+            "Text": "a new processor type", 
+            "Score": 0.9746233820915222, 
+            "BeginOffset": 3733, 
+            "EndOffset": 3753
+        }, 
+        {
+            "Text": "machine learning", 
+            "Score": 0.9996110200881958, 
+            "BeginOffset": 3771, 
+            "EndOffset": 3787
+        }, 
+        {
+            "Text": "The TPUs", 
+            "Score": 0.9622452259063721, 
+            "BeginOffset": 3789, 
+            "EndOffset": 3797
+        }, 
+        {
+            "Text": "this purpose", 
+            "Score": 0.9691393971443176, 
+            "BeginOffset": 3828, 
+            "EndOffset": 3840
+        }, 
+        {
+            "Text": "some really good results", 
+            "Score": 0.9891923666000366, 
+            "BeginOffset": 3849, 
+            "EndOffset": 3873
+        }, 
+        {
+            "Text": "details", 
+            "Score": 0.9993918538093567, 
+            "BeginOffset": 3879, 
+            "EndOffset": 3886
+        }, 
+        {
+            "Text": "the above blogpost", 
+            "Score": 0.9985844492912292, 
+            "BeginOffset": 3909, 
+            "EndOffset": 3927
+        }, 
+        {
+            "Text": "justice", 
+            "Score": 0.9997333884239197, 
+            "BeginOffset": 3957, 
+            "EndOffset": 3964
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.999135434627533, 
+            "BeginOffset": 3976, 
+            "EndOffset": 3982
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.952749490737915, 
+            "BeginOffset": 3999, 
+            "EndOffset": 4005
+        }, 
+        {
+            "Text": "standalone devices", 
+            "Score": 0.847507119178772, 
+            "BeginOffset": 4028, 
+            "EndOffset": 4046
+        }, 
+        {
+            "Text": "their Daydream system", 
+            "Score": 0.96122145652771, 
+            "BeginOffset": 4051, 
+            "EndOffset": 4072
+        }, 
+        {
+            "Text": "several partners", 
+            "Score": 0.9989242553710938, 
+            "BeginOffset": 4086, 
+            "EndOffset": 4102
+        }, 
+        {
+            "Text": "devices", 
+            "Score": 0.9989145398139954, 
+            "BeginOffset": 4195, 
+            "EndOffset": 4202
+        }, 
+        {
+            "Text": "the Oculus", 
+            "Score": 0.9936063885688782, 
+            "BeginOffset": 4208, 
+            "EndOffset": 4218
+        }, 
+        {
+            "Text": "the most interesting part", 
+            "Score": 0.9845436811447144, 
+            "BeginOffset": 4248, 
+            "EndOffset": 4273
+        }, 
+        {
+            "Text": "their new VPS", 
+            "Score": 0.9956135153770447, 
+            "BeginOffset": 4285, 
+            "EndOffset": 4298
+        }, 
+        {
+            "Text": "this case", 
+            "Score": 0.9985437393188477, 
+            "BeginOffset": 4309, 
+            "EndOffset": 4318
+        }, 
+        {
+            "Text": "Visual Positioning System", 
+            "Score": 0.9954735636711121, 
+            "BeginOffset": 4330, 
+            "EndOffset": 4355
+        }, 
+        {
+            "Text": "A system", 
+            "Score": 0.9937866926193237, 
+            "BeginOffset": 4357, 
+            "EndOffset": 4365
+        }, 
+        {
+            "Text": "your location", 
+            "Score": 0.995493471622467, 
+            "BeginOffset": 4411, 
+            "EndOffset": 4424
+        }, 
+        {
+            "Text": "buildings", 
+            "Score": 0.9998107552528381, 
+            "BeginOffset": 4432, 
+            "EndOffset": 4441
+        }, 
+        {
+            "Text": "additional sensors", 
+            "Score": 0.9196717143058777, 
+            "BeginOffset": 4448, 
+            "EndOffset": 4466
+        }, 
+        {
+            "Text": "example museums", 
+            "Score": 0.9971110820770264, 
+            "BeginOffset": 4474, 
+            "EndOffset": 4489
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9309645891189575, 
+            "BeginOffset": 4526, 
+            "EndOffset": 4531
+        }, 
+        {
+            "Text": "use cases", 
+            "Score": 0.9996267557144165, 
+            "BeginOffset": 4535, 
+            "EndOffset": 4544
+        }, 
+        {
+            "Text": "an eye", 
+            "Score": 0.9324443936347961, 
+            "BeginOffset": 4575, 
+            "EndOffset": 4581
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9872069954872131, 
+            "BeginOffset": 4615, 
+            "EndOffset": 4617
+        }, 
+        {
+            "Text": "every year", 
+            "Score": 0.783605694770813, 
+            "BeginOffset": 4649, 
+            "EndOffset": 4659
+        }, 
+        {
+            "Text": "some point", 
+            "Score": 0.987890899181366, 
+            "BeginOffset": 4671, 
+            "EndOffset": 4681
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9932024478912354, 
+            "BeginOffset": 4715, 
+            "EndOffset": 4718
+        }, 
+        {
+            "Text": "any app", 
+            "Score": 0.9994012117385864, 
+            "BeginOffset": 4723, 
+            "EndOffset": 4730
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.7687119841575623, 
+            "BeginOffset": 4740, 
+            "EndOffset": 4743
+        }, 
+        {
+            "Text": "the related old insecure versions", 
+            "Score": 0.9783688187599182, 
+            "BeginOffset": 4748, 
+            "EndOffset": 4781
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.848619282245636, 
+            "BeginOffset": 4785, 
+            "EndOffset": 4792
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9833787679672241, 
+            "BeginOffset": 4795, 
+            "EndOffset": 4798
+        }, 
+        {
+            "Text": "data", 
+            "Score": 0.9720786809921265, 
+            "BeginOffset": 4805, 
+            "EndOffset": 4809
+        }, 
+        {
+            "Text": "similar activities", 
+            "Score": 0.9945780038833618, 
+            "BeginOffset": 4823, 
+            "EndOffset": 4841
+        }, 
+        {
+            "Text": "5] Apple", 
+            "Score": 0.6636496186256409, 
+            "BeginOffset": 4844, 
+            "EndOffset": 4852
+        }, 
+        {
+            "Text": "Siri", 
+            "Score": 0.6954720616340637, 
+            "BeginOffset": 4883, 
+            "EndOffset": 4887
+        }, 
+        {
+            "Text": "[6] Amazon", 
+            "Score": 0.9958457350730896, 
+            "BeginOffset": 4890, 
+            "EndOffset": 4900
+        }, 
+        {
+            "Text": "this one", 
+            "Score": 0.946706235408783, 
+            "BeginOffset": 4902, 
+            "EndOffset": 4910
+        }, 
+        {
+            "Text": "the Echo", 
+            "Score": 0.9486367702484131, 
+            "BeginOffset": 4932, 
+            "EndOffset": 4940
+        }, 
+        {
+            "Text": "here ok", 
+            "Score": 0.9961988925933838, 
+            "BeginOffset": 4966, 
+            "EndOffset": 4973
+        }
+    ]
+}

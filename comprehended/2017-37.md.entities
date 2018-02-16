@@ -1,0 +1,109 @@
+{
+    "Entities": [
+        {
+            "Text": "HipChat", 
+            "Score": 0.5242631435394287, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 4, 
+            "EndOffset": 11
+        }, 
+        {
+            "Text": "Stride", 
+            "Score": 0.7261528968811035, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 24, 
+            "EndOffset": 30
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.982266366481781, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 76, 
+            "EndOffset": 79
+        }, 
+        {
+            "Text": "STRIDE", 
+            "Score": 0.583791971206665, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 107, 
+            "EndOffset": 113
+        }, 
+        {
+            "Text": "HipChat", 
+            "Score": 0.44088834524154663, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 116, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "Slack", 
+            "Score": 0.42430493235588074, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 160, 
+            "EndOffset": 165
+        }, 
+        {
+            "Text": "HipChat", 
+            "Score": 0.45710694789886475, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 262, 
+            "EndOffset": 269
+        }, 
+        {
+            "Text": "Atlassian", 
+            "Score": 0.3684088885784149, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 513, 
+            "EndOffset": 522
+        }, 
+        {
+            "Text": "HipChat", 
+            "Score": 0.5539838671684265, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 542, 
+            "EndOffset": 549
+        }, 
+        {
+            "Text": "Stride", 
+            "Score": 0.5365326404571533, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 591, 
+            "EndOffset": 597
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.999987006187439, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1028, 
+            "EndOffset": 1031
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.99657142162323, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1061, 
+            "EndOffset": 1064
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999287128448486, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2029, 
+            "EndOffset": 2032
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999338388442993, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2164, 
+            "EndOffset": 2167
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.5399203300476074, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2340, 
+            "EndOffset": 2345
+        }
+    ]
+}

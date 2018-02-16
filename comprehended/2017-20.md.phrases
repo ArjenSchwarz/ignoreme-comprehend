@@ -1,0 +1,982 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "The first note", 
+            "Score": 0.9869985580444336, 
+            "BeginOffset": 0, 
+            "EndOffset": 14
+        }, 
+        {
+            "Text": "my holiday", 
+            "Score": 0.9944816827774048, 
+            "BeginOffset": 21, 
+            "EndOffset": 31
+        }, 
+        {
+            "Text": "a Microsoft one", 
+            "Score": 0.9933101534843445, 
+            "BeginOffset": 42, 
+            "EndOffset": 57
+        }, 
+        {
+            "Text": "a backlog", 
+            "Score": 0.9984910488128662, 
+            "BeginOffset": 66, 
+            "EndOffset": 75
+        }, 
+        {
+            "Text": "interesting news", 
+            "Score": 0.994705080986023, 
+            "BeginOffset": 79, 
+            "EndOffset": 95
+        }, 
+        {
+            "Text": "WannaCry and Microsoft Build 2017", 
+            "Score": 0.9076768159866333, 
+            "BeginOffset": 109, 
+            "EndOffset": 142
+        }, 
+        {
+            "Text": "enough material", 
+            "Score": 0.8900949954986572, 
+            "BeginOffset": 153, 
+            "EndOffset": 168
+        }, 
+        {
+            "Text": "WANNACRY", 
+            "Score": 0.8560113906860352, 
+            "BeginOffset": 173, 
+            "EndOffset": 181
+        }, 
+        {
+            "Text": "PT", 
+            "Score": 0.9689906239509583, 
+            "BeginOffset": 182, 
+            "EndOffset": 184
+        }, 
+        {
+            "Text": "pretty much every news outlet", 
+            "Score": 0.8697170615196228, 
+            "BeginOffset": 201, 
+            "EndOffset": 230
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.8935556411743164, 
+            "BeginOffset": 245, 
+            "EndOffset": 254
+        }, 
+        {
+            "Text": "news", 
+            "Score": 0.9985508918762207, 
+            "BeginOffset": 257, 
+            "EndOffset": 261
+        }, 
+        {
+            "Text": "case", 
+            "Score": 0.9945538640022278, 
+            "BeginOffset": 321, 
+            "EndOffset": 325
+        }, 
+        {
+            "Text": "the short version", 
+            "Score": 0.9992029666900635, 
+            "BeginOffset": 353, 
+            "EndOffset": 370
+        }, 
+        {
+            "Text": "a new ransomware", 
+            "Score": 0.9966015219688416, 
+            "BeginOffset": 379, 
+            "EndOffset": 395
+        }, 
+        {
+            "Text": "the wild", 
+            "Score": 0.9845359921455383, 
+            "BeginOffset": 410, 
+            "EndOffset": 418
+        }, 
+        {
+            "Text": "exploits", 
+            "Score": 0.9891254305839539, 
+            "BeginOffset": 426, 
+            "EndOffset": 434
+        }, 
+        {
+            "Text": "the NSA", 
+            "Score": 0.9981330633163452, 
+            "BeginOffset": 456, 
+            "EndOffset": 463
+        }, 
+        {
+            "Text": "stockpile", 
+            "Score": 0.9964438080787659, 
+            "BeginOffset": 466, 
+            "EndOffset": 475
+        }, 
+        {
+            "Text": "such tools", 
+            "Score": 0.9982001185417175, 
+            "BeginOffset": 479, 
+            "EndOffset": 489
+        }, 
+        {
+            "Text": "The first instance", 
+            "Score": 0.9997789263725281, 
+            "BeginOffset": 491, 
+            "EndOffset": 509
+        }, 
+        {
+            "Text": "a security researcher", 
+            "Score": 0.9589409232139587, 
+            "BeginOffset": 546, 
+            "EndOffset": 567
+        }, 
+        {
+            "Text": "a built-in killswitch", 
+            "Score": 0.9950301051139832, 
+            "BeginOffset": 579, 
+            "EndOffset": 600
+        }, 
+        {
+            "Text": "a domain", 
+            "Score": 0.959098219871521, 
+            "BeginOffset": 610, 
+            "EndOffset": 618
+        }, 
+        {
+            "Text": "new versions", 
+            "Score": 0.96333247423172, 
+            "BeginOffset": 664, 
+            "EndOffset": 676
+        }, 
+        {
+            "Text": "WannaCry[1]", 
+            "Score": 0.9035583734512329, 
+            "BeginOffset": 680, 
+            "EndOffset": 691
+        }, 
+        {
+            "Text": "that killswitch", 
+            "Score": 0.9887222647666931, 
+            "BeginOffset": 714, 
+            "EndOffset": 729
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9722433686256409, 
+            "BeginOffset": 767, 
+            "EndOffset": 776
+        }, 
+        {
+            "Text": "these vulnerabilities", 
+            "Score": 0.9976338744163513, 
+            "BeginOffset": 789, 
+            "EndOffset": 810
+        }, 
+        {
+            "Text": "the latest versions", 
+            "Score": 0.999274492263794, 
+            "BeginOffset": 840, 
+            "EndOffset": 859
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9996948838233948, 
+            "BeginOffset": 863, 
+            "EndOffset": 870
+        }, 
+        {
+            "Text": "the exploits", 
+            "Score": 0.9843317866325378, 
+            "BeginOffset": 878, 
+            "EndOffset": 890
+        }, 
+        {
+            "Text": "public", 
+            "Score": 0.7909836769104004, 
+            "BeginOffset": 901, 
+            "EndOffset": 907
+        }, 
+        {
+            "Text": "response", 
+            "Score": 0.9980707168579102, 
+            "BeginOffset": 912, 
+            "EndOffset": 920
+        }, 
+        {
+            "Text": "patches", 
+            "Score": 0.9904084205627441, 
+            "BeginOffset": 951, 
+            "EndOffset": 958
+        }, 
+        {
+            "Text": "versions", 
+            "Score": 0.9905186891555786, 
+            "BeginOffset": 973, 
+            "EndOffset": 981
+        }, 
+        {
+            "Text": "Windows", 
+            "Score": 0.9990520477294922, 
+            "BeginOffset": 985, 
+            "EndOffset": 992
+        }, 
+        {
+            "Text": "The main issue", 
+            "Score": 0.9491932392120361, 
+            "BeginOffset": 1023, 
+            "EndOffset": 1037
+        }, 
+        {
+            "Text": "my[2] opinion", 
+            "Score": 0.9467983841896057, 
+            "BeginOffset": 1046, 
+            "EndOffset": 1059
+        }, 
+        {
+            "Text": "the NSA", 
+            "Score": 0.9923047423362732, 
+            "BeginOffset": 1068, 
+            "EndOffset": 1075
+        }, 
+        {
+            "Text": "other agencies", 
+            "Score": 0.780705451965332, 
+            "BeginOffset": 1080, 
+            "EndOffset": 1094
+        }, 
+        {
+            "Text": "these exploits", 
+            "Score": 0.9982655048370361, 
+            "BeginOffset": 1100, 
+            "EndOffset": 1114
+        }, 
+        {
+            "Text": "the software vendors", 
+            "Score": 0.9993811249732971, 
+            "BeginOffset": 1132, 
+            "EndOffset": 1152
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9979327917098999, 
+            "BeginOffset": 1166, 
+            "EndOffset": 1175
+        }, 
+        {
+            "Text": "a statement", 
+            "Score": 0.9145099520683289, 
+            "BeginOffset": 1207, 
+            "EndOffset": 1218
+        }, 
+        {
+            "Text": "this behavior", 
+            "Score": 0.9986260533332825, 
+            "BeginOffset": 1238, 
+            "EndOffset": 1251
+        }, 
+        {
+            "Text": "hacks and leaks", 
+            "Score": 0.9713666439056396, 
+            "BeginOffset": 1323, 
+            "EndOffset": 1338
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9995679259300232, 
+            "BeginOffset": 1391, 
+            "EndOffset": 1400
+        }, 
+        {
+            "Text": "the FBI", 
+            "Score": 0.9996329545974731, 
+            "BeginOffset": 1407, 
+            "EndOffset": 1414
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9996416568756104, 
+            "BeginOffset": 1429, 
+            "EndOffset": 1434
+        }, 
+        {
+            "Text": "a backdoor", 
+            "Score": 0.9862678647041321, 
+            "BeginOffset": 1442, 
+            "EndOffset": 1452
+        }, 
+        {
+            "Text": "iOS devices", 
+            "Score": 0.994882345199585, 
+            "BeginOffset": 1457, 
+            "EndOffset": 1468
+        }, 
+        {
+            "Text": "Proponents", 
+            "Score": 0.998714804649353, 
+            "BeginOffset": 1470, 
+            "EndOffset": 1480
+        }, 
+        {
+            "Text": "the FBI", 
+            "Score": 0.9962303042411804, 
+            "BeginOffset": 1533, 
+            "EndOffset": 1540
+        }, 
+        {
+            "Text": "hands", 
+            "Score": 0.9951579570770264, 
+            "BeginOffset": 1543, 
+            "EndOffset": 1548
+        }, 
+        {
+            "Text": "the exploit leaks", 
+            "Score": 0.9207472801208496, 
+            "BeginOffset": 1564, 
+            "EndOffset": 1581
+        }, 
+        {
+            "Text": "both the CIA and NSA", 
+            "Score": 0.892442524433136, 
+            "BeginOffset": 1587, 
+            "EndOffset": 1607
+        }, 
+        {
+            "Text": "some sanity", 
+            "Score": 0.9992780685424805, 
+            "BeginOffset": 1664, 
+            "EndOffset": 1675
+        }, 
+        {
+            "Text": "IT security", 
+            "Score": 0.9211853742599487, 
+            "BeginOffset": 1704, 
+            "EndOffset": 1715
+        }, 
+        {
+            "Text": "the state", 
+            "Score": 0.9733172655105591, 
+            "BeginOffset": 1733, 
+            "EndOffset": 1742
+        }, 
+        {
+            "Text": "the government", 
+            "Score": 0.9997317790985107, 
+            "BeginOffset": 1746, 
+            "EndOffset": 1760
+        }, 
+        {
+            "Text": "the country", 
+            "Score": 0.9997921586036682, 
+            "BeginOffset": 1764, 
+            "EndOffset": 1775
+        }, 
+        {
+            "Text": "these exploits", 
+            "Score": 0.999748170375824, 
+            "BeginOffset": 1782, 
+            "EndOffset": 1796
+        }, 
+        {
+            "Text": "little hope", 
+            "Score": 0.9876003861427307, 
+            "BeginOffset": 1814, 
+            "EndOffset": 1825
+        }, 
+        {
+            "Text": "MICROSOFT BUILD DATABASES", 
+            "Score": 0.9890013337135315, 
+            "BeginOffset": 1838, 
+            "EndOffset": 1863
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.8747542500495911, 
+            "BeginOffset": 1879, 
+            "EndOffset": 1888
+        }, 
+        {
+            "Text": "a more positive light", 
+            "Score": 0.9300944209098816, 
+            "BeginOffset": 1897, 
+            "EndOffset": 1918
+        }, 
+        {
+            "Text": "the things", 
+            "Score": 0.9304350018501282, 
+            "BeginOffset": 1942, 
+            "EndOffset": 1952
+        }, 
+        {
+            "Text": "their Build conference", 
+            "Score": 0.9969918727874756, 
+            "BeginOffset": 1970, 
+            "EndOffset": 1992
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9956907033920288, 
+            "BeginOffset": 2013, 
+            "EndOffset": 2022
+        }, 
+        {
+            "Text": "the consumer", 
+            "Score": 0.9991142749786377, 
+            "BeginOffset": 2041, 
+            "EndOffset": 2053
+        }, 
+        {
+            "Text": "announcements", 
+            "Score": 0.9923102259635925, 
+            "BeginOffset": 2062, 
+            "EndOffset": 2075
+        }, 
+        {
+            "Text": "the developer ones", 
+            "Score": 0.846952497959137, 
+            "BeginOffset": 2103, 
+            "EndOffset": 2121
+        }, 
+        {
+            "Text": "the Azure side", 
+            "Score": 0.9932190179824829, 
+            "BeginOffset": 2127, 
+            "EndOffset": 2141
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9977296590805054, 
+            "BeginOffset": 2145, 
+            "EndOffset": 2151
+        }, 
+        {
+            "Text": "several database", 
+            "Score": 0.9997849464416504, 
+            "BeginOffset": 2164, 
+            "EndOffset": 2180
+        }, 
+        {
+            "Text": "items", 
+            "Score": 0.991946816444397, 
+            "BeginOffset": 2189, 
+            "EndOffset": 2194
+        }, 
+        {
+            "Text": "both MySQL and Postgres", 
+            "Score": 0.8291959762573242, 
+            "BeginOffset": 2222, 
+            "EndOffset": 2245
+        }, 
+        {
+            "Text": "their managed database offering", 
+            "Score": 0.9630817770957947, 
+            "BeginOffset": 2253, 
+            "EndOffset": 2284
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.8542130589485168, 
+            "BeginOffset": 2341, 
+            "EndOffset": 2354
+        }, 
+        {
+            "Text": "AWS Postgres", 
+            "Score": 0.998754620552063, 
+            "BeginOffset": 2359, 
+            "EndOffset": 2371
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9691160917282104, 
+            "BeginOffset": 2393, 
+            "EndOffset": 2398
+        }, 
+        {
+            "Text": "introductions[3]", 
+            "Score": 0.9795061945915222, 
+            "BeginOffset": 2404, 
+            "EndOffset": 2420
+        }, 
+        {
+            "Text": "earlier this year", 
+            "Score": 0.813106119632721, 
+            "BeginOffset": 2425, 
+            "EndOffset": 2442
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9845110774040222, 
+            "BeginOffset": 2457, 
+            "EndOffset": 2463
+        }, 
+        {
+            "Text": "the beta version", 
+            "Score": 0.9794592261314392, 
+            "BeginOffset": 2471, 
+            "EndOffset": 2487
+        }, 
+        {
+            "Text": "GCP", 
+            "Score": 0.9963364005088806, 
+            "BeginOffset": 2491, 
+            "EndOffset": 2494
+        }, 
+        {
+            "Text": "practice", 
+            "Score": 0.9996623992919922, 
+            "BeginOffset": 2564, 
+            "EndOffset": 2572
+        }, 
+        {
+            "Text": "the quality", 
+            "Score": 0.9965982437133789, 
+            "BeginOffset": 2597, 
+            "EndOffset": 2608
+        }, 
+        {
+            "Text": "The second database feature", 
+            "Score": 0.9935451745986938, 
+            "BeginOffset": 2611, 
+            "EndOffset": 2638
+        }, 
+        {
+            "Text": "a technical perspective", 
+            "Score": 0.9845533967018127, 
+            "BeginOffset": 2672, 
+            "EndOffset": 2695
+        }, 
+        {
+            "Text": "Cosmos DB", 
+            "Score": 0.8671263456344604, 
+            "BeginOffset": 2736, 
+            "EndOffset": 2745
+        }, 
+        {
+            "Text": "a globally distributed NoSql database", 
+            "Score": 0.9848784804344177, 
+            "BeginOffset": 2749, 
+            "EndOffset": 2786
+        }, 
+        {
+            "Text": "4]", 
+            "Score": 0.9945913553237915, 
+            "BeginOffset": 2803, 
+            "EndOffset": 2805
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9954946637153625, 
+            "BeginOffset": 2829, 
+            "EndOffset": 2834
+        }, 
+        {
+            "Text": "regions", 
+            "Score": 0.9954783916473389, 
+            "BeginOffset": 2837, 
+            "EndOffset": 2844
+        }, 
+        {
+            "Text": "sync", 
+            "Score": 0.9984248280525208, 
+            "BeginOffset": 2857, 
+            "EndOffset": 2861
+        }, 
+        {
+            "Text": "the press releases", 
+            "Score": 0.9866282343864441, 
+            "BeginOffset": 2884, 
+            "EndOffset": 2902
+        }, 
+        {
+            "Text": "good something", 
+            "Score": 0.8886348605155945, 
+            "BeginOffset": 2933, 
+            "EndOffset": 2947
+        }, 
+        {
+            "Text": "[5]", 
+            "Score": 0.8828936219215393, 
+            "BeginOffset": 2950, 
+            "EndOffset": 2953
+        }, 
+        {
+            "Text": "your requirements", 
+            "Score": 0.9997529983520508, 
+            "BeginOffset": 3019, 
+            "EndOffset": 3036
+        }, 
+        {
+            "Text": "MICROSOFT BUILD DEVELOPMENT", 
+            "Score": 0.998577892780304, 
+            "BeginOffset": 3041, 
+            "EndOffset": 3068
+        }, 
+        {
+            "Text": "their focus", 
+            "Score": 0.9939743280410767, 
+            "BeginOffset": 3082, 
+            "EndOffset": 3093
+        }, 
+        {
+            "Text": "the cloud", 
+            "Score": 0.6510433554649353, 
+            "BeginOffset": 3097, 
+            "EndOffset": 3106
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9890101552009583, 
+            "BeginOffset": 3108, 
+            "EndOffset": 3117
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9980707764625549, 
+            "BeginOffset": 3127, 
+            "EndOffset": 3132
+        }, 
+        {
+            "Text": "other platforms", 
+            "Score": 0.9992451071739197, 
+            "BeginOffset": 3159, 
+            "EndOffset": 3174
+        }, 
+        {
+            "Text": "several interesting announcements", 
+            "Score": 0.9981105923652649, 
+            "BeginOffset": 3197, 
+            "EndOffset": 3230
+        }, 
+        {
+            "Text": "[6]", 
+            "Score": 0.9984710812568665, 
+            "BeginOffset": 3230, 
+            "EndOffset": 3233
+        }, 
+        {
+            "Text": "Visual Studio", 
+            "Score": 0.9760183691978455, 
+            "BeginOffset": 3236, 
+            "EndOffset": 3249
+        }, 
+        {
+            "Text": "Mac", 
+            "Score": 0.6846798062324524, 
+            "BeginOffset": 3254, 
+            "EndOffset": 3257
+        }, 
+        {
+            "Text": "Visual Studio Code", 
+            "Score": 0.9893763661384583, 
+            "BeginOffset": 3276, 
+            "EndOffset": 3294
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.99257493019104, 
+            "BeginOffset": 3326, 
+            "EndOffset": 3333
+        }, 
+        {
+            "Text": "the complete IDE", 
+            "Score": 0.9972656965255737, 
+            "BeginOffset": 3359, 
+            "EndOffset": 3375
+        }, 
+        {
+            "Text": "lighter weight development environments", 
+            "Score": 0.9335079789161682, 
+            "BeginOffset": 3407, 
+            "EndOffset": 3446
+        }, 
+        {
+            "Text": "many good things", 
+            "Score": 0.9919959306716919, 
+            "BeginOffset": 3459, 
+            "EndOffset": 3475
+        }, 
+        {
+            "Text": "Visual Studio", 
+            "Score": 0.9993178248405457, 
+            "BeginOffset": 3482, 
+            "EndOffset": 3495
+        }, 
+        {
+            "Text": "a shot", 
+            "Score": 0.9852137565612793, 
+            "BeginOffset": 3526, 
+            "EndOffset": 3532
+        }, 
+        {
+            "Text": "The other announcement", 
+            "Score": 0.7953858375549316, 
+            "BeginOffset": 3535, 
+            "EndOffset": 3557
+        }, 
+        {
+            "Text": "other distro", 
+            "Score": 0.9914034605026245, 
+            "BeginOffset": 3617, 
+            "EndOffset": 3629
+        }, 
+        {
+            "Text": "their wonderfully", 
+            "Score": 0.9912699460983276, 
+            "BeginOffset": 3636, 
+            "EndOffset": 3653
+        }, 
+        {
+            "Text": "Windows Subsystem", 
+            "Score": 0.9532625079154968, 
+            "BeginOffset": 3660, 
+            "EndOffset": 3677
+        }, 
+        {
+            "Text": "Linux", 
+            "Score": 0.9791296124458313, 
+            "BeginOffset": 3682, 
+            "EndOffset": 3687
+        }, 
+        {
+            "Text": "WSL", 
+            "Score": 0.9925940632820129, 
+            "BeginOffset": 3689, 
+            "EndOffset": 3692
+        }, 
+        {
+            "Text": "last year", 
+            "Score": 0.9929230809211731, 
+            "BeginOffset": 3710, 
+            "EndOffset": 3719
+        }, 
+        {
+            "Text": "Build conference", 
+            "Score": 0.995150625705719, 
+            "BeginOffset": 3722, 
+            "EndOffset": 3738
+        }, 
+        {
+            "Text": "This system", 
+            "Score": 0.99785977602005, 
+            "BeginOffset": 3759, 
+            "EndOffset": 3770
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9954670667648315, 
+            "BeginOffset": 3781, 
+            "EndOffset": 3787
+        }, 
+        {
+            "Text": "an actual Linux system", 
+            "Score": 0.9998260736465454, 
+            "BeginOffset": 3791, 
+            "EndOffset": 3813
+        }, 
+        {
+            "Text": "Ubuntu", 
+            "Score": 0.9953145384788513, 
+            "BeginOffset": 3855, 
+            "EndOffset": 3861
+        }, 
+        {
+            "Text": "several other distro", 
+            "Score": 0.9260275959968567, 
+            "BeginOffset": 3893, 
+            "EndOffset": 3913
+        }, 
+        {
+            "Text": "multiple running", 
+            "Score": 0.9975205659866333, 
+            "BeginOffset": 3938, 
+            "EndOffset": 3954
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.8229940533638, 
+            "BeginOffset": 3958, 
+            "EndOffset": 3971
+        }, 
+        {
+            "Text": "No doubt", 
+            "Score": 0.7224477529525757, 
+            "BeginOffset": 3974, 
+            "EndOffset": 3982
+        }, 
+        {
+            "Text": "your own preferences or needs", 
+            "Score": 0.9132727384567261, 
+            "BeginOffset": 4011, 
+            "EndOffset": 4040
+        }, 
+        {
+            "Text": "your production servers", 
+            "Score": 0.862842321395874, 
+            "BeginOffset": 4085, 
+            "EndOffset": 4108
+        }, 
+        {
+            "Text": "either a VM or Docker container", 
+            "Score": 0.9086098074913025, 
+            "BeginOffset": 4142, 
+            "EndOffset": 4173
+        }, 
+        {
+            "Text": "integration", 
+            "Score": 0.8822453618049622, 
+            "BeginOffset": 4183, 
+            "EndOffset": 4194
+        }, 
+        {
+            "Text": "the local machine", 
+            "Score": 0.9284719824790955, 
+            "BeginOffset": 4200, 
+            "EndOffset": 4217
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9089331030845642, 
+            "BeginOffset": 4242, 
+            "EndOffset": 4244
+        }, 
+        {
+            "Text": "the exact name", 
+            "Score": 0.831523597240448, 
+            "BeginOffset": 4265, 
+            "EndOffset": 4279
+        }, 
+        {
+            "Text": "WannaCry", 
+            "Score": 0.8585959076881409, 
+            "BeginOffset": 4288, 
+            "EndOffset": 4296
+        }, 
+        {
+            "Text": "Microsoft", 
+            "Score": 0.9955961108207703, 
+            "BeginOffset": 4327, 
+            "EndOffset": 4336
+        }, 
+        {
+            "Text": "press releases", 
+            "Score": 0.955115795135498, 
+            "BeginOffset": 4339, 
+            "EndOffset": 4353
+        }, 
+        {
+            "Text": "WannaCry", 
+            "Score": 0.9984990358352661, 
+            "BeginOffset": 4370, 
+            "EndOffset": 4378
+        }, 
+        {
+            "Text": "WannaCrypt", 
+            "Score": 0.9987460970878601, 
+            "BeginOffset": 4397, 
+            "EndOffset": 4407
+        }, 
+        {
+            "Text": "a typo", 
+            "Score": 0.9576501250267029, 
+            "BeginOffset": 4428, 
+            "EndOffset": 4434
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9462670683860779, 
+            "BeginOffset": 4437, 
+            "EndOffset": 4440
+        }, 
+        {
+            "Text": "many others", 
+            "Score": 0.9922508597373962, 
+            "BeginOffset": 4445, 
+            "EndOffset": 4456
+        }, 
+        {
+            "Text": "'\n\n[3]", 
+            "Score": 0.7846466898918152, 
+            "BeginOffset": 4456, 
+            "EndOffset": 4462
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.9793795347213745, 
+            "BeginOffset": 4473, 
+            "EndOffset": 4477
+        }, 
+        {
+            "Text": "RDS", 
+            "Score": 0.8153525590896606, 
+            "BeginOffset": 4481, 
+            "EndOffset": 4484
+        }, 
+        {
+            "Text": "years", 
+            "Score": 0.8880541920661926, 
+            "BeginOffset": 4489, 
+            "EndOffset": 4494
+        }, 
+        {
+            "Text": "Aurora", 
+            "Score": 0.9980918765068054, 
+            "BeginOffset": 4536, 
+            "EndOffset": 4542
+        }, 
+        {
+            "Text": "beta", 
+            "Score": 0.9977253675460815, 
+            "BeginOffset": 4546, 
+            "EndOffset": 4550
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.9999839663505554, 
+            "BeginOffset": 4553, 
+            "EndOffset": 4556
+        }, 
+        {
+            "Text": "[5] Something", 
+            "Score": 0.9960112571716309, 
+            "BeginOffset": 4613, 
+            "EndOffset": 4626
+        }, 
+        {
+            "Text": "[6]", 
+            "Score": 0.9578641653060913, 
+            "BeginOffset": 4692, 
+            "EndOffset": 4695
+        }, 
+        {
+            "Text": "iTunes", 
+            "Score": 0.8263804316520691, 
+            "BeginOffset": 4727, 
+            "EndOffset": 4733
+        }, 
+        {
+            "Text": "the App Store", 
+            "Score": 0.905217707157135, 
+            "BeginOffset": 4753, 
+            "EndOffset": 4766
+        }, 
+        {
+            "Text": "That piece", 
+            "Score": 0.9979730844497681, 
+            "BeginOffset": 4768, 
+            "EndOffset": 4778
+        }, 
+        {
+            "Text": "bloatware", 
+            "Score": 0.9856333136558533, 
+            "BeginOffset": 4782, 
+            "EndOffset": 4791
+        }, 
+        {
+            "Text": "separate applications", 
+            "Score": 0.9935645461082458, 
+            "BeginOffset": 4831, 
+            "EndOffset": 4852
+        }
+    ]
+}

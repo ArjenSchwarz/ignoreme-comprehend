@@ -1,0 +1,263 @@
+{
+    "Entities": [
+        {
+            "Text": "AWS", 
+            "Score": 0.6455422639846802, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 39, 
+            "EndOffset": 42
+        }, 
+        {
+            "Text": "today", 
+            "Score": 0.9721987247467041, 
+            "Type": "DATE", 
+            "BeginOffset": 146, 
+            "EndOffset": 151
+        }, 
+        {
+            "Text": "macOS", 
+            "Score": 0.2270936518907547, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 197, 
+            "EndOffset": 202
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.6944102048873901, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 264, 
+            "EndOffset": 267
+        }, 
+        {
+            "Text": "CNCF", 
+            "Score": 0.8548637628555298, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 280, 
+            "EndOffset": 284
+        }, 
+        {
+            "Text": "earlier this year", 
+            "Score": 0.9537097811698914, 
+            "Type": "DATE", 
+            "BeginOffset": 285, 
+            "EndOffset": 302
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.34000828862190247, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 348, 
+            "EndOffset": 358
+        }, 
+        {
+            "Text": "Elastic Container Service", 
+            "Score": 0.7311374545097351, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 425, 
+            "EndOffset": 450
+        }, 
+        {
+            "Text": "1.7", 
+            "Score": 0.9655035138130188, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 885, 
+            "EndOffset": 888
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.3877292275428772, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 958, 
+            "EndOffset": 968
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999310970306396, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1002, 
+            "EndOffset": 1005
+        }, 
+        {
+            "Text": "EKS", 
+            "Score": 0.9999996423721313, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1125, 
+            "EndOffset": 1128
+        }, 
+        {
+            "Text": "Fargate", 
+            "Score": 0.9999927282333374, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1177, 
+            "EndOffset": 1184
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9999089241027832, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1200, 
+            "EndOffset": 1205
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9998782277107239, 
+            "Type": "TITLE", 
+            "BeginOffset": 1317, 
+            "EndOffset": 1320
+        }, 
+        {
+            "Text": "1", 
+            "Score": 0.9595078825950623, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1406, 
+            "EndOffset": 1407
+        }, 
+        {
+            "Text": "ENI", 
+            "Score": 0.999984622001648, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1563, 
+            "EndOffset": 1566
+        }, 
+        {
+            "Text": "2", 
+            "Score": 0.9977627992630005, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1596, 
+            "EndOffset": 1597
+        }, 
+        {
+            "Text": "Australia", 
+            "Score": 0.9999995231628418, 
+            "Type": "LOCATION", 
+            "BeginOffset": 2011, 
+            "EndOffset": 2020
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.8968949317932129, 
+            "Type": "TITLE", 
+            "BeginOffset": 2174, 
+            "EndOffset": 2180
+        }, 
+        {
+            "Text": "API Gateway", 
+            "Score": 0.6857253909111023, 
+            "Type": "TITLE", 
+            "BeginOffset": 2189, 
+            "EndOffset": 2200
+        }, 
+        {
+            "Text": "2018", 
+            "Score": 0.9999938011169434, 
+            "Type": "DATE", 
+            "BeginOffset": 2358, 
+            "EndOffset": 2362
+        }, 
+        {
+            "Text": "VPC", 
+            "Score": 0.9999898672103882, 
+            "Type": "TITLE", 
+            "BeginOffset": 2436, 
+            "EndOffset": 2439
+        }, 
+        {
+            "Text": "API Gateways", 
+            "Score": 0.8385900259017944, 
+            "Type": "TITLE", 
+            "BeginOffset": 2454, 
+            "EndOffset": 2466
+        }, 
+        {
+            "Text": "API Gateways", 
+            "Score": 0.9999372363090515, 
+            "Type": "TITLE", 
+            "BeginOffset": 2545, 
+            "EndOffset": 2557
+        }, 
+        {
+            "Text": "EC2", 
+            "Score": 0.9999850392341614, 
+            "Type": "TITLE", 
+            "BeginOffset": 2884, 
+            "EndOffset": 2887
+        }, 
+        {
+            "Text": "Cloud9", 
+            "Score": 0.999998927116394, 
+            "Type": "TITLE", 
+            "BeginOffset": 2971, 
+            "EndOffset": 2977
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9999974966049194, 
+            "Type": "TITLE", 
+            "BeginOffset": 3108, 
+            "EndOffset": 3114
+        }, 
+        {
+            "Text": "iPad", 
+            "Score": 0.9999995231628418, 
+            "Type": "COMMERCIAL_ITEM", 
+            "BeginOffset": 3261, 
+            "EndOffset": 3265
+        }, 
+        {
+            "Text": "4", 
+            "Score": 0.9999936819076538, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3266, 
+            "EndOffset": 3267
+        }, 
+        {
+            "Text": "MACOS ROOT", 
+            "Score": 0.84635990858078, 
+            "Type": "TITLE", 
+            "BeginOffset": 3273, 
+            "EndOffset": 3283
+        }, 
+        {
+            "Text": "Apple", 
+            "Score": 0.9996917247772217, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3479, 
+            "EndOffset": 3484
+        }, 
+        {
+            "Text": "24 hours", 
+            "Score": 0.9998976588249207, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3501, 
+            "EndOffset": 3509
+        }, 
+        {
+            "Text": "5", 
+            "Score": 0.9999823570251465, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3540, 
+            "EndOffset": 3541
+        }, 
+        {
+            "Text": "first place", 
+            "Score": 0.9999938607215881, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3647, 
+            "EndOffset": 3658
+        }, 
+        {
+            "Text": "John Crichton", 
+            "Score": 0.9996315240859985, 
+            "Type": "PERSON", 
+            "BeginOffset": 3732, 
+            "EndOffset": 3745
+        }, 
+        {
+            "Text": "1 minute", 
+            "Score": 0.9999250769615173, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3866, 
+            "EndOffset": 3874
+        }
+    ]
+}

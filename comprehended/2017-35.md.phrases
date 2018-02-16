@@ -1,0 +1,718 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "Both Android 8.0", 
+            "Score": 0.851591944694519, 
+            "BeginOffset": 0, 
+            "EndOffset": 16
+        }, 
+        {
+            "Text": "Oreo", 
+            "Score": 0.9466808438301086, 
+            "BeginOffset": 18, 
+            "EndOffset": 22
+        }, 
+        {
+            "Text": "Go 1.9", 
+            "Score": 0.8547413945198059, 
+            "BeginOffset": 28, 
+            "EndOffset": 34
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.998589277267456, 
+            "BeginOffset": 64, 
+            "EndOffset": 70
+        }, 
+        {
+            "Text": "the new SAM Local tool", 
+            "Score": 0.9960165023803711, 
+            "BeginOffset": 74, 
+            "EndOffset": 96
+        }, 
+        {
+            "Text": "Lambda functions", 
+            "Score": 0.9908170700073242, 
+            "BeginOffset": 101, 
+            "EndOffset": 117
+        }, 
+        {
+            "Text": "ANDROID OREO", 
+            "Score": 0.8605870604515076, 
+            "BeginOffset": 122, 
+            "EndOffset": 134
+        }, 
+        {
+            "Text": "The latest version", 
+            "Score": 0.998740017414093, 
+            "BeginOffset": 137, 
+            "EndOffset": 155
+        }, 
+        {
+            "Text": "Android", 
+            "Score": 0.9882681965827942, 
+            "BeginOffset": 159, 
+            "EndOffset": 166
+        }, 
+        {
+            "Text": "8.0", 
+            "Score": 0.989489734172821, 
+            "BeginOffset": 168, 
+            "EndOffset": 171
+        }, 
+        {
+            "Text": "Oreo", 
+            "Score": 0.9524755477905273, 
+            "BeginOffset": 183, 
+            "EndOffset": 187
+        }, 
+        {
+            "Text": "the public", 
+            "Score": 0.9968538880348206, 
+            "BeginOffset": 208, 
+            "EndOffset": 218
+        }, 
+        {
+            "Text": "a while", 
+            "Score": 0.9973345398902893, 
+            "BeginOffset": 232, 
+            "EndOffset": 239
+        }, 
+        {
+            "Text": "your device", 
+            "Score": 0.9966070652008057, 
+            "BeginOffset": 262, 
+            "EndOffset": 273
+        }, 
+        {
+            "Text": "a new one", 
+            "Score": 0.917936384677887, 
+            "BeginOffset": 281, 
+            "EndOffset": 290
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9971184134483337, 
+            "BeginOffset": 323, 
+            "EndOffset": 331
+        }, 
+        {
+            "Text": "useful features", 
+            "Score": 0.9953728318214417, 
+            "BeginOffset": 335, 
+            "EndOffset": 350
+        }, 
+        {
+            "Text": "The Smart Copy", 
+            "Score": 0.9052110314369202, 
+            "BeginOffset": 360, 
+            "EndOffset": 374
+        }, 
+        {
+            "Text": "the most", 
+            "Score": 0.9655942320823669, 
+            "BeginOffset": 391, 
+            "EndOffset": 399
+        }, 
+        {
+            "Text": "Google I/O", 
+            "Score": 0.9855055809020996, 
+            "BeginOffset": 403, 
+            "EndOffset": 413
+        }, 
+        {
+            "Text": "the release notes", 
+            "Score": 0.9788775444030762, 
+            "BeginOffset": 433, 
+            "EndOffset": 450
+        }, 
+        {
+            "Text": "a good focus", 
+            "Score": 0.998646080493927, 
+            "BeginOffset": 474, 
+            "EndOffset": 486
+        }, 
+        {
+            "Text": "security", 
+            "Score": 0.996687650680542, 
+            "BeginOffset": 490, 
+            "EndOffset": 498
+        }, 
+        {
+            "Text": "Password", 
+            "Score": 0.6757229566574097, 
+            "BeginOffset": 500, 
+            "EndOffset": 508
+        }, 
+        {
+            "Text": "apps", 
+            "Score": 0.9911665320396423, 
+            "BeginOffset": 519, 
+            "EndOffset": 523
+        }, 
+        {
+            "Text": "the inclusion", 
+            "Score": 0.9991070628166199, 
+            "BeginOffset": 528, 
+            "EndOffset": 541
+        }, 
+        {
+            "Text": "Google Play Protect", 
+            "Score": 0.978948175907135, 
+            "BeginOffset": 545, 
+            "EndOffset": 564
+        }, 
+        {
+            "Text": "the same time", 
+            "Score": 0.9878719449043274, 
+            "BeginOffset": 590, 
+            "EndOffset": 603
+        }, 
+        {
+            "Text": "a focus", 
+            "Score": 0.9981220364570618, 
+            "BeginOffset": 613, 
+            "EndOffset": 620
+        }, 
+        {
+            "Text": "apps", 
+            "Score": 0.96240234375, 
+            "BeginOffset": 638, 
+            "EndOffset": 642
+        }, 
+        {
+            "Text": "your consent", 
+            "Score": 0.9990699291229248, 
+            "BeginOffset": 658, 
+            "EndOffset": 670
+        }, 
+        {
+            "Text": "addition", 
+            "Score": 0.9963213205337524, 
+            "BeginOffset": 676, 
+            "EndOffset": 684
+        }, 
+        {
+            "Text": "various speed improvements", 
+            "Score": 0.9903274774551392, 
+            "BeginOffset": 695, 
+            "EndOffset": 721
+        }, 
+        {
+            "Text": "the introduction", 
+            "Score": 0.9995744824409485, 
+            "BeginOffset": 747, 
+            "EndOffset": 763
+        }, 
+        {
+            "Text": "the new redesigned emoji", 
+            "Score": 0.8669406771659851, 
+            "BeginOffset": 767, 
+            "EndOffset": 791
+        }, 
+        {
+            "Text": "1]", 
+            "Score": 0.7463242411613464, 
+            "BeginOffset": 792, 
+            "EndOffset": 794
+        }, 
+        {
+            "Text": "an architecture perspective", 
+            "Score": 0.9933844804763794, 
+            "BeginOffset": 801, 
+            "EndOffset": 828
+        }, 
+        {
+            "Text": "Project Treble", 
+            "Score": 0.9932453632354736, 
+            "BeginOffset": 853, 
+            "EndOffset": 867
+        }, 
+        {
+            "Text": "the name", 
+            "Score": 0.9756649732589722, 
+            "BeginOffset": 878, 
+            "EndOffset": 886
+        }, 
+        {
+            "Text": "the new modular approach", 
+            "Score": 0.9972817897796631, 
+            "BeginOffset": 891, 
+            "EndOffset": 915
+        }, 
+        {
+            "Text": "hardware makers", 
+            "Score": 0.9789225459098816, 
+            "BeginOffset": 969, 
+            "EndOffset": 984
+        }, 
+        {
+            "Text": "Android updates", 
+            "Score": 0.9834557175636292, 
+            "BeginOffset": 996, 
+            "EndOffset": 1011
+        }, 
+        {
+            "Text": "Android updates", 
+            "Score": 0.9020901918411255, 
+            "BeginOffset": 1024, 
+            "EndOffset": 1039
+        }, 
+        {
+            "Text": "its weaknesses", 
+            "Score": 0.9995207190513611, 
+            "BeginOffset": 1055, 
+            "EndOffset": 1069
+        }, 
+        {
+            "Text": "this change", 
+            "Score": 0.9996535181999207, 
+            "BeginOffset": 1106, 
+            "EndOffset": 1117
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9018329977989197, 
+            "BeginOffset": 1147, 
+            "EndOffset": 1152
+        }, 
+        {
+            "Text": "more people", 
+            "Score": 0.9965435266494751, 
+            "BeginOffset": 1165, 
+            "EndOffset": 1176
+        }, 
+        {
+            "Text": "the security updates", 
+            "Score": 0.9977890253067017, 
+            "BeginOffset": 1190, 
+            "EndOffset": 1210
+        }, 
+        {
+            "Text": "GO 1.9", 
+            "Score": 0.823194682598114, 
+            "BeginOffset": 1215, 
+            "EndOffset": 1221
+        }, 
+        {
+            "Text": "half a year", 
+            "Score": 0.9093904495239258, 
+            "BeginOffset": 1234, 
+            "EndOffset": 1245
+        }, 
+        {
+            "Text": "a new version", 
+            "Score": 0.9038147330284119, 
+            "BeginOffset": 1250, 
+            "EndOffset": 1263
+        }, 
+        {
+            "Text": "Highlights", 
+            "Score": 0.997631311416626, 
+            "BeginOffset": 1280, 
+            "EndOffset": 1290
+        }, 
+        {
+            "Text": "type aliases", 
+            "Score": 0.9904712438583374, 
+            "BeginOffset": 1299, 
+            "EndOffset": 1311
+        }, 
+        {
+            "Text": "code refactoring", 
+            "Score": 0.9972126483917236, 
+            "BeginOffset": 1333, 
+            "EndOffset": 1349
+        }, 
+        {
+            "Text": "the ability", 
+            "Score": 0.9965216517448425, 
+            "BeginOffset": 1355, 
+            "EndOffset": 1366
+        }, 
+        {
+            "Text": "functions", 
+            "Score": 0.9590372443199158, 
+            "BeginOffset": 1375, 
+            "EndOffset": 1384
+        }, 
+        {
+            "Text": "tests", 
+            "Score": 0.9969003796577454, 
+            "BeginOffset": 1388, 
+            "EndOffset": 1393
+        }, 
+        {
+            "Text": "helpers", 
+            "Score": 0.9938849210739136, 
+            "BeginOffset": 1397, 
+            "EndOffset": 1404
+        }, 
+        {
+            "Text": "This last one", 
+            "Score": 0.9378142356872559, 
+            "BeginOffset": 1406, 
+            "EndOffset": 1419
+        }, 
+        {
+            "Text": "a test", 
+            "Score": 0.9456113576889038, 
+            "BeginOffset": 1434, 
+            "EndOffset": 1440
+        }, 
+        {
+            "Text": "this test function", 
+            "Score": 0.9961979389190674, 
+            "BeginOffset": 1491, 
+            "EndOffset": 1509
+        }, 
+        {
+            "Text": "exactly what test", 
+            "Score": 0.8138495087623596, 
+            "BeginOffset": 1589, 
+            "EndOffset": 1606
+        }, 
+        {
+            "Text": "Other changes", 
+            "Score": 0.801495373249054, 
+            "BeginOffset": 1616, 
+            "EndOffset": 1629
+        }, 
+        {
+            "Text": "a reworked time package", 
+            "Score": 0.9986047744750977, 
+            "BeginOffset": 1638, 
+            "EndOffset": 1661
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9809996485710144, 
+            "BeginOffset": 1670, 
+            "EndOffset": 1674
+        }, 
+        {
+            "Text": "leap seconds", 
+            "Score": 0.940924346446991, 
+            "BeginOffset": 1709, 
+            "EndOffset": 1721
+        }, 
+        {
+            "Text": "days", 
+            "Score": 0.8286494612693787, 
+            "BeginOffset": 1726, 
+            "EndOffset": 1730
+        }, 
+        {
+            "Text": "some minor speed improvements", 
+            "Score": 0.9838452339172363, 
+            "BeginOffset": 1736, 
+            "EndOffset": 1765
+        }, 
+        {
+            "Text": "the garbage collector", 
+            "Score": 0.9939754009246826, 
+            "BeginOffset": 1784, 
+            "EndOffset": 1805
+        }, 
+        {
+            "Text": "many changes", 
+            "Score": 0.9402135610580444, 
+            "BeginOffset": 1824, 
+            "EndOffset": 1836
+        }, 
+        {
+            "Text": "the latest versions", 
+            "Score": 0.9424226880073547, 
+            "BeginOffset": 1840, 
+            "EndOffset": 1859
+        }, 
+        {
+            "Text": "very specific use cases", 
+            "Score": 0.9930487275123596, 
+            "BeginOffset": 1868, 
+            "EndOffset": 1891
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9669307470321655, 
+            "BeginOffset": 1913, 
+            "EndOffset": 1919
+        }, 
+        {
+            "Text": "the release notes", 
+            "Score": 0.9983903169631958, 
+            "BeginOffset": 1923, 
+            "EndOffset": 1940
+        }, 
+        {
+            "Text": "SAM LOCAL", 
+            "Score": 0.7274479269981384, 
+            "BeginOffset": 1954, 
+            "EndOffset": 1963
+        }, 
+        {
+            "Text": "a number", 
+            "Score": 0.9706809520721436, 
+            "BeginOffset": 1972, 
+            "EndOffset": 1980
+        }, 
+        {
+            "Text": "other updates", 
+            "Score": 0.9952043890953064, 
+            "BeginOffset": 1984, 
+            "EndOffset": 1997
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999864101409912, 
+            "BeginOffset": 1999, 
+            "EndOffset": 2002
+        }, 
+        {
+            "Text": "a beta version", 
+            "Score": 0.9958075284957886, 
+            "BeginOffset": 2012, 
+            "EndOffset": 2026
+        }, 
+        {
+            "Text": "SAM Local", 
+            "Score": 0.9984707832336426, 
+            "BeginOffset": 2030, 
+            "EndOffset": 2039
+        }, 
+        {
+            "Text": "SAM", 
+            "Score": 0.9999783039093018, 
+            "BeginOffset": 2041, 
+            "EndOffset": 2044
+        }, 
+        {
+            "Text": "the Serverless Application Model", 
+            "Score": 0.995116114616394, 
+            "BeginOffset": 2048, 
+            "EndOffset": 2080
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9924309849739075, 
+            "BeginOffset": 2086, 
+            "EndOffset": 2089
+        }, 
+        {
+            "Text": "your serverless applications", 
+            "Score": 0.9908092021942139, 
+            "BeginOffset": 2122, 
+            "EndOffset": 2150
+        }, 
+        {
+            "Text": "effect", 
+            "Score": 0.9960731863975525, 
+            "BeginOffset": 2155, 
+            "EndOffset": 2161
+        }, 
+        {
+            "Text": "a simplified and specific version", 
+            "Score": 0.9884970188140869, 
+            "BeginOffset": 2168, 
+            "EndOffset": 2201
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.991339385509491, 
+            "BeginOffset": 2205, 
+            "EndOffset": 2219
+        }, 
+        {
+            "Text": "the pain", 
+            "Score": 0.9832136034965515, 
+            "BeginOffset": 2244, 
+            "EndOffset": 2252
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9995662569999695, 
+            "BeginOffset": 2268, 
+            "EndOffset": 2274
+        }, 
+        {
+            "Text": "your API Gateway", 
+            "Score": 0.922099769115448, 
+            "BeginOffset": 2280, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "The goal", 
+            "Score": 0.9973838329315186, 
+            "BeginOffset": 2299, 
+            "EndOffset": 2307
+        }, 
+        {
+            "Text": "SAM Local", 
+            "Score": 0.9995104670524597, 
+            "BeginOffset": 2311, 
+            "EndOffset": 2320
+        }, 
+        {
+            "Text": "these advantages", 
+            "Score": 0.9974961876869202, 
+            "BeginOffset": 2333, 
+            "EndOffset": 2349
+        }, 
+        {
+            "Text": "your local development", 
+            "Score": 0.999198853969574, 
+            "BeginOffset": 2353, 
+            "EndOffset": 2375
+        }, 
+        {
+            "Text": "local development", 
+            "Score": 0.9968149065971375, 
+            "BeginOffset": 2412, 
+            "EndOffset": 2429
+        }, 
+        {
+            "Text": "your serverless applications", 
+            "Score": 0.9877707958221436, 
+            "BeginOffset": 2460, 
+            "EndOffset": 2488
+        }, 
+        {
+            "Text": "a similar idea", 
+            "Score": 0.9877945184707642, 
+            "BeginOffset": 2506, 
+            "EndOffset": 2520
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9986933469772339, 
+            "BeginOffset": 2524, 
+            "EndOffset": 2530
+        }, 
+        {
+            "Text": "Cloud Functions Local Emulator", 
+            "Score": 0.9553922414779663, 
+            "BeginOffset": 2533, 
+            "EndOffset": 2563
+        }, 
+        {
+            "Text": "some extra functionalities", 
+            "Score": 0.922034740447998, 
+            "BeginOffset": 2574, 
+            "EndOffset": 2600
+        }, 
+        {
+            "Text": "a template validator", 
+            "Score": 0.9898800253868103, 
+            "BeginOffset": 2609, 
+            "EndOffset": 2629
+        }, 
+        {
+            "Text": "SAM", 
+            "Score": 0.9942042231559753, 
+            "BeginOffset": 2650, 
+            "EndOffset": 2653
+        }, 
+        {
+            "Text": "your unit and integrations tests", 
+            "Score": 0.9773604869842529, 
+            "BeginOffset": 2719, 
+            "EndOffset": 2751
+        }, 
+        {
+            "Text": "the hood", 
+            "Score": 0.999384880065918, 
+            "BeginOffset": 2768, 
+            "EndOffset": 2776
+        }, 
+        {
+            "Text": "SAM Local", 
+            "Score": 0.9993504285812378, 
+            "BeginOffset": 2778, 
+            "EndOffset": 2787
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.987642228603363, 
+            "BeginOffset": 2814, 
+            "EndOffset": 2820
+        }, 
+        {
+            "Text": "the emulation", 
+            "Score": 0.9656229615211487, 
+            "BeginOffset": 2825, 
+            "EndOffset": 2838
+        }, 
+        {
+            "Text": "DynamoDB Local", 
+            "Score": 0.9970545768737793, 
+            "BeginOffset": 2864, 
+            "EndOffset": 2878
+        }, 
+        {
+            "Text": "a more complete local environment", 
+            "Score": 0.9871273040771484, 
+            "BeginOffset": 2883, 
+            "EndOffset": 2916
+        }, 
+        {
+            "Text": "The code", 
+            "Score": 0.9768158793449402, 
+            "BeginOffset": 2918, 
+            "EndOffset": 2926
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9985485076904297, 
+            "BeginOffset": 2933, 
+            "EndOffset": 2939
+        }, 
+        {
+            "Text": "NPM", 
+            "Score": 0.9860005974769592, 
+            "BeginOffset": 3000, 
+            "EndOffset": 3003
+        }, 
+        {
+            "Text": "[1", 
+            "Score": 0.9979820251464844, 
+            "BeginOffset": 3024, 
+            "EndOffset": 3026
+        }, 
+        {
+            "Text": "important emoji", 
+            "Score": 0.8194350600242615, 
+            "BeginOffset": 3049, 
+            "EndOffset": 3064
+        }, 
+        {
+            "Text": "the years", 
+            "Score": 0.8299083709716797, 
+            "BeginOffset": 3082, 
+            "EndOffset": 3091
+        }, 
+        {
+            "Text": "not something", 
+            "Score": 0.9988023042678833, 
+            "BeginOffset": 3093, 
+            "EndOffset": 3106
+        }, 
+        {
+            "Text": "my first iPhone", 
+            "Score": 0.8319329023361206, 
+            "BeginOffset": 3134, 
+            "EndOffset": 3149
+        }, 
+        {
+            "Text": "a hack", 
+            "Score": 0.9880563020706177, 
+            "BeginOffset": 3165, 
+            "EndOffset": 3171
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9987160563468933, 
+            "BeginOffset": 3179, 
+            "EndOffset": 3185
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+{
+    "Entities": [
+        {
+            "Text": "LambCI", 
+            "Score": 0.64417964220047, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 0, 
+            "EndOffset": 6
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.6522406339645386, 
+            "Type": "TITLE", 
+            "BeginOffset": 31, 
+            "EndOffset": 37
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9984973669052124, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 43, 
+            "EndOffset": 51
+        }, 
+        {
+            "Text": "OpenCellular", 
+            "Score": 0.3715774714946747, 
+            "Type": "TITLE", 
+            "BeginOffset": 62, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "LAMBCI", 
+            "Score": 0.38341501355171204, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 79, 
+            "EndOffset": 85
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.6747052669525146, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 144, 
+            "EndOffset": 148
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9573318362236023, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 149, 
+            "EndOffset": 152
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9588443636894226, 
+            "Type": "TITLE", 
+            "BeginOffset": 153, 
+            "EndOffset": 159
+        }, 
+        {
+            "Text": "CI", 
+            "Score": 0.4119296967983246, 
+            "Type": "TITLE", 
+            "BeginOffset": 164, 
+            "EndOffset": 166
+        }, 
+        {
+            "Text": "two", 
+            "Score": 0.9835134148597717, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 259, 
+            "EndOffset": 262
+        }, 
+        {
+            "Text": "LambCI", 
+            "Score": 0.3787304162979126, 
+            "Type": "TITLE", 
+            "BeginOffset": 264, 
+            "EndOffset": 270
+        }, 
+        {
+            "Text": "SaaS", 
+            "Score": 0.43022891879081726, 
+            "Type": "TITLE", 
+            "BeginOffset": 415, 
+            "EndOffset": 419
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.5190620422363281, 
+            "Type": "TITLE", 
+            "BeginOffset": 476, 
+            "EndOffset": 482
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9771125316619873, 
+            "Type": "TITLE", 
+            "BeginOffset": 504, 
+            "EndOffset": 518
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.953800618648529, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 611, 
+            "EndOffset": 614
+        }, 
+        {
+            "Text": "SNS", 
+            "Score": 0.8432582020759583, 
+            "Type": "TITLE", 
+            "BeginOffset": 622, 
+            "EndOffset": 625
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9652957320213318, 
+            "Type": "TITLE", 
+            "BeginOffset": 627, 
+            "EndOffset": 633
+        }, 
+        {
+            "Text": "DynamoDB", 
+            "Score": 0.9708935618400574, 
+            "Type": "TITLE", 
+            "BeginOffset": 635, 
+            "EndOffset": 643
+        }, 
+        {
+            "Text": "S3", 
+            "Score": 0.8268616199493408, 
+            "Type": "TITLE", 
+            "BeginOffset": 649, 
+            "EndOffset": 651
+        }, 
+        {
+            "Text": "CloudFormation", 
+            "Score": 0.9599891304969788, 
+            "Type": "TITLE", 
+            "BeginOffset": 677, 
+            "EndOffset": 691
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999974966049194, 
+            "Type": "PERSON", 
+            "BeginOffset": 1111, 
+            "EndOffset": 1118
+        }, 
+        {
+            "Text": "first glance", 
+            "Score": 0.9973331093788147, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1154, 
+            "EndOffset": 1166
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999275207519531, 
+            "Type": "PERSON", 
+            "BeginOffset": 1247, 
+            "EndOffset": 1254
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 0.9999880790710449, 
+            "Type": "PERSON", 
+            "BeginOffset": 1392, 
+            "EndOffset": 1399
+        }, 
+        {
+            "Text": "Wercker", 
+            "Score": 1.0, 
+            "Type": "PERSON", 
+            "BeginOffset": 1458, 
+            "EndOffset": 1465
+        }, 
+        {
+            "Text": "LambCI", 
+            "Score": 0.9999356269836426, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1566, 
+            "EndOffset": 1572
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9999830722808838, 
+            "Type": "TITLE", 
+            "BeginOffset": 1811, 
+            "EndOffset": 1817
+        }, 
+        {
+            "Text": "5 minute", 
+            "Score": 0.993725597858429, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2112, 
+            "EndOffset": 2120
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9998455047607422, 
+            "Type": "TITLE", 
+            "BeginOffset": 2151, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "GitHub", 
+            "Score": 0.9999954700469971, 
+            "Type": "TITLE", 
+            "BeginOffset": 2220, 
+            "EndOffset": 2226
+        }, 
+        {
+            "Text": "One solution", 
+            "Score": 0.9998835325241089, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 2228, 
+            "EndOffset": 2240
+        }, 
+        {
+            "Text": "LambCI", 
+            "Score": 0.9987682700157166, 
+            "Type": "TITLE", 
+            "BeginOffset": 2267, 
+            "EndOffset": 2273
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9999902248382568, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2307, 
+            "EndOffset": 2310
+        }, 
+        {
+            "Text": "ECS", 
+            "Score": 0.9999294281005859, 
+            "Type": "TITLE", 
+            "BeginOffset": 2311, 
+            "EndOffset": 2314
+        }, 
+        {
+            "Text": "Docker", 
+            "Score": 0.9994043111801147, 
+            "Type": "TITLE", 
+            "BeginOffset": 2340, 
+            "EndOffset": 2346
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999668598175049, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2610, 
+            "EndOffset": 2618
+        }, 
+        {
+            "Text": "OpenCellular", 
+            "Score": 0.6388161182403564, 
+            "Type": "TITLE", 
+            "BeginOffset": 2635, 
+            "EndOffset": 2647
+        }, 
+        {
+            "Text": "Facebook", 
+            "Score": 0.9999970197677612, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 2820, 
+            "EndOffset": 2828
+        }, 
+        {
+            "Text": "One Laptop Per Child", 
+            "Score": 0.9999723434448242, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 3344, 
+            "EndOffset": 3364
+        }, 
+        {
+            "Text": "Silicon Valley", 
+            "Score": 0.9999951720237732, 
+            "Type": "LOCATION", 
+            "BeginOffset": 3730, 
+            "EndOffset": 3744
+        }, 
+        {
+            "Text": "Google", 
+            "Score": 0.9999936819076538, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 3813, 
+            "EndOffset": 3819
+        }, 
+        {
+            "Text": "$350", 
+            "Score": 0.9998928904533386, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 4141, 
+            "EndOffset": 4145
+        }
+    ]
+}

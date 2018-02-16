@@ -1,0 +1,144 @@
+{
+    "Entities": [
+        {
+            "Text": "Christmas", 
+            "Score": 0.6360250115394592, 
+            "Type": "EVENT", 
+            "BeginOffset": 149, 
+            "EndOffset": 158
+        }, 
+        {
+            "Text": "last week", 
+            "Score": 0.9505566358566284, 
+            "Type": "DATE", 
+            "BeginOffset": 281, 
+            "EndOffset": 290
+        }, 
+        {
+            "Text": "10 GB", 
+            "Score": 0.9835674166679382, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 377, 
+            "EndOffset": 382
+        }, 
+        {
+            "Text": "first paragraph", 
+            "Score": 0.6078068017959595, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 680, 
+            "EndOffset": 695
+        }, 
+        {
+            "Text": "Backblaze", 
+            "Score": 0.4209040701389313, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 735, 
+            "EndOffset": 744
+        }, 
+        {
+            "Text": "both", 
+            "Score": 0.7009466290473938, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 822, 
+            "EndOffset": 826
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9865307211875916, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 859, 
+            "EndOffset": 862
+        }, 
+        {
+            "Text": "2015", 
+            "Score": 0.9992030262947083, 
+            "Type": "DATE", 
+            "BeginOffset": 918, 
+            "EndOffset": 922
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.8888030648231506, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 924, 
+            "EndOffset": 927
+        }, 
+        {
+            "Text": "First", 
+            "Score": 0.9999459981918335, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 974, 
+            "EndOffset": 979
+        }, 
+        {
+            "Text": "less than 5 dollars", 
+            "Score": 0.9276697039604187, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1066, 
+            "EndOffset": 1085
+        }, 
+        {
+            "Text": "U.S.", 
+            "Score": 0.9997546076774597, 
+            "Type": "LOCATION", 
+            "BeginOffset": 1100, 
+            "EndOffset": 1104
+        }, 
+        {
+            "Text": "One", 
+            "Score": 0.9999357461929321, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1177, 
+            "EndOffset": 1180
+        }, 
+        {
+            "Text": "Hubot", 
+            "Score": 0.999835729598999, 
+            "Type": "ORGANIZATION", 
+            "BeginOffset": 1252, 
+            "EndOffset": 1257
+        }, 
+        {
+            "Text": "two", 
+            "Score": 0.9999674558639526, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1270, 
+            "EndOffset": 1273
+        }, 
+        {
+            "Text": "first", 
+            "Score": 0.9999985694885254, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1321, 
+            "EndOffset": 1326
+        }, 
+        {
+            "Text": "one", 
+            "Score": 0.999975323677063, 
+            "Type": "QUANTITY", 
+            "BeginOffset": 1417, 
+            "EndOffset": 1420
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9999837875366211, 
+            "Type": "TITLE", 
+            "BeginOffset": 1865, 
+            "EndOffset": 1875
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9999986886978149, 
+            "Type": "TITLE", 
+            "BeginOffset": 2147, 
+            "EndOffset": 2157
+        }, 
+        {
+            "Text": "Cloudfront", 
+            "Score": 0.9999788999557495, 
+            "Type": "TITLE", 
+            "BeginOffset": 2190, 
+            "EndOffset": 2200
+        }
+    ]
+}

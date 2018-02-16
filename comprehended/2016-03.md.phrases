@@ -1,0 +1,646 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "holiday", 
+            "Score": 0.894343912601471, 
+            "BeginOffset": 27, 
+            "EndOffset": 34
+        }, 
+        {
+            "Text": "anything news", 
+            "Score": 0.7583222985267639, 
+            "BeginOffset": 60, 
+            "EndOffset": 73
+        }, 
+        {
+            "Text": "a combination", 
+            "Score": 0.9297740459442139, 
+            "BeginOffset": 94, 
+            "EndOffset": 107
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.9983110427856445, 
+            "BeginOffset": 120, 
+            "EndOffset": 128
+        }, 
+        {
+            "Text": "weeks", 
+            "Score": 0.9997565150260925, 
+            "BeginOffset": 132, 
+            "EndOffset": 137
+        }, 
+        {
+            "Text": "my weekly notes", 
+            "Score": 0.9968881011009216, 
+            "BeginOffset": 146, 
+            "EndOffset": 161
+        }, 
+        {
+            "Text": "this year", 
+            "Score": 0.9970909357070923, 
+            "BeginOffset": 208, 
+            "EndOffset": 217
+        }, 
+        {
+            "Text": "some Bitcoin", 
+            "Score": 0.9219208359718323, 
+            "BeginOffset": 231, 
+            "EndOffset": 243
+        }, 
+        {
+            "Text": "AWS Lambda", 
+            "Score": 0.9909981489181519, 
+            "BeginOffset": 248, 
+            "EndOffset": 258
+        }, 
+        {
+            "Text": "TROUBLE", 
+            "Score": 0.9217608571052551, 
+            "BeginOffset": 263, 
+            "EndOffset": 270
+        }, 
+        {
+            "Text": "BITCOIN LAND", 
+            "Score": 0.9271668791770935, 
+            "BeginOffset": 274, 
+            "EndOffset": 286
+        }, 
+        {
+            "Text": "Last week", 
+            "Score": 0.9371379017829895, 
+            "BeginOffset": 289, 
+            "EndOffset": 298
+        }, 
+        {
+            "Text": "an article", 
+            "Score": 0.9993120431900024, 
+            "BeginOffset": 299, 
+            "EndOffset": 309
+        }, 
+        {
+            "Text": "a core developer", 
+            "Score": 0.9988174438476562, 
+            "BeginOffset": 313, 
+            "EndOffset": 329
+        }, 
+        {
+            "Text": "the Bitcoin team", 
+            "Score": 0.9977828860282898, 
+            "BeginOffset": 333, 
+            "EndOffset": 349
+        }, 
+        {
+            "Text": "waves", 
+            "Score": 0.9986557364463806, 
+            "BeginOffset": 355, 
+            "EndOffset": 360
+        }, 
+        {
+            "Text": "the Internet", 
+            "Score": 0.9985410571098328, 
+            "BeginOffset": 364, 
+            "EndOffset": 376
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9979676008224487, 
+            "BeginOffset": 381, 
+            "EndOffset": 392
+        }, 
+        {
+            "Text": "the details", 
+            "Score": 0.9995299577713013, 
+            "BeginOffset": 442, 
+            "EndOffset": 453
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.9482212066650391, 
+            "BeginOffset": 479, 
+            "EndOffset": 486
+        }, 
+        {
+            "Text": "its future", 
+            "Score": 0.9961658716201782, 
+            "BeginOffset": 527, 
+            "EndOffset": 537
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.7263400554656982, 
+            "BeginOffset": 558, 
+            "EndOffset": 565
+        }, 
+        {
+            "Text": "an interesting subject", 
+            "Score": 0.9966136813163757, 
+            "BeginOffset": 582, 
+            "EndOffset": 604
+        }, 
+        {
+            "Text": "many others", 
+            "Score": 0.8999712467193604, 
+            "BeginOffset": 609, 
+            "EndOffset": 620
+        }, 
+        {
+            "Text": "my own stories", 
+            "Score": 0.9993752837181091, 
+            "BeginOffset": 628, 
+            "EndOffset": 642
+        }, 
+        {
+            "Text": "lots", 
+            "Score": 0.9989752173423767, 
+            "BeginOffset": 664, 
+            "EndOffset": 668
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9997429251670837, 
+            "BeginOffset": 672, 
+            "EndOffset": 677
+        }, 
+        {
+            "Text": "the protocol", 
+            "Score": 0.9993379712104797, 
+            "BeginOffset": 725, 
+            "EndOffset": 737
+        }, 
+        {
+            "Text": "many ways", 
+            "Score": 0.9733031392097473, 
+            "BeginOffset": 764, 
+            "EndOffset": 773
+        }, 
+        {
+            "Text": "the future", 
+            "Score": 0.9827387928962708, 
+            "BeginOffset": 794, 
+            "EndOffset": 804
+        }, 
+        {
+            "Text": "a beta version", 
+            "Score": 0.9844917058944702, 
+            "BeginOffset": 818, 
+            "EndOffset": 832
+        }, 
+        {
+            "Text": "a long time", 
+            "Score": 0.9958334565162659, 
+            "BeginOffset": 844, 
+            "EndOffset": 855
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.9958997368812561, 
+            "BeginOffset": 871, 
+            "EndOffset": 878
+        }, 
+        {
+            "Text": "all the time", 
+            "Score": 0.7863339185714722, 
+            "BeginOffset": 953, 
+            "EndOffset": 965
+        }, 
+        {
+            "Text": "a Bitcoin ATM", 
+            "Score": 0.9072132706642151, 
+            "BeginOffset": 981, 
+            "EndOffset": 994
+        }, 
+        {
+            "Text": "a Melbourne mall", 
+            "Score": 0.9950758814811707, 
+            "BeginOffset": 998, 
+            "EndOffset": 1014
+        }, 
+        {
+            "Text": "the end", 
+            "Score": 0.9927825927734375, 
+            "BeginOffset": 1127, 
+            "EndOffset": 1134
+        }, 
+        {
+            "Text": "the line", 
+            "Score": 0.9999161958694458, 
+            "BeginOffset": 1138, 
+            "EndOffset": 1146
+        }, 
+        {
+            "Text": "the technical issues", 
+            "Score": 0.9465813040733337, 
+            "BeginOffset": 1166, 
+            "EndOffset": 1186
+        }, 
+        {
+            "Text": "block sizes", 
+            "Score": 0.968787431716919, 
+            "BeginOffset": 1198, 
+            "EndOffset": 1209
+        }, 
+        {
+            "Text": "the control", 
+            "Score": 0.9145545363426208, 
+            "BeginOffset": 1294, 
+            "EndOffset": 1305
+        }, 
+        {
+            "Text": "the system", 
+            "Score": 0.9995220899581909, 
+            "BeginOffset": 1309, 
+            "EndOffset": 1319
+        }, 
+        {
+            "Text": "not the code", 
+            "Score": 0.8202104568481445, 
+            "BeginOffset": 1328, 
+            "EndOffset": 1340
+        }, 
+        {
+            "Text": "the miners", 
+            "Score": 0.9600457549095154, 
+            "BeginOffset": 1346, 
+            "EndOffset": 1356
+        }, 
+        {
+            "Text": "the execution", 
+            "Score": 0.9996321797370911, 
+            "BeginOffset": 1369, 
+            "EndOffset": 1382
+        }, 
+        {
+            "Text": "the hashing algorithms", 
+            "Score": 0.9982659220695496, 
+            "BeginOffset": 1386, 
+            "EndOffset": 1408
+        }, 
+        {
+            "Text": "the hands", 
+            "Score": 0.9974228143692017, 
+            "BeginOffset": 1416, 
+            "EndOffset": 1425
+        }, 
+        {
+            "Text": "a handful", 
+            "Score": 0.9993391633033752, 
+            "BeginOffset": 1429, 
+            "EndOffset": 1438
+        }, 
+        {
+            "Text": "people", 
+            "Score": 0.9990314245223999, 
+            "BeginOffset": 1442, 
+            "EndOffset": 1448
+        }, 
+        {
+            "Text": "2014", 
+            "Score": 0.9989596009254456, 
+            "BeginOffset": 1453, 
+            "EndOffset": 1457
+        }, 
+        {
+            "Text": "an outcry", 
+            "Score": 0.9660558700561523, 
+            "BeginOffset": 1468, 
+            "EndOffset": 1477
+        }, 
+        {
+            "Text": "a single party", 
+            "Score": 0.9992710947990417, 
+            "BeginOffset": 1483, 
+            "EndOffset": 1497
+        }, 
+        {
+            "Text": "control", 
+            "Score": 0.9993847608566284, 
+            "BeginOffset": 1505, 
+            "EndOffset": 1512
+        }, 
+        {
+            "Text": "51%", 
+            "Score": 0.9974188208580017, 
+            "BeginOffset": 1516, 
+            "EndOffset": 1519
+        }, 
+        {
+            "Text": "that 95%", 
+            "Score": 0.7874141931533813, 
+            "BeginOffset": 1529, 
+            "EndOffset": 1537
+        }, 
+        {
+            "Text": "the power", 
+            "Score": 0.9960298538208008, 
+            "BeginOffset": 1541, 
+            "EndOffset": 1550
+        }, 
+        {
+            "Text": "an oligarchy", 
+            "Score": 0.9984161853790283, 
+            "BeginOffset": 1571, 
+            "EndOffset": 1583
+        }, 
+        {
+            "Text": "the communications blackout", 
+            "Score": 0.9467704892158508, 
+            "BeginOffset": 1633, 
+            "EndOffset": 1660
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.993808925151825, 
+            "BeginOffset": 1674, 
+            "EndOffset": 1685
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.9813826680183411, 
+            "BeginOffset": 1709, 
+            "EndOffset": 1716
+        }, 
+        {
+            "Text": "the worst", 
+            "Score": 0.9878529906272888, 
+            "BeginOffset": 1747, 
+            "EndOffset": 1756
+        }, 
+        {
+            "Text": "the community", 
+            "Score": 0.9989161491394043, 
+            "BeginOffset": 1775, 
+            "EndOffset": 1788
+        }, 
+        {
+            "Text": "implode", 
+            "Score": 0.9997692108154297, 
+            "BeginOffset": 1794, 
+            "EndOffset": 1801
+        }, 
+        {
+            "Text": "the work", 
+            "Score": 0.7636475563049316, 
+            "BeginOffset": 1803, 
+            "EndOffset": 1811
+        }, 
+        {
+            "Text": "Satoshi Nakamoto", 
+            "Score": 0.9991509914398193, 
+            "BeginOffset": 1820, 
+            "EndOffset": 1836
+        }, 
+        {
+            "Text": "the protocol", 
+            "Score": 0.9992872476577759, 
+            "BeginOffset": 1850, 
+            "EndOffset": 1862
+        }, 
+        {
+            "Text": "most things", 
+            "Score": 0.9562867283821106, 
+            "BeginOffset": 1912, 
+            "EndOffset": 1923
+        }, 
+        {
+            "Text": "the early stages", 
+            "Score": 0.9980229139328003, 
+            "BeginOffset": 1958, 
+            "EndOffset": 1974
+        }, 
+        {
+            "Text": "humanity", 
+            "Score": 0.874247670173645, 
+            "BeginOffset": 2012, 
+            "EndOffset": 2020
+        }, 
+        {
+            "Text": "ego and greed", 
+            "Score": 0.9996613264083862, 
+            "BeginOffset": 2023, 
+            "EndOffset": 2036
+        }, 
+        {
+            "Text": "Bitcoin", 
+            "Score": 0.811244010925293, 
+            "BeginOffset": 2044, 
+            "EndOffset": 2051
+        }, 
+        {
+            "Text": "Either way", 
+            "Score": 0.8378419876098633, 
+            "BeginOffset": 2081, 
+            "EndOffset": 2091
+        }, 
+        {
+            "Text": "a possible future", 
+            "Score": 0.9997613430023193, 
+            "BeginOffset": 2106, 
+            "EndOffset": 2123
+        }, 
+        {
+            "Text": "money", 
+            "Score": 0.9898560643196106, 
+            "BeginOffset": 2130, 
+            "EndOffset": 2135
+        }, 
+        {
+            "Text": "a few people", 
+            "Score": 0.9761032462120056, 
+            "BeginOffset": 2156, 
+            "EndOffset": 2168
+        }, 
+        {
+            "Text": "no doubt", 
+            "Score": 0.999103844165802, 
+            "BeginOffset": 2180, 
+            "EndOffset": 2188
+        }, 
+        {
+            "Text": "successors", 
+            "Score": 0.9130274653434753, 
+            "BeginOffset": 2194, 
+            "EndOffset": 2204
+        }, 
+        {
+            "Text": "time", 
+            "Score": 0.9421699047088623, 
+            "BeginOffset": 2221, 
+            "EndOffset": 2225
+        }, 
+        {
+            "Text": "LAMBDA INTEGRATIONS", 
+            "Score": 0.9959684610366821, 
+            "BeginOffset": 2230, 
+            "EndOffset": 2249
+        }, 
+        {
+            "Text": "AWS Lambda", 
+            "Score": 0.9307125210762024, 
+            "BeginOffset": 2286, 
+            "EndOffset": 2296
+        }, 
+        {
+            "Text": "a couple", 
+            "Score": 0.8808571100234985, 
+            "BeginOffset": 2327, 
+            "EndOffset": 2335
+        }, 
+        {
+            "Text": "new and interesting releases", 
+            "Score": 0.999001681804657, 
+            "BeginOffset": 2339, 
+            "EndOffset": 2367
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.982319712638855, 
+            "BeginOffset": 2390, 
+            "EndOffset": 2393
+        }, 
+        {
+            "Text": "Slack", 
+            "Score": 0.9999086856842041, 
+            "BeginOffset": 2400, 
+            "EndOffset": 2405
+        }, 
+        {
+            "Text": "everyone else", 
+            "Score": 0.8758741021156311, 
+            "BeginOffset": 2417, 
+            "EndOffset": 2430
+        }, 
+        {
+            "Text": "templates", 
+            "Score": 0.8894754648208618, 
+            "BeginOffset": 2448, 
+            "EndOffset": 2457
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9902251958847046, 
+            "BeginOffset": 2474, 
+            "EndOffset": 2480
+        }, 
+        {
+            "Text": "the serverless architecture", 
+            "Score": 0.9109751582145691, 
+            "BeginOffset": 2602, 
+            "EndOffset": 2629
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9996797442436218, 
+            "BeginOffset": 2635, 
+            "EndOffset": 2641
+        }, 
+        {
+            "Text": "a server", 
+            "Score": 0.9967430233955383, 
+            "BeginOffset": 2684, 
+            "EndOffset": 2692
+        }, 
+        {
+            "Text": "integrations", 
+            "Score": 0.9991580843925476, 
+            "BeginOffset": 2702, 
+            "EndOffset": 2714
+        }, 
+        {
+            "Text": "your chat service", 
+            "Score": 0.9981293082237244, 
+            "BeginOffset": 2719, 
+            "EndOffset": 2736
+        }, 
+        {
+            "Text": "integrations", 
+            "Score": 0.9968252182006836, 
+            "BeginOffset": 2751, 
+            "EndOffset": 2763
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9988853931427002, 
+            "BeginOffset": 2771, 
+            "EndOffset": 2774
+        }, 
+        {
+            "Text": "work", 
+            "Score": 0.9819818139076233, 
+            "BeginOffset": 2795, 
+            "EndOffset": 2799
+        }, 
+        {
+            "Text": "more languages", 
+            "Score": 0.9660295844078064, 
+            "BeginOffset": 2818, 
+            "EndOffset": 2832
+        }, 
+        {
+            "Text": "crop", 
+            "Score": 0.9948791265487671, 
+            "BeginOffset": 2842, 
+            "EndOffset": 2846
+        }, 
+        {
+            "Text": "Go libraries", 
+            "Score": 0.8481239676475525, 
+            "BeginOffset": 2965, 
+            "EndOffset": 2977
+        }, 
+        {
+            "Text": "a node", 
+            "Score": 0.9825217127799988, 
+            "BeginOffset": 2990, 
+            "EndOffset": 2996
+        }, 
+        {
+            "Text": "js wrapper", 
+            "Score": 0.9999309778213501, 
+            "BeginOffset": 2997, 
+            "EndOffset": 3007
+        }, 
+        {
+            "Text": "The Apex project", 
+            "Score": 0.83307945728302, 
+            "BeginOffset": 3019, 
+            "EndOffset": 3035
+        }, 
+        {
+            "Text": "their tool", 
+            "Score": 0.9982863068580627, 
+            "BeginOffset": 3064, 
+            "EndOffset": 3074
+        }, 
+        {
+            "Text": "other things", 
+            "Score": 0.9993125200271606, 
+            "BeginOffset": 3093, 
+            "EndOffset": 3105
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.9995338916778564, 
+            "BeginOffset": 3112, 
+            "EndOffset": 3118
+        }, 
+        {
+            "Text": "the article", 
+            "Score": 0.9989212155342102, 
+            "BeginOffset": 3122, 
+            "EndOffset": 3133
+        }, 
+        {
+            "Text": "your needs", 
+            "Score": 0.9967679381370544, 
+            "BeginOffset": 3172, 
+            "EndOffset": 3182
+        }, 
+        {
+            "Text": "a serverless future", 
+            "Score": 0.9995934367179871, 
+            "BeginOffset": 3187, 
+            "EndOffset": 3206
+        }
+    ]
+}

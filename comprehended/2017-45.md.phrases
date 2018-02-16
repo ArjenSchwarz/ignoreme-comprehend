@@ -1,0 +1,802 @@
+{
+    "KeyPhrases": [
+        {
+            "Text": "AWS", 
+            "Score": 0.9746748208999634, 
+            "BeginOffset": 0, 
+            "EndOffset": 3
+        }, 
+        {
+            "Text": "the Direct Connect Gateway", 
+            "Score": 0.9957634210586548, 
+            "BeginOffset": 13, 
+            "EndOffset": 39
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9941097497940063, 
+            "BeginOffset": 41, 
+            "EndOffset": 47
+        }, 
+        {
+            "Text": "access", 
+            "Score": 0.9916056990623474, 
+            "BeginOffset": 54, 
+            "EndOffset": 60
+        }, 
+        {
+            "Text": "your house", 
+            "Score": 0.9995317459106445, 
+            "BeginOffset": 64, 
+            "EndOffset": 74
+        }, 
+        {
+            "Text": "Key", 
+            "Score": 0.9951940178871155, 
+            "BeginOffset": 80, 
+            "EndOffset": 83
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9931996464729309, 
+            "BeginOffset": 89, 
+            "EndOffset": 94
+        }, 
+        {
+            "Text": "a powerful new tool", 
+            "Score": 0.9987608790397644, 
+            "BeginOffset": 104, 
+            "EndOffset": 123
+        }, 
+        {
+            "Text": "Kubernetes", 
+            "Score": 0.9926164746284485, 
+            "BeginOffset": 128, 
+            "EndOffset": 138
+        }, 
+        {
+            "Text": "AWS DIRECT CONNECT GATEWAY", 
+            "Score": 0.8584250807762146, 
+            "BeginOffset": 143, 
+            "EndOffset": 169
+        }, 
+        {
+            "Text": "The new AWS Direct Connect Gateway", 
+            "Score": 0.9946258068084717, 
+            "BeginOffset": 172, 
+            "EndOffset": 206
+        }, 
+        {
+            "Text": "Azure", 
+            "Score": 0.9584271907806396, 
+            "BeginOffset": 226, 
+            "EndOffset": 231
+        }, 
+        {
+            "Text": "Express Route", 
+            "Score": 0.9880552291870117, 
+            "BeginOffset": 234, 
+            "EndOffset": 247
+        }, 
+        {
+            "Text": "the original Direct Connect capabality[1]", 
+            "Score": 0.9243323802947998, 
+            "BeginOffset": 276, 
+            "EndOffset": 317
+        }, 
+        {
+            "Text": "a single connection", 
+            "Score": 0.9995725154876709, 
+            "BeginOffset": 344, 
+            "EndOffset": 363
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9974201917648315, 
+            "BeginOffset": 369, 
+            "EndOffset": 372
+        }, 
+        {
+            "Text": "multiple VPCs", 
+            "Score": 0.9937060475349426, 
+            "BeginOffset": 403, 
+            "EndOffset": 416
+        }, 
+        {
+            "Text": "other regions", 
+            "Score": 0.9957594871520996, 
+            "BeginOffset": 431, 
+            "EndOffset": 444
+        }, 
+        {
+            "Text": "a single configuration/connection", 
+            "Score": 0.9784333109855652, 
+            "BeginOffset": 471, 
+            "EndOffset": 504
+        }, 
+        {
+            "Text": "your data center", 
+            "Score": 0.9933032989501953, 
+            "BeginOffset": 510, 
+            "EndOffset": 526
+        }, 
+        {
+            "Text": "the \"old\" way", 
+            "Score": 0.9646514058113098, 
+            "BeginOffset": 540, 
+            "EndOffset": 553
+        }, 
+        {
+            "Text": "a separate connection", 
+            "Score": 0.9985500574111938, 
+            "BeginOffset": 585, 
+            "EndOffset": 606
+        }, 
+        {
+            "Text": "each VPC", 
+            "Score": 0.9946370124816895, 
+            "BeginOffset": 611, 
+            "EndOffset": 619
+        }, 
+        {
+            "Text": "other regions", 
+            "Score": 0.9988873600959778, 
+            "BeginOffset": 649, 
+            "EndOffset": 662
+        }, 
+        {
+            "Text": "many users", 
+            "Score": 0.9921289682388306, 
+            "BeginOffset": 669, 
+            "EndOffset": 679
+        }, 
+        {
+            "Text": "a feature", 
+            "Score": 0.9831269383430481, 
+            "BeginOffset": 691, 
+            "EndOffset": 700
+        }, 
+        {
+            "Text": "about or need", 
+            "Score": 0.8404906392097473, 
+            "BeginOffset": 711, 
+            "EndOffset": 724
+        }, 
+        {
+            "Text": "Direct Connect", 
+            "Score": 0.9909592270851135, 
+            "BeginOffset": 748, 
+            "EndOffset": 762
+        }, 
+        {
+            "Text": "a lot", 
+            "Score": 0.9908391833305359, 
+            "BeginOffset": 781, 
+            "EndOffset": 786
+        }, 
+        {
+            "Text": "your connections", 
+            "Score": 0.9948933124542236, 
+            "BeginOffset": 804, 
+            "EndOffset": 820
+        }, 
+        {
+            "Text": "your non-cloud hardware", 
+            "Score": 0.9217009544372559, 
+            "BeginOffset": 829, 
+            "EndOffset": 852
+        }, 
+        {
+            "Text": "this time", 
+            "Score": 0.9927948713302612, 
+            "BeginOffset": 871, 
+            "EndOffset": 880
+        }, 
+        {
+            "Text": "AWS account", 
+            "Score": 0.9004215598106384, 
+            "BeginOffset": 905, 
+            "EndOffset": 916
+        }, 
+        {
+            "Text": "your environment", 
+            "Score": 0.9970523715019226, 
+            "BeginOffset": 933, 
+            "EndOffset": 949
+        }, 
+        {
+            "Text": "multiple accounts", 
+            "Score": 0.9973072409629822, 
+            "BeginOffset": 962, 
+            "EndOffset": 979
+        }, 
+        {
+            "Text": "an organization", 
+            "Score": 0.9997259378433228, 
+            "BeginOffset": 983, 
+            "EndOffset": 998
+        }, 
+        {
+            "Text": "separate connections", 
+            "Score": 0.9995396733283997, 
+            "BeginOffset": 1020, 
+            "EndOffset": 1040
+        }, 
+        {
+            "Text": "each account", 
+            "Score": 0.9969385862350464, 
+            "BeginOffset": 1045, 
+            "EndOffset": 1057
+        }, 
+        {
+            "Text": "AMAZON KEY", 
+            "Score": 0.998679518699646, 
+            "BeginOffset": 1062, 
+            "EndOffset": 1072
+        }, 
+        {
+            "Text": "another part", 
+            "Score": 0.8583991527557373, 
+            "BeginOffset": 1078, 
+            "EndOffset": 1090
+        }, 
+        {
+            "Text": "their attempt", 
+            "Score": 0.9993995428085327, 
+            "BeginOffset": 1094, 
+            "EndOffset": 1107
+        }, 
+        {
+            "Text": "their stuff", 
+            "Score": 0.9832835793495178, 
+            "BeginOffset": 1145, 
+            "EndOffset": 1156
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9190512895584106, 
+            "BeginOffset": 1165, 
+            "EndOffset": 1171
+        }, 
+        {
+            "Text": "their new Amazon Key service", 
+            "Score": 0.9960959553718567, 
+            "BeginOffset": 1183, 
+            "EndOffset": 1211
+        }, 
+        {
+            "Text": "devices", 
+            "Score": 0.7456851601600647, 
+            "BeginOffset": 1216, 
+            "EndOffset": 1223
+        }, 
+        {
+            "Text": "Prime members", 
+            "Score": 0.9864502549171448, 
+            "BeginOffset": 1237, 
+            "EndOffset": 1250
+        }, 
+        {
+            "Text": "a limited roll-out", 
+            "Score": 0.9824907183647156, 
+            "BeginOffset": 1265, 
+            "EndOffset": 1283
+        }, 
+        {
+            "Text": "their camera", 
+            "Score": 0.9996979832649231, 
+            "BeginOffset": 1329, 
+            "EndOffset": 1341
+        }, 
+        {
+            "Text": "a smart lock", 
+            "Score": 0.9976816773414612, 
+            "BeginOffset": 1346, 
+            "EndOffset": 1358
+        }, 
+        {
+            "Text": "Amazon", 
+            "Score": 0.9981392025947571, 
+            "BeginOffset": 1381, 
+            "EndOffset": 1387
+        }, 
+        {
+            "Text": "packages", 
+            "Score": 0.8586373329162598, 
+            "BeginOffset": 1408, 
+            "EndOffset": 1416
+        }, 
+        {
+            "Text": "your house", 
+            "Score": 0.9919042587280273, 
+            "BeginOffset": 1424, 
+            "EndOffset": 1434
+        }, 
+        {
+            "Text": "details", 
+            "Score": 0.996510922908783, 
+            "BeginOffset": 1462, 
+            "EndOffset": 1469
+        }, 
+        {
+            "Text": "potential security risks", 
+            "Score": 0.9965168237686157, 
+            "BeginOffset": 1476, 
+            "EndOffset": 1500
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9899577498435974, 
+            "BeginOffset": 1615, 
+            "EndOffset": 1618
+        }, 
+        {
+            "Text": "another aspect", 
+            "Score": 0.8852528929710388, 
+            "BeginOffset": 1642, 
+            "EndOffset": 1656
+        }, 
+        {
+            "Text": "the move", 
+            "Score": 0.9998184442520142, 
+            "BeginOffset": 1660, 
+            "EndOffset": 1668
+        }, 
+        {
+            "Text": "smart home devices", 
+            "Score": 0.9799323678016663, 
+            "BeginOffset": 1672, 
+            "EndOffset": 1690
+        }, 
+        {
+            "Text": "internet-connected speakers", 
+            "Score": 0.9967265725135803, 
+            "BeginOffset": 1710, 
+            "EndOffset": 1737
+        }, 
+        {
+            "Text": "your every word", 
+            "Score": 0.9322582483291626, 
+            "BeginOffset": 1751, 
+            "EndOffset": 1766
+        }, 
+        {
+            "Text": "cameras", 
+            "Score": 0.9861479997634888, 
+            "BeginOffset": 1772, 
+            "EndOffset": 1779
+        }, 
+        {
+            "Text": "every move", 
+            "Score": 0.7238848805427551, 
+            "BeginOffset": 1794, 
+            "EndOffset": 1804
+        }, 
+        {
+            "Text": "3]", 
+            "Score": 0.7623717784881592, 
+            "BeginOffset": 1805, 
+            "EndOffset": 1807
+        }, 
+        {
+            "Text": "the advantages", 
+            "Score": 0.9993189573287964, 
+            "BeginOffset": 1831, 
+            "EndOffset": 1845
+        }, 
+        {
+            "Text": "these things", 
+            "Score": 0.9999227523803711, 
+            "BeginOffset": 1849, 
+            "EndOffset": 1861
+        }, 
+        {
+            "Text": "the technology", 
+            "Score": 0.9916508793830872, 
+            "BeginOffset": 1883, 
+            "EndOffset": 1897
+        }, 
+        {
+            "Text": "their offer", 
+            "Score": 0.999439537525177, 
+            "BeginOffset": 2003, 
+            "EndOffset": 2014
+        }, 
+        {
+            "Text": "AZURE BRIGADE\n\n\nAzure", 
+            "Score": 0.9543324708938599, 
+            "BeginOffset": 2029, 
+            "EndOffset": 2050
+        }, 
+        {
+            "Text": "another Kubernetes", 
+            "Score": 0.9767809510231018, 
+            "BeginOffset": 2060, 
+            "EndOffset": 2078
+        }, 
+        {
+            "Text": "open source tool", 
+            "Score": 0.8897701501846313, 
+            "BeginOffset": 2087, 
+            "EndOffset": 2103
+        }, 
+        {
+            "Text": "Brigade", 
+            "Score": 0.9789655208587646, 
+            "BeginOffset": 2112, 
+            "EndOffset": 2119
+        }, 
+        {
+            "Text": "Brigade", 
+            "Score": 0.9983417987823486, 
+            "BeginOffset": 2121, 
+            "EndOffset": 2128
+        }, 
+        {
+            "Text": "a framework", 
+            "Score": 0.9792011380195618, 
+            "BeginOffset": 2141, 
+            "EndOffset": 2152
+        }, 
+        {
+            "Text": "tasks", 
+            "Score": 0.9972971081733704, 
+            "BeginOffset": 2182, 
+            "EndOffset": 2187
+        }, 
+        {
+            "Text": "a Kubernetes cluster", 
+            "Score": 0.8512493968009949, 
+            "BeginOffset": 2195, 
+            "EndOffset": 2215
+        }, 
+        {
+            "Text": "small JavaScript event handlers", 
+            "Score": 0.9957561492919922, 
+            "BeginOffset": 2238, 
+            "EndOffset": 2269
+        }, 
+        {
+            "Text": "first glance", 
+            "Score": 0.9748861789703369, 
+            "BeginOffset": 2277, 
+            "EndOffset": 2289
+        }, 
+        {
+            "Text": "a bit", 
+            "Score": 0.9993738532066345, 
+            "BeginOffset": 2302, 
+            "EndOffset": 2307
+        }, 
+        {
+            "Text": "Lambda", 
+            "Score": 0.9996346831321716, 
+            "BeginOffset": 2313, 
+            "EndOffset": 2319
+        }, 
+        {
+            "Text": "full access", 
+            "Score": 0.9998964071273804, 
+            "BeginOffset": 2346, 
+            "EndOffset": 2357
+        }, 
+        {
+            "Text": "your Kubernetes cluster", 
+            "Score": 0.9944855570793152, 
+            "BeginOffset": 2391, 
+            "EndOffset": 2414
+        }, 
+        {
+            "Text": "The main idea", 
+            "Score": 0.9951074123382568, 
+            "BeginOffset": 2416, 
+            "EndOffset": 2429
+        }, 
+        {
+            "Text": "Lambda[4]", 
+            "Score": 0.9979372620582581, 
+            "BeginOffset": 2444, 
+            "EndOffset": 2453
+        }, 
+        {
+            "Text": "small tasks", 
+            "Score": 0.9848361611366272, 
+            "BeginOffset": 2469, 
+            "EndOffset": 2480
+        }, 
+        {
+            "Text": "things", 
+            "Score": 0.9878302216529846, 
+            "BeginOffset": 2512, 
+            "EndOffset": 2518
+        }, 
+        {
+            "Text": "something else", 
+            "Score": 0.9982585310935974, 
+            "BeginOffset": 2526, 
+            "EndOffset": 2540
+        }, 
+        {
+            "Text": "the case", 
+            "Score": 0.9159592390060425, 
+            "BeginOffset": 2551, 
+            "EndOffset": 2559
+        }, 
+        {
+            "Text": "Brigade", 
+            "Score": 0.9953461289405823, 
+            "BeginOffset": 2563, 
+            "EndOffset": 2570
+        }, 
+        {
+            "Text": "Jobs", 
+            "Score": 0.9990478157997131, 
+            "BeginOffset": 2575, 
+            "EndOffset": 2579
+        }, 
+        {
+            "Text": "a Docker container", 
+            "Score": 0.9815797805786133, 
+            "BeginOffset": 2603, 
+            "EndOffset": 2621
+        }, 
+        {
+            "Text": "MOVEMBER", 
+            "Score": 0.9998070597648621, 
+            "BeginOffset": 2684, 
+            "EndOffset": 2692
+        }, 
+        {
+            "Text": "November", 
+            "Score": 0.999014139175415, 
+            "BeginOffset": 2700, 
+            "EndOffset": 2708
+        }, 
+        {
+            "Text": "the charity Movember", 
+            "Score": 0.9864925742149353, 
+            "BeginOffset": 2733, 
+            "EndOffset": 2753
+        }, 
+        {
+            "Text": "a mustache", 
+            "Score": 0.9988769888877869, 
+            "BeginOffset": 2789, 
+            "EndOffset": 2799
+        }, 
+        {
+            "Text": "an effort", 
+            "Score": 0.9961917996406555, 
+            "BeginOffset": 2814, 
+            "EndOffset": 2823
+        }, 
+        {
+            "Text": "men", 
+            "Score": 0.9941444396972656, 
+            "BeginOffset": 2835, 
+            "EndOffset": 2838
+        }, 
+        {
+            "Text": "health", 
+            "Score": 0.9969573020935059, 
+            "BeginOffset": 2841, 
+            "EndOffset": 2847
+        }, 
+        {
+            "Text": "This year", 
+            "Score": 0.9997511506080627, 
+            "BeginOffset": 2849, 
+            "EndOffset": 2858
+        }, 
+        {
+            "Text": "part", 
+            "Score": 0.9978534579277039, 
+            "BeginOffset": 2882, 
+            "EndOffset": 2886
+        }, 
+        {
+            "Text": "my company", 
+            "Score": 0.9888513088226318, 
+            "BeginOffset": 2890, 
+            "EndOffset": 2900
+        }, 
+        {
+            "Text": "team", 
+            "Score": 0.9579104781150818, 
+            "BeginOffset": 2903, 
+            "EndOffset": 2907
+        }, 
+        {
+            "Text": "5]", 
+            "Score": 0.9986147284507751, 
+            "BeginOffset": 2908, 
+            "EndOffset": 2910
+        }, 
+        {
+            "Text": "a mustache", 
+            "Score": 0.823596715927124, 
+            "BeginOffset": 2959, 
+            "EndOffset": 2969
+        }, 
+        {
+            "Text": "[6]", 
+            "Score": 0.897441565990448, 
+            "BeginOffset": 2969, 
+            "EndOffset": 2972
+        }, 
+        {
+            "Text": "a look", 
+            "Score": 0.8511313199996948, 
+            "BeginOffset": 2978, 
+            "EndOffset": 2984
+        }, 
+        {
+            "Text": "my Movember page", 
+            "Score": 0.8257088661193848, 
+            "BeginOffset": 2988, 
+            "EndOffset": 3004
+        }, 
+        {
+            "Text": "the course", 
+            "Score": 0.997225284576416, 
+            "BeginOffset": 3010, 
+            "EndOffset": 3020
+        }, 
+        {
+            "Text": "the month", 
+            "Score": 0.9986140727996826, 
+            "BeginOffset": 3024, 
+            "EndOffset": 3033
+        }, 
+        {
+            "Text": "a donation", 
+            "Score": 0.9889546036720276, 
+            "BeginOffset": 3077, 
+            "EndOffset": 3087
+        }, 
+        {
+            "Text": "[1] Direct Connect", 
+            "Score": 0.9929181933403015, 
+            "BeginOffset": 3090, 
+            "EndOffset": 3108
+        }, 
+        {
+            "Text": "a dedicated secure line", 
+            "Score": 0.9570806622505188, 
+            "BeginOffset": 3128, 
+            "EndOffset": 3151
+        }, 
+        {
+            "Text": "your data center", 
+            "Score": 0.9958529472351074, 
+            "BeginOffset": 3157, 
+            "EndOffset": 3173
+        }, 
+        {
+            "Text": "AWS", 
+            "Score": 0.9994024634361267, 
+            "BeginOffset": 3179, 
+            "EndOffset": 3182
+        }, 
+        {
+            "Text": "[2]", 
+            "Score": 0.9904590249061584, 
+            "BeginOffset": 3185, 
+            "EndOffset": 3188
+        }, 
+        {
+            "Text": "notifications", 
+            "Score": 0.7866957187652588, 
+            "BeginOffset": 3212, 
+            "EndOffset": 3225
+        }, 
+        {
+            "Text": "the delivery", 
+            "Score": 0.9954299926757812, 
+            "BeginOffset": 3231, 
+            "EndOffset": 3243
+        }, 
+        {
+            "Text": "the camera", 
+            "Score": 0.9951857328414917, 
+            "BeginOffset": 3274, 
+            "EndOffset": 3284
+        }, 
+        {
+            "Text": "[3]", 
+            "Score": 0.9791919589042664, 
+            "BeginOffset": 3365, 
+            "EndOffset": 3368
+        }, 
+        {
+            "Text": "the terms", 
+            "Score": 0.814513087272644, 
+            "BeginOffset": 3387, 
+            "EndOffset": 3396
+        }, 
+        {
+            "Text": "service", 
+            "Score": 0.9080885648727417, 
+            "BeginOffset": 3400, 
+            "EndOffset": 3407
+        }, 
+        {
+            "Text": "more and more", 
+            "Score": 0.9990421533584595, 
+            "BeginOffset": 3433, 
+            "EndOffset": 3446
+        }, 
+        {
+            "Text": "[4]", 
+            "Score": 0.7697562575340271, 
+            "BeginOffset": 3449, 
+            "EndOffset": 3452
+        }, 
+        {
+            "Text": "other Function", 
+            "Score": 0.9989199638366699, 
+            "BeginOffset": 3456, 
+            "EndOffset": 3470
+        }, 
+        {
+            "Text": "a Service offerings", 
+            "Score": 0.7609033584594727, 
+            "BeginOffset": 3474, 
+            "EndOffset": 3493
+        }, 
+        {
+            "Text": "[5] Disclaimer", 
+            "Score": 0.9881563782691956, 
+            "BeginOffset": 3496, 
+            "EndOffset": 3510
+        }, 
+        {
+            "Text": "Bulletproof", 
+            "Score": 0.9999125003814697, 
+            "BeginOffset": 3512, 
+            "EndOffset": 3523
+        }, 
+        {
+            "Text": "Movember", 
+            "Score": 0.8138097524642944, 
+            "BeginOffset": 3532, 
+            "EndOffset": 3540
+        }, 
+        {
+            "Text": "infrastructure", 
+            "Score": 0.9118514657020569, 
+            "BeginOffset": 3543, 
+            "EndOffset": 3557
+        }, 
+        {
+            "Text": "either individuals", 
+            "Score": 0.9947746396064758, 
+            "BeginOffset": 3580, 
+            "EndOffset": 3598
+        }, 
+        {
+            "Text": "the company", 
+            "Score": 0.970678985118866, 
+            "BeginOffset": 3613, 
+            "EndOffset": 3624
+        }, 
+        {
+            "Text": "team", 
+            "Score": 0.9988470077514648, 
+            "BeginOffset": 3627, 
+            "EndOffset": 3631
+        }, 
+        {
+            "Text": "[6", 
+            "Score": 0.9982938766479492, 
+            "BeginOffset": 3634, 
+            "EndOffset": 3636
+        }, 
+        {
+            "Text": "a classic mustache-twirling villain look", 
+            "Score": 0.8524112105369568, 
+            "BeginOffset": 3659, 
+            "EndOffset": 3699
+        }
+    ]
+}
